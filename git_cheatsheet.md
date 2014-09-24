@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 
-## <a id="toc"></a>TOC
+## <a id="toc">TOC
   * [Installation](#installation)
   * [Basics](#basics)
   * [Info](#info)
@@ -237,18 +237,18 @@ or
 
 ### <a id="additional-resources"></a>Additional resources
 
-  * [What is origin in GIT](http://stackoverflow.com/questions/9529497/what-is-origin-in-git)
+* [What is origin in GIT](http://stackoverflow.com/questions/9529497/what-is-origin-in-git)
 
 By saying `git push origin branchname` you're saying to push to the origin repository. There's no requirement to name the remote repository origin, and there can be multiple remote repositories.
 
-  * [Fetch and Merge](http://longair.net/blog/2009/04/16/git-fetch-and-merge/)
-  * [Distributed Version Control Systems and the Enterprise](http://stackoverflow.com/questions/5683253/distributed-version-control-systems-and-the-enterprise-a-good-mix/5685757#5685757)
+* [Fetch and Merge](http://longair.net/blog/2009/04/16/git-fetch-and-merge/)
+* [Distributed Version Control Systems and the Enterprise](http://stackoverflow.com/questions/5683253/distributed-version-control-systems-and-the-enterprise-a-good-mix/5685757#5685757)
     * Explain how git fits into the enterprise environment
     * It seems that the only way to have fine-grained access control in git is to add another layer, such as `gitolite`
-  * [How to make a git repository read-only?](http://stackoverflow.com/questions/1662205/how-to-make-a-git-repository-read-only)
+* [How to make a git repository read-only?](http://stackoverflow.com/questions/1662205/how-to-make-a-git-repository-read-only)
     * Seems that there's no way to limit read access at folder level.
-  * [Difference between git pull and fetch](http://stackoverflow.com/questions/2602546/how-do-i-git-fetch-and-git-merge-from-a-remote-tracking-branch-like-git-pu)
-  * [Github flow](http://scottchacon.com/2011/08/31/github-flow.html)
+* [Difference between git pull and fetch](http://stackoverflow.com/questions/2602546/how-do-i-git-fetch-and-git-merge-from-a-remote-tracking-branch-like-git-pu)
+* [Github flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
-[TOC](#toc)
+[TOC](#user-content-toc)
 
