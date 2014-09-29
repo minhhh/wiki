@@ -56,9 +56,9 @@
 
     git show <sha1>^:<file>
 
-#### Show file's history
+#### Diff 2 files at specific revision
 
-    git log -p <file>
+    git diff <revision_1>:<file_1> <revision_2>:<file_2>
 
 #### Show changes on a branch that is not merged upstream
 

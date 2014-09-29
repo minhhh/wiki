@@ -72,17 +72,17 @@ The correct way to do this is to rebase each branch one by one, but the next one
     # Merge feature branch and resolve a lot of conflicts
     git merge feature/add_css
 
-    # (Important) Perform the rebase based on the main rebase branch
+    # (IMPORTANT) Perform the rebase based on the main rebase branch
     git rebase main_rebase
 
     # Merge the rebase items into main rebase branch
     git checkout main_rebase
     git merge temp
 
-    # (Important) Checks that the logs have been correctly integrated.
+    # (IMPORTANT) Checks that the logs have been correctly integrated.
     git log --graph
 
-    # (Important) Push main rebase branch to remote
+    # (IMPORTANT) Push main rebase branch to remote
     git push
 
     # Delete the temporary merge branch
