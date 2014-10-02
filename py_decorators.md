@@ -12,6 +12,7 @@ This is extremely cumbersome if `factorial` is a method of some class because th
 
 In its simplest form, a decorator is a function that takes the original function and returns a `decorated function`
 
+```python
     cache_obj = {}
 
     def cache(func):
@@ -30,11 +31,13 @@ In its simplest form, a decorator is a function that takes the original function
         """Sum 2 numbers
         """
         return a + b
+```
 
 Here, `cache(func)` is called, passing original `func` to the decorator, then replace `func` with whatever function is returned from `cache(func)`.
 
 Using global cache object `cache_obj` is not a great idea, because different functions can have the same arguments, then your cache is overwritten. It's better to assign the cache object directly to the original function
 
+```python
     def memoize_2(func):
         if not hasattr(func, 'cache'):
             func.cache = {}
@@ -55,13 +58,17 @@ Using global cache object `cache_obj` is not a great idea, because different fun
 
     multiply(1,2)
     multiply(1,2)
+```
 
 This decorator is nice, but in practice nobody does this, and it's too bad that a lot of tutorials keep giving these non-working examples. The reason is the new decorated function lose all its original information such as name, docstring, module name.
 
+```python
     print multiply.__doc__ # None
+```
 
 To keep these information, we use `functools.wrapper`
 
+```python
     import functools
     def memoize(func):
         @functools.wraps(func)
@@ -77,6 +84,7 @@ To keep these information, we use `functools.wrapper`
         return inner
 
     print multiply.__doc__ # Multiply 2 numbers
+```
 
 
 
