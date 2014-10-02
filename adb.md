@@ -18,7 +18,7 @@
     arun-us: # Launch the game for US on the Android device.
         adb shell 'am start -a $(MYPACKAGEID).RUN -e server http://$(MYIP):$(MYPORT) -e game $(game) -e nativeLog $(MYNATIVELOG)'
     astop-us: # Launch the game for US on the Android device.
-        adb shell 'am broadcast -a com.mobage.ww.STOP'
+        adb shell 'am broadcast -a $(MYPACKAGEID).STOP'
 
 ### Install / Uninstall
 
@@ -28,13 +28,13 @@
     adb shell am start -a android.intent.action.DELETE -d package:<your app package>
 
 ### Extracting APK file
-Use `apktool` - [http://stackoverflow.com/questions/4191762/how-to-view-androidmanifest-xml-from-apk-file](http://stackoverflow.com/questions/4191762/how-to-view-androidmanifest-xml-from-apk-file)
+Use `apktool`
 
     apk d /path/to/apk
     open res/values/strings.xml
 
 ## References
-
+* [View android manifset from APK](http://stackoverflow.com/questions/4191762/how-to-view-androidmanifest-xml-from-apk-file)
 * [Get apk from Android device](http://stackoverflow.com/questions/4032960/how-do-i-get-an-apk-file-from-an-android-device)
 * [Adb shell to uninstall package](http://stackoverflow.com/questions/12949609/adb-shell-command-to-make-android-package-uninstall-dialog-appear)
 
