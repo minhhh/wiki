@@ -37,4 +37,5 @@ Use `apktool`
 * [View android manifset from APK](http://stackoverflow.com/questions/4191762/how-to-view-androidmanifest-xml-from-apk-file)
 * [Get apk from Android device](http://stackoverflow.com/questions/4032960/how-do-i-get-an-apk-file-from-an-android-device)
 * [Adb shell to uninstall package](http://stackoverflow.com/questions/12949609/adb-shell-command-to-make-android-package-uninstall-dialog-appear)
+* [Debugging with logcat](http://wiki.cyanogenmod.org/w/Doc:_debugging_with_logcat)
 
