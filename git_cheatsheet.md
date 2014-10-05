@@ -1,15 +1,15 @@
 # Git Cheat Sheet
 
 ## <a id="toc">TOC
-  * [Installation](#installation)
-  * [Basics](#basics)
-  * [Info](#info)
-  * [Exports](#exports)
-  * [Branching](#branching)
-  * [Undoing](#undoing)
-  * [Remotes](#remotes)
-  * [Submodules](#submodules)
-  * [Additional resources](#additional-resources)
+* [Installation](#installation)
+* [Basics](#basics)
+* [Info](#info)
+* [Exports](#exports)
+* [Branching](#branching)
+* [Undoing](#undoing)
+* [Remotes](#remotes)
+* [Submodules](#submodules)
+* [Additional resources](#additional-resources)
 
 ### <a id="installation"></a>Installation
   * [Pro Git](http://git-scm.com/book)
@@ -110,7 +110,7 @@
 
 
 
-[TOC](#toc)
+[TOC](#user-content-toc)
 
 ### <a id="branching"></a>Branching
 
@@ -126,7 +126,7 @@
     # Rename a local branch
     git branch -m <oldname> <newname>
 
-[TOC](#toc)
+[TOC](#user-content-toc)
 
 ### <a id="undoing"></a>Undoing
 
@@ -160,7 +160,7 @@ Check out [git reset](http://www.kernel.org/pub/software/scm/git/docs/git-reset.
 
     git checkout <sha1>^ -- <file>
 
-[TOC](#toc)
+[TOC](#user-content-toc)
 
 
 ### <a id="remotes"></a>Remotes
@@ -195,7 +195,7 @@ or
 
     git remote set-url origin http://new-example.com/repo.git
 
-[TOC](#toc)
+[TOC](#user-content-toc)
 
 
 ### <a id="submodules"></a>Submodules
@@ -225,9 +225,9 @@ or
     #Get submodule hash
     git ls-tree a9a796a [submodule_dir]
 
-[TOC](#toc)
+[TOC](#user-content-toc)
 
-#### Move from bitbucket to github
+#### Migrate from bitbucket to github
 
     cd $HOME/dev/Pipelines
     git remote rename origin bitbucket
