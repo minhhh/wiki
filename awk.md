@@ -2,47 +2,71 @@
 ## Run
 Call from command line
 
+```bash
     awk 'pattern1 {action1}
     pattern2 {action2} ...' file1 file2 ..
+```
+<br/>
 
 Call a script
 
+```bash
     awk -f script file1 file2 ...
-
+```
+<br/>
 
 Call without input files
 
+```bash
     awk 'program'
+```
+<br/>
+
 
 ## Regular expression
 Awk can use regular exrepssion as conditions
 
+```bash
     awk '/foo/ {program}' file
+```
+<br/>
 
 Awk supports Character class in POSIX standard such as [:alpha], [:alnum:]
 
 ### Case sensitivity
 Either use function `tolower`
 
+```bash
     tolower($1) ~ /foo/ {...}
+```
+<br/>
 
 Or set variable `IGNORECASE` to non-zero
 
 
+```bash
     IGNORECASE = 1
+```
+<br/>
 
 
 ### Dynamic regex
 Awk provides facility to define dynamic regular expressions
 
+```bash
     BEGIN { digits_regexp = "[[:digit:]]+" }
+```
+<br/>
 
 You shouldn't use string constants for regex because it needs to be processed twice and hard to read.
 
 ### Startup and cleanup actions
 In other words, do something even if there are no line to process
 
+```bash
     awk 'BEGIN {do something}'
+```
+<br/>
 
 `END`  specifies command to do at the end of loop.
 
@@ -51,7 +75,10 @@ In other words, do something even if there are no line to process
 
 Or it can be set in the BEGIN condition like this
 
+```bash
     BEGIN {FS = "/"}
+```
+<br/>
 
 ### Quote and quoting
 Awk support many standard escape sequence that can be use inside strings or regular expression
@@ -70,7 +97,10 @@ Once nice way is to use octal escape:  `\42` is double quote and `\47` is single
 * you get the idea
 * To force awk to rebuild the record,
 
-        $1 = $1; # force record to be rebuilt
+```bash
+    $1 = $1; # force record to be rebuilt
+```
+<br/>
 
 * NF is the number of fields
 * $NF is the last field.

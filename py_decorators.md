@@ -6,7 +6,9 @@ Another important point to note is I'm aiming for practical value of the decorat
 ## First level
 We all know memoization and probably implement it as a function that takes an arbitrary function and return a memoized function:
 
+```python
     memoized_factorial = construct_memoize(factorial)
+```
 
 This is extremely cumbersome if `factorial` is a method of some class because then we have to use temporary variable to store the memoized function and somehow reassign it to the method. We want some way to elegantly do all the manual things to make a memoized version of a function, this is where `decorator` comes in.
 
