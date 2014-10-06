@@ -160,6 +160,21 @@ Check out [git reset](http://www.kernel.org/pub/software/scm/git/docs/git-reset.
 
     git checkout <sha1>^ -- <file>
 
+#### Rewrite author/commiter name and email
+
+    git filter-branch --commit-filter '
+            if [ "$GIT_COMMITTER_NAME" = "Ha.Minh" ];
+            then
+                    GIT_COMMITTER_NAME="Ha.Minh";
+                    GIT_AUTHOR_NAME="Ha.Minh";
+                    GIT_COMMITTER_EMAIL="minhhh@minhhuyha.info";
+                    GIT_AUTHOR_EMAIL="minhhh@minhhuyha.info";
+                    git commit-tree "$@";
+            else
+                    git commit-tree "$@";
+            fi' HEAD
+
+
 [TOC](#user-content-toc)
 
 
