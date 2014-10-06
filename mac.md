@@ -22,8 +22,8 @@
 
 
 # TOOLS
-## Recovery tool
-* Testdisk
+* Testdisk - Disk recovery
+* Blackmagic Disk Speed Test - Disk performance measurement tool.
 
 ## QuickSilver
 Great replacement for spotlight
