@@ -19,3 +19,6 @@ for i in range(6):
 for i in xrange(6):
     print i**2
 ```
+
+* First item
+* Second item
