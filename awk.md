@@ -119,8 +119,11 @@ Once nice way is to use octal escape:  `\42` is double quote and `\47` is single
 #### Operators
 * `~` (tilde) used to match a string with a regular expression
 
-        $ awk '$1 ~ /J/' file
-        # matches line where the first field start with J
+```bash
+    $ awk '$1 ~ /J/' file
+    # matches line where the first field start with J
+```
+<br/>
 
 * `!~` not match regular expression
 * `==` is the equal operator
@@ -134,27 +137,33 @@ Once nice way is to use octal escape:  `\42` is double quote and `\47` is single
 * `getline tmp` reads the next line from input to a variable named `tmp`, the variable `$0` is not affected by this getline. This function allows to skip one line ahead.
 * `getlines var < 'file'` reads the next line from file to a variable named `var`
 
-        # The following code copies all input files to the output, except for records that say @include filename
-        # in this case it will replace such records with the content of the file `filename`
-        if (NF 2 && $1 "@include") {
-            while ((getline line < $2) > 0)
-                print line
-            close($2)
-        } else
-            print
+```bash
+    # The following code copies all input files to the output, except for records that say @include filename
+    # in this case it will replace such records with the content of the file `filename`
+    if (NF 2 && $1 "@include") {
+        while ((getline line < $2) > 0)
+            print line
+        close($2)
+    } else
+        print
+```
+<br/>
 
 * `command | getline` . In this case the string `command` is run as a shell command and its output is piped to getline
 
-        # line begins with @execute is replaced by the output of the command after that
-        {
-            if ($1 "@execute") {
-                tmp = substr($0, 10)
-                while ((tmp | getline) > 0)
-                    print
-                close(tmp)
-            } else
+```bash
+    # line begins with @execute is replaced by the output of the command after that
+    {
+        if ($1 "@execute") {
+            tmp = substr($0, 10)
+            while ((tmp | getline) > 0)
                 print
-        }
+            close(tmp)
+        } else
+            print
+    }
+```
+<br/>
 
 
 * `command | getline var`, the output of `commands` is sent through a pipe to getline and into variable `var`.
@@ -182,7 +191,10 @@ Once nice way is to use octal escape:  `\42` is double quote and `\47` is single
     * /dev/stderr
     * /dev/fd/N : file associated with descriptor N.
 
-        print "serious error detected " > "/dev/stderr"
+```bash
+    print "serious error detected " > "/dev/stderr"
+```
+<br/>
 
 
 ### Special files for process-related information
@@ -198,22 +210,31 @@ Once nice way is to use octal escape:  `\42` is double quote and `\47` is single
 ### Piping to sh
 A good way to build command line and execute them in the shell is to pipe them to `sh`
 
+```bash
     { printf("mv %s %s\n", $0, tolower($0)) | "sh" }
     END {close("sh")}
+```
+<br/>
 
 ### Change the content of a field
 * The content of a field can be change during processing , like this
 
-        awk '{$2=$2-10; print $0}'
-        # will subtract 10 from the second field, and the second field should be
-        # a number for this to work.
+```bash
+    awk '{$2=$2-10; print $0}'
+    # will subtract 10 from the second field, and the second field should be
+    # a number for this to work.
+```
+<br/>
 
 #### Variables
 * Custom variables can be created and default to zero
 
-        {
-            str = "hello";
-        }
+```bash
+    {
+        str = "hello";
+    }
+```
+<br/>
 
 * Variables can be assigned in the command line. TODO:
 * Strings and number conversions. TODO
@@ -232,32 +253,45 @@ A good way to build command line and execute them in the shell is to pipe them t
 ### Control Statements
 if-else
 
+```bash
     if (x % 2 0)
         print "x is even"
     else
         print "x is odd"
+```
+<br/>
 
 while
 
+```bash
     while (i <= 3) {
         print $i
         i++
     }
+```
+<br/>
 
 do while
 
+```bash
     do {
         print $0
         i++
     } while (i <= 10)
+```
+<br/>
 
 for
 
+```bash
     for (i = 1; i <= 3; i++)
         print $i
+```
+<br/>
 
 switch: break
 
+```bash
     switch (NR * 2 + 1) {
     case 3:
         break
@@ -274,10 +308,12 @@ switch: break
         print NR * -1
         break
     }
-
+```
+<br/>
 
 switch: continue
 
+```bash
     BEGIN {
         for (x = 0; x <= 20; x++) {
             if (x 5)
@@ -286,20 +322,25 @@ switch: continue
         }
         print ""
     }
-
+```
+<br/>
 
 * next: stop processing the current record and go on to the next record
 * nextfile : stop processing the current file and go on to the next file
 * exit n: stops execution for the current rule and execute the END rule if any.
 
-        BEGIN {
-        if (("date" | getline date_now) <= 0) {
-        print "Can’t get system date" > "/dev/stderr"
-        exit 1
-        }
-        print "current date is", date_now
-        close("date")
-        }
+```bash
+    BEGIN {
+    if (("date" | getline date_now) <= 0) {
+    print "Can’t get system date" > "/dev/stderr"
+    exit 1
+    }
+    print "current date is", date_now
+    close("date")
+    }
+```
+<br/>
+
 
 ### Functions
 * Controlling output buffering with `system`
@@ -314,23 +355,28 @@ switch: continue
 * The idea is to generate the new file name for each of the files then use the `mv` or `rename` command to change the orginal file name
 * First, export the list of filenames to a first file test1
 
-        # Suppose that the original files are in folder original_files and we want to copy them to
-        # folder new_files
-        ls original_files > list1 # generate list of files
-        awk '{gsub(/[^a-zA-Z0-9 .]/, "", $0); print;}' list1 > list2 # removes all special characters and generate a second list
+```bash
+    # Suppose that the original files are in folder original_files and we want to copy them to
+    # folder new_files
+    ls original_files > list1 # generate list of files
+    awk '{gsub(/[^a-zA-Z0-9 .]/, "", $0); print;}' list1 > list2 # removes all special characters and generate a second list
 
-        # combine list1 and list2 to a list of shell command in list3
-        # We will use strong quoting
-        awk '{gsub(/\47/, "\47\\\47\47", $0); str = $0; getline < "list2"; print "cp -f \47original_files/"str "\47 \47new_files/"$0"\47" > "list3";}' list1
+    # combine list1 and list2 to a list of shell command in list3
+    # We will use strong quoting
+    awk '{gsub(/\47/, "\47\\\47\47", $0); str = $0; getline < "list2"; print "cp -f \47original_files/"str "\47 \47new_files/"$0"\47" > "list3";}' list1
 
-        sh list3 # run the list of commands in list3
-        rm -frv list1 list2 list3 # remove all temporary files
-
+    sh list3 # run the list of commands in list3
+    rm -frv list1 list2 list3 # remove all temporary files
+```
+<br/>
 
 ## Make each character a separate field
 * By changing the field separtor to null string
 
-        BEGIN {FS=""}
+```bash
+    BEGIN {FS=""}
+```
+<br/>
 
 
 
