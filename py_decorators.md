@@ -9,6 +9,7 @@ We all know memoization and probably implement it as a function that takes an ar
 ```python
     memoized_factorial = construct_memoize(factorial)
 ```
+<br/>
 
 This is extremely cumbersome if `factorial` is a method of some class because then we have to use temporary variable to store the memoized function and somehow reassign it to the method. We want some way to elegantly do all the manual things to make a memoized version of a function, this is where `decorator` comes in.
 
@@ -34,6 +35,7 @@ In its simplest form, a decorator is a function that takes the original function
         """
         return a + b
 ```
+<br/>
 
 The `@` is a special syntax that applies the decorator function to the underneath function or class. Here, `cache(func)` is called, passing original `func` to the decorator, then replace `func` with whatever function is returned from `cache(func)`.
 
@@ -61,12 +63,14 @@ Using global cache object `cache_obj` is not a great idea, because different fun
     multiply(1,2)
     multiply(1,2)
 ```
+<br/>
 
 This decorator is nice, but in practice nobody does this, and it's too bad that a lot of tutorials keep giving these non-working examples. The reason is the new decorated function lose all its original information such as name, docstring, module name and so on.
 
 ```python
     print multiply.__doc__ # None
 ```
+<br/>
 
 To keep these information, we use `functools.wrapper`
 
@@ -87,6 +91,7 @@ To keep these information, we use `functools.wrapper`
 
     print multiply.__doc__ # Multiply 2 numbers
 ```
+<br/>
 
 Now the decorated function also retain important information from the original functions, that's neat!
 
@@ -136,6 +141,7 @@ The `memoize` decorator doesn't need any customization, but there are a lot of p
     def get_data():
         return False
 ```
+<br/>
 
 Here, we define `retry` as a function that returns a `decorator` which will do the actual decoration of our original function with the parameters provided by `retry`. We consider that `retry(1, delay=1, backoff=2)` is called first, returning a function, then the decorator syntax `@` is applied. This is just an addition of another layer on the decoration stack. In theory, you can have unlimited number of nested layer, but in practice, most of the time you only use 2.
 
@@ -208,6 +214,7 @@ Let's have a look at [functool.total_ordering](https://hg.python.org/cpython/fil
                 setattr(cls, opname, opfunc)
         return cls
 ```
+<br/>
 
 This code is pretty simple. It defines 3 other operators based on 2 operators: `__eq__` and one of the four functions `__lt__`, `__le__`, `__gt__`, `__ge__`.
 
@@ -216,7 +223,10 @@ This code is pretty simple. It defines 3 other operators based on 2 operators: `
 * property - used to quickly create a field from appropriate getter, setter and deleter.
 
 
+
+
+
 # REFERENCES
-[Python Decorator Library][python_decorator]
+* [Python Decorator Library][python_decorator]
 
 [python_decorator]: https://wiki.python.org/moin/PythonDecoratorLibrary  "Python Decorator Library"
