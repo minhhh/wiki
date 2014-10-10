@@ -177,6 +177,7 @@ Using function as decorators is straight forward, and for storing persistent inf
             '''Support instance methods.'''
             return functools.partial(self.__call__, obj)
 ```
+<br/>
 
 Here, the decorator is an object of class `memoized` and you can store all sort of information like you would a normal object.
 
