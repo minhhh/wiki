@@ -1,15 +1,15 @@
 # Git Cheat Sheet
 
 ## <a id="toc">TOC
-* [Installation](#installation)
-* [Basics](#basics)
-* [Info](#info)
-* [Exports](#exports)
-* [Branching](#branching)
-* [Undoing](#undoing)
-* [Remotes](#remotes)
-* [Submodules](#submodules)
-* [Additional resources](#additional-resources)
+* [Installation](#user-content-installation)
+* [Basics](#user-content-basics)
+* [Info](#user-content-info)
+* [Exports](#user-content-exports)
+* [Branching](#user-content-branching)
+* [Undoing](#user-content-undoing)
+* [Remotes](#user-content-remotes)
+* [Submodules](#user-content-submodules)
+* [Additional resources](#user-content-additional-resources)
 
 ### <a id="installation"></a>Installation
   * [Pro Git](http://git-scm.com/book)
