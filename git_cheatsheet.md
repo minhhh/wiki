@@ -12,17 +12,17 @@
 * [Additional resources](#user-content-additional-resources)
 
 ### <a id="installation"></a>Installation
-  * [Pro Git](http://git-scm.com/book)
-  * [Set tortoisegit with SSH private key](http://serverfault.com/questions/194567/how-to-i-tell-git-for-windows-where-to-find-my-private-rsa-key)
+* [Pro Git](http://git-scm.com/book)
+* [Set tortoisegit with SSH private key](http://serverfault.com/questions/194567/how-to-i-tell-git-for-windows-where-to-find-my-private-rsa-key)
 
 ### Branching model
-[Successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+* [Successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
-```git
+```
     origin/feature/update_layout
     origin/hotfix/r20130305-1.1
     origin/master
-    origin/release/r20130305
+    origin/develop
 ```
 <br/>
 
@@ -30,7 +30,7 @@
 * [10 commands](http://niklasschlimm.blogspot.com/2011/07/top-10-git-commands-for-newbie.html|)
 * [Git SVN crash course](http://git.or.cz/course/svn.html)
 
-```git
+```
     # pull rebase create nicer merge tree, but be careful with it
     git stash # stash any change
     git pull --rebase
@@ -46,43 +46,65 @@
 ```
 <br/>
 
-
 ### <a id="info"></a>Info
 
 #### Find commits where files were deleted
 
-    git log --diff-filter=D --summary
+```
+    git log --diff-filter=D --summary --stat
+```
+<br/>
 
 #### Checkout deleted file in the working tree
 
+```
     git checkout <sha1>^ <file>
+```
+<br/>
 
 #### Only show the content of a file from a specific revision
 
+```
     git show <sha1>^:<file>
+```
+<br/>
 
 #### Diff 2 files at specific revision
 
-    git diff <revision_1>:<file_1> <revision_2>:<file_2>
+```
+    git diff <revision_1>..<revision_2> -- <file>
+```
+<br/>
 
 #### Show changes on a branch that is not merged upstream
 
+```
     git cherry <upstream_branch> <new_branch>
     git log <upstream_branch>..<new_branch>
+```
+<br/>
 
 #### Show log with changed files
 
+```
     git log --name-only
     git log --name-status
     git log --stat
     git log --decorate --graph --oneline --date-order # better visual
+```
+<br/>
 
 #### Get latest tag in the current branch
 
+```
     git describe --exact-match --abbrev=0
     git describe --abbrev=0 --tags
+```
+<br/>
 
 #### Show log graph
+
+```
     git log origin master # Show log of a specific branch on remote
     git log origin master --graph --decorate # to show colorful text and graph and the branch name of each log.
 
@@ -95,28 +117,40 @@
     # Show log of a particular hash
     git show <hash>
     git show <hash> --stat # show only oneline for each change
+```
+<br/>
 
 #### Get current URL
 
+```
     git remote show origin
+```
+<br/>
 
 #### Get brief info about branches
 
+```
     git branch -lvv
+```
+<br/>
 
 #### Finding what branch a commit came from
 
+```
     git branch --contains <commit>
-
+```
+<br/>
 
 ### <a id="exports"></a>Exports
 
+```
     # From a repository
     git checkout-index -a -f --prefix=/destination/path/
 
     # Export remote
     git archive --format=tar --remote=ssh://remote_server/remote_repository master | tar -xf -
-
+```
+<br/>
 
 
 [TOC](#user-content-toc)
@@ -124,34 +158,46 @@
 ### <a id="branching"></a>Branching
 
 #### Branch and Create new branch
+```
     git checkout -b experimental
+```
+<br/>
 
 #### Delete unused branch
-
+```
     git branch -d experimental
     git push origin --delete newfeature
+```
+<br/>
 
 #### Rename a local branch
+```
     git branch -m <oldname> <newname>
+```
+<br/>
 
 [TOC](#user-content-toc)
 
 ### <a id="undoing"></a>Undoing
 
 #### Undo a merge or pull
-
 Check out [git reset](http://www.kernel.org/pub/software/scm/git/docs/git-reset.html) for great explanation and [examples](http://www.kernel.org/pub/software/scm/git/docs/git-reset.html#_examples).
 
+```
     git reset --hard
+```
+<br/>
 
 #### Undo a merge or pull inside a dirty work tree
-
 Check out [git reset](http://www.kernel.org/pub/software/scm/git/docs/git-reset.html) for great explanation and [examples](http://www.kernel.org/pub/software/scm/git/docs/git-reset.html#_examples).
 
+```
     git reset --merge ORIG_HEAD
+```
+<br/>
 
 #### Revert a bad commit
-
+```
     git revert <sha1>
 
     # Revert single file
@@ -162,14 +208,17 @@ Check out [git reset](http://www.kernel.org/pub/software/scm/git/docs/git-reset.
 
     # Remove all new files or folder
     git clean -df
-
+```
+<br/>
 
 #### Checkout a deleted file into the work tree
-
+```
     git checkout <sha1>^ -- <file>
+```
+<br/>
 
 #### Rewrite author/commiter name and email
-
+```
     git filter-branch --commit-filter '
             if [ "$GIT_COMMITTER_NAME" = "Ha.Minh" ];
             then
@@ -181,7 +230,8 @@ Check out [git reset](http://www.kernel.org/pub/software/scm/git/docs/git-reset.
             else
                     git commit-tree "$@";
             fi' HEAD
-
+```
+<br/>
 
 [TOC](#user-content-toc)
 
@@ -190,39 +240,61 @@ Check out [git reset](http://www.kernel.org/pub/software/scm/git/docs/git-reset.
 
 #### Create local branch then push to the remote (without tracking !!!)
 
+```
     git checkout -b <branch_name>
     git push origin <branch_name>
+```
+<br/>
 
 #### Crete a new local branch by pulling a remote branch
 
+```
     git pull origin <branch_name>                                 # without tracking
     git checkout --track -b <branch_name> origin/<branch_name>    # with tracking
+```
+<br/>
 
 #### Track a remote branch with an existing local
 
+```
     git branch --set-upstream <branch_name> origin/<branch_name>
+```
+<br/>
 
 #### Delete remote branch
 
+```
     git push origin :heads/<branch_name>
+```
+<br/>
 
 or
 
+```
     git push origin :<branch_name>
+```
+<br/>
 
 #### Prune remote-tracking branches that are deleted from a remote repo
 
+```
     git remote prune origin
+```
+<br/>
 
 #### Change remote URL
 
+```
     git remote set-url origin http://new-example.com/repo.git
+```
+<br/>
 
 [TOC](#user-content-toc)
 
 
 ### <a id="submodules"></a>Submodules
 
+```
     # Add submodule to subdirectory
     git submodule add <git@github ...> snipmate-snippets/snippets/
 
@@ -234,7 +306,7 @@ or
     git submodule foreach 'git checkout master && git pull origin master'
 
     # Update submodule's URL
-    #Edit the *.gitmodules* file, then run:
+    # Edit the *.gitmodules* file, then run:
     git submodule sync
 
     # Delete submodule
@@ -247,22 +319,24 @@ or
 
     #Get submodule hash
     git ls-tree a9a796a [submodule_dir]
+```
+<br/>
 
 [TOC](#user-content-toc)
 
 #### Migrate from bitbucket to github
 
+```
     cd $HOME/dev/Pipelines
     git remote rename origin bitbucket
     git remote add origin https://github.com/edwardaux/Pipelines.git
     git push -u origin --all # pushes up the repo and its refs for the first time
     git push -u origin --tags # pushes up any tags
+```
+<br/>
 
 ### <a id="additional-resources"></a>Additional resources
-
-* [What is origin in GIT](http://stackoverflow.com/questions/9529497/what-is-origin-in-git)
-
-By saying `git push origin branchname` you're saying to push to the origin repository. There's no requirement to name the remote repository origin, and there can be multiple remote repositories.
+* [What is origin in GIT](http://stackoverflow.com/questions/9529497/what-is-origin-in-git) - By saying `git push origin branchname` you're saying to push to the origin repository. There's no requirement to name the remote repository origin, and there can be multiple remote repositories.
 
 * [Fetch and Merge](http://longair.net/blog/2009/04/16/git-fetch-and-merge/)
 * [Distributed Version Control Systems and the Enterprise](http://stackoverflow.com/questions/5683253/distributed-version-control-systems-and-the-enterprise-a-good-mix/5685757#5685757)
