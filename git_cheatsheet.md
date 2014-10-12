@@ -18,16 +18,19 @@
 ### Branching model
 [Successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
+```git
     origin/feature/update_layout
     origin/hotfix/r20130305-1.1
     origin/master
     origin/release/r20130305
+```
+<br/>
 
 ### <a id="basics"></a>Basics
-[10 commands](http://niklasschlimm.blogspot.com/2011/07/top-10-git-commands-for-newbie.html|)
+* [10 commands](http://niklasschlimm.blogspot.com/2011/07/top-10-git-commands-for-newbie.html|)
+* [Git SVN crash course](http://git.or.cz/course/svn.html)
 
-[Git SVN crash course](http://git.or.cz/course/svn.html)
-
+```git
     # pull rebase create nicer merge tree, but be careful with it
     git stash # stash any change
     git pull --rebase
@@ -40,6 +43,8 @@
 
     # Diff with remote
     git diff master origin/master
+```
+<br/>
 
 
 ### <a id="info"></a>Info
@@ -99,6 +104,10 @@
 
     git branch -lvv
 
+#### Finding what branch a commit came from
+
+    git branch --contains <commit>
+
 
 ### <a id="exports"></a>Exports
 
@@ -114,16 +123,15 @@
 
 ### <a id="branching"></a>Branching
 
-    # branch and create new branch
+#### Branch and Create new branch
     git checkout -b experimental
 
-    # delete unused branch
-    git branch -d experimental
+#### Delete unused branch
 
-    # also delete on remote
+    git branch -d experimental
     git push origin --delete newfeature
 
-    # Rename a local branch
+#### Rename a local branch
     git branch -m <oldname> <newname>
 
 [TOC](#user-content-toc)
