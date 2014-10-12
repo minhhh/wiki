@@ -1,11 +1,17 @@
 # COMMANDS
 ### Services
 
+```bash
     #start, stop
     sc start "service"
 
     #remove service
     sc delete "service"
+```
+<br/>
+
+
+
 
 # POWERSHELL
 ### How to rename multiple files
@@ -16,7 +22,10 @@
 
 ### List only files with full names
 
+```bash
     Get-ChildItem -Recurse | where {!$_.PsIsContainer} | Select-Object FullName
+```
+<br/>
 
 
 

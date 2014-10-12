@@ -5,7 +5,7 @@
 * [Disable automatic spelling](http://macs.about.com/od/OSXLion107/qt/Os-X-Lion-Automatic-Spelling-Correction.htm)
 
 # OSX SHORTCUTS & KEYS
-
+```
     F11             - Show desktop
     Ctrl left/right - Scroll to the next working desktop
     Command Space   - Show search
@@ -14,10 +14,15 @@
     Ctrl Command F  - Toggle full screen
     Cmd Option D      - Toggle taskbar
     Cmd Delete        - Move to trash
+```
+<br/>
 
 ## Terminal Shortcut
-
+```
     Cmd K - Clear screen
+```
+<br/>
+
 
 
 
@@ -31,7 +36,9 @@ Great replacement for spotlight
 ## Diff tools
 * [Meld](http://scoobygalletas.blogspot.com/2011/09/how-to-install-meld-in-mac-os-x-lion.html)
 
-# Mount SSH
+## Mount SSH
 Install sshfs. Then run
-
+```
     sshfs <username>@<ip>:<folder> /Users/<username>/<folder>
+```
+<br/>
