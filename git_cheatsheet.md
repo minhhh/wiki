@@ -46,6 +46,25 @@
 ```
 <br/>
 
+#### Tagging
+
+```
+    # pull rebase create nicer merge tree, but be careful with it
+    git stash # stash any change
+    git pull --rebase
+    git stash pop # stash pop any change
+
+    git fetch -p # Bring the repository up to date without executing merge on the current branch
+
+    git add -u # add modified files but not new files
+    git add -A # add all untracked files
+
+    # Diff with remote
+    git diff master origin/master
+```
+<br/>
+
+
 ### <a id="info"></a>Info
 
 #### Find commits where files were deleted
@@ -99,6 +118,13 @@
 ```
     git describe --exact-match --abbrev=0
     git describe --abbrev=0 --tags
+```
+<br/>
+
+#### Get tag with messages
+
+```
+    git tag -l -n9
 ```
 <br/>
 
@@ -286,6 +312,14 @@ or
 
 ```
     git remote set-url origin http://new-example.com/repo.git
+```
+<br/>
+
+#### Merge upstream from fork repo
+
+```
+    git checkout master
+    git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME
 ```
 <br/>
 

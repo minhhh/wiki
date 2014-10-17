@@ -4,7 +4,7 @@ If you follow [A successful Git branching model](http://nvie.com/posts/a-success
 ## Rebasing one branch into develop
 Suppose your feature branch is `feature/add_css`
 
-```bash
+```
     # This will merge the latest develop to feature/css
     git checkout develop
     git pull
@@ -48,7 +48,7 @@ Suppose your feature branch is `feature/add_css`
 ## Rebasing multiple branches into develop
 The correct way to do this is to rebase each branch one by one, but the next one will have to rebase based on the result of the last rebase. Suppose you're going to merge these 2 branches: `feature/add_css` and `feature/add_html`
 
-```bash
+```
     # This will merge the latest develop to feature/css
     git checkout develop
     git pull
