@@ -5,30 +5,23 @@
 * [Disable automatic spelling](http://macs.about.com/od/OSXLion107/qt/Os-X-Lion-Automatic-Spelling-Correction.htm)
 
 # OSX SHORTCUTS & KEYS
-```
+
+```bash
     F11             - Show desktop
     Ctrl left/right - Scroll to the next working desktop
     Command Space   - Show search
     Ctrl Up         - Show all programs
     Ctrl Down       - Show other windows of the same program
     Ctrl Command F  - Toggle full screen
-    Cmd Option D      - Toggle taskbar
-    Cmd Delete        - Move to trash
-```
-<br/>
-
-## Terminal Shortcut
-```
-    Cmd K - Clear screen
-```
-<br/>
-
-
+    Cmd Option D    - Toggle taskbar
+    Cmd Delete      - Move to trash
+    Cmd K           - Clear terminal screen
 
 
 # TOOLS
 * Testdisk - Disk recovery
 * Blackmagic Disk Speed Test - Disk performance measurement tool.
+* [iexplorer](http://www.macroplant.com/iexplorer/) - Transfer file with iPhone easily
 
 ## QuickSilver
 Great replacement for spotlight
@@ -38,7 +31,18 @@ Great replacement for spotlight
 
 ## Mount SSH
 Install sshfs. Then run
+
 ```
     sshfs <username>@<ip>:<folder> /Users/<username>/<folder>
 ```
 <br/>
+
+
+
+# MOUNT SSH
+Install sshfs. Then run
+
+```bash
+    sshfs <username>@<ip>:<folder> /Users/<username>/<folder>
+```
+python
