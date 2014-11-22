@@ -1,4 +1,4 @@
-# Git Cheat Sheet
+# GIT CHEAT SHEET
 
 ## <a id="toc">TOC
 * [Installation](#user-content-installation)
