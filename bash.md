@@ -12,6 +12,8 @@
 * [SHLint][shlint]
 * [checkbashisms][checkbashisms]
 
+### Profiling
+
 ## Basics
 
 ### Run a bash script
@@ -98,8 +100,8 @@ Use COMMENT as marker for block comment in Bash. Or we can use any string, just 
 [debugging_bash]: http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_03.html
 [bash_debugger]: http://bashdb.sourceforge.net/bashdb.html
 [basic_operator]: http://www.tutorialspoint.com/unix/unix-basic-operators.htm
-[shellcheck]: (https://github.com/koalaman/shellcheck)
-[grunt_lint_bash]: (https://www.npmjs.org/package/grunt-lint-bash)
-[shlint]: (https://github.com/duggan/shlint)
-[checkbashisms]: (http://manpages.ubuntu.com/manpages/natty/man1/checkbashisms.1.html)
-[community_bash_style_guide]: (https://github.com/azet/community_bash_style_guide/blob/master/README.md)
+[shellcheck]: https://github.com/koalaman/shellcheck
+[grunt_lint_bash]: https://www.npmjs.org/package/grunt-lint-bash
+[shlint]:  https://github.com/duggan/shlint
+[checkbashisms]: http://manpages.ubuntu.com/manpages/natty/man1/checkbashisms.1.html
+[community_bash_style_guide]: https://github.com/azet/community_bash_style_guide/blob/master/README.md
