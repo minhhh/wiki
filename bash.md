@@ -1,6 +1,6 @@
 # BASH
 
-## References
+## REFERENCES
 ### General Documents, Books, Tutorials
 * [Advanced Bash Scripting Guide][advanced_bash_scripting_guide]
 * [Sample Bash files][sample_bash_files]
@@ -12,40 +12,49 @@
 * [SHLint][shlint]
 * [checkbashisms][checkbashisms]
 
-### Profiling
+### Unit Testing
+* [bats][bats]
+* [shunit2][shunit2]
+* [sharness][sharness]
 
-## Basics
+### Profiling
+* [bashprof][bashprof]
+
+### Debugging
+* [Debugging Bash][debugging_bash]
+* [bashdb][bash_debugger]
+
+
+
+## BASICS
 
 ### Run a bash script
-There are two ways to run a bash script:
-  * Forking a new shell
+Forking a new shell
 
+```bash
     # dot slash
     ./script.sh
 
     # specifying the shell interpreter
     bash script.sh
+```
 
+Executes the script in the current shell without forking a new shell
 
-  * Executes the script in the current shell without forking a new shell
-
+```bash
     # dot space dot slash
     . ./script.sh
 
     # source command : similar to dot space dot slash
     source script.sh
+```
 
+### Block Comment
 
-### Create custom command
-Create sh file and put them in /usr/bin OR
-
-Create sh file in ~/bin and symlink to them from /usr/bin
-
-### Sample bash file
-
+```bash
     #! /usr/bin/env bash
     : <<COMMENT
-    Copyright (C) 2012 Tri Le <trile7 at gmail dot com>
+    Copyright (C) 2012 Author <author at gmail dot com>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -60,36 +69,22 @@ Create sh file in ~/bin and symlink to them from /usr/bin
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
     COMMENT
 
-    version="findtools v0.3.1"
-
-
-Using #!/usr/bin/env in case bash is not located where we expected.
-
-Use COMMENT as marker for block comment in Bash. Or we can use any string, just make sure it doesn't appear in the text.
+    version="v0.1.1"
+```
 
 ### Looping in bash
-
-    for i in {1..10}; do echo $i; done
+* [Bash for loop example][bash_for_loop]
 
 
 ### Exit on error with set -e
-  * Call `set -e` in your bash and it will exit if any command returns any error. Good for test scripts.
-
-### Change dir
-
-    E_XCD = 86
-    cd $DIR || {
-    echo "Cannot change to necessary directory." >&2
-    exit $E_XCD;
-    }
-
+* Call `set -e` in your bash and it will exit if any command returns any error.
+* Call `set -evx` or `bash -evx script.sh` to debug script.
 
 ### Get current bash file folder
 
+```bash
     DIR="$( cd -P "$( dirname "$0" )" && pwd )"
-
-
-
+```
 
 
 
@@ -105,3 +100,7 @@ Use COMMENT as marker for block comment in Bash. Or we can use any string, just 
 [shlint]:  https://github.com/duggan/shlint
 [checkbashisms]: http://manpages.ubuntu.com/manpages/natty/man1/checkbashisms.1.html
 [community_bash_style_guide]: https://github.com/azet/community_bash_style_guide/blob/master/README.md
+[bashprof]: https://github.com/sstephenson/bashprof
+[bats]: https://github.com/sstephenson/bats
+[shunit2]: https://code.google.com/p/shunit2/
+[sharness]: https://github.com/mlafeldt/sharness
