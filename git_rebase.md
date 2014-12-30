@@ -65,7 +65,7 @@ The correct way to do this is to rebase each branch one by one, but the next one
     git merge feature/add_css
 
     # Perform the rebase, you may have to resolve the conflict again
-    git rebase develop
+    git rebase main_rebase
 
     # Push this branch to remote so we can rebase other branch based on it
     git push
