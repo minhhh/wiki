@@ -96,9 +96,9 @@ On localhost host
 
 
 # REFERENCES
-* [useful_netcat_examples_on_linux]
-* [netcat_the_admin_best_friend]
-* [using_netcat_to_test_network_speed]
+* [8 Practical Linux Netcat NC Command Examples][practical_linux_netcat_nc_command_examples]
+* [Useful netcat examples on Linux][useful_netcat_examples_on_linux]
+* [Netcat – The Admin’s Best Friend][netcat_the_admin_best_friend]
 
 [practical_linux_netcat_nc_command_examples]: http://www.thegeekstuff.com/2012/04/nc-command-examples/
 [useful_netcat_examples_on_linux]: http://xmodulo.com/useful-netcat-examples-linux.html
