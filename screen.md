@@ -22,7 +22,7 @@ Screen is freely available on most OSs.
 
 ```
     Ctrl-A-D Detach current session
-    
+
     screen -ls # List sessions
 
     screen -r # If there's only one session
@@ -49,4 +49,4 @@ To make vim works with screen, showing correct colors, put the following in `~/.
     termcapinfo xterm 'Co#256:AB=\E[48;5;%dm:AF=\E[38;5;%dm'
     term screen-256color
 ```
-    
+
