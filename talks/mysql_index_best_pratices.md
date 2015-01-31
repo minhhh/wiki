@@ -11,7 +11,7 @@ Url: https://www.youtube.com/watch?v=qd0RcBXpDI8
 Mysql index best pratices by percona
 
 # MYSQL INDEX BEST PRACTICES
-## types of indices
+## Types of indices
 * btree: mysql
 * rtree: myisam only
 * hash: memory, ndb
@@ -52,8 +52,8 @@ Mysql index best pratices by percona
 * correlated indices are less expensive
 
 ## Indexing innodb
-    * data is clustered by primary key
-    * primary key implicitly appended to all indices
+* data is clustered by primary key
+* primary key implicitly appended to all indices
 
 ## How mysql uses indexes
 * data lookup
@@ -106,9 +106,9 @@ Mysql index best pratices by percona
     * key(customer_id, status)
 
 ## Special optimization
-    * min/max optimization
-    * select max(salary) from employee group by dept_id
-        * will use index(dept_id, salary)
+* min/max optimization
+* select max(salary) from employee group by dept_id
+    * will use index(dept_id, salary)
 
 ## Index and joins
 * join is performed as nested loop
