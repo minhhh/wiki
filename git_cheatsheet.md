@@ -84,7 +84,7 @@
 #### Only show the content of a file from a specific revision
 
 ```
-    git show <sha1>^:<file>
+    git show <sha1>:<file>
 ```
 <br/>
 
