@@ -237,6 +237,26 @@ Check out [git reset](http://www.kernel.org/pub/software/scm/git/docs/git-reset.
 ```
 <br/>
 
+#### Revert a bad commit
+```
+    git revert <sha1>
+
+    # Revert single file
+    git checkout -- filename
+
+    # Revert all files in current folder
+    git checkout .
+
+    # Remove all new files or folder
+    git clean -df
+
+    # Revert to a commit with a new commit
+    git revert --no-commit xxxxxx..HEAD
+    git commit -m "revert to xxxxxx"
+    git diff HEAD xxxxxx
+```
+<br/>
+
 #### Checkout a deleted file into the work tree
 ```
     git checkout <sha1>^ -- <file>
