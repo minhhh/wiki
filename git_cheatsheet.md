@@ -167,6 +167,13 @@
 ```
 <br/>
 
+#### Finding who committed which line
+
+```
+    git blame <file>
+```
+<br/>
+
 ### <a id="exports"></a>Exports
 
 ```
