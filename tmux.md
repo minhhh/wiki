@@ -68,45 +68,54 @@ The default prefix is C-b. If you prefer C-a, you need to add this to `~/.tmux.c
     C-b w           choose window from a list
 
     # Rename the current window
-    C-a ,
+    C-b ,
 
     # Kill the current window
-    C-a &
+    C-b &
 ```
 
 ## Managing panes
 
 ```
     # Creating a new pane by splitting an existing one
-    C-a "          split vertically
-    C-a %          split horizontally
+    C-b "          split vertically
+    C-b %          split horizontally
 
     # Switching between panes
-    C-a <direction>     Go to the next pane in that direction
-    C-a o               go to the next pane
-    C-a ;               go to the previously used pane
+    C-b <direction>     Go to the next pane in that direction
+    C-b o               go to the next pane
+    C-b ;               go to the previously used pane
 
     # Moving panes around
-    C-a {               move the current pane to the previous position
-    C-a }               move the current pane to the next position
-    C-a C-o             rotate window ‘up’ (i.e. move all panes)
-    C-a M-o             rotate window ‘down’
-    C-a !               move the current pane into a new separate window (‘break pane’)
+    C-b {               move the current pane to the previous position
+    C-b }               move the current pane to the next position
+    C-b C-o             rotate window ‘up’ (i.e. move all panes)
+    C-b M-o             rotate window ‘down’
+    C-b !               move the current pane into a new separate window (‘break pane’)
 
     # Resizing panes
-    C-a M-up, C-a M-down, C-a M-left, C-a M-right resize by 5 rows/columns
+    C-b M-up, C-b M-down, C-b M-left, C-b M-right resize by 5 rows/columns
 
     # Applying predefined layouts
-    C-a M-1             switch to even-horizontal layout
-    C-a M-2             switch to even-vertical layout
-    C-a M-3             switch to main-horizontal layout
-    C-a M-4             switch to main-vertical layout
-    C-a M-5             switch to tiled layout
-    C-a space           switch to the next layout
+    C-b M-1             switch to even-horizontal layout
+    C-b M-2             switch to even-vertical layout
+    C-b M-3             switch to main-horizontal layout
+    C-b M-4             switch to main-vertical layout
+    C-b M-5             switch to tiled layout
+    C-b space           switch to the next layout
 
     # Other
-    C-a x               kill the current pane
-    C-a q               display pane numbers for a short while
+    C-b x               kill the current pane
+    C-b q               display pane numbers for a short while
+```
+
+## Scroll mode
+
+```
+    C-b [               Enter scroll mode. q to quit.
+
+    Shift-j             Scroll down
+    Shift-k             Scroll up
 ```
 
 # REFERENCES
