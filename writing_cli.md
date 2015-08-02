@@ -10,6 +10,6 @@
 
 
 
-[click]: 
-[docopt]: 
+[click]: http://click.pocoo.org/4/
+[docopt]: http://docopt.org/
 [writing_awesome_cli]: https://www.youtube.com/watch?v=gR73nLbbgqY
