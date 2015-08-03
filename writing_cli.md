@@ -8,6 +8,7 @@
 * Lots of options
 
 | In the box     | 3rd Party |
+| -----------    | --------- |
 | Do it yourself | docopt    |
 | getopt         | clint     |
 | optparse       | click     |
@@ -35,6 +36,7 @@
 * Lots of choices
 
 | In the box       | 3rd Party       |
+| -----------      | ---------       |
 | INI              | YAML            |
 | environment vars | Java properties |
 | JSON             |                 |
