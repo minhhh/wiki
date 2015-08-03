@@ -28,7 +28,7 @@
     adb shell am start -a android.intent.action.DELETE -d package:<your app package>
 
 ### Extracting APK file
-Use `apktool`
+* [Use `apktool`](http://stackoverflow.com/questions/4191762/how-to-view-androidmanifest-xml-from-apk-file)
 
     apk d /path/to/apk
     open res/values/strings.xml
