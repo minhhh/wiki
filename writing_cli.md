@@ -49,10 +49,12 @@
 
 ## Signals
 * `import signal`
+* KeyboardInterrupt: handle this and not throw a lot of stacktrace
 
 ## Exit code
 * Normal termination exits with 0
 * Uncaught exceptions exits with 1
+* Use `errorno` for more exit codes
 
 
 
