@@ -6,6 +6,7 @@ Screen is freely available on most OSs.
 ## Creating a new screen sessions
 ```
     screen -U # Don't forget the -U if you want unicode
+    screen -S # start a new screen session with session name
 ```
 
 ## Basic commands
@@ -27,6 +28,10 @@ Screen is freely available on most OSs.
 
     screen -r # If there's only one session
     screen -r 23034 # If there's multiple sessions
+
+    screen -x # attaching to a running session
+
+    screen -d <name> # detach a running session
 ```
 
 ## Scroll up and down
