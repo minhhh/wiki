@@ -1,3 +1,8 @@
+# INTRODUCTION
+This is the list of some useful tools I used to setup my OSX.
+
+For more awesome osx command lines, see [Awesome OS X Command Line][awesome_osx_command_line].
+
 # SETUP
 * [Fix the home and end keys](http://lifehacker.com/225873/mac-switchers-tip--remap-the-home-and-end-keys)
 * [Make Your Keyboard Keys Repeat Properly](http://lifehacker.com/5826055/make-your-keyboard-keys-repeat-properly-when-held-down-in-mac-os-x-lion)
@@ -17,6 +22,7 @@
     Cmd Option D    - Toggle taskbar
     Cmd Delete      - Move to trash
     Cmd K           - Clear terminal screen
+```
 
 
 # TOOLS
@@ -25,7 +31,7 @@
 * [iexplorer](http://www.macroplant.com/iexplorer/) - Transfer file with iPhone easily
 
 ## QuickSilver
-Great replacement for spotlight
+* Great replacement for spotlight
 
 ## Diff tools
 * [Meld](http://scoobygalletas.blogspot.com/2011/09/how-to-install-meld-in-mac-os-x-lion.html)
@@ -46,4 +52,7 @@ Install sshfs. Then run
 ```bash
     sshfs <username>@<ip>:<folder> /Users/<username>/<folder>
 ```
-python
+
+
+
+[awesome_osx_command_line]: https://github.com/herrbischoff/awesome-osx-command-line
