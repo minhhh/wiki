@@ -2,6 +2,12 @@
 ## References
 * [The Non-Beginner’s Guide to Syncing Data with Rsync][gtsd]
 
+## Copy and delete old
+
+```bash
+    rsync -avl --delete --progress source dest  # Linux only
+```
+
 ## Copy with rsync and progress
 
 ```bash
