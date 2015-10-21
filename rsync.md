@@ -5,7 +5,14 @@
 ## Copy and delete old
 
 ```bash
-    rsync -avl --delete --progress source dest  # Linux only
+    rsync -avl --delete --progress <source> <dest>  # Linux only
+```
+
+## rsync through ssh tunnel
+
+```bash
+    # tunner rsync through ssh port 12345
+    rsync -avl --delete -e 'ssh -p 12345' <source> user@192.168.10.1:<dest>
 ```
 
 ## Copy with rsync and progress
