@@ -15,6 +15,12 @@
     rsync -avl --delete -e 'ssh -p 12345' <source> user@192.168.10.1:<dest>
 ```
 
+## rsync with partial and exclude
+
+```bash
+    rsync -avzhP --delete --stats --log-file=backup.log --exclude-from 'exclude.txt' -e 'ssh -p 12345' <source> user@192.168.10.1:<dest>
+```
+
 ## Show progress
 
 ```bash

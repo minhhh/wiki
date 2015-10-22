@@ -383,7 +383,7 @@
 
 家 gia gia đình, chuyên gia ka, ke | いえ, うち
 
-秋 thu mùa thu shuu
+秋 thu mùa thu shuu | あき
 
 足 túc chân, bổ túc, sung túc soku
 
@@ -450,13 +450,13 @@
 
 他 tha khác, tha hương, vị tha ta | ほか
 
-婚 hôn kết hôn, hôn nhân kon
+婚 hôn kết hôn, hôn nhân kon | 
 
 科 khoa khoa học, chuyên khoa ka |
 
 遊 du du hí, du lịch yuu, yu | あそ.び
 
-結 kết đoàn kết, kết thúc ketsu
+結 kết đoàn kết, kết thúc ketsu | 
 
 住 trú, trụ cư trú; trụ sở juu | す.む
 
@@ -569,7 +569,7 @@
 
 魂 hồn linh hồn コン | たま
 
-
+昼 trú buổi trưa chuu | ひる
 
 民 dân quốc dân, dân tộc min
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
@@ -1440,7 +1440,6 @@
 舎 xá cư xá sha
 飾 sức trang sức shoku
 腕 oản cánh tay wan
-昼 trú buổi trưa chuu
 即 tức tức thì, lập tức, tức là soku
 翼 dực cánh yoku
 貫 quán xuyên qua, quán xuyến kan
