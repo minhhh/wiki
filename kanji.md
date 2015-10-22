@@ -571,6 +571,7 @@
 
 昼 trú buổi trưa chuu | ひる
 
+
 民 dân quốc dân, dân tộc min
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
 議 nghị nghị luận, nghị sự gi
