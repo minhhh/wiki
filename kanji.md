@@ -571,6 +571,10 @@
 
 昼 trú buổi trưa chuu | ひる
 
+難 nan, nạn khó, nan giải, nguy nan; tai nạn ナン | むずか.しい
+
+点 điểm điểm số, điểm hỏa ten | つ.ける
+
 
 民 dân quốc dân, dân tộc min
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
@@ -609,7 +613,6 @@
 和 hòa hòa bình, tổng hòa, điều hòa wa, o
 受 thụ nhận, tiếp thụ ju
 続 tục tiếp tục zoku
-点 điểm điểm số, điểm hỏa ten
 進 tiến thăng tiến, tiền tiến, tiến lên shin
 平 bình hòa bình, bình đẳng, trung bình, bình thường hei, byoo
 支 chi chi nhánh, chi trì (ủng hộ) shi
@@ -741,7 +744,6 @@
 証 chứng bằng chứng, nhân chứng, chứng nhận shoo
 館 quán đại sứ quán, hội quán kan
 限 hạn giới hạn, hữu hạn, hạn độ gen
-難 nan, nạn khó, nan giải, nguy nan; tai nạn nan
 製 chế chế tạo sei
 監 giam, giám giam cấm; giám đốc, giám sát kan
 準 chuẩn tiêu chuẩn, chuẩn bị jun
