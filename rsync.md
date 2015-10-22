@@ -15,7 +15,7 @@
     rsync -avl --delete -e 'ssh -p 12345' <source> user@192.168.10.1:<dest>
 ```
 
-## Copy with rsync and progress
+## Show progress
 
 ```bash
     rsync -avl --info=progress2 source dest  # Linux only
