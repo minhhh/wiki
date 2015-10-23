@@ -283,7 +283,7 @@
 交 giao giao hảo, giao hoán koo
 校 hiệu trường học koo
 
-母 mẫu mẹ, phụ mẫu, mẫu thân bo
+母 mẫu mẹ, phụ mẫu, mẫu thân bo | はは
 
 仕 sĩ làm việc shi, ji
 
@@ -575,6 +575,9 @@
 
 点 điểm điểm số, điểm hỏa ten | つ.ける
 
+供 cung cung cấp, cung phụng kyoo, ku | ども
+
+
 
 民 dân quốc dân, dân tộc min
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
@@ -798,7 +801,6 @@
 量 lượng lực lượng, độ lượng, dung lượng, trọng lượng ryoo
 然 nhiên quả nhiên, tất nhiên, thiên nhiên zen, nen
 独 độc cô độc, đơn độc doku
-供 cung cung cấp, cung phụng kyoo, ku
 細 tế tinh tế, tường tế, tế bào sai
 授 thụ đưa cho, truyền thụ, giáo thụ ju
 衛 vệ bảo vệ, vệ tinh, vệ sinh ei
