@@ -591,6 +591,9 @@
 
 待 đãi đợi, đối đãi tai | ま.つ
 
+伝 truyền, truyện truyền đạt, truyền động; tự truyện den | つだ.う
+
+易 dị, dịch dễ, dịch chuyển i, eki | やさ.しい
 
 
 
@@ -791,7 +794,6 @@
 佐 tá phò tá, trợ tá sa
 宅 trạch nhà ở taku
 票 phiếu lá phiếu, đầu phiếu hyoo
-伝 truyền, truyện truyền đạt, truyền động; tự truyện den
 福 phúc phúc, hạnh phúc, phúc lợi fuku
 審 thẩm thẩm tra, thẩm phán, thẩm định shin
 境 cảnh nhập cảnh, quá cảnh, cảnh ngộ kyoo, kei
@@ -865,7 +867,6 @@
 察 sát quan sát, giám sát, cảnh sát satsu
 観 quan quan sát, tham quan kan
 推 thôi giới thiệu, thôi tiến sui
-易 dị, dịch dễ, dịch chuyển i, eki
 移 di di chuyển, di động I
 専 chuyên chuyên môn, chuyên quyền sen
 衆 chúng quần chúng, chúng sinh shuu, shu
