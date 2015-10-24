@@ -463,7 +463,7 @@
 背 bối bối cảnh hai | せい
 後 hậu sau, hậu quả, hậu sự go, koo | あと
 
-痛 thống thống khổ tsuu | いた
+痛 thống thống khổ tsuu | いた.い
 
 決 quyết quyết định ketsu | き.める
 
@@ -577,6 +577,13 @@
 
 供 cung cung cấp, cung phụng kyoo, ku | ども
 
+娘 nương cô nương - | むすめ daughter
+
+病 bệnh bệnh nhân, bệnh viện, bệnh tật byoo, hei | や.む
+
+
+ 
+痛
 
 
 民 dân quốc dân, dân tộc min
@@ -750,7 +757,6 @@
 製 chế chế tạo sei
 監 giam, giám giam cấm; giám đốc, giám sát kan
 準 chuẩn tiêu chuẩn, chuẩn bị jun
-病 bệnh bệnh nhân, bệnh viện, bệnh tật byoo, hei
 張 trương chủ trương, khai trương choo
 葉 diệp lá, lạc diệp, hồng diệp yoo
 警 cảnh cảnh báo, cảnh sát, cảnh vệ kei
@@ -1368,7 +1374,6 @@
 宝 bảo bảo vật hoo
 括 quát tổng quát katsu
 飯 phạn cơm han
-娘 nương cô nương -
 駆 khu khu trục hạm ku
 抵 đề đề kháng tei
 焦 tiêu cháy shoo
