@@ -309,7 +309,7 @@
 
 社 xã xã hội, công xã, hợp tác xã sha
 
-直 trực trực tiếp, chính trực choku, jiki
+直 trực trực tiếp, chính trực choku, jiki | なお.る
 
 手 thủ tay, thủ đoạn shu | て
 接 tiếp nối tiếp, tiếp đãi, tiếp xúc setsu | つ.ぐ
@@ -331,7 +331,7 @@
 
 画 họa, hoạch họa sĩ; kế hoạch ga, kaku | え
 
-屋 ốc phòng ốc oku
+屋 ốc phòng ốc oku | や
 
 猫 miêu con mèo byoo
 
@@ -389,12 +389,12 @@
 
 比 tỉ so sánh, tỉ lệ, tỉ dụ hi
 
-息 tức con trai, tử tức soku
+息 tức con trai, tử tức soku | いき
 
 冬 đông mùa đông too | ふゆ
 終 chung chung kết, chung liễu shuu | お.わり
 
-変 biến biến đổi, biến thiên hen | かわり
+変 biến biến đổi, biến thiên hen | か.える か.わる
 
 場 trường hội trường, quảng trường joo
 
@@ -581,9 +581,17 @@
 
 病 bệnh bệnh nhân, bệnh viện, bệnh tật byoo, hei | や.む
 
-
+階 giai giai cấp, giai tầng kai | きざはし
  
-痛
+貸 thải cho mượn tai | か.す
+
+程 trình trình độ, lộ trình, công trình tei | ほど
+
+払 phất trả tiền futsu | はら.う
+
+待 đãi đợi, đối đãi tai | ま.つ
+
+
 
 
 民 dân quốc dân, dân tộc min
@@ -776,7 +784,6 @@
 映 ánh phản ánh ei
 形 hình hình thức, hình hài, định hình kei,gyoo
 域 vực khu vực, lĩnh vực iki
-待 đãi đợi, đối đãi tai
 象 tượng hiện tượng, khí tượng, hình tượng shoo, zoo
 助 trợ hộ trợ, trợ giúp, viện trợ, cứu trợ jo
 展 triển triển khai, phát triển, triển lãm ten
@@ -835,7 +842,6 @@
 良 lương tốt, lương tâm, lương tri ryoo
 復 phục phục thù, hồi phục fuku
 課 khóa khóa học, chính khóa ka
-程 trình trình độ, lộ trình, công trình tei
 環 hoàn hoàn cảnh, tuần hoàn kan
 閣 các nội các kaku
 港 cảng hải cảng, không cảng koo
@@ -939,7 +945,6 @@
 殺 sát sát hại, sát nhân satsu, sai, setsu
 速 tốc tốc độ, tăng tốc soku
 波 ba sóng, phong ba ha
-階 giai giai cấp, giai tầng kai
 苦 khổ khổ cực, cùng khổ ku
 幅 phúc bề ngang fuku
 劇 kịch kịch bản, vở kịch, kịch tính geki
@@ -1042,7 +1047,6 @@
 源 nguyên nguồn, nguyên tuyền gen
 湾 loan vịnh wan
 踏 đạp dẫm lên too
-払 phất trả tiền futsu
 幸 hạnh hạnh phúc, hạnh vận koo
 許 hứa cho phép, hứa khả kyo
 略 lược tỉnh lược, xâm lược ryaku
@@ -1270,7 +1274,6 @@
 豪 hào hào kiệt, phú hào goo
 紹 thiệu giới thiệu shoo
 敬 kính kính yêu kei
-貸 thải cho mượn tai
 症 chứng chứng bệnh, triệu chứng shoo
 購 cấu mua koo
 顧 cố nhìn lại ko
