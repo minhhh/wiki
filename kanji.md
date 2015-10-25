@@ -595,8 +595,24 @@
 
 易 dị, dịch dễ, dịch chuyển i, eki | やさ.しい
 
+椅 y, ỷ ghế イ
 
-置
+鞄 bạc, bào, cái va li | かばん
+
+辺 biên biên, biên giới hen | あた.り ほと.り
+
+眠 miên thôi miên min | ねむ.い
+
+歳 tuế tuổi, năm, tuế nguyệt sai, sei | とし
+
+辛 tân cay shin | から.い
+
+
+
+
+
+
+
 
 民 dân quốc dân, dân tộc min
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
@@ -681,7 +697,6 @@
 求 cầu yêu cầu, mưu cầu kyuu
 増 tăng tăng gia, tăng tốc zoo
 感 cảm cảm giác, cảm xúc, cảm tình kan
-歳 tuế tuổi, năm, tuế nguyệt sai, sei
 示 thị biểu thị ji, shi
 価 giá giá cả, vô giá, giá trị ka
 勢 thế tư thế, thế lực sei
@@ -862,7 +877,6 @@
 管 quản ống, mao quản, quản lí kan
 非 phi phi nhân đạo, phi nghĩa hi
 賞 thưởng giải thưởng, tưởng thưởng shoo
-辺 biên biên, biên giới hen
 競 cạnh cạnh tranh kyoo, kei
 振 chấn chấn động shin
 察 sát quan sát, giám sát, cảnh sát satsu
@@ -1594,7 +1608,6 @@
 彰 chương hiển chương shoo
 浄 tịnh thanh tịnh joo
 懲 trừng trừng phạt choo
-眠 miên thôi miên min
 寒 hàn lạnh kan
 潜 tiềm tiềm ẩn, tiềm thức sen
 秩 trật trật tự chitsu
@@ -1789,7 +1802,6 @@
 宜 nghi thích nghi, tiện nghi gi
 汗 hãn mồ hôi kan
 勘 khám kan
-辛 tân cay shin
 溝 câu mương nhỏ koo
 仰 ngưỡng ngưỡng mộ gyoo, koo
 泥 nê bùn dei
