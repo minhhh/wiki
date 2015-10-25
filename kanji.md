@@ -500,7 +500,7 @@
 
 晩 vãn buổi tối ban |
 
-暑 thử hè nóng sho | あつい
+暑 thử hè nóng sho | あつ.い
 
 軽 khinh khinh suất, khinh khi kei | かるい
 
@@ -607,7 +607,11 @@
 
 辛 tân cay shin | から.い
 
+飯 phạn cơm han | めし
 
+檎 cầm táo ゴ
+
+届 giới đưa đến -
 
 
 
@@ -1237,7 +1241,6 @@
 倉 thương nhà kho soo
 互 hỗ tương hỗ go
 節 tiết tiết mục setsu, sechi
-届 giới đưa đến -
 慎 thận thận trọng shin
 慮 lự tư lự, khảo lự ryo
 徴 trưng đặc trưng, tượng trưng choo
@@ -1392,7 +1395,6 @@
 襲 tập tập kích shuu
 宝 bảo bảo vật hoo
 括 quát tổng quát katsu
-飯 phạn cơm han
 駆 khu khu trục hạm ku
 抵 đề đề kháng tei
 焦 tiêu cháy shoo
