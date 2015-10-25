@@ -240,10 +240,12 @@
 書 thư thư đạo, thư tịch, thư kí sho
 
 斤 cân cân (kilo), cái rìu kin
-近 cận thân cận, cận thị, cận cảnh kin
+近 cận thân cận, cận thị, cận cảnh kin |  ちか.い
 所 sở trụ sở sho | ところ
 
-車 xa xe cộ, xa lộ sha
+車 xa xe cộ, xa lộ sha | くるま
+輪 luân bánh xe, luân hồi rin | わ
+軽 khinh khinh suất, khinh khi kei | かるい
 
 食 thực ẩm thực, thực đường shoku, jiki
 
@@ -502,8 +504,6 @@
 
 暑 thử hè nóng sho | あつ.い
 
-軽 khinh khinh suất, khinh khi kei | かるい
-
 靴 ngoa giầy ka | くつ
 
 寝 tẩm ngủ shin | ねる
@@ -526,7 +526,7 @@
 
 利 lợi phúc lợi, lợi ích ri | き.く
 
-掛 quải treo - | か.ける
+掛 quải treo, arrive at - | か.ける か.かる
 
 曲 khúc ca khúc kyoku | ま.がる bend
 
@@ -611,7 +611,13 @@
 
 檎 cầm táo ゴ
 
-届 giới đưa đến -
+届 giới đưa đến - | とど.く
+
+神 thần thần, thần thánh, thần dược shin, jin | かみ
+
+信 tín uy tín, tín thác, thư tín shin
+
+停 đình đình chỉ tei | と.める
 
 
 
@@ -674,7 +680,6 @@
 官 quan quan lại kan
 投 đầu đầu tư, đầu cơ too
 派 phái trường phái ha
-信 tín uy tín, tín thác, thư tín shin
 重 trọng, trùng trọng lượng; trùng phùng juu, choo
 税 thuế thuế vụ zei
 判 phán phán quyết, phán đoán han, ban
@@ -736,7 +741,6 @@
 再 tái lại, tái phát sai, sa
 営 doanh doanh nghiệp, kinh doanh, doanh trại ei
 両 lưỡng hai, lưỡng quốc ryoo
-神 thần thần, thần thánh, thần dược shin, jin
 容 dung dung mạo, hình dung, nội dung, dung nhận yoo
 規 quy quy tắc, quy luật ki
 送 tống tiễn, tống tiễn, tống đạt soo
@@ -1050,7 +1054,6 @@
 香 hương mùi hương, hương thơm koo, kyoo
 角 giác tam giác, tứ giác kaku
 豊 phong phong phú hoo
-輪 luân bánh xe, luân hồi rin
 留 lưu lưu học, lưu trữ ryuu, ru
 順 thuận tòng thuận, thuận tự jun
 辞 từ từ vựng, từ chức ji
@@ -1125,7 +1128,6 @@
 巨 cự to lớn, cự đại, cự phách kyo
 昇 thăng thăng tiến, thăng thiên shoo
 為 vi, vị hành vi; vị kỉ I
-停 đình đình chỉ tei
 兆 triệu triệu chứng, triệu triệu (10 mũ 12) choo
 混 hỗn hỗn hợp, hỗn độn, hỗn loạn kon
 幕 mạc khai mạc, bế mạc maku, baku
