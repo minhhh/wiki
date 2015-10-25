@@ -293,7 +293,7 @@
 
 花 hoa hoa, bông hoa ka
 
-置 trí bố trí, bài trí, vị trí chi
+置 trí bố trí, bài trí, vị trí chi | お.く
 
 整 chỉnh điều chỉnh, chỉnh hình sei
 
@@ -358,7 +358,7 @@
 
 役 dịch chức vụ, nô dịch eki, yaku
 
-員 viên thành viên, nhân viên in
+員 viên thành viên, nhân viên in | 
 
 夜 dạ ban đêm, dạ cảnh, dạ quang ya
 
@@ -464,6 +464,7 @@
 後 hậu sau, hậu quả, hậu sự go, koo | あと
 
 痛 thống thống khổ tsuu | いた.い
+病 bệnh bệnh nhân, bệnh viện, bệnh tật byoo, hei | や.む
 
 決 quyết quyết định ketsu | き.める
 
@@ -579,7 +580,6 @@
 
 娘 nương cô nương - | むすめ daughter
 
-病 bệnh bệnh nhân, bệnh viện, bệnh tật byoo, hei | や.む
 
 階 giai giai cấp, giai tầng kai | きざはし
  
@@ -596,6 +596,7 @@
 易 dị, dịch dễ, dịch chuyển i, eki | やさ.しい
 
 
+置
 
 民 dân quốc dân, dân tộc min
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
