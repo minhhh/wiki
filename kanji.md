@@ -317,7 +317,7 @@
 
 手 thủ tay, thủ đoạn shu | て
 接 tiếp nối tiếp, tiếp đãi, tiếp xúc setsu | つ.ぐ
-指 chỉ chỉ định, chỉ số shi | さ.す
+指 chỉ chỉ định, chỉ số, ngón tay shi | さ.す ゆび
 拾 thập nhặt shuu, juu | ひろ.う
 
 氏 thị họ shi
@@ -351,7 +351,8 @@
 紀 kỉ thế kỉ, kỉ nguyên ki
 絵 hội hội họa kai, e
 約 ước lời hứa (ước nguyện), ước tính yaku | つづ.まる
-緒 tự tình tự sho, cho | いとぐち
+緒 tự tình tự sho, cho | いとぐち beginning
+細 tế tinh tế, tường tế, tế bào, mỏng sai | ほそ.い
 
 矢 thỉ mũi tên shi
 医 y y học, y viện I
@@ -644,6 +645,12 @@
 
 冊 sách quyển sách satsu, saku | ふみ
 
+暖 noãn ấm dan | あたた.かい
+
+春 xuân mùa xuân, thanh xuân shun | はる
+
+
+
 
 
 
@@ -861,7 +868,6 @@
 量 lượng lực lượng, độ lượng, dung lượng, trọng lượng ryoo
 然 nhiên quả nhiên, tất nhiên, thiên nhiên zen, nen
 独 độc cô độc, đơn độc doku
-細 tế tinh tế, tường tế, tế bào sai
 授 thụ đưa cho, truyền thụ, giáo thụ ju
 衛 vệ bảo vệ, vệ tinh, vệ sinh ei
 器 khí khí cụ, cơ khí, dung khí ki
@@ -926,7 +932,6 @@
 達 đạt đạt tới, điều đạt, thành đạt tatsu
 録 lục kí lục, đăng lục roku
 討 thảo thảo phạt, thảo luận, kiểm thảo too
-春 xuân mùa xuân, thanh xuân shun
 鮮 tiên sáng, tươi, tiên minh (tươi đẹp), tân tiên sen
 効 hiệu hiệu quả, hiệu ứng, công hiệu koo
 被 bị bị, bị động, bị cáo hi
@@ -1719,7 +1724,6 @@
 帳 trướng sổ choo
 苗 miêu mầm byoo
 据 cư đặt, để -
-暖 noãn ấm dan
 漢 hán hảo hán kan
 径 kính bán kính kei
 磁 từ từ tính, từ trường ji
