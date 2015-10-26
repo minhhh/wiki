@@ -619,6 +619,9 @@
 
 停 đình đình chỉ tei | と.める
 
+描 miêu miêu tả byoo | か.く
+
+
 
 
 
@@ -1182,7 +1185,6 @@
 掲 yết yết thị kei
 更 canh canh tân koo
 緩 hoãn hòa hoãn kan
-描 miêu miêu tả byoo
 汚 ô ô nhiễm o
 招 chiêu chiêu đãi shoo
 欲 dục dục vọng yoku
