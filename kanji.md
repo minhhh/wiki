@@ -146,7 +146,7 @@
 全 toàn toàn bộ    zen
 金 kim hoàng kim, kim ngân kin, kon
 銀 ngân ngân hàng, ngân lượng, kim ngân gin
-鉛 duyên kim loại chì en
+鉛 duyên kim loại chì en | なまり
 
 行 hành, hàng thực hành, lữ hành; ngân hàng koo, gyoo, an
 
@@ -243,6 +243,7 @@
 斤 cân cân (kilo), cái rìu kin
 近 cận thân cận, cận thị, cận cảnh kin |  ちか.い
 所 sở trụ sở sho | ところ
+違 vi vi phạm, tương vi I | ちが.う
 
 車 xa xe cộ, xa lộ sha | くるま
 輪 luân bánh xe, luân hồi rin | わ
@@ -636,9 +637,15 @@
 
 球 cầu quả cầu, địa cầu kyuu | たま
 
-酸 toan axit san
+酸 toan axit san, chua | す.い
 
-酸っぱい
+葡 ブ nho
+萄 ドウ nho
+
+冊 sách quyển sách satsu, saku | ふみ
+
+
+
 
 
 
@@ -769,7 +776,6 @@
 応 ứng đáp ứng, ứng đối, phản ứng oo
 争 tranh đấu tranh, chiến tranh, tranh luận, cạnh tranh soo
 優 ưu ưu việt, ưu thế, ưu tiên yuu
-違 vi vi phạm, tương vi I
 護 hộ bảo hộ, phòng hộ, hộ vệ go
 率 suất thống suất, xác suất, tỉ lệ suất sotsu, ritsu
 算 toán tính toán, kế toán, toán học san
@@ -1605,7 +1611,6 @@
 垣 viên tường -
 漏 lậu lộ roo
 殊 thù đặc thù shu
-冊 sách quyển sách satsu, saku
 鏡 kính gương kính kyoo
 黙 mặc trầm mặc moku
 寛 khoan khoan dung kan
