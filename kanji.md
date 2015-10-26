@@ -54,6 +54,8 @@
 果 quả hoa quả, thành quả, kết quả ka | くだ.もの
 困 khốn khốn cùng kon | こま.る
 
+杯 bôi chén hai | さかずき
+
 目 mục mắt, hạng mục, mục lục moku, boku | め
 見 kiến ý kiến ken | み.る
 現 hiện xuất hiện, hiện tại, hiện tượng, hiện hình gen | あらわ。れる
@@ -106,7 +108,6 @@
 寺 tự chùa ji
 団 đoàn đoàn kết, đoàn đội dan, ton
 時 thời thời gian ji
-持 trì cầm, duy trì ji | も.てる
 村 thôn thôn xã, thôn làng son | むら
 付 phụ phụ thuộc, phụ lục fu | つく
 
@@ -404,7 +405,7 @@
 
 守 thủ cố thủ, bảo thủ shu, su
 
-鳥 điểu chim chóc choo
+鳥 điểu chim chóc choo | とり
 
 網 võng mạng lưới moo
 
@@ -627,12 +628,17 @@
 
 祝 chúc chúc phúc shuku, shuu | いわ.う
 
-杯 bôi chén hai
+持 trì cầm, duy trì ji | も.てる
 
+皆 giai tất cả kai | みな
 
+命 mệnh, mạng tính mạng, cách mạng, vận mệnh, mệnh lệnh mei, myoo | いのち
 
+球 cầu quả cầu, địa cầu kyuu | たま
 
+酸 toan axit san
 
+酸っぱい
 
 
 
@@ -745,7 +751,6 @@
 能 năng năng lực, tài năng noo
 有 hữu sở hữu, hữu hạn yuu, u
 沢 trạch đầm lầy taku
-球 cầu quả cầu, địa cầu kyuu
 義 nghĩa ý nghĩa, nghĩa lí, đạo nghĩa gi
 由 do tự do, lí do yu, yuu, yui
 再 tái lại, tái phát sai, sa
@@ -871,7 +876,6 @@
 失 thất thất nghiệp, thất bại shitsu
 評 bình bình luận, phê bình hyoo
 影 ảnh hình ảnh; nhiếp ảnh ei
-命 mệnh, mạng tính mạng, cách mạng, vận mệnh, mệnh lệnh mei, myoo
 型 hình khuôn hình, mô hình kei
 室 thất phòng, giáo thất shitsu
 路 lộ đường, không lộ, thủy lộ ro
@@ -1463,7 +1467,6 @@
 郎 lang tân lang roo
 朗 lãng rõ ràng roo
 乳 nhũ nhũ mẫu nyuu
-酸 toan axit san
 旗 kì quốc kì ki
 貞 trinh trinh tiết tei
 兄 huynh phụ huynh kei, kyoo
@@ -1582,7 +1585,6 @@
 卵 noãn trứng ran
 偽 ngụy ngụy trang, ngụy tạo gi
 卓 trác trác việt taku
-皆 giai tất cả kai
 干 can khô kan
 疲 bì mệt hi
 憶 ức kí ức oku
