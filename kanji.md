@@ -269,7 +269,7 @@
 
 台 đài lâu đài, đài dai, tai
 
-店 điếm cửa hàng, tửu điếm ten
+店 điếm cửa hàng, tửu điếm ten | みせ
 
 原 nguyên thảo nguyên, nguyên tử, nguyên tắc gen
 
@@ -277,7 +277,7 @@
 界 giới thế giới, giới hạn, địa giới kai
 介 giới ở giữa, môi giới, giới thiệu kai
 
-声 thanh âm thanh, thanh điệu sei, shoo
+声 thanh âm thanh, thanh điệu sei, shoo | こえ
 
 来 lai đến, tương lai, vị lai rai | く.る,きた.る
 
@@ -463,6 +463,7 @@
 住 trú, trụ cư trú; trụ sở juu | す.む
 
 背 bối bối cảnh hai | せい
+
 後 hậu sau, hậu quả, hậu sự go, koo | あと
 
 痛 thống thống khổ tsuu | いた.い
@@ -527,6 +528,7 @@
 利 lợi phúc lợi, lợi ích ri | き.く
 
 掛 quải treo, arrive at - | か.ける か.かる
+描 miêu miêu tả byoo | か.く
 
 曲 khúc ca khúc kyoku | ま.がる bend
 
@@ -619,7 +621,14 @@
 
 停 đình đình chỉ tei | と.める
 
-描 miêu miêu tả byoo | か.く
+過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
+
+次 thứ thứ nam, thứ nữ ji, shi | つぎ
+
+祝 chúc chúc phúc shuku, shuu | いわ.う
+
+杯 bôi chén hai
+
 
 
 
@@ -697,7 +706,6 @@
 策 sách đối sách saku
 込 <vào>
 領 lĩnh, lãnh thống lĩnh, lãnh thổ, lĩnh vực ryoo
-次 thứ thứ nam, thứ nữ ji, shi
 際 tế quốc tế sai
 得 đắc đắc lợi, cầu bất đắc toku
 減 giảm gia giảm, giảm gen
@@ -731,7 +739,6 @@
 宮 cung cung điện kyuu, guu, ku
 検 kiểm kiểm tra ken
 式 thức hình thức, phương thức, công thức shiki
-過 qua, quá thông qua; quá khứ, quá độ ka
 確 xác chính xác, xác lập, xác suất kaku
 裁 tài may vá, tài phán, trọng tài sai
 提 đề cung cấp, đề cung tei
@@ -1406,7 +1413,6 @@
 快 khoái khoái lạc kai
 克 khắc khắc phục koku
 柳 liễu cây liễu ryuu
-杯 bôi chén hai
 毛 mao lông moo
 吸 hấp hô hấp, hấp thu kyuu
 閥 phiệt tài phiệt batsu
@@ -1509,7 +1515,6 @@
 牲 sinh hi sinh sei
 孤 cô cô độc ko
 岐 kì đường núi ki
-祝 chúc chúc phúc shuku, shuu
 掘 quật khai quật kutsu
 膨 bành bành chướng boo
 桜 anh anh đào oo
