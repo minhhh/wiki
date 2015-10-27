@@ -170,7 +170,7 @@
 
 立 lập thiết lập, tự lập ritsu, ryuu
 
-高 cao cao đẳng, cao thượng koo
+高 cao cao đẳng, cao thượng koo | たか.い
 
 円 viên viên mãn, tiền Yên en
 
@@ -651,6 +651,10 @@
 
 答 đáp trả lời, vấn đáp, đáp ứng too | こた.える
 
+
+
+
+歌
 
 
 
