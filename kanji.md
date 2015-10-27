@@ -244,7 +244,7 @@
 近 cận thân cận, cận thị, cận cảnh kin |  ちか.い
 所 sở trụ sở sho | ところ
 違 vi vi phạm, tương vi I | ちが.う
-送 tống tiễn, tống tiễn, tống đạt soo | 
+送 tống tiễn, tống tiễn, tống đạt soo | おく.る
 
 車 xa xe cộ, xa lộ sha | くるま
 輪 luân bánh xe, luân hồi rin | わ
@@ -652,9 +652,8 @@
 
 答 đáp trả lời, vấn đáp, đáp ứng too | こた.える
 
+数 số số lượng suu, su | かず かぞ.える
 
-
-近
 
 
 
@@ -695,7 +694,6 @@
 総 tổng tổng số, tổng cộng soo
 産 sản sản xuất, sinh sản, cộng sản san
 県 huyện huyện, tỉnh ken
-数 số số lượng suu, su
 協 hiệp hiệp lực kyoo
 保 bảo bảo trì, bảo vệ, đảm bảo ho
 改 cải cải cách, cải chính kai
