@@ -244,6 +244,7 @@
 近 cận thân cận, cận thị, cận cảnh kin |  ちか.い
 所 sở trụ sở sho | ところ
 違 vi vi phạm, tương vi I | ちが.う
+送 tống tiễn, tống tiễn, tống đạt soo | 
 
 車 xa xe cộ, xa lộ sha | くるま
 輪 luân bánh xe, luân hồi rin | わ
@@ -425,7 +426,7 @@
 
 弓 cung cái cung kyuu
 引 dẫn dẫn hỏa, kéo in | hi.ku
-強 cường, cưỡng cường quốc; miễn cưỡng kyoo, goo
+強 cường, cưỡng cường quốc; miễn cưỡng kyoo, goo | つよ.い
 弟 đệ đệ tử tei, dai, de | おとうと
 
 虫 trùng côn trùng chuu
@@ -653,8 +654,7 @@
 
 
 
-
-歌
+近
 
 
 
@@ -781,7 +781,6 @@
 両 lưỡng hai, lưỡng quốc ryoo
 容 dung dung mạo, hình dung, nội dung, dung nhận yoo
 規 quy quy tắc, quy luật ki
-送 tống tiễn, tống tiễn, tống đạt soo
 消 tiêu tiêu diệt, tiêu hao, tiêu thất shoo
 状 trạng tình trạng, trạng thái, cáo trạng joo
 輸 thâu thâu nhập, thâu xuất yu
