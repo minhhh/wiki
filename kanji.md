@@ -249,7 +249,7 @@
 輪 luân bánh xe, luân hồi rin | わ
 軽 khinh khinh suất, khinh khi kei | かるい
 
-食 thực ẩm thực, thực đường shoku, jiki
+食 thực ẩm thực, thực đường shoku, jiki | た.べる
 
 工 công công tác, công nhân koo, ku
 空 không không khí, hư không, hàng không kuu
@@ -309,7 +309,7 @@
 
 政 chính chính phủ, chính sách, hành chính sei, shoo
 
-事 sự sự việc ji, zu
+事 sự sự việc ji, zu | こと
 
 社 xã xã hội, công xã, hợp tác xã sha
 
@@ -319,6 +319,7 @@
 接 tiếp nối tiếp, tiếp đãi, tiếp xúc setsu | つ.ぐ
 指 chỉ chỉ định, chỉ số, ngón tay shi | さ.す ゆび
 拾 thập nhặt shuu, juu | ひろ.う
+探 thám do thám, thám hiểm tan | さが.す
 
 氏 thị họ shi
 
@@ -353,6 +354,7 @@
 約 ước lời hứa (ước nguyện), ước tính yaku | つづ.まる
 緒 tự tình tự sho, cho | いとぐち beginning
 細 tế tinh tế, tường tế, tế bào, mỏng sai | ほそ.い
+続 tục tiếp tục zoku | つづ.く
 
 矢 thỉ mũi tên shi
 医 y y học, y viện I
@@ -516,15 +518,13 @@
 
 服 phục y phục, cảm phục, phục vụ fuku |
 
-探 thám do thám, thám hiểm tan | さが.す
-
 凝 ngưng ngưng kết, ngưng tụ gyoo | こ.る
 
 泣 khấp khóc kyuu | な.く
 
 郵 bưu bưu điện yuu |
 
-便 tiện thuận tiện ben, bin |
+便 tiện thuận tiện ben, bin | たよ.り
 
 局 cục cục diện, cục kế hoạch kyoku | つぼね
 
@@ -649,6 +649,12 @@
 
 春 xuân mùa xuân, thanh xuân shun | はる
 
+答 đáp trả lời, vấn đáp, đáp ứng too | こた.える
+
+
+
+
+
 
 
 
@@ -692,7 +698,6 @@
 以 dĩ dĩ tiền, dĩ vãng I
 和 hòa hòa bình, tổng hòa, điều hòa wa, o
 受 thụ nhận, tiếp thụ ju
-続 tục tiếp tục zoku
 進 tiến thăng tiến, tiền tiến, tiến lên shin
 平 bình hòa bình, bình đẳng, trung bình, bình thường hei, byoo
 支 chi chi nhánh, chi trì (ủng hộ) shi
@@ -875,7 +880,6 @@
 値 trị giá trị chi
 退 thoái triệt thoái, thoái lui tai
 姿 tư tư thế, tư dung, tư sắc shi
-答 đáp trả lời, vấn đáp, đáp ứng too
 末 mạt kết thúc, mạt vận, mạt kì matsu, batsu
 隊 đội đội ngũ, quân đội tai
 注 chú chú ý, chú thích chuu
