@@ -242,7 +242,7 @@
 等 đẳng bình đẳng, đẳng cấp too
 筆 bút bút hitsu | ふで
 
-書 thư thư đạo, thư tịch, thư kí sho
+書 thư thư đạo, thư tịch, thư kí sho | 
 
 斤 cân cân (kilo), cái rìu kin
 近 cận thân cận, cận thị, cận cảnh kin |  ちか.い
@@ -682,6 +682,11 @@
 
 有 hữu sở hữu, hữu hạn yuu, u | あ.る
 
+机 cơ cái bàn ki |  つくえ
+
+類 loại chủng loại rui | たぐ.い
+
+達 đạt đạt tới, điều đạt, thành đạt tatsu | -たち
 
 
 
@@ -957,7 +962,6 @@
 材 tài tài liệu zai
 識 thức nhận thức, kiến thức, tri thức shiki
 雄 hùng thư hùng, anh hùng, hùng tráng yuu
-達 đạt đạt tới, điều đạt, thành đạt tatsu
 録 lục kí lục, đăng lục roku
 討 thảo thảo phạt, thảo luận, kiểm thảo too
 鮮 tiên sáng, tươi, tiên minh (tươi đẹp), tân tiên sen
@@ -1075,7 +1079,6 @@
 均 quân quân bình, quân nhất kin
 油 du dầu yu
 喜 hỉ vui ki
-類 loại chủng loại rui
 芸 nghệ nghệ thuật, nghệ nhân gei
 覚 giác cảm giác, giác ngộ kaku
 静 tĩnh bình tĩnh, trấn tĩnh sei, joo
@@ -1927,7 +1930,6 @@
 胃 vị dạ dày I
 鉢 bát cái bát hatsu, hachi
 該 cai gai
-机 cơ cái bàn ki
 墳 phần mộ phần fun
 峡 hạp đường núi hẹp kyoo
 宴 yến yến tiệc en
