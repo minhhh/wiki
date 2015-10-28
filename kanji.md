@@ -654,6 +654,7 @@
 
 数 số số lượng suu, su | かず かぞ.える
 
+騒 tao tao động soo | さわ.ぐ
 
 
 
@@ -1446,7 +1447,6 @@
 微 vi hiển vi, vi sinh vật bi
 翌 dực <tiếp sau> yoku
 硬 ngạnh cứng, ngang ngạnh koo
-騒 tao tao động soo
 歓 hoan hoan nghênh kan
 洗 tiển rửa sen
 仁 nhân nhân nghĩa jin, ni
