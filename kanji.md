@@ -131,7 +131,7 @@
 妹 muội em gái mai | いもうと
 姉 tỉ chị gái shi | あね
 婦 phụ phụ nữ, dâm phụ fu | よめ
-要 yêu, yếu yêu cầu; chủ yếu yoo | かなめ
+要 yêu, yếu yêu cầu; chủ yếu yoo | かなめ い.る
 
 古 cổ cũ, cổ điển, đồ cổ ko | ふる.い
 早 tảo sớm, tảo hôn soo, sa | はや
@@ -668,9 +668,15 @@
 
 重 trọng, trùng trọng lượng; trùng phùng juu, choo | おも.い
 
-誕 đản sinh ra tan | 
+誕 đản sinh ra tan |
 
-次
+味 vị vị giác, mùi vị mi | あじ.わう
+
+呼 hô gọi tên, hô hoán, hô hấp, hô hào ko | よ.ぶ
+
+漢 hán hảo hán kan
+
+要
 
 
 
@@ -876,7 +882,6 @@
 想 tưởng tư tưởng, tưởng tượng soo, so
 渡 độ đi qua, truyền tay to
 造 tạo chế tạo, sáng tạo zoo
-味 vị vị giác, mùi vị mi
 念 niệm ý niệm, tưởng niệm nen
 述 thuật tường thuật. tự thuật jutsu
 差 sai sai khác, sai biệt sa
@@ -955,7 +960,6 @@
 鮮 tiên sáng, tươi, tiên minh (tươi đẹp), tân tiên sen
 効 hiệu hiệu quả, hiệu ứng, công hiệu koo
 被 bị bị, bị động, bị cáo hi
-呼 hô gọi tên, hô hoán, hô hấp, hô hào ko
 根 căn gốc, căn bản, căn cứ kon
 光 quang ánh sáng, nhật quang, quang minh koo
 渉 thiệp can thiệp, giao thiệp shoo
@@ -1739,7 +1743,6 @@
 帳 trướng sổ choo
 苗 miêu mầm byoo
 据 cư đặt, để -
-漢 hán hảo hán kan
 径 kính bán kính kei
 磁 từ từ tính, từ trường ji
 缶 phữu đồ hộp kan
