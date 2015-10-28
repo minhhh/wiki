@@ -185,6 +185,7 @@
 忘 vong quên boo | わすれる
 必 tất tất nhiên, tất yếu hitsu | かなら。ず
 悪 ác ố hung ác, độc ác; tăng ố aku, o | わる.い
+悲 bi sầu bi, bi quan hi | かな.しい
 
 音 âm âm thanh, phát âm on, in | おと
 意 ý ý nghĩa, ý thức, ý kiến, chú ý | い
@@ -201,6 +202,7 @@
 計 kê, kế thống kê; kế hoạch, kế toán kei | はか.る
 己 kỉ tự kỉ, vị kỉ ko, ki
 記 kí thư kí, kí sự, kí ức ki | しる.す
+誌 chí tạp chí shi | 
 
 舌 thiệt cái lưỡi zetsu | した
 話 thoại nói chuyện, đối thoại, giai thoại wa | はな.す
@@ -656,6 +658,17 @@
 
 騒 tao tao động soo | さわ.ぐ
 
+乗 thừa lên xe joo | の.せる
+
+皿 mãnh đĩa ベイ | さら
+
+雑 tạp tạp chí, tạp kĩ zatsu, zoo | まじ.る
+
+映 ánh phản ánh ei | うつ.る
+
+重 trọng, trùng trọng lượng; trùng phùng juu, choo | おも.い
+
+
 
 
 
@@ -720,7 +733,6 @@
 官 quan quan lại kan
 投 đầu đầu tư, đầu cơ too
 派 phái trường phái ha
-重 trọng, trùng trọng lượng; trùng phùng juu, choo
 税 thuế thuế vụ zei
 判 phán phán quyết, phán đoán han, ban
 活 hoạt hoạt động, sinh hoạt katsu
@@ -843,7 +855,6 @@
 態 thái trạng thái, hình thái, thái độ tai
 崎 khi mũi đất -
 横 hoành tung hoành, hoành độ, hoành hành oo
-映 ánh phản ánh ei
 形 hình hình thức, hình hài, định hình kei,gyoo
 域 vực khu vực, lĩnh vực iki
 象 tượng hiện tượng, khí tượng, hình tượng shoo, zoo
@@ -858,7 +869,6 @@
 境 cảnh nhập cảnh, quá cảnh, cảnh ngộ kyoo, kei
 況 huống tình huống, trạng huống kyoo
 条 điều điều khoản, điều kiện joo
-乗 thừa lên xe joo
 想 tưởng tư tưởng, tưởng tượng soo, so
 渡 độ đi qua, truyền tay to
 造 tạo chế tạo, sáng tạo zoo
@@ -1169,7 +1179,6 @@
 暴 bạo, bộc bạo lực, bộc lộ boo, baku
 倒 đảo đảo lộn too
 普 phổ phổ thông fu
-雑 tạp tạp chí, tạp kĩ zatsu, zoo
 築 trúc kiến trúc chiku
 徳 đức đạo đức toku
 季 quý mùa ki
@@ -1200,7 +1209,6 @@
 恐 khủng khủng bố, khủng hoảng kyoo
 齢 linh tuổi rei
 隆 long cao quý ryuu
-誌 chí tạp chí shi
 択 trạch tuyển trạch taku
 居 cư cư trú kyo
 裏 lí đằng sau ri
@@ -1383,7 +1391,6 @@
 照 chiếu tham chiếu shoo
 堀 quật mương -
 謝 tạ cảm tạ, tạ lỗi sha
-悲 bi sầu bi, bi quan hi
 範 phạm phạm vi, mô phạm han
 臓 tạng nội tạng zoo
 茂 mậu mọc sum suê mo
@@ -1819,7 +1826,6 @@
 獄 ngục cai ngục, ngục tù goku
 紋 văn hoa văn mon
 紫 tử tử ngoại shi
-皿 mãnh đĩa -
 芽 nha mầm, manh nha ga
 陵 lăng lăng tẩm ryoo
 蒸 chưng chưng cất joo
