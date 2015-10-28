@@ -218,6 +218,8 @@
 南 nam phương nam nan, na | みなみ
 北 bắc phương bắc hoku | きた
 
+束 thúc bó (hoa) soku | たば
+
 先 tiên tiên sinh, tiên tiến sen
 生 sinh sinh sống, sinh sản sei, shoo
 星 tinh hành tinh, tinh tú sei, shoo
@@ -676,7 +678,9 @@
 
 漢 hán hảo hán kan
 
-要
+腕 oản cánh tay wan | うで
+
+有 hữu sở hữu, hữu hạn yuu, u | あ.る
 
 
 
@@ -793,7 +797,6 @@
 裁 tài may vá, tài phán, trọng tài sai
 提 đề cung cấp, đề cung tei
 能 năng năng lực, tài năng noo
-有 hữu sở hữu, hữu hạn yuu, u
 沢 trạch đầm lầy taku
 義 nghĩa ý nghĩa, nghĩa lí, đạo nghĩa gi
 由 do tự do, lí do yu, yuu, yui
@@ -1300,7 +1303,6 @@
 骨 cốt xương, cốt nhục kotsu
 傾 khuynh khuynh đảo, khuynh hướng kei
 還 hoàn hoàn trả kan
-束 thúc bó (hoa) soku
 伴 bạn đi cùng han, ban
 跡 tích dấu tích, vết tích seki
 君 quân quân chủ, quân vương kun
@@ -1513,7 +1515,6 @@
 胸 hung ngực kyoo
 舎 xá cư xá sha
 飾 sức trang sức shoku
-腕 oản cánh tay wan
 即 tức tức thì, lập tức, tức là soku
 翼 dực cánh yoku
 貫 quán xuyên qua, quán xuyến kan
