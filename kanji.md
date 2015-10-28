@@ -668,6 +668,10 @@
 
 重 trọng, trùng trọng lượng; trùng phùng juu, choo | おも.い
 
+誕 đản sinh ra tan | 
+
+次
+
 
 
 
@@ -1423,7 +1427,6 @@
 裂 liệt rách retsu
 埋 mai chôn mai
 至 chí đến shi
-誕 đản sinh ra tan
 皮 bì da hi
 堅 kiên kiên cố ken
 勉 miễn miễn cưỡng, chăm chỉ ben
