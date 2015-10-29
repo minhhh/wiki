@@ -100,6 +100,7 @@
 外 ngoại ngoài, ngoại thành, ngoại đạo gai, ge | ほか
 
 長 trường, trưởng trường giang, sở trường; hiệu trưởng choo | なが.い
+帳 trướng sổ choo | とばり
 
 入 nhập nhập cảnh, nhập môn, nhập viện nyuu | い.れる
 出 xuất xuất hiện, xuất phát shutsu, sui | で.る
@@ -383,7 +384,7 @@
 
 沖 xung ngoài khơi chuu
 
-番 phiên thứ tự, phiên hiệu ban
+番 phiên thứ tự, phiên hiệu ban | つが.い
 
 弱 nhược nhược điểm, nhược tiểu jaku
 
@@ -466,8 +467,6 @@
 
 科 khoa khoa học, chuyên khoa ka |
 
-遊 du du hí, du lịch yuu, yu | あそ.び
-
 結 kết đoàn kết, kết thúc ketsu | 
 
 住 trú, trụ cư trú; trụ sở juu | す.む
@@ -490,6 +489,7 @@
 通 thông thông qua, thông hành, phổ thông tsuu, tsu |
 運 vận vận chuyển, vận mệnh un | はこ.ぶ
 遠 viễn viễn phương, vĩnh viễn en, on | とお
+遊 du du hí, du lịch yuu, yu | あそ.び
 
 呉 ngô triều Ngô, Trung quốc, cho ai, go | くれる
 
@@ -690,7 +690,7 @@
 
 良 lương tốt, lương tâm, lương tri ryoo | よ.い いい
 
-帳 trướng sổ choo | とばり
+
 
 
 
