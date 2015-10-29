@@ -688,6 +688,11 @@
 
 達 đạt đạt tới, điều đạt, thành đạt tatsu | -たち
 
+良 lương tốt, lương tâm, lương tri ryoo | よ.い いい
+
+帳 trướng sổ choo | とばり
+
+
 
 
 
@@ -924,7 +929,6 @@
 型 hình khuôn hình, mô hình kei
 室 thất phòng, giáo thất shitsu
 路 lộ đường, không lộ, thủy lộ ro
-良 lương tốt, lương tâm, lương tri ryoo
 復 phục phục thù, hồi phục fuku
 課 khóa khóa học, chính khóa ka
 環 hoàn hoàn cảnh, tuần hoàn kan
@@ -1744,7 +1748,6 @@
 訂 đính đính chính tei
 緯 vĩ vĩ độ I
 佳 giai giai nhân ka
-帳 trướng sổ choo
 苗 miêu mầm byoo
 据 cư đặt, để -
 径 kính bán kính kei
