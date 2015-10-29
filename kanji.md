@@ -303,7 +303,8 @@
 
 身 thân thân thể, thân phận shin
 
-花 hoa hoa, bông hoa ka
+花 hoa hoa, bông hoa ka | はな
+菓 quả hoa quả ka | 
 
 置 trí bố trí, bài trí, vị trí chi | お.く
 
@@ -694,10 +695,7 @@
 
 坊 phường phường , con trai boo, bo |
 
-
-
-
-
+蔭 shade;  shadow;  backing assistance イン  オン | かげ
 
 
 
@@ -1874,7 +1872,6 @@
 把 bả cầm ha
 舟 chu thuyền shuu
 架 giá cái giá ka
-菓 quả hoa quả ka
 朴 phác chất phác boku
 艇 đĩnh thuyền nhỏ tei
 憂 ưu ưu phiền yuu
