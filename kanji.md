@@ -242,6 +242,7 @@
 竹 trúc trúc chiku
 等 đẳng bình đẳng, đẳng cấp too
 筆 bút bút hitsu | ふで
+笑 tiếu cười shoo | わら.う
 
 書 thư thư đạo, thư tịch, thư kí sho | 
 
@@ -254,6 +255,7 @@
 車 xa xe cộ, xa lộ sha | くるま
 輪 luân bánh xe, luân hồi rin | わ
 軽 khinh khinh suất, khinh khi kei | かるい
+転 chuyển chuyển động ten | ころ.ぶ
 
 食 thực ẩm thực, thực đường shoku, jiki | た.べる
 
@@ -690,6 +692,8 @@
 
 良 lương tốt, lương tâm, lương tri ryoo | よ.い いい
 
+坊 phường phường , con trai boo, bo |
+
 
 
 
@@ -843,7 +847,6 @@
 与 dữ, dự cấp dữ, tham dự yo
 断 đoạn, đoán phán đoán, đoạn tuyệt dan
 真 chân chân lí, chân thực shin
-転 chuyển chuyển động ten
 施 thi thực thi, thi hành shi, se
 庁 sảnh đại sảnh choo
 害 hại có hại, độc hại, lợi hại gai
@@ -1273,7 +1276,6 @@
 撤 triệt triệt thoái tetsu
 納 nạp nộp noo, naQ, na, nan, too
 街 nhai phố xá gai, kai
-笑 tiếu cười shoo
 栄 vinh vinh quang, vinh hạnh ei
 救 cứu cấp cứu, cứu trợ kyuu
 願 nguyện tự nguyện, tình nguyện gan
@@ -1909,7 +1911,6 @@
 諾 nặc chấp thuận daku
 俸 bổng lương bổng, bổng lộc hoo
 履 lí đi, mặc ri
-坊 phường phường boo, boQ
 穀 cốc ngũ cốc koku
 呈 trình trình bày, đệ trình tei
 髄 tủy xương tủy zui
