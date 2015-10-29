@@ -234,7 +234,7 @@
 作 tác tác phẩm, công tác, canh tác saku, sa | つく.る
 用 dụng sử dụng, dụng cụ, công dụng yoo
 
-動 động hoạt động, chuyển động doo
+動 động hoạt động, chuyển động doo | うご.く
 物 vật động vật butsu, motsu
 
 色 sắc màu sắc, sắc dục shoku, shiki
@@ -427,7 +427,7 @@
 
 個 cá cá nhân, cá thể ko | か
 
-着 trước đến, đáo trước, mặc chaku, jaku | きる
+着 trước đến, đáo trước, mặc chaku, jaku | き.る
 
 剤 tễ dịch tễ zai
 
