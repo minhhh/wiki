@@ -50,6 +50,7 @@
 体 thể hình thể, thân thể, thể thao tai, tei | からだ
 米 mễ gạo bei, mai | こめ
 未 vị vị thành niên, vị lai mi | ま.だ
+味 vị vị giác, mùi vị mi | あじ.わう
 楽 lạc, nhạc an lạc, lạc thú, âm nhạc gaku, raku | たの.しい
 果 quả hoa quả, thành quả, kết quả ka | くだ.もの
 困 khốn khốn cùng kon | こま.る
@@ -697,7 +698,7 @@
 
 蔭 shade;  shadow;  backing assistance イン  オン | かげ
 
-
+拭 wipe;  mop;  swab ショク | ふ.く
 
 
 
