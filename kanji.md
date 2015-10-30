@@ -700,6 +700,9 @@
 
 拭 wipe;  mop;  swab ショク | ふ.く
 
+司 ti, tư công ti, tư lệnh, director,  shi | つかさど.る
+
+
 
 
 
@@ -1035,7 +1038,6 @@
 苦 khổ khổ cực, cùng khổ ku
 幅 phúc bề ngang fuku
 劇 kịch kịch bản, vở kịch, kịch tính geki
-司 ti, tư công ti, tư lệnh shi
 周 chu chu vi, chu biên shuu
 拡 khuếch khuếch đại kaku
 週 chu tuần shuu
