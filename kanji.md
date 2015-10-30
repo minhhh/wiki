@@ -238,7 +238,7 @@
 動 động hoạt động, chuyển động doo | うご.く
 物 vật động vật butsu, motsu
 
-色 sắc màu sắc, sắc dục shoku, shiki
+色 sắc màu sắc, sắc dục shoku, shiki | いろ
 
 竹 trúc trúc chiku
 等 đẳng bình đẳng, đẳng cấp too
@@ -261,7 +261,7 @@
 食 thực ẩm thực, thực đường shoku, jiki | た.べる
 
 工 công công tác, công nhân koo, ku
-空 không không khí, hư không, hàng không kuu
+空 không không khí, hư không, hàng không kuu | そら , す.く
 士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
 売 mại thương mại bai
 貝 bối vỏ sò -
@@ -306,6 +306,7 @@
 
 花 hoa hoa, bông hoa ka | はな
 菓 quả hoa quả ka | 
+黄 hoàng hoàng kim koo ,oo | き
 
 置 trí bố trí, bài trí, vị trí chi | お.く
 
@@ -702,8 +703,9 @@
 
 司 ti, tư công ti, tư lệnh, director,  shi | つかさど.る
 
+薔薇 rose | ばら
 
-
+優 ưu ưu việt, ưu thế, ưu tiên yuu | やさ.しい
 
 
 
@@ -831,7 +833,6 @@
 常 thường bình thường, thông thường joo
 応 ứng đáp ứng, ứng đối, phản ứng oo
 争 tranh đấu tranh, chiến tranh, tranh luận, cạnh tranh soo
-優 ưu ưu việt, ưu thế, ưu tiên yuu
 護 hộ bảo hộ, phòng hộ, hộ vệ go
 率 suất thống suất, xác suất, tỉ lệ suất sotsu, ritsu
 算 toán tính toán, kế toán, toán học san
@@ -1575,7 +1576,6 @@
 湖 hồ ao hồ ko
 遇 ngộ tao ngộ, đãi ngộ guu
 礎 sở cơ sở so
-黄 hoàng hoàng kim koo ,oo
 聖 thánh thánh ca sei
 菜 thái rau sai
 尽 tận tận lực jin
