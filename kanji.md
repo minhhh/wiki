@@ -222,7 +222,7 @@
 
 束 thúc bó (hoa) soku | たば
 
-先 tiên tiên sinh, tiên tiến sen
+先 tiên tiên sinh, tiên tiến sen | さき
 生 sinh sinh sống, sinh sản sei, shoo
 星 tinh hành tinh, tinh tú sei, shoo
 
@@ -491,7 +491,7 @@
 
 帰 quy hồi quy ki | かえ.り
 
-愛 ái yêu, ái tình, ái mộ ai　
+愛 ái yêu, ái tình, ái mộ ai | かな.しい
 
 酒 tửu rượu shu | さけ
 
@@ -711,8 +711,11 @@
 
 麗 lệ mĩ lệ rei | うるわ.しい
 
+寒 hàn lạnh kan | さむ.い
 
+財 tài tiền tài, tài sản zai, sai | たから
 
+布 bố vải, tuyên bố fu | ぬの
 
 
 
@@ -921,7 +924,6 @@
 授 thụ đưa cho, truyền thụ, giáo thụ ju
 衛 vệ bảo vệ, vệ tinh, vệ sinh ei
 器 khí khí cụ, cơ khí, dung khí ki
-財 tài tiền tài, tài sản zai, sai
 値 trị giá trị chi
 退 thoái triệt thoái, thoái lui tai
 姿 tư tư thế, tư dung, tư sắc shi
@@ -1664,7 +1666,6 @@
 彰 chương hiển chương shoo
 浄 tịnh thanh tịnh joo
 懲 trừng trừng phạt choo
-寒 hàn lạnh kan
 潜 tiềm tiềm ẩn, tiềm thức sen
 秩 trật trật tự chitsu
 慨 khái khảng khái, phẫn khái gai
@@ -1766,7 +1767,6 @@
 虐 ngược ngược đãi gyaku
 卸 tá bán buôn -
 匹 thất <đếm con vật> hitsu
-布 bố vải, tuyên bố fu
 逸 dật ẩn dật itsu
 軌 quỹ quỹ đạo ki
 鑑 giám giám định kan
