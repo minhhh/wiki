@@ -366,6 +366,8 @@
 緒 tự tình tự sho, cho | いとぐち beginning
 細 tế tinh tế, tường tế, tế bào, mỏng sai | ほそ.い
 続 tục tiếp tục zoku | つづ.く
+綺 beautiful キ | あや
+締 đế buộc tei | し.める
 
 矢 thỉ mũi tên shi
 医 y y học, y viện I
@@ -706,6 +708,8 @@
 薔薇 rose | ばら
 
 優 ưu ưu việt, ưu thế, ưu tiên yuu | やさ.しい
+
+麗 lệ mĩ lệ rei | うるわ.しい
 
 
 
@@ -1124,7 +1128,6 @@
 順 thuận tòng thuận, thuận tự jun
 辞 từ từ vựng, từ chức ji
 散 tán, tản phấn tán, tản mát san
-締 đế buộc tei
 妻 thê thê tử sai
 因 nhân nguyên nhân in
 津 tân bờ biển shin
@@ -1927,7 +1930,6 @@
 寮 liêu kí túc xá ryoo
 赦 xá tha thứ, dung xá, xá tội sha
 赴 phó fu
-麗 lệ mĩ lệ rei
 宰 tể chúa tể, tể tướng sai
 殴 ẩu ẩu đả oo
 怠 đãi lười biếng tai
