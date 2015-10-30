@@ -236,7 +236,7 @@
 用 dụng sử dụng, dụng cụ, công dụng yoo
 
 動 động hoạt động, chuyển động doo | うご.く
-物 vật động vật butsu, motsu
+物 vật động vật butsu, motsu | もの
 
 色 sắc màu sắc, sắc dục shoku, shiki | いろ
 
@@ -244,6 +244,7 @@
 等 đẳng bình đẳng, đẳng cấp too
 筆 bút bút hitsu | ふで
 笑 tiếu cười shoo | わら.う
+答 đáp trả lời, vấn đáp, đáp ứng too | こた.える
 
 書 thư thư đạo, thư tịch, thư kí sho | 
 
@@ -307,6 +308,7 @@
 花 hoa hoa, bông hoa ka | はな
 菓 quả hoa quả ka | 
 黄 hoàng hoàng kim koo ,oo | き
+荷 hà hành lí ka | に
 
 置 trí bố trí, bài trí, vị trí chi | お.く
 
@@ -661,8 +663,6 @@
 
 春 xuân mùa xuân, thanh xuân shun | はる
 
-答 đáp trả lời, vấn đáp, đáp ứng too | こた.える
-
 数 số số lượng suu, su | かず かぞ.える
 
 騒 tao tao động soo | さわ.ぐ
@@ -710,7 +710,6 @@
 優 ưu ưu việt, ưu thế, ưu tiên yuu | やさ.しい
 
 麗 lệ mĩ lệ rei | うるわ.しい
-
 
 
 
@@ -1434,7 +1433,6 @@
 戒 giới cảnh giới kai
 沿 duyên ven, dọc theo en
 敏 mẫn mẫn cảm bin
-荷 hà hành lí ka
 御 ngự ngự uyển gyo, go
 邸 để trang trại tei
 砂 sa cát sa, sha
