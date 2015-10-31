@@ -736,6 +736,8 @@
 
 妻 thê thê tử sai | つま
 
+冷 lãnh lạnh, lãnh đạm rei |  つめ.たい
+
 
 
 
@@ -1087,7 +1089,6 @@
 危 nguy nguy hiểm, nguy cơ ki
 債 trái nợ, quốc trái, công trái sai
 航 hàng hàng không, hàng hải koo
-冷 lãnh lạnh, lãnh đạm rei
 廃 phế tàn phế, hoang phế hai
 盟 minh đồng minh, gia minh mei
 庫 khố kho, xa khố, kim khố ko, ku
