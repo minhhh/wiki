@@ -488,8 +488,6 @@
 
 背 bối bối cảnh hai | せい
 
-後 hậu sau, hậu quả, hậu sự go, koo | あと
-
 痛 thống thống khổ tsuu | いた.い
 病 bệnh bệnh nhân, bệnh viện, bệnh tật byoo, hei | や.む
 
@@ -738,7 +736,7 @@
 
 冷 lãnh lạnh, lãnh đạm rei |  つめ.たい
 
-
+勉 miễn miễn cưỡng, chăm chỉ ben | つと.める
 
 
 
@@ -1467,7 +1465,6 @@
 至 chí đến shi
 皮 bì da hi
 堅 kiên kiên cố ken
-勉 miễn miễn cưỡng, chăm chỉ ben
 袋 đại cái túi tai
 琴 cầm đàn, độc huyền cầm kin
 喪 tang đám tang soo
