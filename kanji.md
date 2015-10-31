@@ -38,9 +38,13 @@
 太 thái thái dương, thái bình tai, ta | ふとい
 夫 phu trượng phu, phu phụ fu, fuu | おっと
 天 thiên thiên thạch, thiên nhiên, thiên đường ten | あめ
+
+
 小 tiểu nhỏ, ít shoo | ちい.さい
 少 thiếu, thiểu thiếu niên; thiểu số shoo | すく.ない, すこ.し
 多 đa đa số ta | おお.い
+
+
 
 木 mộc cây, gỗ boku, moku | き
 林 lâm lâm sản, lâm nghiệp rin | はやし
@@ -134,6 +138,8 @@
 姉 tỉ chị gái shi | あね
 婦 phụ phụ nữ, dâm phụ fu | よめ
 要 yêu, yếu yêu cầu; chủ yếu yoo | かなめ い.る
+婚 hôn kết hôn, hôn nhân kon | 
+
 
 古 cổ cũ, cổ điển, đồ cổ ko | ふる.い
 早 tảo sớm, tảo hôn soo, sa | はや
@@ -370,6 +376,8 @@
 続 tục tiếp tục zoku | つづ.く
 綺 beautiful キ | あや
 締 đế buộc tei | し.める
+結 kết đoàn kết, kết thúc ketsu | むす.ぶ
+
 
 矢 thỉ mũi tên shi
 医 y y học, y viện I
@@ -472,11 +480,7 @@
 
 他 tha khác, tha hương, vị tha ta | ほか
 
-婚 hôn kết hôn, hôn nhân kon | 
-
 科 khoa khoa học, chuyên khoa ka |
-
-結 kết đoàn kết, kết thúc ketsu | 
 
 住 trú, trụ cư trú; trụ sở juu | す.む
 
@@ -716,6 +720,15 @@
 財 tài tiền tài, tài sản zai, sai | たから
 
 布 bố vải, tuyên bố fu | ぬの
+
+根 căn gốc, căn bản, căn cứ kon | ね
+
+髪 phát tóc hatsu | かみ
+
+毛 mao lông moo | け
+
+伸 thân dãn ra shin | の.びる
+
 
 
 
@@ -984,7 +997,6 @@
 鮮 tiên sáng, tươi, tiên minh (tươi đẹp), tân tiên sen
 効 hiệu hiệu quả, hiệu ứng, công hiệu koo
 被 bị bị, bị động, bị cáo hi
-根 căn gốc, căn bản, căn cứ kon
 光 quang ánh sáng, nhật quang, quang minh koo
 渉 thiệp can thiệp, giao thiệp shoo
 融 dung tan chảy, dung hòa, dung hợp yuu
@@ -1110,7 +1122,6 @@
 禁 cấm cấm đoán, nghiêm cấm kin
 短 đoản đoản mệnh, sở đoản tan
 彼 bỉ anh ta hi
-伸 thân dãn ra shin
 継 kế kế tục kei
 圧 áp áp lực, trấn áp atsu
 績 tích thành tích seki
@@ -1466,7 +1477,6 @@
 快 khoái khoái lạc kai
 克 khắc khắc phục koku
 柳 liễu cây liễu ryuu
-毛 mao lông moo
 吸 hấp hô hấp, hấp thu kyuu
 閥 phiệt tài phiệt batsu
 吹 xúy thổi, cổ xúy sui
@@ -1709,7 +1719,6 @@
 霊 linh linh hồn rei, ryoo
 剛 cương cứng goo
 湿 thấp ẩm thấp shitsu
-髪 phát tóc hatsu
 零 linh số không rei
 悔 hối hối hận kai
 穂 tuệ tai sui
