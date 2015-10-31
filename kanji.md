@@ -39,12 +39,15 @@
 夫 phu trượng phu, phu phụ fu, fuu | おっと
 天 thiên thiên thạch, thiên nhiên, thiên đường ten | あめ
 
+個 cá cá nhân, cá thể ko | か
+伸 thân dãn ra shin | の.びる
+囚 tù tù nhân shuu
+仮 giả giả thuyết, giả trang, giả dối ka, ke
+丈 trượng trượng joo | たけ だけ
 
 小 tiểu nhỏ, ít shoo | ちい.さい
 少 thiếu, thiểu thiếu niên; thiểu số shoo | すく.ない, すこ.し
 多 đa đa số ta | おお.い
-
-
 
 木 mộc cây, gỗ boku, moku | き
 林 lâm lâm sản, lâm nghiệp rin | はやし
@@ -252,7 +255,7 @@
 笑 tiếu cười shoo | わら.う
 答 đáp trả lời, vấn đáp, đáp ứng too | こた.える
 
-書 thư thư đạo, thư tịch, thư kí sho | 
+書 thư thư đạo, thư tịch, thư kí sho | か.く
 
 斤 cân cân (kilo), cái rìu kin
 近 cận thân cận, cận thị, cận cảnh kin |  ちか.い
@@ -440,7 +443,6 @@
 
 叩 strike, beat, hit tataku
 
-個 cá cá nhân, cá thể ko | か
 
 着 trước đến, đáo trước, mặc chaku, jaku | き.る
 
@@ -577,7 +579,6 @@
 
 桃 đào cây đào too | もも
 
-囚 tù tù nhân shuu
 
 流 lưu lưu lượng, hạ lưu, lưu hành ryuu, ru | なが.れる
 
@@ -727,8 +728,11 @@
 
 毛 mao lông moo | け
 
-伸 thân dãn ra shin | の.びる
+片 phiến tấm hen | かた
 
+欲 dục dục vọng yoku | ほ.しい
+
+咲 tiếu nở hoa - | さ.く
 
 
 
@@ -1263,7 +1267,6 @@
 緩 hoãn hòa hoãn kan
 汚 ô ô nhiễm o
 招 chiêu chiêu đãi shoo
-欲 dục dục vọng yoku
 染 nhiễm ô nhiễm sen
 葬 táng an táng soo
 養 dưỡng dưỡng dục yoo
@@ -1388,7 +1391,6 @@
 訟 tụng tố tụng shoo
 撮 toát chụp ảnh satsu
 誉 dự danh dự yo
-片 phiến tấm hen
 刺 thích, thứ thích khách shi
 勧 khuyến khuyến cáo kan
 甲 giáp vỏ sò, thứ nhất koo,kan
@@ -1416,7 +1418,6 @@
 忠 trung trung thành, trung thực chuu
 綱 cương kỉ cương koo
 紛 phân phân vân fun
-仮 giả giả thuyết, giả trang, giả dối ka, ke
 泉 tuyền suối sen
 駐 trú đồn trú chuu
 芝 chi cỏ -
@@ -1610,7 +1611,6 @@
 賢 hiền hiền thần, hiền nhân ken
 添 thiêm thêm vào ten
 珍 trân trân trọng, trân quý chin
-丈 trượng trượng joo
 炉 lô lò ro
 倫 luân luân lí rin
 脚 cước cẳng chân kyaku, kya
@@ -1770,7 +1770,6 @@
 磁 từ từ tính, từ trường ji
 缶 phữu đồ hộp kan
 猛 mãnh mãnh liệt moo
-咲 tiếu nở hoa -
 粒 lạp hạt ryuu
 肺 phế phổi hai
 虐 ngược ngược đãi gyaku
