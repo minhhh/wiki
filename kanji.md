@@ -393,7 +393,7 @@
 
 員 viên thành viên, nhân viên in | 
 
-夜 dạ ban đêm, dạ cảnh, dạ quang ya
+夜 dạ ban đêm, dạ cảnh, dạ quang ya | よる
 
 驚 kinh kinh ngạc, kinh sợ kyoo
 
@@ -733,6 +733,10 @@
 欲 dục dục vọng yoku | ほ.しい
 
 咲 tiếu nở hoa - | さ.く
+
+妻 thê thê tử sai | つま
+
+
 
 
 
@@ -1144,7 +1148,6 @@
 順 thuận tòng thuận, thuận tự jun
 辞 từ từ vựng, từ chức ji
 散 tán, tản phấn tán, tản mát san
-妻 thê thê tử sai
 因 nhân nguyên nhân in
 津 tân bờ biển shin
 途 đồ tiền đồ to
