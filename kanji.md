@@ -757,6 +757,10 @@
 疋 sơ  head ヒキ ショ ソ  ヒツ | あし
 題 đề đề tài, đề mục, chủ đề dai
 
+柿 THỊ シ |  かき  こけら
+
+実 thực sự thực, chân thực jitsu | み
+
 
 
 民 dân quốc dân, dân tộc min
@@ -767,7 +771,6 @@
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
 相 tương, tướng tương hỗ, tương tự, tương đương; thủ tướng soo, shoo
-実 thực sự thực, chân thực jitsu
 治 trị cai trị, trị an, trị bệnh chi, ji
 経 kinh kinh tế, sách kinh, kinh độ kei, kyoo
 制 chế chế ngự, thể chế, chế độ sei
