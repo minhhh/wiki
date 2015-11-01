@@ -29,6 +29,8 @@
 沖 xung ngoài khơi chuu
 洗 tiển rửa sen | あら.う
 汽 khí không khí, hơi ki
+気 khí không khí, khí chất, khí khái, khí phách ki, ke | いき
+
 
 火 hỏa lửa ka | ひ
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
@@ -245,8 +247,6 @@
 午 ngọ chính ngọ go | ひる, うま
 牛 ngưu con trâu gyuu | うし
 件 kiện điều kiện, sự kiện, bưu kiện ken | くだん
-
-気 khí không khí, khí chất, khí khái, khí phách ki, ke
 
 作 tác tác phẩm, công tác, canh tác saku, sa | つく.る
 用 dụng sử dụng, dụng cụ, công dụng yoo
