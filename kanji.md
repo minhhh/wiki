@@ -52,13 +52,14 @@
 
 個 cá cá nhân, cá thể ko | か
 伸 thân dãn ra shin | の.びる
-信 tín uy tín, tín thác, thư tín shin | 
+信 tín uy tín, tín thác, thư tín shin |
 仮 giả giả thuyết, giả trang, giả dối ka, ke
 作 tác tác phẩm, công tác, canh tác saku, sa | つく.る
+傍 bàng bàng quan boo
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
-才 tài tài năng sai | 
+才 tài tài năng sai |
 
 小 tiểu nhỏ, ít shoo | ちい.さい
 少 thiếu, thiểu thiếu niên; thiểu số shoo | すく.ない, すこ.し
@@ -156,7 +157,7 @@
 姉 tỉ chị gái shi | あね
 婦 phụ phụ nữ, dâm phụ fu | よめ
 要 yêu, yếu yêu cầu; chủ yếu yoo | かなめ い.る
-婚 hôn kết hôn, hôn nhân kon | 
+婚 hôn kết hôn, hôn nhân kon |
 
 
 古 cổ cũ, cổ điển, đồ cổ ko | ふる.い
@@ -228,8 +229,8 @@
 計 kê, kế thống kê; kế hoạch, kế toán kei | はか.る
 己 kỉ tự kỉ, vị kỉ ko, ki
 記 kí thư kí, kí sự, kí ức ki | しる.す
-誌 chí tạp chí shi | 
-議 nghị nghị luận, nghị sự gi
+誌 chí tạp chí shi |
+議 nghị nghị luận, nghị sự gi |
 
 舌 thiệt cái lưỡi zetsu | した
 話 thoại nói chuyện, đối thoại, giai thoại wa | はな.す
@@ -288,8 +289,8 @@
 空 không không khí, hư không, hàng không kuu | そら , す.く
 士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
 売 mại thương mại bai
-貝 bối vỏ sò -
-買 mãi mua, khuyến mãi bai
+貝 bối vỏ sò - | かい
+買 mãi mua, khuyến mãi bai | か.う
 
 青 thanh xanh, thanh thiên, thanh niên sei, shoo
 晴 tình trong xanh sei
@@ -329,7 +330,7 @@
 身 thân thân thể, thân phận shin
 
 花 hoa hoa, bông hoa ka | はな
-菓 quả hoa quả ka | 
+菓 quả hoa quả ka |
 黄 hoàng hoàng kim koo ,oo | き
 荷 hà hành lí ka | に
 
@@ -403,7 +404,7 @@
 
 役 dịch chức vụ, nô dịch eki, yaku
 
-員 viên thành viên, nhân viên in | 
+員 viên thành viên, nhân viên in |
 
 夜 dạ ban đêm, dạ cảnh, dạ quang ya | よる
 
@@ -528,6 +529,7 @@
 
 馬 mã ngựa ba | うま
 駅 dịch ga eki |
+駄 đà thồ hàng da
 
 甘 cam ngọt, cam chịu kan | あまい
 期 kì thời kì, kì hạn ki, go
@@ -750,6 +752,11 @@
 
 又 hựu lại -
 
+宿 túc tá túc, kí túc xá shuku
+
+疋 sơ  head ヒキ ショ ソ  ヒツ | あし
+題 đề đề tài, đề mục, chủ đề dai
+
 
 
 民 dân quốc dân, dân tộc min
@@ -775,7 +782,6 @@
 務 vụ chức vụ, nhiệm vụ mu
 機 cơ cơ khí, thời cơ, phi cơ ki
 成 thành thành tựu, hoàn thành, trở thành sei, joo
-題 đề đề tài, đề mục, chủ đề dai
 総 tổng tổng số, tổng cộng soo
 産 sản sản xuất, sinh sản, cộng sản san
 県 huyện huyện, tỉnh ken
@@ -1182,7 +1188,6 @@
 適 thích thích hợp teki
 属 thuộc phụ thuộc zoku
 震 chấn địa chấn shin
-宿 túc tá túc, kí túc xá shuku
 押 áp ấn oo
 脱 thoát giải thoát datsu
 欠 khiếm khiếm khuyết ketsu
@@ -1822,7 +1827,6 @@
 亭 đình cái đình tei
 刈 ngải cắt cỏ -
 銅 đồng chất đồng doo
-駄 đà thồ hàng da
 棚 bằng cái giá -
 幻 huyễn huyễn hoặc gen
 巣 sào sào huyệt soo
@@ -1923,7 +1927,6 @@
 頻 tần tần số, tần suất hin
 灰 hôi tro kai
 鼻 tị mũi bi
-傍 bàng bàng quan boo
 践 tiễn thực tiễn sen
 洞 động hang động doo
 諾 nặc chấp thuận daku
