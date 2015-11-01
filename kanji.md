@@ -71,12 +71,14 @@
 休 hưu hưu trí, hưu nhàn kyuu | やすみ
 本 bản sách, cơ bản, nguyên bản, bản chất hon | もと
 体 thể hình thể, thân thể, thể thao tai, tei | からだ
-米 mễ gạo bei, mai | こめ
 未 vị vị thành niên, vị lai mi | ま.だ
 味 vị vị giác, mùi vị mi | あじ.わう
 楽 lạc, nhạc an lạc, lạc thú, âm nhạc gaku, raku | たの.しい
 果 quả hoa quả, thành quả, kết quả ka | くだ.もの
 困 khốn khốn cùng kon | こま.る
+
+米 mễ gạo bei, mai | こめ
+料 liệu nguyên liệu, tài liệu, nhiên liệu ryoo
 
 杯 bôi chén hai | さかずき
 
@@ -393,6 +395,7 @@
 綺 khỉ beautiful キ | あや
 締 đế buộc tei | し.める
 結 kết đoàn kết, kết thúc ketsu | むす.ぶ
+素 tố yếu tố, nguyên tố so, su | もと
 
 
 矢 thỉ mũi tên shi
@@ -441,7 +444,8 @@
 
 変 biến biến đổi, biến thiên hen | か.える か.わる
 
-場 trường hội trường, quảng trường joo
+勿 VẬT モチ  ブツ   ボツ | なか.れ    なし
+場 trường hội trường, quảng trường joo | ば
 
 魚 ngư cá gyo
 
@@ -690,8 +694,6 @@
 
 誕 đản sinh ra tan |
 
-味 vị vị giác, mùi vị mi | あじ.わう
-
 呼 hô gọi tên, hô hoán, hô hấp, hô hào ko | よ.ぶ
 
 漢 hán hảo hán kan
@@ -761,6 +763,11 @@
 
 実 thực sự thực, chân thực jitsu | み
 
+不 bất bất công, bất bình đẳng, bất tài fu, bu
+
+敵 địch quân địch teki | かたき
+
+
 
 
 民 dân quốc dân, dân tộc min
@@ -778,7 +785,6 @@
 戦 chiến chiến tranh, chiến đấu sen
 最 tối nhất (tối cao, tối đa) sai
 調 điều, điệu điều tra, điều hòa; thanh điệu, giai điệu choo
-不 bất bất công, bất bình đẳng, bất tài fu, bu
 勝 thắng thắng lợi, thắng cảnh shoo
 権 quyền chính quyền, quyền uy, quyền lợi ken, gon
 性 tính tính dục, giới tính, bản tính, tính chất sei, shoo
@@ -854,7 +860,6 @@
 軍 quân quân đội, quân sự gun
 井 tỉnh giếng sei, shoo
 格 cách tư cách, cách thức, sở hữu cách kaku, koo
-料 liệu nguyên liệu, tài liệu, nhiên liệu ryoo
 職 chức chức vụ, từ chức shoku
 宮 cung cung điện kyuu, guu, ku
 検 kiểm kiểm tra ken
@@ -1117,7 +1122,6 @@
 装 trang trang phục, hóa trang, trang bị soo, shoo
 就 tựu thành tựu shuu, ju
 塁 lũy thành lũy rui
-素 tố yếu tố, nguyên tố so, su
 異 dị dị bản, dị tộc, dị giáo I
 薬 dược thuốc yaku
 札 trát tiền giấy satsu
@@ -1565,7 +1569,6 @@
 昔 tích ngày xưa seki, shaku
 麻 ma cây tầm ma ma
 緑 lục xanh lục ryoku, roku
-敵 địch quân địch teki
 俳 bài diễn viên hai
 畑 <vườn> vườn -
 泰 thái thái bình tai
