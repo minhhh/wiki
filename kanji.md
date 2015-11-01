@@ -26,6 +26,10 @@
 水 thủy thủy điện sui | みず
 氷 băng băng tuyết hyoo | こおり
 
+沖 xung ngoài khơi chuu
+洗 tiển rửa sen | あら.う
+汽 khí không khí, hơi ki
+
 火 hỏa lửa ka | ひ
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
 
@@ -378,7 +382,7 @@
 緒 tự tình tự sho, cho | いとぐち beginning
 細 tế tinh tế, tường tế, tế bào, mỏng sai | ほそ.い
 続 tục tiếp tục zoku | つづ.く
-綺 beautiful キ | あや
+綺 khỉ beautiful キ | あや
 締 đế buộc tei | し.める
 結 kết đoàn kết, kết thúc ketsu | むす.ぶ
 
@@ -403,7 +407,6 @@
 都 đô đô thị, đô thành to, tsu | みやこ
 部 bộ bộ môn, bộ phận bu |
 
-沖 xung ngoài khơi chuu
 
 番 phiên thứ tự, phiên hiệu ban | つが.い
 
@@ -604,7 +607,6 @@
 
 娘 nương cô nương - | むすめ daughter
 
-
 階 giai giai cấp, giai tầng kai | きざはし
  
 貸 thải cho mượn tai | か.す
@@ -741,6 +743,7 @@
 真 chân chân lí, chân thực shin |  まこと
 
 願 nguyện tự nguyện, tình nguyện gan | -ねがい
+
 
 
 
@@ -1494,7 +1497,6 @@
 翌 dực <tiếp sau> yoku
 硬 ngạnh cứng, ngang ngạnh koo
 歓 hoan hoan nghênh kan
-洗 tiển rửa sen
 仁 nhân nhân nghĩa jin, ni
 柄 bính cái cán hei
 臣 thần trung thần shin, jin
@@ -2089,7 +2091,6 @@
 睡 thụy ngủ, thụy miên sui
 侍 thị người hầu, thị lang ji
 酪 lạc sản phẩm sữa, nước quả ép raku
-汽 khí không khí, hơi ki
 奔 bôn chạy, bôn tẩu hon
 岬 giáp mũi đất -
 羊 dương con dê, con cừu yoo
