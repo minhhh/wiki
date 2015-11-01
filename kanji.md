@@ -41,9 +41,12 @@
 
 個 cá cá nhân, cá thể ko | か
 伸 thân dãn ra shin | の.びる
-囚 tù tù nhân shuu
+信 tín uy tín, tín thác, thư tín shin | 
 仮 giả giả thuyết, giả trang, giả dối ka, ke
+
+囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
+才 tài tài năng sai | 
 
 小 tiểu nhỏ, ít shoo | ちい.さい
 少 thiếu, thiểu thiếu niên; thiểu số shoo | すく.ない, すこ.し
@@ -354,8 +357,6 @@
 毎 mỗi mỗi mai
 海 hải hải cảng, hải phận kai | うみ
 
-才 tài tài năng sai
-
 画 họa, hoạch họa sĩ; kế hoạch ga, kaku | え
 
 屋 ốc phòng ốc oku | や
@@ -637,8 +638,6 @@
 
 神 thần thần, thần thánh, thần dược shin, jin | かみ
 
-信 tín uy tín, tín thác, thư tín shin
-
 停 đình đình chỉ tei | と.める
 
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
@@ -737,6 +736,8 @@
 冷 lãnh lạnh, lãnh đạm rei |  つめ.たい
 
 勉 miễn miễn cưỡng, chăm chỉ ben | つと.める
+
+真 chân chân lí, chân thực shin |  まこと
 
 
 
@@ -878,7 +879,6 @@
 残 tàn tàn dư, tàn tích, tàn đảng zan
 与 dữ, dự cấp dữ, tham dự yo
 断 đoạn, đoán phán đoán, đoạn tuyệt dan
-真 chân chân lí, chân thực shin
 施 thi thực thi, thi hành shi, se
 庁 sảnh đại sảnh choo
 害 hại có hại, độc hại, lợi hại gai
