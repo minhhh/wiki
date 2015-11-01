@@ -11,11 +11,16 @@
 百 bách trăm, bách niên hyaku
 千 thiên nghìn, nhiều, thiên lí sen
 万 vạn vạn, nhiều, vạn vật man, ban
+
 方 phương phương hướng, phương pháp hoo | かた
+旅 lữ lữ hành, lữ khách ryo | たび
 
 月 nguyệt mặt trăng, tháng, nguyệt san, nguyệt thực getsu, gatsu | つき
 明 minh quang minh, minh tinh mei, myoo |  あか.るい
 朝 triều buổi sáng, triều đình choo | あさ
+
+戸 hộ hộ khẩu ko | と
+尸 thi corpse シ |  かたしろ
 肩 kiên vai ken | かた
 
 日 nhật ngày, nhật thực, nhật báo nichi, jitsu | ひ
@@ -49,6 +54,7 @@
 伸 thân dãn ra shin | の.びる
 信 tín uy tín, tín thác, thư tín shin | 
 仮 giả giả thuyết, giả trang, giả dối ka, ke
+作 tác tác phẩm, công tác, canh tác saku, sa | つく.る
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
@@ -223,6 +229,7 @@
 己 kỉ tự kỉ, vị kỉ ko, ki
 記 kí thư kí, kí sự, kí ức ki | しる.す
 誌 chí tạp chí shi | 
+議 nghị nghị luận, nghị sự gi
 
 舌 thiệt cái lưỡi zetsu | した
 話 thoại nói chuyện, đối thoại, giai thoại wa | はな.す
@@ -248,7 +255,6 @@
 牛 ngưu con trâu gyuu | うし
 件 kiện điều kiện, sự kiện, bưu kiện ken | くだん
 
-作 tác tác phẩm, công tác, canh tác saku, sa | つく.る
 用 dụng sử dụng, dụng cụ, công dụng yoo
 
 動 động hoạt động, chuyển động doo | うご.く
@@ -276,6 +282,7 @@
 転 chuyển chuyển động ten | ころ.ぶ
 
 食 thực ẩm thực, thực đường shoku, jiki | た.べる
+飯 phạn cơm han | めし
 
 工 công công tác, công nhân koo, ku
 空 không không khí, hư không, hàng không kuu | そら , す.く
@@ -527,7 +534,6 @@
 
 苺 strawberry | いちご
 
-旅 lữ lữ hành, lữ khách ryo | たび
 
 晩 vãn buổi tối ban |
 
@@ -632,8 +638,6 @@
 歳 tuế tuổi, năm, tuế nguyệt sai, sei | とし
 
 辛 tân cay shin | から.い
-
-飯 phạn cơm han | めし
 
 檎 cầm táo ゴ
 
@@ -744,13 +748,12 @@
 
 願 nguyện tự nguyện, tình nguyện gan | -ねがい
 
-
+又 hựu lại -
 
 
 
 民 dân quốc dân, dân tộc min
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
-議 nghị nghị luận, nghị sự gi
 的 đích mục đích, đích thực teki
 発 phát xuất phát, phát kiến, phát hiện, phát ngôn hatsu, hotsu
 対 đối đối diện, phản đối, đối với tai, tsui
@@ -978,7 +981,6 @@
 訪 phóng, phỏng phóng sự; phỏng vấn hoo
 憲 hiến hiến pháp, hiến binh ken
 史 sử lịch sử, sử sách shi
-戸 hộ hộ khẩu ko
 秒 miểu giây (1/60 phút) byoo
 風 phong phong ba, phong cách, phong tục fuu, fu
 極 cực cực lực, cùng cực, địa cực kyoku, goku
@@ -2028,7 +2030,6 @@
 藩 phiên han
 疾 tật tật bệnh shitsu
 昆 côn côn trùng kon
-又 hựu lại -
 淑 thục hiền thục shuku
 偵 trinh trinh thám tei
 篤 đốc toku
