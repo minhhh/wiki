@@ -190,7 +190,7 @@
 
 市 thị thành thị, thị trường shi
 
-回 hồi vu hồi, chương hồi kai, e
+回 hồi vu hồi, chương hồi kai, e | まわ.る
 
 川 xuyên sông sen | がわ
 
@@ -520,6 +520,7 @@
 駅 dịch ga eki |
 
 甘 cam ngọt, cam chịu kan | あまい
+期 kì thời kì, kì hạn ki, go
 
 苺 strawberry | いちご
 
@@ -739,6 +740,9 @@
 
 真 chân chân lí, chân thực shin |  まこと
 
+願 nguyện tự nguyện, tình nguyện gan | -ねがい
+
+
 
 
 民 dân quốc dân, dân tộc min
@@ -763,7 +767,6 @@
 権 quyền chính quyền, quyền uy, quyền lợi ken, gon
 性 tính tính dục, giới tính, bản tính, tính chất sei, shoo
 務 vụ chức vụ, nhiệm vụ mu
-期 kì thời kì, kì hạn ki, go
 機 cơ cơ khí, thời cơ, phi cơ ki
 成 thành thành tựu, hoàn thành, trở thành sei, joo
 題 đề đề tài, đề mục, chủ đề dai
@@ -1302,7 +1305,6 @@
 街 nhai phố xá gai, kai
 栄 vinh vinh quang, vinh hạnh ei
 救 cứu cấp cứu, cứu trợ kyuu
-願 nguyện tự nguyện, tình nguyện gan
 仲 trọng trọng tài chuu
 裕 dụ giàu sang yuu
 賃 nhẫm tiền thuê chin
