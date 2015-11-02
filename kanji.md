@@ -36,7 +36,6 @@
 汽 khí không khí, hơi ki
 気 khí không khí, khí chất, khí khái, khí phách ki, ke | いき
 
-
 火 hỏa lửa ka | ひ
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
 
@@ -79,6 +78,8 @@
 
 米 mễ gạo bei, mai | こめ
 料 liệu nguyên liệu, tài liệu, nhiên liệu ryoo
+類 loại chủng loại rui | たぐ.い
+頁 ケツ  ぺえじ | おおがい   かしら
 
 杯 bôi chén hai | さかずき
 
@@ -116,6 +117,8 @@
 会 hội hội họp, đại hội kai, e | あ。う
 合 hợp thích hợp, hội họp, hợp lí goo, gaQ, kaQ | あ。う
 今 kim đương kim, kim nhật kon, kin | いま
+鏡 kính gương kính kyoo | かがみ
+
 当 đương, đáng chính đáng; đương thời, tương đương too | あ.たり
 年 niên năm, niên đại nen | とし
 
@@ -360,8 +363,6 @@
 拾 thập nhặt shuu, juu | ひろ.う
 探 thám do thám, thám hiểm tan | さが.す
 
-氏 thị họ shi
-
 考 khảo khảo sát, tư khảo koo | かんが.え
 
 何 hà cái gì, hà cớ ka
@@ -395,8 +396,8 @@
 綺 khỉ beautiful キ | あや
 締 đế buộc tei | し.める
 結 kết đoàn kết, kết thúc ketsu | むす.ぶ
+線 tuyến dây, tiền tuyến, điện tuyến, vô tuyến sen | すじ
 素 tố yếu tố, nguyên tố so, su | もと
-
 
 矢 thỉ mũi tên shi
 医 y y học, y viện I
@@ -469,7 +470,7 @@
 強 cường, cưỡng cường quốc; miễn cưỡng kyoo, goo | つよ.い
 弟 đệ đệ tử tei, dai, de | おとうと
 
-虫 trùng côn trùng chuu
+虫 trùng côn trùng chuu | むし
 
 犬 khuyển con chó ken
 狭 hiệp hẹp kyoo | せま.い
@@ -704,8 +705,6 @@
 
 机 cơ cái bàn ki |  つくえ
 
-類 loại chủng loại rui | たぐ.い
-
 達 đạt đạt tới, điều đạt, thành đạt tatsu | -たち
 
 良 lương tốt, lương tâm, lương tri ryoo | よ.い いい
@@ -767,13 +766,23 @@
 
 敵 địch quân địch teki | かたき
 
+角 giác tam giác, tứ giác kaku | かど
+触 xúc tiếp xúc shoku | さわ.る
+
+眼 nhãn nhãn khoa gan, gen | まなこ
+
+発 phát xuất phát, phát kiến, phát hiện, phát ngôn hatsu, hotsu | おこ.る
+
+氏 thị họ shi | うじ
+民 dân quốc dân, dân tộc min | たみ
 
 
 
-民 dân quốc dân, dân tộc min
+
+
+
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
 的 đích mục đích, đích thực teki
-発 phát xuất phát, phát kiến, phát hiện, phát ngôn hatsu, hotsu
 対 đối đối diện, phản đối, đối với tai, tsui
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
@@ -910,7 +919,6 @@
 可 khả có thể, khả năng, khả dĩ ka
 視 thị thị sát, thị lực, giám thị shi
 副 phó phó, phó phòng fuku
-線 tuyến dây, tiền tuyến, điện tuyến, vô tuyến sen
 例 lệ ví dụ, tiền lệ, thông lệ, điều lệ rei
 補 bổ bổ sung, bổ túc ho
 額 ngạch trán, giá tiền, hạn ngạch, kim ngạch gaku
@@ -1162,7 +1170,6 @@
 印 ấn in ấn, ấn tượng in
 熱 nhiệt nhiệt độ, nhiệt tình netsu
 香 hương mùi hương, hương thơm koo, kyoo
-角 giác tam giác, tứ giác kaku
 豊 phong phong phú hoo
 留 lưu lưu học, lưu trữ ryuu, ru
 順 thuận tòng thuận, thuận tự jun
@@ -1311,7 +1318,6 @@
 板 bản tấm bảng han, ban
 我 ngã bản ngã ga
 射 xạ xạ thủ sha
-触 xúc tiếp xúc shoku
 秀 tú ưu tú, tuấn tú shuu
 温 ôn ôn hòa, ôn tồn on
 暮 mộ chiều tối bo
@@ -1679,7 +1685,6 @@
 垣 viên tường -
 漏 lậu lộ roo
 殊 thù đặc thù shu
-鏡 kính gương kính kyoo
 黙 mặc trầm mặc moku
 寛 khoan khoan dung kan
 剰 thặng thặng dư joo
@@ -1687,7 +1692,6 @@
 覧 lãm triển lãm ran
 慢 mạn ngạo mạn man
 凍 đông đông lạnh too
-眼 nhãn nhãn khoa gan, gen
 滋 tư phồn thịnh ji
 阻 trở cản trở, trở ngại so
 往 vãng vãng lai, dĩ vãng oo
