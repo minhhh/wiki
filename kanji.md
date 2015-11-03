@@ -146,6 +146,7 @@
 時 thời thời gian ji
 村 thôn thôn xã, thôn làng son | むら
 付 phụ phụ thuộc, phụ lục fu | つく
+府 phủ chính phủ fu
 
 分 phân phân số, phân chia bun, fun, bu | わ.かる
 
@@ -251,7 +252,7 @@
 正 chính chính đáng, chính nghĩa, chân chính sei, shoo | ただ.す
 企 xí xí nghiệp, xí hoạch ki | くわだ.てる
 歩 bộ bộ hành, tiến bộ ho, bu, fu | ある.く
-政 chính chính phủ, chính sách, hành chính sei, shoo
+政 chính chính phủ, chính sách, hành chính sei, shoo | まつりごと
 
 東 đông phía đông too | ひがし
 西 tây phương tây sei, sai | にし
@@ -780,8 +781,7 @@
 氏 thị họ shi | うじ
 民 dân quốc dân, dân tộc min | たみ
 
-政 府
-止
+
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
 的 đích mục đích, đích thực teki
@@ -1915,7 +1915,6 @@
 署 thự biệt thự sho
 澄 trừng trong, rõ choo
 符 phù phù hiệu fu
-府 phủ chính phủ fu
 謡 dao ca dao yoo
 肢 chi tay chân, tứ chi shi
 尿 niệu niệu đạo nyoo
