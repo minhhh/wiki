@@ -43,7 +43,6 @@
 土 thổ thổ địa, thổ công do, to | つち
 地 địa thổ địa, địa đạo chi, ji |
 在 tại tồn tại, thực tại zai | あ.る
-也
 
 人 nhân nhân vật jin, nin | ひと
 犬 khuyển con chó ken | いぬ
@@ -81,12 +80,14 @@
 果 quả hoa quả, thành quả, kết quả ka | くだ.もの
 困 khốn khốn cùng kon | こま.る
 
+利 lợi phúc lợi, lợi ích ri | き.く
+相 tương, tướng tương hỗ, tương tự, tương đương; thủ tướng soo, shoo | 
+杯 bôi chén hai | さかずき
+
 米 mễ gạo bei, mai | こめ
 料 liệu nguyên liệu, tài liệu, nhiên liệu ryoo
 類 loại chủng loại rui | たぐ.い
 頁 ケツ  ぺえじ | おおがい   かしら
-
-杯 bôi chén hai | さかずき
 
 目 mục mắt, hạng mục, mục lục moku, boku | め
 見 kiến ý kiến ken | み.る
@@ -280,6 +281,8 @@
 答 đáp trả lời, vấn đáp, đáp ứng too | こた.える
 
 書 thư thư đạo, thư tịch, thư kí sho | か.く
+圕 đồ | ショ
+図 đồ bản đồ, đồ án, địa đồ zu, to | え
 
 斤 cân cân (kilo), cái rìu kin
 近 cận thân cận, cận thị, cận cảnh kin |  ちか.い
@@ -294,6 +297,7 @@
 
 食 thực ẩm thực, thực đường shoku, jiki | た.べる
 飯 phạn cơm han | めし
+館 quán đại sứ quán, hội quán kan | やかた
 
 工 công công tác, công nhân koo, ku
 空 không không khí, hư không, hàng không kuu | そら , す.く
@@ -569,7 +573,6 @@
 
 局 cục cục diện, cục kế hoạch kyoku | つぼね
 
-利 lợi phúc lợi, lợi ích ri | き.く
 
 掛 quải treo, arrive at - | か.ける か.かる
 描 miêu miêu tả byoo | か.く
@@ -786,7 +789,6 @@
 対 đối đối diện, phản đối, đối với tai, tsui
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
-相 tương, tướng tương hỗ, tương tự, tương đương; thủ tướng soo, shoo
 治 trị cai trị, trị an, trị bệnh chi, ji
 経 kinh kinh tế, sách kinh, kinh độ kei, kyoo
 制 chế chế ngự, thể chế, chế độ sei
@@ -922,7 +924,6 @@
 補 bổ bổ sung, bổ túc ho
 額 ngạch trán, giá tiền, hạn ngạch, kim ngạch gaku
 証 chứng bằng chứng, nhân chứng, chứng nhận shoo
-館 quán đại sứ quán, hội quán kan
 限 hạn giới hạn, hữu hạn, hạn độ gen
 製 chế chế tạo sei
 監 giam, giám giam cấm; giám đốc, giám sát kan
@@ -1065,7 +1066,6 @@
 請 thỉnh thỉnh cầu, thỉnh nguyện sei, shin
 久 cửu lâu, vĩnh cửu kyuu, ku
 登 đăng trèo, đăng sơn, đăng kí, đăng lục too, to
-図 đồ bản đồ, đồ án, địa đồ zu, to
 益 ích lợi ích, hữu ích eki, yaku
 貿 mậu mậu dịch, trao đổi boo
 脳 não bộ não, đầu não noo
