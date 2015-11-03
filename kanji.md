@@ -35,19 +35,24 @@
 洗 tiển rửa sen | あら.う
 汽 khí không khí, hơi ki
 気 khí không khí, khí chất, khí khái, khí phách ki, ke | いき
+温 ôn ôn hòa, ôn tồn on | あたた.かい
 
 火 hỏa lửa ka | ひ
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
 
 土 thổ thổ địa, thổ công do, to | つち
 地 địa thổ địa, địa đạo chi, ji |
+在 tại tồn tại, thực tại zai | あ.る
+也
 
 人 nhân nhân vật jin, nin | ひと
-大 đại to lớn, đại dương, đại lục dai, tai | おお.きい
 犬 khuyển con chó ken | いぬ
 太 thái thái dương, thái bình tai, ta | ふとい
 夫 phu trượng phu, phu phụ fu, fuu | おっと
 天 thiên thiên thạch, thiên nhiên, thiên đường ten | あめ
+
+大 đại to lớn, đại dương, đại lục dai, tai | おお.きい
+実 thực sự thực, chân thực jitsu | み
 
 個 cá cá nhân, cá thể ko | か
 伸 thân dãn ra shin | の.びる
@@ -180,7 +185,7 @@
 銀 ngân ngân hàng, ngân lượng, kim ngân gin
 鉛 duyên kim loại chì en | なまり
 
-行 hành, hàng thực hành, lữ hành; ngân hàng koo, gyoo, an
+行 hành, hàng thực hành, lữ hành; ngân hàng koo, gyoo, an | い.く おこな.う
 
 雨 vũ mưa u
 雲 vân mây un | くも
@@ -404,7 +409,7 @@
 
 飲 ẩm ẩm thực in
 
-度 độ mức độ, quá độ, độ lượng do, to, taku
+度 độ mức độ, quá độ, độ lượng do, to, taku | たび
 
 役 dịch chức vụ, nô dịch eki, yaku
 
@@ -760,8 +765,6 @@
 
 柿 THỊ シ |  かき  こけら
 
-実 thực sự thực, chân thực jitsu | み
-
 不 bất bất công, bất bình đẳng, bất tài fu, bu
 
 敵 địch quân địch teki | かたき
@@ -775,9 +778,6 @@
 
 氏 thị họ shi | うじ
 民 dân quốc dân, dân tộc min | たみ
-
-
-
 
 
 
@@ -855,7 +855,6 @@
 示 thị biểu thị ji, shi
 価 giá giá cả, vô giá, giá trị ka
 勢 thế tư thế, thế lực sei
-在 tại tồn tại, thực tại zai
 情 tình tình cảm, tình thế joo, sei
 基 cơ cơ sở, cơ bản ki
 各 các các, mỗi kaku
@@ -1319,7 +1318,6 @@
 我 ngã bản ngã ga
 射 xạ xạ thủ sha
 秀 tú ưu tú, tuấn tú shuu
-温 ôn ôn hòa, ôn tồn on
 暮 mộ chiều tối bo
 懸 huyền treo ken, ke
 章 chương chương sách shoo
