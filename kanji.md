@@ -81,7 +81,7 @@
 困 khốn khốn cùng kon | こま.る
 
 利 lợi phúc lợi, lợi ích ri | き.く
-相 tương, tướng tương hỗ, tương tự, tương đương; thủ tướng soo, shoo | 
+相 tương, tướng tương hỗ, tương tự, tương đương; thủ tướng soo, shoo | あい-
 杯 bôi chén hai | さかずき
 
 米 mễ gạo bei, mai | こめ
@@ -251,6 +251,7 @@
 正 chính chính đáng, chính nghĩa, chân chính sei, shoo | ただ.す
 企 xí xí nghiệp, xí hoạch ki | くわだ.てる
 歩 bộ bộ hành, tiến bộ ho, bu, fu | ある.く
+政 chính chính phủ, chính sách, hành chính sei, shoo
 
 東 đông phía đông too | ひがし
 西 tây phương tây sei, sai | にし
@@ -358,8 +359,6 @@
 
 区 khu khu vực, địa khu ku
 
-政 chính chính phủ, chính sách, hành chính sei, shoo
-
 事 sự sự việc ji, zu | こと
 
 社 xã xã hội, công xã, hợp tác xã sha
@@ -371,6 +370,7 @@
 指 chỉ chỉ định, chỉ số, ngón tay shi | さ.す ゆび
 拾 thập nhặt shuu, juu | ひろ.う
 探 thám do thám, thám hiểm tan | さが.す
+持 trì cầm, duy trì ji | も.つ も.てる
 
 考 khảo khảo sát, tư khảo koo | かんが.え
 
@@ -668,8 +668,6 @@
 
 祝 chúc chúc phúc shuku, shuu | いわ.う
 
-持 trì cầm, duy trì ji | も.てる
-
 皆 giai tất cả kai | みな
 
 命 mệnh, mạng tính mạng, cách mạng, vận mệnh, mệnh lệnh mei, myoo | いのち
@@ -782,7 +780,8 @@
 氏 thị họ shi | うじ
 民 dân quốc dân, dân tộc min | たみ
 
-
+政 府
+止
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
 的 đích mục đích, đích thực teki
