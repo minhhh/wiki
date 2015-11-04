@@ -36,6 +36,7 @@
 汽 khí không khí, hơi ki
 気 khí không khí, khí chất, khí khái, khí phách ki, ke | いき
 温 ôn ôn hòa, ôn tồn on | あたた.かい
+渇 khát khát, khát vọng katsu | かわ.く
 
 火 hỏa lửa ka | ひ
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
@@ -108,6 +109,7 @@
 閉 bế bế mạc, bế quan hei | し.める, と.じる
 
 耳 nhĩ tai ji | みみ
+職 chức chức vụ, từ chức shoku | 
 
 面 diện phản diện, chính diện men | おもて
 
@@ -243,6 +245,7 @@
 記 kí thư kí, kí sự, kí ức ki | しる.す
 誌 chí tạp chí shi |
 議 nghị nghị luận, nghị sự gi |
+試 thí thí nghiệm, thí điểm shi | ため.す
 
 舌 thiệt cái lưỡi zetsu | した
 話 thoại nói chuyện, đối thoại, giai thoại wa | はな.す
@@ -545,6 +548,7 @@
 馬 mã ngựa ba | うま
 駅 dịch ga eki |
 駄 đà thồ hàng da
+験 nghiệm thí nghiệm, hiệu nghiệm, kinh nghiệm ken, gen | あかし
 
 甘 cam ngọt, cam chịu kan | あまい
 期 kì thời kì, kì hạn ki, go
@@ -784,6 +788,11 @@
 爪 trảo claw;  nail;  talon ソウ | つめ
 受 thụ nhận, tiếp thụ ju | う.ける
 
+尤 VƯU reasonable;  just;  natural;  superb;  outstanding | もっと.も
+就 tựu thành tựu shuu, ju | つ.く
+
+喉 HẦU Cổ họng コウ | のど
+
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
 的 đích mục đích, đích thực teki
@@ -870,7 +879,6 @@
 軍 quân quân đội, quân sự gun
 井 tỉnh giếng sei, shoo
 格 cách tư cách, cách thức, sở hữu cách kaku, koo
-職 chức chức vụ, từ chức shoku
 宮 cung cung điện kyuu, guu, ku
 検 kiểm kiểm tra ken
 式 thức hình thức, phương thức, công thức shiki
@@ -932,7 +940,6 @@
 葉 diệp lá, lạc diệp, hồng diệp yoo
 警 cảnh cảnh báo, cảnh sát, cảnh vệ kei
 技 kĩ kĩ thuật, kĩ nghệ gi
-試 thí thí nghiệm, thí điểm shi
 英 anh anh hùng, anh tú, anh tuấn ei
 松 tùng cây tùng, tùng bách shoo
 担 đảm đảm đương, đảm bảo tan
@@ -966,7 +973,6 @@
 差 sai sai khác, sai biệt sa
 族 tộc gia tộc, dân tộc, chủng tộc zoku
 追 truy truy lùng, truy nã, truy cầu tsui
-験 nghiệm thí nghiệm, hiệu nghiệm, kinh nghiệm ken, gen
 若 nhược trẻ, nhược niên jaku, nyaku
 訴 tố tố cáo, tố tụng so
 低 đê thấp, đê hèn, đê tiện tei
@@ -1127,7 +1133,6 @@
 及 cập phổ cập kyuu
 故 cố cố tổng thống, lí do ko
 装 trang trang phục, hóa trang, trang bị soo, shoo
-就 tựu thành tựu shuu, ju
 塁 lũy thành lũy rui
 異 dị dị bản, dị tộc, dị giáo I
 薬 dược thuốc yaku
@@ -2181,7 +2186,6 @@
 窃 thiết trộm cắp setsu
 搾 trá ép, vắt saku
 賜 tứ ban tặng shi
-渇 khát khát, khát vọng katsu
 罷 bãi hủy bỏ, bãi bỏ hi
 霜 sương sương mù soo
 唇 thần môi shin
