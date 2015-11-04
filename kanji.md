@@ -793,7 +793,6 @@
 尤 VƯU reasonable;  just;  natural;  superb;  outstanding | もっと.も
 就 tựu thành tựu shuu, ju | つ.く
 
-辛
 
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
