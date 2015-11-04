@@ -781,6 +781,8 @@
 氏 thị họ shi | うじ
 民 dân quốc dân, dân tộc min | たみ
 
+爪 trảo claw;  nail;  talon ソウ | つめ
+受 thụ nhận, tiếp thụ ju | う.ける
 
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
@@ -809,7 +811,6 @@
 改 cải cải cách, cải chính kai
 以 dĩ dĩ tiền, dĩ vãng I
 和 hòa hòa bình, tổng hòa, điều hòa wa, o
-受 thụ nhận, tiếp thụ ju
 進 tiến thăng tiến, tiền tiến, tiến lên shin
 平 bình hòa bình, bình đẳng, trung bình, bình thường hei, byoo
 支 chi chi nhánh, chi trì (ủng hộ) shi
