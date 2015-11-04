@@ -162,6 +162,7 @@
 加 gia tăng gia, gia giảm ka
 切 thiết cắt, thiết thực, thân thiết setsu, sai | き.る
 丸 hoàn tròn gan
+努 nỗ nỗ lực do | つと.める
 
 女 nữ phụ nữ jo, nyo, nyoo
 安 an an bình, an ổn an | やす
@@ -209,7 +210,8 @@
 学 học học sinh, học thuyết gaku
 字 tự chữ, văn tự ji
 
-立 lập thiết lập, tự lập ritsu, ryuu
+立 lập thiết lập, tự lập ritsu, ryuu | た.つ
+辛 tân cay shin | から.い
 
 高 cao cao đẳng, cao thượng koo | たか.い
 
@@ -658,7 +660,6 @@
 
 歳 tuế tuổi, năm, tuế nguyệt sai, sei | とし
 
-辛 tân cay shin | から.い
 
 檎 cầm táo ゴ
 
@@ -792,7 +793,7 @@
 尤 VƯU reasonable;  just;  natural;  superb;  outstanding | もっと.も
 就 tựu thành tựu shuu, ju | つ.く
 
-努 力
+辛
 
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
@@ -1229,7 +1230,6 @@
 岸 ngạn hải ngạn gan
 遣 khiển phân phát ken
 緊 khẩn khẩn cấp, khẩn trương kin
-努 nỗ nỗ lực do
 練 luyện rèn luyện, luyện tập ren
 康 khang kiện khang, khang trang koo
 遅 trì muộn chi
