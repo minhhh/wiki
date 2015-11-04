@@ -246,6 +246,7 @@
 誌 chí tạp chí shi |
 議 nghị nghị luận, nghị sự gi |
 試 thí thí nghiệm, thí điểm shi | ため.す
+喉 HẦU Cổ họng コウ | のど
 
 舌 thiệt cái lưỡi zetsu | した
 話 thoại nói chuyện, đối thoại, giai thoại wa | はな.す
@@ -791,7 +792,6 @@
 尤 VƯU reasonable;  just;  natural;  superb;  outstanding | もっと.も
 就 tựu thành tựu shuu, ju | つ.く
 
-喉 HẦU Cổ họng コウ | のど
 
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
