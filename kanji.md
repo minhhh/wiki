@@ -37,6 +37,7 @@
 気 khí không khí, khí chất, khí khái, khí phách ki, ke | いき
 温 ôn ôn hòa, ôn tồn on | あたた.かい
 渇 khát khát, khát vọng katsu | かわ.く
+消 tiêu tiêu diệt, tiêu hao, tiêu thất shoo | け.す
 
 火 hỏa lửa ka | ひ
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
@@ -59,7 +60,8 @@
 信 tín uy tín, tín thác, thư tín shin |
 仮 giả giả thuyết, giả trang, giả dối ka, ke
 作 tác tác phẩm, công tác, canh tác saku, sa | つく.る
-傍 bàng bàng quan boo
+傍 bàng bàng quan boo | そば
+住 trú, trụ cư trú; trụ sở juu | す.む
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
@@ -520,8 +522,6 @@
 
 科 khoa khoa học, chuyên khoa ka |
 
-住 trú, trụ cư trú; trụ sở juu | す.む
-
 背 bối bối cảnh hai | せい
 
 痛 thống thống khổ tsuu | いた.い
@@ -628,8 +628,6 @@
 死 tử tử thi, tự tử shi | し.ぬ
 
 魂 hồn linh hồn コン | たま
-
-昼 trú buổi trưa chuu | ひる
 
 難 nan, nạn khó, nan giải, nguy nan; tai nạn ナン | むずか.しい
 
@@ -902,7 +900,6 @@
 両 lưỡng hai, lưỡng quốc ryoo
 容 dung dung mạo, hình dung, nội dung, dung nhận yoo
 規 quy quy tắc, quy luật ki
-消 tiêu tiêu diệt, tiêu hao, tiêu thất shoo
 状 trạng tình trạng, trạng thái, cáo trạng joo
 輸 thâu thâu nhập, thâu xuất yu
 談 đàm hội đàm, đàm thoại dan
