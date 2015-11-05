@@ -9,6 +9,7 @@ For more awesome osx command lines, see [Awesome OS X Command Line][awesome_osx_
 * [Use Fn key normally in Mac](https://support.apple.com/kb/HT3399)
 * [Disable automatic spelling](http://macs.about.com/od/OSXLion107/qt/Os-X-Lion-Automatic-Spelling-Correction.htm)
 * [Word Movement Shortcuts for iTerm](http://www.michael-noll.com/blog/2007/01/04/word-movement-shortcuts-for-iterm-on-mac-os-x/)
+* [Install NTFS driver for macOS](http://www.hackintosh.zone/downloads/download/506-free-ntfs-driver-for-mac-os-x/)
 
 # OSX SHORTCUTS & KEYS
 
