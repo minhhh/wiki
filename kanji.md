@@ -25,9 +25,11 @@
 昼 trú buổi trưa chuu | ひる
 
 日 nhật ngày, nhật thực, nhật báo nichi, jitsu | ひ
+昨 tạc <hôm> qua, <năm> qua.. saku | きのう
+暖 noãn ấm dan | あたた.かい
+
 白 bạch thanh bạch, bạch sắc kaku, byaku | しろ.い
 泊 bạc ngủ lại haku | と.まる
-昨 tạc <hôm> qua, <năm> qua.. saku | きのう
 
 水 thủy thủy điện sui | みず
 氷 băng băng tuyết hyoo | こおり
@@ -63,6 +65,7 @@
 作 tác tác phẩm, công tác, canh tác saku, sa | つく.る
 傍 bàng bàng quan boo | そば
 住 trú, trụ cư trú; trụ sở juu | す.む
+停 đình đình chỉ tei | と.める
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
@@ -562,7 +565,7 @@
 
 苺 strawberry | いちご
 
-
+免 miễn miễn tội men | まぬか.れる
 晩 vãn buổi tối ban |
 
 暑 thử hè nóng sho | あつ.い
@@ -669,8 +672,6 @@
 
 神 thần thần, thần thánh, thần dược shin, jin | かみ
 
-停 đình đình chỉ tei | と.める
-
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
 
 次 thứ thứ nam, thứ nữ ji, shi | つぎ
@@ -689,8 +690,6 @@
 萄 ドウ nho
 
 冊 sách quyển sách satsu, saku | ふみ
-
-暖 noãn ấm dan | あたた.かい
 
 春 xuân mùa xuân, thanh xuân shun | はる
 
@@ -1458,7 +1457,6 @@
 孝 hiếu hiếu thảo koo
 握 ác nắm aku
 潟 tích vũng nước -
-免 miễn miễn tội men
 照 chiếu tham chiếu shoo
 堀 quật mương -
 謝 tạ cảm tạ, tạ lỗi sha
