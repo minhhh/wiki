@@ -196,15 +196,18 @@
 雲 vân mây un | くも
 曇 đàm có mây don | くもり
 雪 tuyết tuyết setsu | ゆき
+震 chấn địa chấn shin | ふる.う
 
 品 phẩm sản phẩm hin | しな
 
 左 tả bên trái, tả hữu, cánh tả sa | ひだり
 右 hữu bên phải, hữu ngạn, cánh hữu u, yuu | みぎ
-石 thạch đá, thạch anh, bảo thạch seki, shaku, koku | いし
 友 hữu bạn hữu, hữu hảo yuu
 名 danh danh tính, địa danh mei, myoo | な
-碌 satisfactory ROKU |
+
+碌 lục satisfactory ROKU | ろく.な
+石 thạch đá, thạch anh, bảo thạch seki, shaku, koku | いし
+研 nghiên mài, nghiên cứu ken | と.ぐ
 
 子 tử tử tôn, phần tử, phân tử, nguyên tử shi, su
 学 học học sinh, học thuyết gaku
@@ -793,6 +796,10 @@
 尤 VƯU reasonable;  just;  natural;  superb;  outstanding | もっと.も
 就 tựu thành tựu shuu, ju | つ.く
 
+穴 huyệt sào huyệt ketsu | あな
+究 cứu nghiên cứu, cứu cánh kyuu | きわ.める
+
+
 
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
@@ -898,7 +905,6 @@
 消 tiêu tiêu diệt, tiêu hao, tiêu thất shoo
 状 trạng tình trạng, trạng thái, cáo trạng joo
 輸 thâu thâu nhập, thâu xuất yu
-研 nghiên mài, nghiên cứu ken
 談 đàm hội đàm, đàm thoại dan
 説 thuyết tiểu thuyết, học thuyết, lí thuyết setsu, zei
 常 thường bình thường, thông thường joo
@@ -925,7 +931,6 @@
 庁 sảnh đại sảnh choo
 害 hại có hại, độc hại, lợi hại gai
 援 viện viện trợ en
-究 cứu nghiên cứu, cứu cánh kyuu
 可 khả có thể, khả năng, khả dĩ ka
 視 thị thị sát, thị lực, giám thị shi
 副 phó phó, phó phòng fuku
@@ -1206,7 +1211,6 @@
 聴 thính thính giả choo
 適 thích thích hợp teki
 属 thuộc phụ thuộc zoku
-震 chấn địa chấn shin
 押 áp ấn oo
 脱 thoát giải thoát datsu
 欠 khiếm khiếm khuyết ketsu
@@ -1683,7 +1687,6 @@
 丹 đan màu đỏ tan
 擁 ủng ủng hộ yoo
 拘 câu câu thúc koo
-穴 huyệt sào huyệt ketsu
 悟 ngộ tỉnh ngộ go
 垣 viên tường -
 漏 lậu lộ roo
