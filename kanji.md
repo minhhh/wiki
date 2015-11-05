@@ -90,6 +90,7 @@
 利 lợi phúc lợi, lợi ích ri | き.く
 相 tương, tướng tương hỗ, tương tự, tương đương; thủ tướng soo, shoo | あい-
 杯 bôi chén hai | さかずき
+桃 đào cây đào too | もも
 
 米 mễ gạo bei, mai | こめ
 料 liệu nguyên liệu, tài liệu, nhiên liệu ryoo
@@ -317,11 +318,14 @@
 館 quán đại sứ quán, hội quán kan | やかた
 
 工 công công tác, công nhân koo, ku
-空 không không khí, hư không, hàng không kuu | そら , す.く
+
 士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
 売 mại thương mại bai
+
 貝 bối vỏ sò - | かい
 買 mãi mua, khuyến mãi bai | か.う
+貸 thải cho mượn tai | か.す
+頃 KHOẢNH about toward | ころ
 
 青 thanh xanh, thanh thiên, thanh niên sei, shoo
 晴 tình trong xanh sei
@@ -616,9 +620,6 @@
 
 戻 lệ quay lại rei | もど.る
 
-桃 đào cây đào too | もも
-
-
 流 lưu lưu lượng, hạ lưu, lưu hành ryuu, ru | なが.れる
 
 召 triệu triệu tập shoo | め.す
@@ -643,8 +644,6 @@
 
 階 giai giai cấp, giai tầng kai | きざはし
  
-貸 thải cho mượn tai | か.す
-
 程 trình trình độ, lộ trình, công trình tei | ほど
 
 払 phất trả tiền futsu | はら.う
@@ -796,13 +795,16 @@
 
 穴 huyệt sào huyệt ketsu | あな
 究 cứu nghiên cứu, cứu cánh kyuu | きわ.める
+空 không không khí, hư không, hàng không kuu | そら , す.く
 
+衣 y y phục I | きぬ
+園 viên vườn, điền viên, hoa viên, công viên en | その
 
+対 đối đối diện, phản đối, đối với tai, tsui | こた.える
 
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
 的 đích mục đích, đích thực teki
-対 đối đối diện, phản đối, đối với tai, tsui
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
 治 trị cai trị, trị an, trị bệnh chi, ji
@@ -1061,7 +1063,6 @@
 責 trách khiển trách, trách cứ, trách nhiệm seki
 単 đơn cô đơn, đơn độc, đơn chiếc tan
 客 khách hành khách, thực khách kyaku, kaku
-園 viên vườn, điền viên, hoa viên, công viên en
 献 hiến hiến dâng, hiến tặng, hiến thân ken, kon
 蔵 tàng bảo tàng, tàng trữ, tàng hình zoo
 模 mô mô phỏng, mô hình mo, bo
@@ -1549,7 +1550,6 @@
 詩 thi thi phú shi
 敷 phu trải fu
 濃 nồng nồng độ noo
-衣 y y phục I
 童 đồng nhi đồng doo
 郎 lang tân lang roo
 朗 lãng rõ ràng roo
