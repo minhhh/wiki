@@ -22,6 +22,7 @@
 戸 hộ hộ khẩu ko | と
 尸 thi corpse シ |  かたしろ
 肩 kiên vai ken | かた
+昼 trú buổi trưa chuu | ひる
 
 日 nhật ngày, nhật thực, nhật báo nichi, jitsu | ひ
 白 bạch thanh bạch, bạch sắc kaku, byaku | しろ.い
@@ -187,7 +188,7 @@
 前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
 後 hậu sau, hậu quả, hậu sự go, koo | あと
 
-全 toàn toàn bộ    zen
+全 toàn toàn bộ    zen | すべ.て
 金 kim hoàng kim, kim ngân kin, kon
 銀 ngân ngân hàng, ngân lượng, kim ngân gin
 鉛 duyên kim loại chì en | なまり
