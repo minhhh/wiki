@@ -535,7 +535,7 @@
 
 酒 tửu rượu shu | さけ
 
-通 thông thông qua, thông hành, phổ thông tsuu, tsu |
+通 thông thông qua, thông hành, phổ thông tsuu, tsu | とお.り
 運 vận vận chuyển, vận mệnh un | はこ.ぶ
 遠 viễn viễn phương, vĩnh viễn en, on | とお
 遊 du du hí, du lịch yuu, yu | あそ.び
