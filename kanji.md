@@ -152,10 +152,11 @@
 寸 thốn thước đo sun
 寺 tự chùa ji
 団 đoàn đoàn kết, đoàn đội dan, ton
-時 thời thời gian ji
+時 thời thời gian ji | とき
 村 thôn thôn xã, thôn làng son | むら
 付 phụ phụ thuộc, phụ lục fu | つく
 府 phủ chính phủ fu
+対 đối đối diện, phản đối, đối với tai, tsui | こた.える
 
 分 phân phân số, phân chia bun, fun, bu | わ.かる
 
@@ -800,7 +801,6 @@
 衣 y y phục I | きぬ
 園 viên vườn, điền viên, hoa viên, công viên en | その
 
-対 đối đối diện, phản đối, đối với tai, tsui | こた.える
 
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
