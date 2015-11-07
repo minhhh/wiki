@@ -66,6 +66,7 @@
 傍 bàng bàng quan boo | そば
 住 trú, trụ cư trú; trụ sở juu | す.む
 停 đình đình chỉ tei | と.める
+優 ưu ưu việt, ưu thế, ưu tiên yuu | やさ.しい
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
@@ -288,7 +289,6 @@
 
 用 dụng sử dụng, dụng cụ, công dụng yoo
 
-動 động hoạt động, chuyển động doo | うご.く
 物 vật động vật butsu, motsu | もの
 
 色 sắc màu sắc, sắc dục shoku, shiki | いろ
@@ -333,9 +333,11 @@
 
 田 điền điền viên, tá điền den | ta
 町 đinh khu phố choo | まち
+
 里 lí làng ri | さと
 黒 hắc đen, hắc ám koku | くろ
 野 dã cánh đồng, hoang dã, thôn dã ya | の
+動 động hoạt động, chuyển động doo | うご.く
 
 半 bán bán cầu, bán nguyệt han
 
@@ -428,6 +430,7 @@
 結 kết đoàn kết, kết thúc ketsu | むす.ぶ
 線 tuyến dây, tiền tuyến, điện tuyến, vô tuyến sen | すじ
 素 tố yếu tố, nguyên tố so, su | もと
+孫 tôn con cháu son | まご
 
 矢 thỉ mũi tên shi
 医 y y học, y viện I
@@ -733,8 +736,6 @@
 
 薔薇 rose | ばら
 
-優 ưu ưu việt, ưu thế, ưu tiên yuu | やさ.しい
-
 麗 lệ mĩ lệ rei | うるわ.しい
 
 寒 hàn lạnh kan | さむ.い
@@ -800,6 +801,10 @@
 
 衣 y y phục I | きぬ
 園 viên vườn, điền viên, hoa viên, công viên en | その
+
+夕 tịch tịch dương seki |  ゆう
+
+
 
 
 
@@ -1374,7 +1379,6 @@
 躍 dược nhảy lên yaku
 災 tai tai họa sai
 焼 thiêu thiêu đốt shoo
-夕 tịch tịch dương seki
 促 xúc xúc tiến soku
 群 quần quần chúng, quần thể gun
 瀬 lại thác nước -
@@ -1715,7 +1719,6 @@
 頂 đỉnh thiên đỉnh, đỉnh đầu choo
 尋 tầm sưu tầm, tầm nã jin
 唆 toa xúi giục sa
-孫 tôn con cháu son
 輩 bối tiền bối, hậu hối hai
 奇 kì kì lạ, kì diệu ki
 寄 kí kí gửi, kí sinh ki
