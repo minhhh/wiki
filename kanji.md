@@ -67,6 +67,7 @@
 住 trú, trụ cư trú; trụ sở juu | す.む
 停 đình đình chỉ tei | と.める
 優 ưu ưu việt, ưu thế, ưu tiên yuu | やさ.しい
+係 hệ quan hệ, hệ số kei | かか.る
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
@@ -360,8 +361,8 @@
 来 lai đến, tương lai, vị lai rai | く.る,きた.る
 
 父 phụ phụ tử, phụ thân, phụ huynh fu
-交 giao giao hảo, giao hoán koo
-校 hiệu trường học koo
+交 giao giao hảo, giao hoán koo | か.わす
+校 hiệu trường học koo キョウ
 
 母 mẫu mẹ, phụ mẫu, mẫu thân bo | はは
 
@@ -400,6 +401,7 @@
 持 trì cầm, duy trì ji | も.つ も.てる
 掛 quải treo, arrive at - | か.ける か.かる
 描 miêu miêu tả byoo | か.く
+授 thụ đưa cho, truyền thụ, giáo thụ ju | さず.かる
 
 考 khảo khảo sát, tư khảo koo | かんが.え
 
@@ -802,10 +804,14 @@
 
 夕 tịch tịch dương seki |  ゆう
 
-過
+羊 dương con dê, con cừu yoo
+耒 LỖI come, cái cầy ライ ルイ | き く すき
+業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo | わざ
 
 
-業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
+
+
+
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
@@ -882,7 +888,6 @@
 演 diễn diễn viên, biểu diễn, diễn giả en
 放 phóng giải phóng, phóng hỏa, phóng lao hoo
 特 đặc đặc biệt, đặc công toku
-係 hệ quan hệ, hệ số kei
 敗 bại thất bại hai
 位 vị vị trí, tước vị, đơn vị I
 軍 quân quân đội, quân sự gun
@@ -985,7 +990,6 @@
 量 lượng lực lượng, độ lượng, dung lượng, trọng lượng ryoo
 然 nhiên quả nhiên, tất nhiên, thiên nhiên zen, nen
 独 độc cô độc, đơn độc doku
-授 thụ đưa cho, truyền thụ, giáo thụ ju
 衛 vệ bảo vệ, vệ tinh, vệ sinh ei
 器 khí khí cụ, cơ khí, dung khí ki
 値 trị giá trị chi
@@ -2106,7 +2110,6 @@
 酪 lạc sản phẩm sữa, nước quả ép raku
 奔 bôn chạy, bôn tẩu hon
 岬 giáp mũi đất -
-羊 dương con dê, con cừu yoo
 吟 ngâm ngâm, ngân nga gin
 帆 phàm cánh buồm han
 奴 nô nô lệ, nô dịch do
