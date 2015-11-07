@@ -106,6 +106,7 @@
 道 đạo đạo lộ, đạo đức, đạo lí doo, too | みち
 頭 đầu đầu não too, zu, to | あたま
 顔 nhan nhan sắc, hồng nhan gan | かお
+祖 tổ tổ tiên so
 
 門 môn cửa, nhập môn, môn đồ, bộ môn mon | かど
 聞 văn nghe, tân văn (báo) bun, mon | きく
@@ -337,6 +338,8 @@
 里 lí làng ri | さと
 黒 hắc đen, hắc ám koku | くろ
 野 dã cánh đồng, hoang dã, thôn dã ya | の
+
+重 trọng, trùng trọng lượng; trùng phùng juu, choo | おも.い
 動 động hoạt động, chuyển động doo | うご.く
 
 半 bán bán cầu, bán nguyệt han
@@ -344,6 +347,7 @@
 台 đài lâu đài, đài dai, tai
 
 店 điếm cửa hàng, tửu điếm ten | みせ
+điểm
 
 原 nguyên thảo nguyên, nguyên tử, nguyên tắc gen
 
@@ -668,7 +672,6 @@
 
 歳 tuế tuổi, năm, tuế nguyệt sai, sei | とし
 
-
 檎 cầm táo ゴ
 
 届 giới đưa đến - | とど.く
@@ -707,8 +710,6 @@
 雑 tạp tạp chí, tạp kĩ zatsu, zoo | まじ.る
 
 映 ánh phản ánh ei | うつ.る
-
-重 trọng, trùng trọng lượng; trùng phùng juu, choo | おも.い
 
 誕 đản sinh ra tan |
 
@@ -805,7 +806,7 @@
 夕 tịch tịch dương seki |  ゆう
 
 
-
+店
 
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
@@ -1638,7 +1639,6 @@
 賠 bồi bồi thường bai
 怒 nộ thịnh nộ do
 偏 thiên thiên lệch, thiên kiến hen
-祖 tổ tổ tiên so
 賢 hiền hiền thần, hiền nhân ken
 添 thiêm thêm vào ten
 珍 trân trân trọng, trân quý chin
