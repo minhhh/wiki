@@ -398,6 +398,8 @@
 拾 thập nhặt shuu, juu | ひろ.う
 探 thám do thám, thám hiểm tan | さが.す
 持 trì cầm, duy trì ji | も.つ も.てる
+掛 quải treo, arrive at - | か.ける か.かる
+描 miêu miêu tả byoo | か.く
 
 考 khảo khảo sát, tư khảo koo | かんが.え
 
@@ -482,8 +484,9 @@
 
 変 biến biến đổi, biến thiên hen | か.える か.わる
 
-勿 VẬT モチ  ブツ   ボツ | なか.れ    なし
+勿 VẬT not;  must not;  do not;  be not モチ  ブツ   ボツ | なか.れ    なし
 場 trường hội trường, quảng trường joo | ば
+易 dị, dịch dễ, dịch chuyển i, eki | やさ.しい
 
 魚 ngư cá gyo
 
@@ -555,6 +558,8 @@
 運 vận vận chuyển, vận mệnh un | はこ.ぶ
 遠 viễn viễn phương, vĩnh viễn en, on | とお
 遊 du du hí, du lịch yuu, yu | あそ.び
+過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
+進 tiến thăng tiến, tiền tiến, tiến lên shin | すす.める
 
 呉 ngô triều Ngô, Trung quốc, cho ai, go | くれる
 
@@ -599,10 +604,6 @@
 便 tiện thuận tiện ben, bin | たよ.り
 
 局 cục cục diện, cục kế hoạch kyoku | つぼね
-
-
-掛 quải treo, arrive at - | か.ける か.かる
-描 miêu miêu tả byoo | か.く
 
 曲 khúc ca khúc kyoku | ま.がる bend
 
@@ -660,8 +661,6 @@
 
 伝 truyền, truyện truyền đạt, truyền động; tự truyện den | つだ.う
 
-易 dị, dịch dễ, dịch chuyển i, eki | やさ.しい
-
 椅 y, ỷ ghế イ
 
 鞄 bạc, bào, cái va li | かばん
@@ -677,8 +676,6 @@
 届 giới đưa đến - | とど.く
 
 神 thần thần, thần thánh, thần dược shin, jin | かみ
-
-過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
 
 次 thứ thứ nam, thứ nữ ji, shi | つぎ
 
@@ -805,8 +802,7 @@
 
 夕 tịch tịch dương seki |  ゆう
 
-
-店
+過
 
 
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo
@@ -834,7 +830,6 @@
 改 cải cải cách, cải chính kai
 以 dĩ dĩ tiền, dĩ vãng I
 和 hòa hòa bình, tổng hòa, điều hòa wa, o
-進 tiến thăng tiến, tiền tiến, tiến lên shin
 平 bình hòa bình, bình đẳng, trung bình, bình thường hei, byoo
 支 chi chi nhánh, chi trì (ủng hộ) shi
 組 tổ tổ hợp, tổ chức so
