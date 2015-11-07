@@ -29,6 +29,11 @@ Guide to using IntelliJ for everyday work.
 ```
 
 ### Compile and Run
+```
+    C F9 - Make project
+    C Alt R - Run
+    C Alt D - Debug
+```
 
 ### Windows
 
