@@ -323,7 +323,8 @@
 工 công công tác, công nhân koo, ku
 
 士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
-売 mại thương mại bai
+売 mại thương mại bai | う.る
+続 tục tiếp tục zoku | つづ.く
 
 貝 bối vỏ sò - | かい
 買 mãi mua, khuyến mãi bai | か.う
@@ -432,7 +433,6 @@
 約 ước lời hứa (ước nguyện), ước tính yaku | つづ.まる
 緒 tự tình tự sho, cho | いとぐち beginning
 細 tế tinh tế, tường tế, tế bào, mỏng sai | ほそ.い
-続 tục tiếp tục zoku | つづ.く
 綺 khỉ beautiful キ | あや
 締 đế buộc tei | し.める
 結 kết đoàn kết, kết thúc ketsu | むす.ぶ
@@ -808,8 +808,8 @@
 耒 LỖI come, cái cầy ライ ルイ | き く すき
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo | わざ
 
-
-
+歹 NGẠT bad;  wrong ガツ ガチ タイ
+殆 ĐÃI almost;  quite;  really タイ  サイ | ほとん.ど
 
 
 的 đích mục đích, đích thực teki
