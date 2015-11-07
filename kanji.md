@@ -208,6 +208,7 @@
 曇 đàm có mây don | くもり
 雪 tuyết tuyết setsu | ゆき
 震 chấn địa chấn shin | ふる.う
+電 điện phát điện, điện lực den
 
 品 phẩm sản phẩm hin | しな
 
@@ -403,6 +404,7 @@
 掛 quải treo, arrive at - | か.ける か.かる
 描 miêu miêu tả byoo | か.く
 授 thụ đưa cho, truyền thụ, giáo thụ ju | さず.かる
+携 huề mang theo kei | たずさ.える
 
 考 khảo khảo sát, tư khảo koo | かんが.え
 
@@ -811,6 +813,13 @@
 歹 NGẠT bad;  wrong ガツ ガチ タイ
 殆 ĐÃI almost;  quite;  really タイ  サイ | ほとん.ど
 
+巾 CÂN Cái khăn | ちきり
+帯 đới nhiệt đới, ôn đới, belt tai | お.びる
+
+
+
+
+
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
@@ -849,7 +858,6 @@
 第 đệ đệ nhất, đệ nhị dai
 島 đảo hải đảo too
 統 thống thống nhất, tổng thống, thống trị too
-電 điện phát điện, điện lực den
 済 tế kinh tế, cứu tế sai
 官 quan quan lại kan
 投 đầu đầu tư, đầu cơ too
@@ -1232,7 +1240,6 @@
 坂 phản cái dốc han
 壊 hoại phá hoại kai
 乱 loạn phản loạn, chiến loạn ran
-帯 đới nhiệt đới, ôn đới tai
 岸 ngạn hải ngạn gan
 遣 khiển phân phát ken
 緊 khẩn khẩn cấp, khẩn trương kin
@@ -1431,7 +1438,6 @@
 勧 khuyến khuyến cáo kan
 甲 giáp vỏ sò, thứ nhất koo,kan
 透 thấu thẩm thấu too
-携 huề mang theo kei
 看 khán khán giả kan
 鋼 cương gang koo
 華 hoa Trung Hoa ka, ke
