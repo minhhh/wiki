@@ -68,6 +68,7 @@
 停 đình đình chỉ tei | と.める
 優 ưu ưu việt, ưu thế, ưu tiên yuu | やさ.しい
 係 hệ quan hệ, hệ số kei | かか.る
+便 tiện thuận tiện ben, bin | たよ.り
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
@@ -332,8 +333,9 @@
 貸 thải cho mượn tai | か.す
 頃 KHOẢNH about toward | ころ
 
-青 thanh xanh, thanh thiên, thanh niên sei, shoo
-晴 tình trong xanh sei
+青 thanh xanh, thanh thiên, thanh niên sei, shoo | あお.い
+晴 tình trong xanh sei | は.れる
+静 tĩnh bình tĩnh, trấn tĩnh sei, joo | しず.か
 
 田 điền điền viên, tá điền den | ta
 町 đinh khu phố choo | まち
@@ -370,7 +372,6 @@
 
 仕 sĩ làm việc shi, ji
 
-谷 cốc thung lũng, khê cốc koku
 
 身 thân thân thể, thân phận shin
 
@@ -605,8 +606,6 @@
 
 郵 bưu bưu điện yuu |
 
-便 tiện thuận tiện ben, bin | たよ.り
-
 局 cục cục diện, cục kế hoạch kyoku | つぼね
 
 曲 khúc ca khúc kyoku | ま.がる bend
@@ -754,6 +753,7 @@
 
 片 phiến tấm hen | かた
 
+谷 cốc thung lũng, khê cốc koku | たに
 欲 dục dục vọng yoku | ほ.しい
 
 咲 tiếu nở hoa - | さ.く
@@ -815,8 +815,6 @@
 
 巾 CÂN Cái khăn | ちきり
 帯 đới nhiệt đới, ôn đới, belt tai | お.びる
-
-
 
 
 
@@ -1166,7 +1164,6 @@
 喜 hỉ vui ki
 芸 nghệ nghệ thuật, nghệ nhân gei
 覚 giác cảm giác, giác ngộ kaku
-静 tĩnh bình tĩnh, trấn tĩnh sei, joo
 習 tập học tập shuu
 標 tiêu mục tiêu, tiêu chuẩn hyoo
 般 bàn, ban nhất ban han
