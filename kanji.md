@@ -815,7 +815,7 @@
 巾 CÂN Cái khăn | ちきり
 帯 đới nhiệt đới, ôn đới, belt tai | お.びる
 
-
+埋 mai chôn mai | う.める
 
 
 的 đích mục đích, đích thực teki
@@ -1496,7 +1496,6 @@
 荒 hoang hoang dã, hoang dại koo
 哲 triết triết học tetsu
 裂 liệt rách retsu
-埋 mai chôn mai
 至 chí đến shi
 皮 bì da hi
 堅 kiên kiên cố ken
