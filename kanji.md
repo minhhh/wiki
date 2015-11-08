@@ -47,7 +47,9 @@
 
 土 thổ thổ địa, thổ công do, to | つち
 地 địa thổ địa, địa đạo chi, ji |
-在 tại tồn tại, thực tại zai | あ.る
+坊 phường phường , con trai boo, bo |
+埋 mai chôn mai | う.める
+在 tại tồn tại, thực tại outskirts zai | あ.る
 
 人 nhân nhân vật jin, nin | ひと
 犬 khuyển con chó ken | いぬ
@@ -726,8 +728,6 @@
 
 良 lương tốt, lương tâm, lương tri ryoo | よ.い いい
 
-坊 phường phường , con trai boo, bo |
-
 蔭 shade;  shadow;  backing assistance イン  オン | かげ
 
 拭 wipe;  mop;  swab ショク | ふ.く
@@ -815,7 +815,8 @@
 巾 CÂN Cái khăn | ちきり
 帯 đới nhiệt đới, ôn đới, belt tai | お.びる
 
-埋 mai chôn mai | う.める
+
+
 
 
 的 đích mục đích, đích thực teki
