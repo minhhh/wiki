@@ -217,6 +217,7 @@
 右 hữu bên phải, hữu ngạn, cánh hữu u, yuu | みぎ
 友 hữu bạn hữu, hữu hảo yuu
 名 danh danh tính, địa danh mei, myoo | な
+有 hữu sở hữu, hữu hạn yuu, u | あ.る
 
 碌 lục satisfactory ROKU | ろく.な
 石 thạch đá, thạch anh, bảo thạch seki, shaku, koku | いし
@@ -718,8 +719,6 @@
 漢 hán hảo hán kan
 
 腕 oản cánh tay wan | うで
-
-有 hữu sở hữu, hữu hạn yuu, u | あ.る
 
 机 cơ cái bàn ki |  つくえ
 
