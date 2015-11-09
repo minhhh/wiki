@@ -71,6 +71,7 @@
 優 ưu ưu việt, ưu thế, ưu tiên yuu | やさ.しい
 係 hệ quan hệ, hệ số kei | かか.る
 便 tiện thuận tiện ben, bin | たよ.り
+代 đại đại biểu, thời đại, đại diện, đại thế dai, tai | か.わる
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
@@ -221,6 +222,7 @@
 友 hữu bạn hữu, hữu hảo yuu
 名 danh danh tính, địa danh mei, myoo | な
 有 hữu sở hữu, hữu hạn yuu, u | あ.る
+布 bố vải, tuyên bố fu | ぬの
 
 碌 lục satisfactory ROKU | ろく.な
 石 thạch đá, thạch anh, bảo thạch seki, shaku, koku | いし
@@ -272,6 +274,7 @@
 試 thí thí nghiệm, thí điểm shi | ため.す
 
 喉 HẦU Cổ họng コウ | のど
+咲 tiếu nở hoa - | さ.く
 
 舌 thiệt cái lưỡi zetsu | した
 話 thoại nói chuyện, đối thoại, giai thoại wa | はな.す
@@ -339,6 +342,7 @@
 買 mãi mua, khuyến mãi bai | か.う
 貸 thải cho mượn tai | か.す
 頃 KHOẢNH about toward | ころ
+財 tài tiền tài, tài sản zai, sai | たから
 
 青 thanh xanh, thanh thiên, thanh niên sei, shoo | あお.い
 晴 tình trong xanh sei | は.れる
@@ -431,8 +435,6 @@
 
 旧 cựu cũ, cựu thủ tướng, cựu binh kyuu
 
-代 đại đại biểu, thời đại, đại diện, đại thế dai, tai
-
 向 hướng hướng thượng, phương hướng koo | む.く
 同 đồng đồng nhất, tương đồng doo | おな.じ
 
@@ -460,8 +462,6 @@
 役 dịch chức vụ, nô dịch eki, yaku
 
 員 viên thành viên, nhân viên in |
-
-夜 dạ ban đêm, dạ cảnh, dạ quang ya | よる
 
 驚 kinh kinh ngạc, kinh sợ kyoo
 
@@ -531,7 +531,6 @@
 
 座 tọa chỗ ngồi, tọa đàm, tọa độ za
 
-表 biểu biểu hiện, bảng biểu, biểu diễn hyoo
 
 参 tham tham chiếu, tham quan, tham khảo san
 
@@ -744,10 +743,6 @@
 
 寒 hàn lạnh kan | さむ.い
 
-財 tài tiền tài, tài sản zai, sai | たから
-
-布 bố vải, tuyên bố fu | ぬの
-
 根 căn gốc, căn bản, căn cứ kon | ね
 
 髪 phát tóc hatsu | かみ
@@ -758,8 +753,6 @@
 
 谷 cốc thung lũng, khê cốc koku | たに
 欲 dục dục vọng yoku | ほ.しい
-
-咲 tiếu nở hoa - | さ.く
 
 妻 thê thê tử sai | つま
 
@@ -806,8 +799,10 @@
 
 衣 y y phục I | きぬ
 園 viên vườn, điền viên, hoa viên, công viên en | その
+表 biểu biểu hiện, bảng biểu, biểu diễn hyoo | おもて
 
 夕 tịch tịch dương seki |  ゆう
+夜 dạ ban đêm, dạ cảnh, dạ quang ya | よる
 
 羊 dương con dê, con cừu yoo
 耒 LỖI come, cái cầy ライ ルイ | き く すき
@@ -821,8 +816,11 @@
 
 更 canh canh tân koo | ふ.ける
 
-党 đảng đảng phái too
+兄 huynh phụ huynh kei, kyoo | あに
+党 đảng đảng phái too | なかま
 
+
+咲
 
 
 的 đích mục đích, đích thực teki
@@ -1564,7 +1562,6 @@
 乳 nhũ nhũ mẫu nyuu
 旗 kì quốc kì ki
 貞 trinh trinh tiết tei
-兄 huynh phụ huynh kei, kyoo
 梅 mai cây mơ bai
 撲 phác đánh boku
 泳 vịnh bơi ei
