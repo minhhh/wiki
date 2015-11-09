@@ -104,7 +104,7 @@
 米 mễ gạo bei, mai | こめ
 料 liệu nguyên liệu, tài liệu, nhiên liệu ryoo
 類 loại chủng loại rui | たぐ.い
-頁 ケツ  ぺえじ | おおがい   かしら
+頁 HIỆT ケツ page, leaf ぺえじ | おおがい   かしら
 
 目 mục mắt, hạng mục, mục lục moku, boku | め
 見 kiến ý kiến ken | み.る
@@ -317,6 +317,7 @@
 笑 tiếu cười shoo | わら.う
 答 đáp trả lời, vấn đáp, đáp ứng too | こた.える
 
+聿 DUẬT bút イチ | ふで
 書 thư thư đạo, thư tịch, thư kí sho | か.く
 圕 đồ | ショ
 図 đồ bản đồ, đồ án, địa đồ zu, to | え
@@ -689,6 +690,7 @@
 
 次 thứ thứ nam, thứ nữ ji, shi | つぎ
 冷 lãnh lạnh, lãnh đạm rei |  つめ.たい
+姿 tư tư thế, tư dung, tư sắc shi | すがた
 
 祝 chúc chúc phúc shuku, shuu | いわ.う
 
@@ -819,7 +821,7 @@
 兄 huynh phụ huynh kei, kyoo | あに
 党 đảng đảng phái too | なかま
 
-重 要
+
 
 
 的 đích mục đích, đích thực teki
@@ -1000,7 +1002,6 @@
 器 khí khí cụ, cơ khí, dung khí ki
 値 trị giá trị chi
 退 thoái triệt thoái, thoái lui tai
-姿 tư tư thế, tư dung, tư sắc shi
 末 mạt kết thúc, mạt vận, mạt kì matsu, batsu
 隊 đội đội ngũ, quân đội tai
 注 chú chú ý, chú thích chuu
