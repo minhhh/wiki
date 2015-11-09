@@ -3,10 +3,15 @@
 ## Install
 * Preference > TextEditor > Behavior > Use Vi Modes
 * Preference > Source Code > Code Formatting > Text file > Convert tabs to spaces
-* Preference > Environment > Key Bindings > Solution: Map to C-1
 * Install Nuget: Add-in Manager > Gallery > Repository > Manage Repositories > Add `http://mrward.github.com/monodevelop-nuget-addin-repository/4.0/main.mrep`
 
 ## Shortcuts
+
+### Custom mapping
+To create custom key mapping go to `Preference > Environment > Key Bindings`
+
+* Solution -  Map to C 1
+* Outline -  Map to C 2
 
 ### Editing
 ```
