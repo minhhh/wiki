@@ -50,6 +50,7 @@
 坊 phường phường , con trai boo, bo |
 埋 mai chôn mai | う.める
 在 tại tồn tại, thực tại outskirts zai | あ.る
+域 vực khu vực, lĩnh vực iki
 
 人 nhân nhân vật jin, nin | ひと
 犬 khuyển con chó ken | いぬ
@@ -189,9 +190,10 @@
 妹 muội em gái mai | いもうと
 姉 tỉ chị gái shi | あね
 婦 phụ phụ nữ, dâm phụ fu | よめ
-要 yêu, yếu yêu cầu; chủ yếu yoo | かなめ い.る
 婚 hôn kết hôn, hôn nhân kon |
 
+西 tây phương tây sei, sai | にし
+要 yêu, yếu yêu cầu; chủ yếu yoo | かなめ い.る
 
 古 cổ cũ, cổ điển, đồ cổ ko | ふる.い
 早 tảo sớm, tảo hôn soo, sa | はや
@@ -290,7 +292,6 @@
 政 chính chính phủ, chính sách, hành chính sei, shoo | まつりごと
 
 東 đông phía đông too | ひがし
-西 tây phương tây sei, sai | にし
 南 nam phương nam nan, na | みなみ
 北 bắc phương bắc hoku | きた
 
@@ -687,6 +688,7 @@
 神 thần thần, thần thánh, thần dược shin, jin | かみ
 
 次 thứ thứ nam, thứ nữ ji, shi | つぎ
+冷 lãnh lạnh, lãnh đạm rei |  つめ.たい
 
 祝 chúc chúc phúc shuku, shuu | いわ.う
 
@@ -756,8 +758,6 @@
 
 妻 thê thê tử sai | つま
 
-冷 lãnh lạnh, lãnh đạm rei |  つめ.たい
-
 勉 miễn miễn cưỡng, chăm chỉ ben | つと.める
 
 真 chân chân lí, chân thực shin |  まこと
@@ -819,7 +819,7 @@
 兄 huynh phụ huynh kei, kyoo | あに
 党 đảng đảng phái too | なかま
 
-
+重 要
 
 
 的 đích mục đích, đích thực teki
@@ -970,7 +970,6 @@
 崎 khi mũi đất -
 横 hoành tung hoành, hoành độ, hoành hành oo
 形 hình hình thức, hình hài, định hình kei,gyoo
-域 vực khu vực, lĩnh vực iki
 象 tượng hiện tượng, khí tượng, hình tượng shoo, zoo
 助 trợ hộ trợ, trợ giúp, viện trợ, cứu trợ jo
 展 triển triển khai, phát triển, triển lãm ten
