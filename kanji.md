@@ -111,6 +111,7 @@
 頭 đầu đầu não too, zu, to | あたま
 顔 nhan nhan sắc, hồng nhan gan | かお
 祖 tổ tổ tiên so
+査 tra điều tra sa
 
 門 môn cửa, nhập môn, môn đồ, bộ môn mon | かど
 聞 văn nghe, tân văn (báo) bun, mon | きく
@@ -262,11 +263,14 @@
 語 ngữ ngôn ngữ, từ ngữ go | かた.る
 読 độc độc giả, độc thư doku, toku, too | よ.む
 計 kê, kế thống kê; kế hoạch, kế toán kei | はか.る
+調 điều, điệu điều tra, điều hòa; thanh điệu, giai điệu choo | しら.べる
+
 己 kỉ tự kỉ, vị kỉ ko, ki
 記 kí thư kí, kí sự, kí ức ki | しる.す
 誌 chí tạp chí shi |
 議 nghị nghị luận, nghị sự gi |
 試 thí thí nghiệm, thí điểm shi | ため.す
+
 喉 HẦU Cổ họng コウ | のど
 
 舌 thiệt cái lưỡi zetsu | した
@@ -815,7 +819,9 @@
 巾 CÂN Cái khăn | ちきり
 帯 đới nhiệt đới, ôn đới, belt tai | お.びる
 
+更 canh canh tân koo | ふ.ける
 
+党 đảng đảng phái too
 
 
 
@@ -828,7 +834,6 @@
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
 最 tối nhất (tối cao, tối đa) sai
-調 điều, điệu điều tra, điều hòa; thanh điệu, giai điệu choo
 勝 thắng thắng lợi, thắng cảnh shoo
 権 quyền chính quyền, quyền uy, quyền lợi ken, gon
 性 tính tính dục, giới tính, bản tính, tính chất sei, shoo
@@ -868,7 +873,6 @@
 打 đả đả kích, ẩu đả da
 反 phản phản loạn, phản đối han, hon, tan
 解 giải giải quyết, giải thể, giải thích kai, ge
-査 tra điều tra sa
 任 nhiệm trách nhiệm, nhiệm vụ nin
 策 sách đối sách saku
 込 <vào>
@@ -1307,7 +1311,6 @@
 需 nhu nhu yếu ju
 抱 bão ôm, hoài bão hoo
 掲 yết yết thị kei
-更 canh canh tân koo
 緩 hoãn hòa hoãn kan
 汚 ô ô nhiễm o
 招 chiêu chiêu đãi shoo
@@ -1359,7 +1362,6 @@
 宇 vũ vũ trụ u
 託 thác ủy thác taku
 堂 đường thực đường, thiên đường doo
-党 đảng đảng phái too
 仏 phật phật giáo butsu
 倉 thương nhà kho soo
 互 hỗ tương hỗ go
