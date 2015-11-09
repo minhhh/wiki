@@ -42,6 +42,7 @@
 温 ôn ôn hòa, ôn tồn on | あたた.かい
 渇 khát khát, khát vọng katsu | かわ.く
 消 tiêu tiêu diệt, tiêu hao, tiêu thất shoo | け.す
+治 trị cai trị, trị an, trị bệnh chi, ji | なお.る
 
 火 hỏa lửa ka | ひ
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
@@ -132,6 +133,7 @@
 
 耳 nhĩ tai ji | みみ
 職 chức chức vụ, từ chức shoku | 
+取 thủ lấy, nhận shu | と.る
 
 面 diện phản diện, chính diện men | おもて
 
@@ -516,8 +518,6 @@
 
 網 võng mạng lưới moo
 
-取 thủ lấy, nhận shu | と.る
-
 叩 strike, beat, hit tataku
 
 
@@ -546,7 +546,6 @@
 
 河 hà sông, sơn hà ka
 
-京 kinh kinh đô, kinh thành kyoo, kei | tokyo
 
 建 kiến kiến thiết, kiến tạo ken, kon | たてる
 
@@ -797,6 +796,7 @@
 受 thụ nhận, tiếp thụ ju | う.ける
 
 尤 VƯU reasonable;  just;  natural;  superb;  outstanding | もっと.も
+京 kinh kinh đô, kinh thành kyoo, kei | みやこ
 就 tựu thành tựu shuu, ju | つ.く
 
 穴 huyệt sào huyệt ketsu | あな
@@ -827,15 +827,16 @@
 
 両 lưỡng hai, lưỡng quốc ryoo | ふたつ
 
+戈 QUA halberd | ほこ
+我 ngã bản ngã ga | われ
 
-
+怪 quái kì quái, quái vật kai
 
 
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
-治 trị cai trị, trị an, trị bệnh chi, ji
 経 kinh kinh tế, sách kinh, kinh độ kei, kyoo
 制 chế chế ngự, thể chế, chế độ sei
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
@@ -1335,7 +1336,6 @@
 功 công công lao koo, ku
 盤 bàn cái khay ban
 板 bản tấm bảng han, ban
-我 ngã bản ngã ga
 射 xạ xạ thủ sha
 秀 tú ưu tú, tuấn tú shuu
 暮 mộ chiều tối bo
@@ -1936,7 +1936,6 @@
 狩 thú săn bắn shu
 恭 cung cung kính kyoo
 唐 đường nhà Đường, Trung quốc too
-怪 quái kì quái, quái vật kai
 砕 toái phá vỡ sai
 虜 lỗ tù binh ryo
 垂 thùy rủ xuống sui
