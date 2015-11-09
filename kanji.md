@@ -830,7 +830,8 @@
 戈 QUA halberd | ほこ
 我 ngã bản ngã ga | われ
 
-怪 quái kì quái, quái vật kai
+忄 standing heart
+怪 quái kì quái, quái vật kai | あや.しい
 
 
 
