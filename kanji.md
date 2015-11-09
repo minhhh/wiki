@@ -27,6 +27,7 @@
 日 nhật ngày, nhật thực, nhật báo nichi, jitsu | ひ
 昨 tạc <hôm> qua, <năm> qua.. saku | きのう
 暖 noãn ấm dan | あたた.かい
+昭 chiêu sáng shoo
 
 白 bạch thanh bạch, bạch sắc kaku, byaku | しろ.い
 泊 bạc ngủ lại haku | と.まる
@@ -96,10 +97,13 @@
 果 quả hoa quả, thành quả, kết quả ka | くだ.もの
 困 khốn khốn cùng kon | こま.る
 
-利 lợi phúc lợi, lợi ích ri | き.く
 相 tương, tướng tương hỗ, tương tự, tương đương; thủ tướng soo, shoo | あい-
 杯 bôi chén hai | さかずき
 桃 đào cây đào too | もも
+
+禾
+利 lợi phúc lợi, lợi ích ri | き.く
+和 hòa hòa bình, tổng hòa, điều hòa wa, o | やわ.らぐ
 
 米 mễ gạo bei, mai | こめ
 料 liệu nguyên liệu, tài liệu, nhiên liệu ryoo
@@ -821,6 +825,10 @@
 兄 huynh phụ huynh kei, kyoo | あに
 党 đảng đảng phái too | なかま
 
+両 lưỡng hai, lưỡng quốc ryoo | ふたつ
+
+
+
 
 
 
@@ -846,7 +854,6 @@
 保 bảo bảo trì, bảo vệ, đảm bảo ho
 改 cải cải cách, cải chính kai
 以 dĩ dĩ tiền, dĩ vãng I
-和 hòa hòa bình, tổng hòa, điều hòa wa, o
 平 bình hòa bình, bình đẳng, trung bình, bình thường hei, byoo
 支 chi chi nhánh, chi trì (ủng hộ) shi
 組 tổ tổ hợp, tổ chức so
@@ -914,7 +921,6 @@
 由 do tự do, lí do yu, yuu, yui
 再 tái lại, tái phát sai, sa
 営 doanh doanh nghiệp, kinh doanh, doanh trại ei
-両 lưỡng hai, lưỡng quốc ryoo
 容 dung dung mạo, hình dung, nội dung, dung nhận yoo
 規 quy quy tắc, quy luật ki
 状 trạng tình trạng, trạng thái, cáo trạng joo
@@ -1224,7 +1230,6 @@
 欠 khiếm khiếm khuyết ketsu
 尾 vĩ cái đuôi bi
 逮 đãi đuổi bắt tai
-昭 chiêu sáng shoo
 囲 vi chu vi, bao vây I
 倍 bội bội thu, bội số bai
 迫 bách áp bách, bức bách haku
