@@ -72,6 +72,8 @@
 係 hệ quan hệ, hệ số kei | かか.る
 便 tiện thuận tiện ben, bin | たよ.り
 代 đại đại biểu, thời đại, đại diện, đại thế dai, tai | か.わる
+他 tha khác, tha hương, vị tha ta | ほか
+伯 bá thúc bá haku
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
@@ -266,6 +268,7 @@
 読 độc độc giả, độc thư doku, toku, too | よ.む
 計 kê, kế thống kê; kế hoạch, kế toán kei | はか.る
 調 điều, điệu điều tra, điều hòa; thanh điệu, giai điệu choo | しら.べる
+設 thiết thiết lập, kiến thiết setsu | もう.ける
 
 己 kỉ tự kỉ, vị kỉ ko, ki
 記 kí thư kí, kí sự, kí ức ki | しる.す
@@ -275,10 +278,10 @@
 
 喉 HẦU Cổ họng コウ | のど
 咲 tiếu nở hoa - | さ.く
+号 hiệu phiên hiệu, tín hiệu, phù hiệu goo | さけ.ぶ
 
 舌 thiệt cái lưỡi zetsu | した
 話 thoại nói chuyện, đối thoại, giai thoại wa | はな.す
-設 thiết thiết lập, kiến thiết setsu | もう.ける
 
 止 chỉ đình chỉ shi | と.まる
 正 chính chính đáng, chính nghĩa, chân chính sei, shoo | ただ.す
@@ -493,7 +496,6 @@
 
 冬 đông mùa đông too | ふゆ
 終 chung chung kết, chung liễu shuu | お.わり
-
 変 biến biến đổi, biến thiên hen | か.える か.わる
 
 勿 VẬT not;  must not;  do not;  be not モチ  ブツ   ボツ | なか.れ    なし
@@ -547,8 +549,6 @@
 負 phụ âm, mang, phụ trách, thua fu | ま.ける
 
 別 biệt biệt li, đặc biệt, tạm biệt | べつ , わか.れる
-
-他 tha khác, tha hương, vị tha ta | ほか
 
 科 khoa khoa học, chuyên khoa ka |
 
@@ -820,7 +820,6 @@
 党 đảng đảng phái too | なかま
 
 
-咲
 
 
 的 đích mục đích, đích thực teki
@@ -1094,7 +1093,6 @@
 脳 não bộ não, đầu não noo
 候 hậu mùa, khí hậu, thời hậu koo
 存 tồn tồn tại, bảo tồn, ôn tồn son, zon
-号 hiệu phiên hiệu, tín hiệu, phù hiệu goo
 吉 cát tốt lành, cát tường kichi, kitsu
 除 trừ trừ khử, trừ bỏ, loại trừ, phép chia jo, ji
 超 siêu siêu việt, siêu thị, siêu nhân choo
@@ -1904,7 +1902,6 @@
 盆 bồn cái bồn bon
 弦 huyền dây gen
 悼 điệu truy điệu too
-伯 bá thúc bá haku
 肌 cơ da -
 惜 tích tiếc seki
 珠 châu châu ngọc shu
