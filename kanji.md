@@ -223,6 +223,7 @@
 鉛 duyên kim loại chì en | なまり
 
 行 hành, hàng thực hành, lữ hành; ngân hàng koo, gyoo, an | い.く おこな.う
+術 thuật kĩ thuật, học thuật, nghệ thuật jutsu | すべ
 
 雨 vũ mưa u
 雲 vân mây un | くも
@@ -434,6 +435,7 @@
 描 miêu miêu tả byoo | か.く
 授 thụ đưa cho, truyền thụ, giáo thụ ju | さず.かる
 携 huề mang theo kei | たずさ.える
+技 kĩ kĩ thuật, kĩ nghệ gi | わざ
 
 考 khảo khảo sát, tư khảo koo | かんが.え
 
@@ -838,8 +840,10 @@
 
 夂
 
+非 phi phi nhân đạo, phi nghĩa hi | あら.ず
+常 thường bình thường, thông thường joo | つね
 
-kim
+
 
 
 
@@ -935,14 +939,12 @@ kim
 輸 thâu thâu nhập, thâu xuất yu
 談 đàm hội đàm, đàm thoại dan
 説 thuyết tiểu thuyết, học thuyết, lí thuyết setsu, zei
-常 thường bình thường, thông thường joo
 応 ứng đáp ứng, ứng đối, phản ứng oo
 争 tranh đấu tranh, chiến tranh, tranh luận, cạnh tranh soo
 護 hộ bảo hộ, phòng hộ, hộ vệ go
 率 suất thống suất, xác suất, tỉ lệ suất sotsu, ritsu
 算 toán tính toán, kế toán, toán học san
 配 phối phân phối, chi phối, phối ngẫu hai
-術 thuật kĩ thuật, học thuật, nghệ thuật jutsu
 商 thương thương mại, thương số shoo
 収 thu thu nhập, thu nhận, thu hoạch shuu
 武 vũ vũ trang, vũ lực bu, mu
@@ -972,7 +974,6 @@ kim
 張 trương chủ trương, khai trương choo
 葉 diệp lá, lạc diệp, hồng diệp yoo
 警 cảnh cảnh báo, cảnh sát, cảnh vệ kei
-技 kĩ kĩ thuật, kĩ nghệ gi
 英 anh anh hùng, anh tú, anh tuấn ei
 松 tùng cây tùng, tùng bách shoo
 担 đảm đảm đương, đảm bảo tan
@@ -1046,7 +1047,6 @@ kim
 欧 âu châu âu oo
 段 đoạn giai đoạn dan
 管 quản ống, mao quản, quản lí kan
-非 phi phi nhân đạo, phi nghĩa hi
 賞 thưởng giải thưởng, tưởng thưởng shoo
 競 cạnh cạnh tranh kyoo, kei
 振 chấn chấn động shin
