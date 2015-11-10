@@ -102,8 +102,9 @@
 相 tương, tướng tương hỗ, tương tự, tương đương; thủ tướng soo, shoo | あい-
 杯 bôi chén hai | さかずき
 桃 đào cây đào too | もも
+機 cơ cơ khí, thời cơ, phi cơ ki | はた
 
-禾
+禾 2-branch tree radical
 利 lợi phúc lợi, lợi ích ri | き.く
 和 hòa hòa bình, tổng hòa, điều hòa wa, o | やわ.らぐ
 
@@ -836,7 +837,9 @@
 
 夂
 
-触
+
+能
+
 
 
 的 đích mục đích, đích thực teki
@@ -851,7 +854,6 @@
 権 quyền chính quyền, quyền uy, quyền lợi ken, gon
 性 tính tính dục, giới tính, bản tính, tính chất sei, shoo
 務 vụ chức vụ, nhiệm vụ mu
-機 cơ cơ khí, thời cơ, phi cơ ki
 成 thành thành tựu, hoàn thành, trở thành sei, joo
 総 tổng tổng số, tổng cộng soo
 産 sản sản xuất, sinh sản, cộng sản san
