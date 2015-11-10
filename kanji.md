@@ -836,7 +836,7 @@
 
 夂
 
-
+料理
 
 
 的 đích mục đích, đích thực teki
