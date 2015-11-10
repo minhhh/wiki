@@ -405,7 +405,6 @@
 
 花 hoa hoa, bông hoa ka | はな
 菓 quả hoa quả ka |
-黄 hoàng hoàng kim koo ,oo | き
 荷 hà hành lí ka | に
 
 置 trí bố trí, bài trí, vị trí chi | お.く
@@ -838,7 +837,7 @@
 夂
 
 
-
+kim
 
 
 
