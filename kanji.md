@@ -19,6 +19,8 @@
 明 minh quang minh, minh tinh mei, myoo |  あか.るい
 朝 triều buổi sáng, triều đình choo | あさ
 育 dục giáo dục, dưỡng dục iku |  そだ.てる
+能 năng năng lực, tài năng noo | よ.く
+服 phục y phục, cảm phục, phục vụ fuku |
 
 戸 hộ hộ khẩu ko | と
 尸 thi corpse シ |  かたしろ
@@ -613,8 +615,6 @@
 
 質 chất vật chất, phẩm chất, khí chất shitsu, shichi, chi | ただ.す
 
-服 phục y phục, cảm phục, phục vụ fuku |
-
 凝 ngưng ngưng kết, ngưng tụ gyoo | こ.る
 
 泣 khấp khóc kyuu | な.く
@@ -838,7 +838,7 @@
 夂
 
 
-能
+
 
 
 
@@ -923,7 +923,6 @@
 確 xác chính xác, xác lập, xác suất kaku
 裁 tài may vá, tài phán, trọng tài sai
 提 đề cung cấp, đề cung tei
-能 năng năng lực, tài năng noo
 沢 trạch đầm lầy taku
 義 nghĩa ý nghĩa, nghĩa lí, đạo nghĩa gi
 由 do tự do, lí do yu, yuu, yui
