@@ -18,6 +18,7 @@
 月 nguyệt mặt trăng, tháng, nguyệt san, nguyệt thực getsu, gatsu | つき
 明 minh quang minh, minh tinh mei, myoo |  あか.るい
 朝 triều buổi sáng, triều đình choo | あさ
+育 dục giáo dục, dưỡng dục iku |  そだ.てる
 
 戸 hộ hộ khẩu ko | と
 尸 thi corpse シ |  かたしろ
@@ -835,6 +836,7 @@
 
 
 
+
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
@@ -935,7 +937,6 @@
 護 hộ bảo hộ, phòng hộ, hộ vệ go
 率 suất thống suất, xác suất, tỉ lệ suất sotsu, ritsu
 算 toán tính toán, kế toán, toán học san
-育 dục giáo dục, dưỡng dục iku
 配 phối phân phối, chi phối, phối ngẫu hai
 術 thuật kĩ thuật, học thuật, nghệ thuật jutsu
 商 thương thương mại, thương số shoo
