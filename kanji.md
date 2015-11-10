@@ -54,7 +54,6 @@
 地 địa thổ địa, địa đạo chi, ji |
 坊 phường phường , con trai boo, bo |
 埋 mai chôn mai | う.める
-在 tại tồn tại, thực tại outskirts zai | あ.る
 域 vực khu vực, lĩnh vực iki
 
 人 nhân nhân vật jin, nin | ひと
@@ -240,6 +239,7 @@
 名 danh danh tính, địa danh mei, myoo | な
 有 hữu sở hữu, hữu hạn yuu, u | あ.る
 布 bố vải, tuyên bố fu | ぬの
+在 tại tồn tại, thực tại outskirts zai | あ.る
 
 碌 lục satisfactory ROKU | ろく.な
 石 thạch đá, thạch anh, bảo thạch seki, shaku, koku | いし
