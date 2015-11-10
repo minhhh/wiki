@@ -163,6 +163,8 @@
 
 長 trường, trưởng trường giang, sở trường; hiệu trưởng choo | なが.い
 帳 trướng sổ choo | とばり
+髪 phát tóc hatsu | かみ
+
 
 入 nhập nhập cảnh, nhập môn, nhập viện nyuu | い.れる
 出 xuất xuất hiện, xuất phát shutsu, sui | で.る
@@ -753,8 +755,6 @@
 
 根 căn gốc, căn bản, căn cứ kon | ね
 
-髪 phát tóc hatsu | かみ
-
 毛 mao lông moo | け
 
 片 phiến tấm hen | かた
@@ -834,7 +834,10 @@
 忄 standing heart
 怪 quái kì quái, quái vật kai | あや.しい
 
+夂
 
+夂 長 髟
+髪 毛
 
 
 的 đích mục đích, đích thực teki
