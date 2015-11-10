@@ -367,6 +367,7 @@
 
 田 điền điền viên, tá điền den | ta
 町 đinh khu phố choo | まち
+黄 hoàng hoàng kim koo ,oo | き
 
 里 lí làng ri | さと
 黒 hắc đen, hắc ám koku | くろ
@@ -748,6 +749,7 @@
 司 ti, tư công ti, tư lệnh, director,  shi | つかさど.る
 
 薔薇 rose | ばら
+薔 SẮC バ   ショウ  ショク  ソウ |   みずたで
 
 麗 lệ mĩ lệ rei | うるわ.しい
 
