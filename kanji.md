@@ -67,7 +67,7 @@
 個 cá cá nhân, cá thể ko | か
 伸 thân dãn ra shin | の.びる
 信 tín uy tín, tín thác, thư tín shin |
-仮 giả giả thuyết, giả trang, giả dối ka, ke
+仮 giả giả thuyết, giả trang, giả dối ka, ke | かり
 作 tác tác phẩm, công tác, canh tác saku, sa | つく.る
 傍 bàng bàng quan boo | そば
 住 trú, trụ cư trú; trụ sở juu | す.む
@@ -836,8 +836,7 @@
 
 夂
 
-夂 長 髟
-髪 毛
+
 
 
 的 đích mục đích, đích thực teki
