@@ -582,6 +582,7 @@
 遊 du du hí, du lịch yuu, yu | あそ.び
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
 進 tiến thăng tiến, tiền tiến, tiến lên shin | すす.める
+辺 biên biên, biên giới hen | あた.り ほと.り
 
 呉 ngô triều Ngô, Trung quốc, cho ai, go | くれる
 
@@ -682,8 +683,6 @@
 椅 y, ỷ ghế イ
 
 鞄 bạc, bào, cái va li | かばん
-
-辺 biên biên, biên giới hen | あた.り ほと.り
 
 眠 miên thôi miên min | ねむ.い
 
@@ -787,6 +786,7 @@
 
 角 giác tam giác, tứ giác kaku | かど
 触 xúc tiếp xúc shoku | さわ.る
+蟹 GIẢI con cua カイ | かに
 
 眼 nhãn nhãn khoa gan, gen | まなこ
 
@@ -845,6 +845,7 @@
 鹿 LỘC Con hươu ロク | しか
 麓 LỘC chân núi ロク| ふもと
 
+散 歩
 
 
 的 đích mục đích, đích thực teki
