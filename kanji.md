@@ -506,8 +506,6 @@
 
 足 túc chân, bổ túc, sung túc soku
 
-比 tỉ so sánh, tỉ lệ, tỉ dụ hi
-
 息 tức con trai, tử tức soku | いき
 
 冬 đông mùa đông too | ふゆ
@@ -843,7 +841,9 @@
 非 phi phi nhân đạo, phi nghĩa hi | あら.ず
 常 thường bình thường, thông thường joo | つね
 
-
+比 tỉ so sánh, tỉ lệ, tỉ dụ hi | くら.べる
+鹿 LỘC Con hươu ロク | しか
+麓 LỘC chân núi ロク| ふもと
 
 
 
