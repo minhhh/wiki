@@ -47,6 +47,8 @@
 消 tiêu tiêu diệt, tiêu hao, tiêu thất shoo | け.す
 治 trị cai trị, trị an, trị bệnh chi, ji | なお.る
 
+落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
+
 火 hỏa lửa ka | ひ
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
 
@@ -589,8 +591,6 @@
 走 tẩu chạy soo | はし.る
 起 khởi khởi động, khởi sự, khởi nghĩa ki | おこる
 
-落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
-
 猿 viên con khỉ en | さる
 
 美 mĩ mĩ nhân, mĩ lệ bi | うつく.しい
@@ -845,7 +845,9 @@
 鹿 LỘC Con hươu ロク | しか
 麓 LỘC chân núi ロク| ふもと
 
-散 歩
+攵
+散 tán, tản phấn tán, tản mát san | ち.る
+
 
 
 的 đích mục đích, đích thực teki
@@ -1206,7 +1208,6 @@
 留 lưu lưu học, lưu trữ ryuu, ru
 順 thuận tòng thuận, thuận tự jun
 辞 từ từ vựng, từ chức ji
-散 tán, tản phấn tán, tản mát san
 因 nhân nguyên nhân in
 津 tân bờ biển shin
 途 đồ tiền đồ to
