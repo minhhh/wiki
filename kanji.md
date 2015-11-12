@@ -840,6 +840,7 @@
 怪 quái kì quái, quái vật kai | あや.しい
 
 夂
+夏 hạ mùa hè ka, ge | なつ
 
 非 phi phi nhân đạo, phi nghĩa hi | あら.ず
 常 thường bình thường, thông thường joo | つね
@@ -1188,7 +1189,6 @@
 習 tập học tập shuu
 標 tiêu mục tiêu, tiêu chuẩn hyoo
 般 bàn, ban nhất ban han
-夏 hạ mùa hè ka, ge
 永 vĩnh vĩnh viễn, vỉnh cửu ei
 興 hưng, hứng hưng thịnh, phục hưng; hứng thú koo, kyoo
 羽 vũ lông vũ u
