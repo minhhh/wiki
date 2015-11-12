@@ -110,6 +110,7 @@
 杯 bôi chén hai | さかずき
 桃 đào cây đào too | もも
 機 cơ cơ khí, thời cơ, phi cơ ki | はた
+構 cấu cấu tạo, cấu thành, cơ cấu koo | かま.う
 
 禾 2-branch tree radical
 利 lợi phúc lợi, lợi ích ri | き.く
@@ -515,9 +516,11 @@
 
 息 tức con trai, tử tức soku | いき
 
+夂
 冬 đông mùa đông too | ふゆ
 終 chung chung kết, chung liễu shuu | お.わり
 変 biến biến đổi, biến thiên hen | か.える か.わる
+夏 hạ mùa hè ka, ge | なつ
 
 勿 VẬT not;  must not;  do not;  be not モチ  ブツ   ボツ | なか.れ    なし
 場 trường hội trường, quảng trường joo | ば
@@ -834,12 +837,10 @@
 
 戈 QUA halberd | ほこ
 我 ngã bản ngã ga | われ
+成 thành thành tựu, hoàn thành, trở thành sei, joo | な.る
 
 忄 standing heart
 怪 quái kì quái, quái vật kai | あや.しい
-
-夂
-夏 hạ mùa hè ka, ge | なつ
 
 非 phi phi nhân đạo, phi nghĩa hi | あら.ず
 常 thường bình thường, thông thường joo | つね
@@ -854,7 +855,6 @@
 々
 
 
-記
 
 
 
@@ -870,7 +870,6 @@
 権 quyền chính quyền, quyền uy, quyền lợi ken, gon
 性 tính tính dục, giới tính, bản tính, tính chất sei, shoo
 務 vụ chức vụ, nhiệm vụ mu
-成 thành thành tựu, hoàn thành, trở thành sei, joo
 総 tổng tổng số, tổng cộng soo
 産 sản sản xuất, sinh sản, cộng sản san
 県 huyện huyện, tỉnh ken
@@ -961,7 +960,6 @@
 州 châu tỉnh, bang, châu lục shuu
 導 đạo dẫn đường, chỉ đạo doo
 農 nông nông nghiệp, nông thôn, nông dân noo
-構 cấu cấu tạo, cấu thành, cơ cấu koo
 疑 nghi nghi ngờ, nghi vấn, tình nghi gi
 残 tàn tàn dư, tàn tích, tàn đảng zan
 与 dữ, dự cấp dữ, tham dự yo
