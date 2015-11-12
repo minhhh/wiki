@@ -128,6 +128,7 @@
 顔 nhan nhan sắc, hồng nhan gan | かお
 祖 tổ tổ tiên so
 査 tra điều tra sa
+直 trực trực tiếp, chính trực choku, jiki | なお.る
 
 門 môn cửa, nhập môn, môn đồ, bộ môn mon | かど
 聞 văn nghe, tân văn (báo) bun, mon | きく
@@ -428,8 +429,6 @@
 事 sự sự việc ji, zu | こと
 
 社 xã xã hội, công xã, hợp tác xã sha
-
-直 trực trực tiếp, chính trực choku, jiki | なお.る
 
 手 thủ tay, thủ đoạn shu | て
 接 tiếp nối tiếp, tiếp đãi, tiếp xúc setsu | つ.ぐ
@@ -853,6 +852,7 @@
 散 tán, tản phấn tán, tản mát san | ち.る
 
 々
+
 
 
 
