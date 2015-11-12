@@ -38,6 +38,7 @@
 水 thủy thủy điện sui | みず
 氷 băng băng tuyết hyoo | こおり
 
+河 hà sông, sơn hà ka | かわ
 沖 xung ngoài khơi chuu
 洗 tiển rửa sen | あら.う
 汽 khí không khí, hơi ki
@@ -476,6 +477,7 @@
 
 矢 thỉ mũi tên shi
 医 y y học, y viện I
+短 đoản đoản mệnh, sở đoản tan | みじか.い
 
 飲 ẩm ẩm thực in
 
@@ -553,9 +555,6 @@
 
 使 sử, sứ sử dụng; sứ giả, thiên sứ shi | つか.う
 
-河 hà sông, sơn hà ka
-
-
 建 kiến kiến thiết, kiến tạo ken, kon | たてる
 
 忙 mang đa mang boo | いそが.しい
@@ -594,7 +593,6 @@
 
 猿 viên con khỉ en | さる
 
-美 mĩ mĩ nhân, mĩ lệ bi | うつく.しい
 
 馬 mã ngựa ba | うま
 駅 dịch ga eki |
@@ -817,6 +815,7 @@
 羊 dương con dê, con cừu yoo
 耒 LỖI come, cái cầy ライ ルイ | き く すき
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo | わざ
+美 mĩ mĩ nhân, mĩ lệ bi | うつく.しい
 
 歹 NGẠT bad;  wrong ガツ ガチ タイ
 殆 ĐÃI almost;  quite;  really タイ  サイ | ほとん.ど
@@ -849,7 +848,6 @@
 攵
 散 tán, tản phấn tán, tản mát san | ち.る
 
-建
 
 
 的 đích mục đích, đích thực teki
@@ -1192,7 +1190,6 @@
 博 bác uyên bác haku, baku
 迎 nghênh hoan nghênh, nghênh tiếp gei
 禁 cấm cấm đoán, nghiêm cấm kin
-短 đoản đoản mệnh, sở đoản tan
 彼 bỉ anh ta hi
 継 kế kế tục kei
 圧 áp áp lực, trấn áp atsu
