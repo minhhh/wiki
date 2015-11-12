@@ -83,6 +83,7 @@
 代 đại đại biểu, thời đại, đại diện, đại thế dai, tai | か.わる
 他 tha khác, tha hương, vị tha ta | ほか
 伯 bá thúc bá haku
+使 sử, sứ sử dụng; sứ giả, thiên sứ shi | つか.う
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
@@ -554,7 +555,6 @@
 
 参 tham tham chiếu, tham quan, tham khảo san
 
-使 sử, sứ sử dụng; sứ giả, thiên sứ shi | つか.う
 
 建 kiến kiến thiết, kiến tạo ken, kon | たてる
 
@@ -852,6 +852,7 @@
 散 tán, tản phấn tán, tản mát san | ち.る
 
 々
+
 
 
 
