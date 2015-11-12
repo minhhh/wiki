@@ -48,6 +48,7 @@
 消 tiêu tiêu diệt, tiêu hao, tiêu thất shoo | け.す
 治 trị cai trị, trị an, trị bệnh chi, ji | なお.る
 泳 vịnh bơi ei | およ.ぐ
+酒 tửu rượu shu | さけ
 
 落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
 
@@ -346,8 +347,6 @@
 斤 cân cân (kilo), cái rìu kin
 近 cận thân cận, cận thị, cận cảnh kin |  ちか.い
 所 sở trụ sở sho | ところ
-違 vi vi phạm, tương vi I | ちが.う
-送 tống tiễn, tống tiễn, tống đạt soo | おく.る
 
 車 xa xe cộ, xa lộ sha | くるま
 輪 luân bánh xe, luân hồi rin | わ
@@ -452,6 +451,7 @@
 毎 mỗi mỗi mai
 海 hải hải cảng, hải phận kai | うみ
 
+由 do tự do, lí do yu, yuu, yui | よし
 画 họa, hoạch họa sĩ; kế hoạch ga, kaku | え
 
 屋 ốc phòng ốc oku | や
@@ -577,8 +577,6 @@
 
 愛 ái yêu, ái tình, ái mộ ai | かな.しい
 
-酒 tửu rượu shu | さけ
-
 通 thông thông qua, thông hành, phổ thông tsuu, tsu | とお.り
 運 vận vận chuyển, vận mệnh un | はこ.ぶ
 遠 viễn viễn phương, vĩnh viễn en, on | とお
@@ -586,7 +584,9 @@
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
 進 tiến thăng tiến, tiền tiến, tiến lên shin | すす.める
 辺 biên biên, biên giới hen | あた.り ほと.り
-遅 trì muộn chi | おそ.い
+遅 trì muộn chi | おそ.い おく.れる
+違 vi vi phạm, tương vi I | ちが.う
+送 tống tiễn, tống tiễn, tống đạt soo | おく.る
 
 呉 ngô triều Ngô, Trung quốc, cho ai, go | くれる
 
@@ -854,6 +854,7 @@
 々
 
 
+遅
 
 
 
@@ -940,7 +941,6 @@
 提 đề cung cấp, đề cung tei
 沢 trạch đầm lầy taku
 義 nghĩa ý nghĩa, nghĩa lí, đạo nghĩa gi
-由 do tự do, lí do yu, yuu, yui
 再 tái lại, tái phát sai, sa
 営 doanh doanh nghiệp, kinh doanh, doanh trại ei
 容 dung dung mạo, hình dung, nội dung, dung nhận yoo
