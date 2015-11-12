@@ -849,7 +849,7 @@
 攵
 散 tán, tản phấn tán, tản mát san | ち.る
 
-
+建
 
 
 的 đích mục đích, đích thực teki
