@@ -191,12 +191,14 @@
 教 giáo giáo dục, giáo viên kyoo | おし。える
 
 力 lực sức lực ryoku, riki
-刀 đao cái đao too
 男 nam đàn ông, nam giới dan, nan | おとこ
 加 gia tăng gia, gia giảm ka
-切 thiết cắt, thiết thực, thân thiết setsu, sai | き.る
-丸 hoàn tròn gan
+丸 hoàn tròn gan | まる
 努 nỗ nỗ lực do | つと.める
+
+刀 đao cái đao too
+切 thiết cắt, thiết thực, thân thiết setsu, sai | き.る
+刻 khắc thời khắc, engrave koku | きざ.む
 
 女 nữ phụ nữ jo, nyo, nyoo
 安 an an bình, an ổn an | やす
@@ -585,6 +587,7 @@
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
 進 tiến thăng tiến, tiền tiến, tiến lên shin | すす.める
 辺 biên biên, biên giới hen | あた.り ほと.り
+遅 trì muộn chi | おそ.い
 
 呉 ngô triều Ngô, Trung quốc, cho ai, go | くれる
 
@@ -847,6 +850,8 @@
 
 攵
 散 tán, tản phấn tán, tản mát san | ち.る
+
+々
 
 
 
@@ -1255,7 +1260,6 @@
 緊 khẩn khẩn cấp, khẩn trương kin
 練 luyện rèn luyện, luyện tập ren
 康 khang kiện khang, khang trang koo
-遅 trì muộn chi
 棄 khí từ bỏ ki
 刑 hình hình phạt, tử hình kei
 宣 tuyên tuyên bố, tuyên cáo sen
@@ -1330,7 +1334,6 @@
 訳 dịch thông dịch, phiên dịch yaku
 募 mộ mộ tập, chiêu mộ bo
 複 phức phức tạp fuku
-刻 khắc thời khắc koku
 血 huyết tâm huyết ketsu
 希 hi hi hữu, hi vọng ki
 筋 cân gân cơ kin
