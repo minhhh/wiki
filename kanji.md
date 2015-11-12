@@ -46,6 +46,7 @@
 渇 khát khát, khát vọng katsu | かわ.く
 消 tiêu tiêu diệt, tiêu hao, tiêu thất shoo | け.す
 治 trị cai trị, trị an, trị bệnh chi, ji | なお.る
+泳 vịnh bơi ei | およ.ぐ
 
 落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
 
@@ -850,6 +851,7 @@
 
 
 
+
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
@@ -1575,7 +1577,6 @@
 貞 trinh trinh tiết tei
 梅 mai cây mơ bai
 撲 phác đánh boku
-泳 vịnh bơi ei
 尊 tôn tôn trọng son
 潮 triều thủy triều choo
 滑 hoạt trượt, giảo hoạt katsu
