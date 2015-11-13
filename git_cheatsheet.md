@@ -174,6 +174,14 @@
 ```
 <br/>
 
+#### Applying a range of commits
+
+```
+    # A should be older than B
+    git cherry-pick A..B
+```
+<br/>
+
 ### <a id="exports"></a>Exports
 
 ```
