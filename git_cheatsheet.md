@@ -177,8 +177,11 @@
 #### Applying a range of commits
 
 ```
-    # A should be older than B
+    # A should be older than B, this DOES NOT include A
     git cherry-pick A..B
+
+    # Include A
+    git cherry-pick A^..B
 ```
 <br/>
 
