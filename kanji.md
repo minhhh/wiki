@@ -854,7 +854,7 @@
 々
 
 ⻖
-除 trừ trừ khử, trừ bỏ, loại trừ, phép chia jo, ji
+除 trừ trừ khử, trừ bỏ, loại trừ, phép chia jo, ji | のぞ.く
 
 
 
