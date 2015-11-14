@@ -70,6 +70,7 @@
 
 大 đại to lớn, đại dương, đại lục dai, tai | おお.きい
 実 thực sự thực, chân thực jitsu | み
+因 nhân nguyên nhân in | よ.る
 
 個 cá cá nhân, cá thể ko | か
 伸 thân dãn ra shin | の.びる
@@ -869,9 +870,7 @@
 
 塵 TRẦN dust;  trash; チン| ごみ
 
-
-
-
+写 tả miêu tả sha | うつ.す
 
 
 的 đích mục đích, đích thực teki
@@ -1157,7 +1156,6 @@
 否 phủ phủ định, phủ quyết hi
 織 chức dệt shoku, shiki
 舞 vũ vũ điệu, khiêu vũ bu
-写 tả miêu tả sha
 抜 bạt rút ra batsu
 療 liệu trị liệu ryoo
 突 đột đột phá, đột nhiên totsu
@@ -1222,7 +1220,6 @@
 留 lưu lưu học, lưu trữ ryuu, ru
 順 thuận tòng thuận, thuận tự jun
 辞 từ từ vựng, từ chức ji
-因 nhân nguyên nhân in
 津 tân bờ biển shin
 途 đồ tiền đồ to
 罪 tội tội phạm, tội ác zai
