@@ -853,6 +853,9 @@
 
 々
 
+⻖
+除 trừ trừ khử, trừ bỏ, loại trừ, phép chia jo, ji
+
 
 
 
@@ -1113,7 +1116,6 @@
 候 hậu mùa, khí hậu, thời hậu koo
 存 tồn tồn tại, bảo tồn, ôn tồn son, zon
 吉 cát tốt lành, cát tường kichi, kitsu
-除 trừ trừ khử, trừ bỏ, loại trừ, phép chia jo, ji
 超 siêu siêu việt, siêu thị, siêu nhân choo
 健 kiện khỏe mạnh, kiện khang, tráng kiện ken
 障 chướng chướng ngại shoo
