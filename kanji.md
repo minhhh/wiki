@@ -370,6 +370,7 @@
 貸 thải cho mượn tai | か.す
 頃 KHOẢNH about toward | ころ
 財 tài tiền tài, tài sản zai, sai | たから
+員 viên thành viên, nhân viên in |
 
 青 thanh xanh, thanh thiên, thanh niên sei, shoo | あお.い
 晴 tình trong xanh sei | は.れる
@@ -489,8 +490,6 @@
 度 độ mức độ, quá độ, độ lượng do, to, taku | たび
 
 役 dịch chức vụ, nô dịch eki, yaku
-
-員 viên thành viên, nhân viên in |
 
 驚 kinh kinh ngạc, kinh sợ kyoo
 
@@ -855,6 +854,7 @@
 
 ⻖
 除 trừ trừ khử, trừ bỏ, loại trừ, phép chia jo, ji | のぞ.く
+
 
 
 
