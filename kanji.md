@@ -859,12 +859,12 @@
 舟 chu thuyền shuu | ふね
 般 bàn, ban nhất ban han
 
-并 TINH
+并 TINH put together | なら.ぶ
 普 phổ phổ thông fu | あまね.く
 
+及 cập phổ cập kyuu | およ.ぶ
 
-普 及
-
+塵 TRẦN dust;  trash; チン| ごみ
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
@@ -1173,7 +1173,6 @@
 将 tướng tướng quân shoo
 捜 sưu sưu tầm, sưu tập soo
 厳 nghiêm tôn nghiêm, nghiêm khắc, nghiêm trọng gen, gon
-及 cập phổ cập kyuu
 故 cố cố tổng thống, lí do ko
 装 trang trang phục, hóa trang, trang bị soo, shoo
 塁 lũy thành lũy rui
