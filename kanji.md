@@ -645,7 +645,7 @@
 
 様 dạng đa dạng, hình dạng yoo | さま
 
-席 tịch chủ tịch, xuất tịch (tham gia) seki | むしろ
+席 tịch seat, chủ tịch, xuất tịch (tham gia) seki | むしろ
 
 窓 song cửa sổ soo | まど
 
@@ -854,6 +854,10 @@
 
 ⻖
 除 trừ trừ khử, trừ bỏ, loại trừ, phép chia jo, ji | のぞ.く
+
+舟 chu thuyền shuu | ふね
+般 bàn, ban nhất ban han
+
 
 
 
@@ -1187,7 +1191,6 @@
 覚 giác cảm giác, giác ngộ kaku
 習 tập học tập shuu
 標 tiêu mục tiêu, tiêu chuẩn hyoo
-般 bàn, ban nhất ban han
 永 vĩnh vĩnh viễn, vỉnh cửu ei
 興 hưng, hứng hưng thịnh, phục hưng; hứng thú koo, kyoo
 羽 vũ lông vũ u
@@ -1919,7 +1922,6 @@
 珠 châu châu ngọc shu
 碑 bi tấm bia hi
 把 bả cầm ha
-舟 chu thuyền shuu
 架 giá cái giá ka
 朴 phác chất phác boku
 艇 đĩnh thuyền nhỏ tei
