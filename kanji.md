@@ -741,6 +741,7 @@
 
 達 đạt đạt tới, điều đạt, thành đạt tatsu | -たち
 
+艮 CẤN コン
 良 lương tốt, lương tâm, lương tri ryoo | よ.い いい
 
 蔭 shade;  shadow;  backing assistance イン  オン | かげ
@@ -866,7 +867,7 @@
 
 塵 TRẦN dust;  trash; チン| ごみ
 
-
+良
 
 
 
