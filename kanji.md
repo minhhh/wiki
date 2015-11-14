@@ -866,6 +866,8 @@
 
 塵 TRẦN dust;  trash; チン| ごみ
 
+作 業
+
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
