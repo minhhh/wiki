@@ -873,6 +873,9 @@
 写 tả miêu tả sha | うつ.す
 
 
+
+
+
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
