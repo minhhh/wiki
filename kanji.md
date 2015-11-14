@@ -187,6 +187,7 @@
 付 phụ phụ thuộc, phụ lục fu | つく
 府 phủ chính phủ fu
 対 đối đối diện, phản đối, đối với tai, tsui | こた.える
+待 đãi đợi, đối đãi tai | ま.つ
 
 分 phân phân số, phân chia bun, fun, bu | わ.かる
 
@@ -680,8 +681,6 @@
 
 払 phất trả tiền futsu | はら.う
 
-待 đãi đợi, đối đãi tai | ま.つ
-
 伝 truyền, truyện truyền đạt, truyền động; tự truyện den | つだ.う
 
 椅 y, ỷ ghế イ
@@ -703,8 +702,6 @@
 姿 tư tư thế, tư dung, tư sắc shi | すがた
 
 祝 chúc chúc phúc shuku, shuu | いわ.う
-
-皆 giai tất cả kai | みな
 
 命 mệnh, mạng tính mạng, cách mạng, vận mệnh, mệnh lệnh mei, myoo | いのち
 
@@ -848,12 +845,12 @@
 比 tỉ so sánh, tỉ lệ, tỉ dụ hi | くら.べる
 鹿 LỘC Con hươu ロク | しか
 麓 LỘC chân núi ロク| ふもと
+皆 giai tất cả kai | みな
 
 攵
 散 tán, tản phấn tán, tản mát san | ち.る
 
 々
-
 
 
 
