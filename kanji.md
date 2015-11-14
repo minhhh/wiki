@@ -479,6 +479,7 @@
 締 đế buộc tei | し.める
 結 kết đoàn kết, kết thúc ketsu | むす.ぶ
 線 tuyến dây, tiền tuyến, điện tuyến, vô tuyến sen | すじ
+経 kinh kinh tế, sách kinh, kinh độ kei, kyoo | はか.る
 素 tố yếu tố, nguyên tố so, su | もと
 孫 tôn con cháu son | まご
 
@@ -867,7 +868,8 @@
 
 塵 TRẦN dust;  trash; チン| ごみ
 
-良
+済 tế kinh tế, cứu tế sai | す.まない
+
 
 
 
@@ -875,7 +877,6 @@
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
-経 kinh kinh tế, sách kinh, kinh độ kei, kyoo
 制 chế chế ngự, thể chế, chế độ sei
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
@@ -904,7 +905,6 @@
 第 đệ đệ nhất, đệ nhị dai
 島 đảo hải đảo too
 統 thống thống nhất, tổng thống, thống trị too
-済 tế kinh tế, cứu tế sai
 官 quan quan lại kan
 投 đầu đầu tư, đầu cơ too
 派 phái trường phái ha
