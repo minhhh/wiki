@@ -49,6 +49,7 @@
 治 trị cai trị, trị an, trị bệnh chi, ji | なお.る
 泳 vịnh bơi ei | およ.ぐ
 酒 tửu rượu shu | さけ
+済 tế kinh tế, cứu tế sai | す.まない
 
 落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
 
@@ -868,7 +869,6 @@
 
 塵 TRẦN dust;  trash; チン| ごみ
 
-済 tế kinh tế, cứu tế sai | す.まない
 
 
 
