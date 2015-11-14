@@ -443,6 +443,7 @@
 授 thụ đưa cho, truyền thụ, giáo thụ ju | さず.かる
 携 huề mang theo kei | たずさ.える
 技 kĩ kĩ thuật, kĩ nghệ gi | わざ
+撲 phác đánh boku
 
 考 khảo khảo sát, tư khảo koo | かんが.え
 
@@ -1572,7 +1573,6 @@
 旗 kì quốc kì ki
 貞 trinh trinh tiết tei
 梅 mai cây mơ bai
-撲 phác đánh boku
 尊 tôn tôn trọng son
 潮 triều thủy triều choo
 滑 hoạt trượt, giảo hoạt katsu
