@@ -859,10 +859,11 @@
 舟 chu thuyền shuu | ふね
 般 bàn, ban nhất ban han
 
+并 TINH
+普 phổ phổ thông fu | あまね.く
 
 
-
-
+普 及
 
 
 的 đích mục đích, đích thực teki
@@ -1286,7 +1287,6 @@
 陣 trận trận mạc jin
 暴 bạo, bộc bạo lực, bộc lộ boo, baku
 倒 đảo đảo lộn too
-普 phổ phổ thông fu
 築 trúc kiến trúc chiku
 徳 đức đạo đức toku
 季 quý mùa ki
