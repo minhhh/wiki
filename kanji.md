@@ -295,6 +295,7 @@
 計 kê, kế thống kê; kế hoạch, kế toán kei | はか.る
 調 điều, điệu điều tra, điều hòa; thanh điệu, giai điệu choo | しら.べる
 設 thiết thiết lập, kiến thiết setsu | もう.ける
+許 hứa cho phép, hứa khả kyo | ゆる.す
 
 己 kỉ tự kỉ, vị kỉ ko, ki
 記 kí thư kí, kí sự, kí ức ki | しる.す
@@ -863,6 +864,7 @@
 
 
 
+
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
@@ -1225,7 +1227,6 @@
 湾 loan vịnh wan
 踏 đạp dẫm lên too
 幸 hạnh hạnh phúc, hạnh vận koo
-許 hứa cho phép, hứa khả kyo
 略 lược tỉnh lược, xâm lược ryaku
 固 cố ngoan cố, cố thủ ko
 賛 tán tán đồng, tán thành san
