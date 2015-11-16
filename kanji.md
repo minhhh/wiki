@@ -883,6 +883,10 @@
 殳
 段 đoạn giai đoạn dan
 
+断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
+
+
+
 
 
 
@@ -987,7 +991,6 @@
 農 nông nông nghiệp, nông thôn, nông dân noo
 疑 nghi nghi ngờ, nghi vấn, tình nghi gi
 与 dữ, dự cấp dữ, tham dự yo
-断 đoạn, đoán phán đoán, đoạn tuyệt dan
 施 thi thực thi, thi hành shi, se
 庁 sảnh đại sảnh choo
 害 hại có hại, độc hại, lợi hại gai
