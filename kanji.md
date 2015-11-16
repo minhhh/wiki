@@ -880,7 +880,8 @@
 
 写 tả miêu tả sha | うつ.す
 
-歹
+殳
+段 đoạn giai đoạn dan
 
 
 
@@ -1075,7 +1076,6 @@
 極 cực cực lực, cùng cực, địa cực kyoku, goku
 去 khứ quá khứ, trừ khử kyo, ko
 欧 âu châu âu oo
-段 đoạn giai đoạn dan
 管 quản ống, mao quản, quản lí kan
 賞 thưởng giải thưởng, tưởng thưởng shoo
 競 cạnh cạnh tranh kyoo, kei
