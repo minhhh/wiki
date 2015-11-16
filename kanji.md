@@ -429,6 +429,8 @@
 菓 quả hoa quả ka |
 荷 hà hành lí ka | に
 苦 khổ khổ cực, cùng khổ ku | にが.い
+若 nhược trẻ, nhược niên jaku, nyaku
+
 
 置 trí bố trí, bài trí, vị trí chi | お.く
 
@@ -456,6 +458,7 @@
 携 huề mang theo kei | たずさ.える
 技 kĩ kĩ thuật, kĩ nghệ gi | わざ
 撲 phác đánh boku
+採 thải pick;  take;  fetch sai | と.る
 
 考 khảo khảo sát, tư khảo koo | かんが.え
 
@@ -760,8 +763,6 @@
 薔薇 rose | ばら
 薔 SẮC バ   ショウ  ショク  ソウ |   みずたで
 
-麗 lệ mĩ lệ rei | うるわ.しい
-
 寒 hàn lạnh kan | さむ.い
 
 根 căn gốc, căn bản, căn cứ kon | ね
@@ -856,6 +857,7 @@
 鹿 LỘC Con hươu ロク | しか
 麓 LỘC chân núi ロク| ふもと
 皆 giai tất cả kai | みな
+麗 lệ mĩ lệ rei | うるわ.しい
 
 攵
 散 tán, tản phấn tán, tản mát san | ち.る
@@ -877,9 +879,8 @@
 
 写 tả miêu tả sha | うつ.す
 
-発 生
 
-
+綺 麗
 
 
 
@@ -1036,7 +1037,6 @@
 差 sai sai khác, sai biệt sa
 族 tộc gia tộc, dân tộc, chủng tộc zoku
 追 truy truy lùng, truy nã, truy cầu tsui
-若 nhược trẻ, nhược niên jaku, nyaku
 訴 tố tố cáo, tố tụng so
 低 đê thấp, đê hèn, đê tiện tei
 量 lượng lực lượng, độ lượng, dung lượng, trọng lượng ryoo
@@ -1160,7 +1160,6 @@
 拡 khuếch khuếch đại kaku
 週 chu tuần shuu
 従 tùng phục tùng, tùy tùng, tòng thuận juu, shoo, ju
-採 thải hái, thải dụng sai
 否 phủ phủ định, phủ quyết hi
 織 chức dệt shoku, shiki
 舞 vũ vũ điệu, khiêu vũ bu
