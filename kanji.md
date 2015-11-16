@@ -832,6 +832,7 @@
 
 歹 NGẠT bad;  wrong ガツ ガチ タイ
 殆 ĐÃI almost;  quite;  really タイ  サイ | ほとん.ど
+残 tàn tàn dư, tàn tích, tàn đảng zan |  のこ.る
 
 巾 CÂN Cái khăn | ちきり
 帯 đới nhiệt đới, ôn đới, belt tai | お.びる
@@ -879,9 +880,9 @@
 
 写 tả miêu tả sha | うつ.す
 
+歹
 
 
-料
 
 
 的 đích mục đích, đích thực teki
@@ -984,7 +985,6 @@
 導 đạo dẫn đường, chỉ đạo doo
 農 nông nông nghiệp, nông thôn, nông dân noo
 疑 nghi nghi ngờ, nghi vấn, tình nghi gi
-残 tàn tàn dư, tàn tích, tàn đảng zan
 与 dữ, dự cấp dữ, tham dự yo
 断 đoạn, đoán phán đoán, đoạn tuyệt dan
 施 thi thực thi, thi hành shi, se
