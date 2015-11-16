@@ -51,6 +51,7 @@
 酒 tửu rượu shu | さけ
 済 tế kinh tế, cứu tế sai | す.まない
 決 quyết quyết định ketsu | き.める
+汚 ô ô nhiễm o | けが.す
 
 落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
 
@@ -579,6 +580,7 @@
 
 背 bối bối cảnh hai | せい
 
+疒
 痛 thống thống khổ tsuu | いた.い
 病 bệnh bệnh nhân, bệnh viện, bệnh tật byoo, hei | や.む
 
@@ -872,8 +874,6 @@
 塵 TRẦN dust;  trash; チン| ごみ
 
 写 tả miêu tả sha | うつ.す
-
-
 
 
 
@@ -1331,7 +1331,6 @@
 抱 bão ôm, hoài bão hoo
 掲 yết yết thị kei
 緩 hoãn hòa hoãn kan
-汚 ô ô nhiễm o
 招 chiêu chiêu đãi shoo
 染 nhiễm ô nhiễm sen
 葬 táng an táng soo
