@@ -224,6 +224,8 @@
 要 yêu, yếu yêu cầu; chủ yếu yoo | かなめ い.る
 
 古 cổ cũ, cổ điển, đồ cổ ko | ふる.い
+故 cố cố tổng thống, lí do ko | ふる.い
+
 早 tảo sớm, tảo hôn soo, sa | はや
 草 thảo thảo mộc soo | くさ
 
@@ -400,7 +402,6 @@
 台 đài lâu đài, đài dai, tai
 
 店 điếm cửa hàng, tửu điếm ten | みせ
-điểm
 
 原 nguyên thảo nguyên, nguyên tử, nguyên tắc gen
 
@@ -801,6 +802,7 @@
 
 発 phát xuất phát, phát kiến, phát hiện, phát ngôn hatsu, hotsu | おこ.る
 
+
 氏 thị họ shi | うじ
 民 dân quốc dân, dân tộc min | たみ
 
@@ -874,6 +876,10 @@
 塵 TRẦN dust;  trash; チン| ごみ
 
 写 tả miêu tả sha | うつ.す
+
+発 生
+
+
 
 
 
@@ -1179,7 +1185,6 @@
 将 tướng tướng quân shoo
 捜 sưu sưu tầm, sưu tập soo
 厳 nghiêm tôn nghiêm, nghiêm khắc, nghiêm trọng gen, gon
-故 cố cố tổng thống, lí do ko
 装 trang trang phục, hóa trang, trang bị soo, shoo
 塁 lũy thành lũy rui
 異 dị dị bản, dị tộc, dị giáo I
