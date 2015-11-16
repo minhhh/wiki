@@ -385,6 +385,7 @@
 田 điền điền viên, tá điền den | ta
 町 đinh khu phố choo | まち
 黄 hoàng hoàng kim koo ,oo | き
+略 lược tỉnh lược, xâm lược ryaku | ほぼ  おか.す
 
 里 lí làng ri | さと
 黒 hắc đen, hắc ám koku | くろ
@@ -546,7 +547,6 @@
 
 叩 strike, beat, hit tataku
 
-
 着 trước đến, đáo trước, mặc chaku, jaku | き.る
 
 剤 tễ dịch tễ zai
@@ -565,9 +565,7 @@
 
 座 tọa chỗ ngồi, tọa đàm, tọa độ za
 
-
 参 tham tham chiếu, tham quan, tham khảo san
-
 
 建 kiến kiến thiết, kiến tạo ken, kon | たてる
 
@@ -1234,7 +1232,6 @@
 湾 loan vịnh wan
 踏 đạp dẫm lên too
 幸 hạnh hạnh phúc, hạnh vận koo
-略 lược tỉnh lược, xâm lược ryaku
 固 cố ngoan cố, cố thủ ko
 賛 tán tán đồng, tán thành san
 執 chấp cố chấp shitsu, shuu
