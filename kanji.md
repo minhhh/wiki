@@ -50,6 +50,7 @@
 泳 vịnh bơi ei | およ.ぐ
 酒 tửu rượu shu | さけ
 済 tế kinh tế, cứu tế sai | す.まない
+決 quyết quyết định ketsu | き.める
 
 落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
 
@@ -91,6 +92,8 @@
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
 才 tài tài năng sai |
+
+得 đắc đắc lợi, cầu bất đắc toku | え.る
 
 小 tiểu nhỏ, ít shoo | ちい.さい
 少 thiếu, thiểu thiếu niên; thiểu số shoo | すく.ない, すこ.し
@@ -418,9 +421,11 @@
 
 身 thân thân thể, thân phận shin
 
+⺾
 花 hoa hoa, bông hoa ka | はな
 菓 quả hoa quả ka |
 荷 hà hành lí ka | に
+苦 khổ khổ cực, cùng khổ ku | にが.い
 
 置 trí bố trí, bài trí, vị trí chi | お.く
 
@@ -578,8 +583,6 @@
 
 痛 thống thống khổ tsuu | いた.い
 病 bệnh bệnh nhân, bệnh viện, bệnh tật byoo, hei | や.む
-
-決 quyết quyết định ketsu | き.める
 
 帰 quy hồi quy ki | かえ.り
 
@@ -923,7 +926,6 @@
 込 <vào>
 領 lĩnh, lãnh thống lĩnh, lãnh thổ, lĩnh vực ryoo
 際 tế quốc tế sai
-得 đắc đắc lợi, cầu bất đắc toku
 減 giảm gia giảm, giảm gen
 革 cách da thuộc, cách mạng kaku
 論 luận lí luận, ngôn luận, thảo luận ron
@@ -1148,7 +1150,6 @@
 殺 sát sát hại, sát nhân satsu, sai, setsu
 速 tốc tốc độ, tăng tốc soku
 波 ba sóng, phong ba ha
-苦 khổ khổ cực, cùng khổ ku
 幅 phúc bề ngang fuku
 劇 kịch kịch bản, vở kịch, kịch tính geki
 周 chu chu vi, chu biên shuu
