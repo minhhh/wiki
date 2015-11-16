@@ -160,7 +160,6 @@
 王 vương vương giả oo
 玉 ngọc ngọc gyoku | たま
 国 quốc nước, quốc gia, quốc ca koku | くに
-理 lí lí do, lí luận, nguyên lí ri | ことわり
 主 chủ chủ yếu, chủ nhân shu, su | ぬし
 
 会 hội hội họp, đại hội kai, e | あ。う
@@ -391,6 +390,7 @@
 略 lược tỉnh lược, xâm lược ryaku | ほぼ  おか.す
 
 里 lí làng ri | さと
+理 lí lí do, lí luận, nguyên lí ri | ことわり
 黒 hắc đen, hắc ám koku | くろ
 野 dã cánh đồng, hoang dã, thôn dã ya | の
 
@@ -881,6 +881,7 @@
 
 
 
+料
 
 
 的 đích mục đích, đích thực teki
