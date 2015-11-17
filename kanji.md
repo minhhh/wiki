@@ -889,8 +889,6 @@
 
 
 
-
-
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
@@ -1546,7 +1544,6 @@
 械 giới cơ giới kai
 隣 lân lân bang, lân cận rin
 到 đáo đến too
-茶 trà trà cha, sa
 威 uy uy nghi, uy nghiêm I
 微 vi hiển vi, vi sinh vật bi
 翌 dực <tiếp sau> yoku
