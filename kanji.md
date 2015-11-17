@@ -467,6 +467,7 @@
 技 kĩ kĩ thuật, kĩ nghệ gi | わざ
 撲 phác đánh boku
 採 thải pick;  take;  fetch sai | と.る
+捕 bộ bắt, đãi bộ ho | つか.まる catch
 
 考 khảo khảo sát, tư khảo koo | かんが.え
 
@@ -895,6 +896,9 @@
 断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
 
 彳
+
+
+
 
 
 
