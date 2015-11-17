@@ -138,6 +138,7 @@
 祖 tổ tổ tiên so
 査 tra điều tra sa
 直 trực trực tiếp, chính trực choku, jiki | なお.る
+眠 miên thôi miên min | ねむ.い
 
 門 môn cửa, nhập môn, môn đồ, bộ môn mon | かど
 聞 văn nghe, tân văn (báo) bun, mon | きく
@@ -698,7 +699,6 @@
 
 鞄 bạc, bào, cái va li | かばん
 
-眠 miên thôi miên min | ねむ.い
 
 歳 tuế tuổi, năm, tuế nguyệt sai, sei | とし
 
@@ -888,7 +888,6 @@
 
 
 
-試 合
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
