@@ -69,10 +69,11 @@
 増 tăng tăng gia, tăng tốc zoo | ふ.える
 
 人 nhân nhân vật jin, nin | ひと
-犬 khuyển con chó ken | いぬ
 太 thái thái dương, thái bình tai, ta | ふとい
+犬 khuyển con chó ken | いぬ
 夫 phu trượng phu, phu phụ fu, fuu | おっと
 天 thiên thiên thạch, thiên nhiên, thiên đường ten | あめ
+
 
 大 đại to lớn, đại dương, đại lục dai, tai | おお.きい
 実 thực sự thực, chân thực jitsu | み
@@ -571,6 +572,7 @@
 
 犬 khuyển con chó ken
 狭 hiệp hẹp kyoo | せま.い
+犯 phạm phạm nhân han | おか.す
 
 集 tập tập hợp, tụ tập shuu
 
@@ -896,6 +898,7 @@
 
 
 
+
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
 選 tuyển tuyển chọn sen
@@ -1113,7 +1116,6 @@
 兵 binh binh lính, binh lực hei, hyoo
 修 tu tu sửa, tu chính, tu luyện shuu, shu
 処 xử, xứ cư xử, xử trí, xử lí; nơi chỗ sho
-捕 bộ bắt, đãi bộ ho
 積 tích tích tụ, súc tích, tích phân seki
 編 biên đan, biên tập hen
 師 sư giáo sư, tôn sư trọng đạo shi
@@ -1307,7 +1309,6 @@
 恵 huệ ân huệ kei, e
 儀 nghi nghi thức gi
 邦 bang liên bang hoo
-犯 phạm phạm nhân han
 償 thường bồi thường shoo
 抑 ức ức chế yoku
 絶 tuyệt đoạn tuyệt, tuyệt diệu zetsu
