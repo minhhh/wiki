@@ -310,7 +310,6 @@
 議 nghị nghị luận, nghị sự gi |
 試 thí thí nghiệm, thí điểm shi | ため.す
 
-喉 HẦU Cổ họng コウ | のど
 咲 tiếu nở hoa - | さ.く
 号 hiệu phiên hiệu, tín hiệu, phù hiệu goo | さけ.ぶ
 
@@ -366,6 +365,7 @@
 食 thực ẩm thực, thực đường shoku, jiki | た.べる
 飯 phạn cơm han | めし
 館 quán đại sứ quán, hội quán kan | やかた
+飲 ẩm ẩm thực in | の.む
 
 工 công công tác, công nhân koo, ku
 
@@ -499,8 +499,7 @@
 矢 thỉ mũi tên shi
 医 y y học, y viện I
 短 đoản đoản mệnh, sở đoản tan | みじか.い
-
-飲 ẩm ẩm thực in
+喉 HẦU Cổ họng コウ | のど
 
 度 độ mức độ, quá độ, độ lượng do, to, taku | たび
 
@@ -885,8 +884,7 @@
 
 断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
 
-
-
+権 quyền chính quyền, quyền uy, quyền lợi ken, gon
 
 
 
@@ -898,7 +896,6 @@
 戦 chiến chiến tranh, chiến đấu sen
 最 tối nhất (tối cao, tối đa) sai
 勝 thắng thắng lợi, thắng cảnh shoo
-権 quyền chính quyền, quyền uy, quyền lợi ken, gon
 性 tính tính dục, giới tính, bản tính, tính chất sei, shoo
 務 vụ chức vụ, nhiệm vụ mu
 総 tổng tổng số, tổng cộng soo
