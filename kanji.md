@@ -27,6 +27,7 @@
 肩 kiên vai ken | かた
 昼 trú buổi trưa chuu | ひる
 届 giới đưa đến - | とど.く
+履 lí đi, mặc ri | は.く
 
 日 nhật ngày, nhật thực, nhật báo nichi, jitsu | ひ
 昨 tạc <hôm> qua, <năm> qua.. saku | きのう
@@ -432,8 +433,8 @@
 菓 quả hoa quả ka |
 荷 hà hành lí ka | に
 苦 khổ khổ cực, cùng khổ ku | にが.い
-若 nhược trẻ, nhược niên jaku, nyaku
-
+若 nhược trẻ, nhược niên jaku, nyaku | わか.い
+茶 trà trà チャ サ
 
 置 trí bố trí, bài trí, vị trí chi | お.く
 
@@ -885,6 +886,8 @@
 断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
 
 彳
+
+
 
 
 
@@ -1962,7 +1965,6 @@
 洞 động hang động doo
 諾 nặc chấp thuận daku
 俸 bổng lương bổng, bổng lộc hoo
-履 lí đi, mặc ri
 穀 cốc ngũ cốc koku
 呈 trình trình bày, đệ trình tei
 髄 tủy xương tủy zui
