@@ -886,7 +886,8 @@
 断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
 
 
-経 験
+
+
 
 
 的 đích mục đích, đích thực teki
