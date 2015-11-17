@@ -26,6 +26,7 @@
 尸 thi corpse シ |  かたしろ
 肩 kiên vai ken | かた
 昼 trú buổi trưa chuu | ひる
+届 giới đưa đến - | とど.く
 
 日 nhật ngày, nhật thực, nhật báo nichi, jitsu | ひ
 昨 tạc <hôm> qua, <năm> qua.. saku | きのう
@@ -703,8 +704,6 @@
 歳 tuế tuổi, năm, tuế nguyệt sai, sei | とし
 
 檎 cầm táo ゴ
-
-届 giới đưa đến - | とど.く
 
 神 thần thần, thần thánh, thần dược shin, jin | かみ
 
