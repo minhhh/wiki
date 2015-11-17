@@ -818,9 +818,12 @@
 究 cứu nghiên cứu, cứu cánh kyuu | きわ.める
 空 không không khí, hư không, hàng không kuu | そら , す.く
 
+
+衤
 衣 y y phục I | きぬ
 園 viên vườn, điền viên, hoa viên, công viên en | その
 表 biểu biểu hiện, bảng biểu, biểu diễn hyoo | おもて
+初 sơ sơ cấp sho | はじ.め
 
 夕 tịch tịch dương seki |  ゆう
 夜 dạ ban đêm, dạ cảnh, dạ quang ya | よる
@@ -887,6 +890,7 @@
 
 彳
 
+最 tối nhất (tối cao, tối đa) sai | つま
 
 
 
@@ -898,7 +902,6 @@
 制 chế chế ngự, thể chế, chế độ sei
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
-最 tối nhất (tối cao, tối đa) sai
 勝 thắng thắng lợi, thắng cảnh shoo
 性 tính tính dục, giới tính, bản tính, tính chất sei, shoo
 務 vụ chức vụ, nhiệm vụ mu
@@ -916,7 +919,6 @@
 報 báo báo cáo, báo thù, báo đáp hoo
 委 ủy ủy viên, ủy ban, ủy thác I
 資 tư tư bản, đầu tư, tư cách shi
-初 sơ sơ cấp sho
 院 viện học viện, y viện in
 共 cộng tổng cộng, cộng sản, công cộng kyoo
 第 đệ đệ nhất, đệ nhị dai
