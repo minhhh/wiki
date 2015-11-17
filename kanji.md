@@ -54,6 +54,7 @@
 済 tế kinh tế, cứu tế sai | す.まない
 決 quyết quyết định ketsu | き.める
 汚 ô ô nhiễm o | けが.す
+減 giảm gia giảm, giảm gen | へ.る
 
 落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
 
@@ -939,7 +940,6 @@
 込 <vào>
 領 lĩnh, lãnh thống lĩnh, lãnh thổ, lĩnh vực ryoo
 際 tế quốc tế sai
-減 giảm gia giảm, giảm gen
 革 cách da thuộc, cách mạng kaku
 論 luận lí luận, ngôn luận, thảo luận ron
 告 cáo báo cáo, thông cáo koku
