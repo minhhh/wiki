@@ -65,6 +65,7 @@
 坊 phường phường , con trai boo, bo |
 埋 mai chôn mai | う.める
 域 vực khu vực, lĩnh vực iki
+増 tăng tăng gia, tăng tốc zoo | ふ.える
 
 人 nhân nhân vật jin, nin | ひと
 犬 khuyển con chó ken | いぬ
@@ -154,6 +155,7 @@
 耳 nhĩ tai ji | みみ
 職 chức chức vụ, từ chức shoku | 
 取 thủ lấy, nhận shu | と.る
+最 tối nhất (tối cao, tối đa) sai | つま
 
 面 diện phản diện, chính diện men | おもて
 
@@ -205,7 +207,7 @@
 
 力 lực sức lực ryoku, riki
 男 nam đàn ông, nam giới dan, nan | おとこ
-加 gia tăng gia, gia giảm ka
+加 gia tăng gia, gia giảm ka | くわ.える
 丸 hoàn tròn gan | まる
 努 nỗ nỗ lực do | つと.める
 
@@ -605,6 +607,7 @@
 遅 trì muộn chi | おそ.い おく.れる
 違 vi vi phạm, tương vi I | ちが.う
 送 tống tiễn, tống tiễn, tống đạt soo | おく.る
+速 tốc tốc độ, tăng tốc soku | はや.い
 
 呉 ngô triều Ngô, Trung quốc, cho ai, go | くれる
 
@@ -890,10 +893,6 @@
 
 彳
 
-最 tối nhất (tối cao, tối đa) sai | つま
-
-
-
 
 
 的 đích mục đích, đích thực teki
@@ -947,7 +946,6 @@
 認 nhận xác nhận, nhận thức nin
 億 ức trăm triệu oku
 求 cầu yêu cầu, mưu cầu kyuu
-増 tăng tăng gia, tăng tốc zoo
 感 cảm cảm giác, cảm xúc, cảm tình kan
 示 thị biểu thị ji, shi
 価 giá giá cả, vô giá, giá trị ka
@@ -1158,7 +1156,6 @@
 給 cấp cung cấp, cấp phát kyuu
 具 cụ công cụ, dụng cụ gu
 殺 sát sát hại, sát nhân satsu, sai, setsu
-速 tốc tốc độ, tăng tốc soku
 波 ba sóng, phong ba ha
 幅 phúc bề ngang fuku
 劇 kịch kịch bản, vở kịch, kịch tính geki
