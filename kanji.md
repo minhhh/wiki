@@ -139,7 +139,7 @@
 顔 nhan nhan sắc, hồng nhan gan | かお
 祖 tổ tổ tiên so
 査 tra điều tra sa
-直 trực trực tiếp, chính trực choku, jiki | なお.る
+直 trực trực tiếp, chính trực choku, jiki | なお.る fix;  repair
 眠 miên thôi miên min | ねむ.い
 
 門 môn cửa, nhập môn, môn đồ, bộ môn mon | かど
