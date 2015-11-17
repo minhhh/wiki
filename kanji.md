@@ -117,6 +117,7 @@
 桃 đào cây đào too | もも
 機 cơ cơ khí, thời cơ, phi cơ ki | はた
 構 cấu cấu tạo, cấu thành, cơ cấu koo | かま.う
+権 quyền chính quyền, quyền uy, quyền lợi ken, gon | おもり
 
 禾 2-branch tree radical
 利 lợi phúc lợi, lợi ích ri | き.く
@@ -125,7 +126,6 @@
 米 mễ gạo bei, mai | こめ
 料 liệu nguyên liệu, tài liệu, nhiên liệu ryoo
 類 loại chủng loại rui | たぐ.い
-頁 HIỆT ケツ page, leaf ぺえじ | おおがい   かしら
 
 目 mục mắt, hạng mục, mục lục moku, boku | め
 見 kiến ý kiến ken | み.る
@@ -376,6 +376,7 @@
 貝 bối vỏ sò - | かい
 買 mãi mua, khuyến mãi bai | か.う
 貸 thải cho mượn tai | か.す
+頁 HIỆT ケツ page, leaf ぺえじ | おおがい   かしら
 頃 KHOẢNH about toward | ころ
 財 tài tiền tài, tài sản zai, sai | たから
 員 viên thành viên, nhân viên in |
@@ -884,8 +885,8 @@
 
 断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
 
-権 quyền chính quyền, quyền uy, quyền lợi ken, gon
 
+貝
 
 
 的 đích mục đích, đích thực teki
