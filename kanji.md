@@ -885,6 +885,9 @@
 
 断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
 
+彳
+
+
 
 
 
