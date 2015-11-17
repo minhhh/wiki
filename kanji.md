@@ -22,8 +22,8 @@
 能 năng năng lực, tài năng noo | よ.く
 服 phục y phục, cảm phục, phục vụ fuku |
 
-戸 hộ hộ khẩu ko | と
 尸 thi corpse シ |  かたしろ
+戸 hộ hộ khẩu ko | と
 肩 kiên vai ken | かた
 昼 trú buổi trưa chuu | ひる
 届 giới đưa đến - | とど.く
@@ -362,7 +362,7 @@
 
 斤 cân cân (kilo), cái rìu kin
 近 cận thân cận, cận thị, cận cảnh kin |  ちか.い
-所 sở trụ sở sho | ところ
+所 sở trụ sở sho | ところ place
 
 車 xa xe cộ, xa lộ sha | くるま
 輪 luân bánh xe, luân hồi rin | わ
@@ -896,7 +896,6 @@
 断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
 
 彳
-
 
 
 
