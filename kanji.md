@@ -414,7 +414,7 @@
 
 来 lai đến, tương lai, vị lai rai | く.る,きた.る
 
-父 phụ phụ tử, phụ thân, phụ huynh fu
+父 phụ phụ tử, phụ thân, phụ huynh fu | ちち
 交 giao giao hảo, giao hoán koo | か.わす
 校 hiệu trường học koo キョウ
 
@@ -886,7 +886,7 @@
 断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
 
 
-貝
+経 験
 
 
 的 đích mục đích, đích thực teki
