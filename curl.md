@@ -1,8 +1,7 @@
+# CURL
+cURL is a software package which consists of command line tool and a library for transferring data using URL syntax.
 
-
-
-
-
+See [code/curl-tutorial](code/curl-tutorial) for some practical use of Curl.
 
 # REFERENCES
 * [9 uses for cURL worth knowing](http://httpkit.com/resources/HTTP-from-the-Command-Line/)
