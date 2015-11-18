@@ -74,7 +74,6 @@
 夫 phu trượng phu, phu phụ fu, fuu | おっと
 天 thiên thiên thạch, thiên nhiên, thiên đường ten | あめ
 
-
 大 đại to lớn, đại dương, đại lục dai, tai | おお.きい
 実 thực sự thực, chân thực jitsu | み
 因 nhân nguyên nhân in | よ.る
@@ -899,7 +898,7 @@
 段 đoạn giai đoạn dan
 
 彳
-
+chân
 
 
 的 đích mục đích, đích thực teki
