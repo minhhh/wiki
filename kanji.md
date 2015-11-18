@@ -131,6 +131,7 @@
 米 mễ gạo bei, mai | こめ
 料 liệu nguyên liệu, tài liệu, nhiên liệu ryoo
 類 loại chủng loại rui | たぐ.い
+断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
 
 目 mục mắt, hạng mục, mục lục moku, boku | め
 見 kiến ý kiến ken | み.る
@@ -469,6 +470,8 @@
 採 thải pick;  take;  fetch sai | と.る
 捕 bộ bắt, đãi bộ ho | つか.まる catch
 
+挙 cử tuyển cử, cử động, cử hành kyo | あ.げる to raise
+
 考 khảo khảo sát, tư khảo koo | かんが.え
 
 何 hà cái gì, hà cớ ka
@@ -612,6 +615,7 @@
 違 vi vi phạm, tương vi I | ちが.う
 送 tống tiễn, tống tiễn, tống đạt soo | おく.る
 速 tốc tốc độ, tăng tốc soku | はや.い
+選 tuyển tuyển chọn sen | えら.ぶ
 
 呉 ngô triều Ngô, Trung quốc, cho ai, go | くれる
 
@@ -893,18 +897,12 @@
 殳
 段 đoạn giai đoạn dan
 
-断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
-
 彳
-
-
-
 
 
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
-選 tuyển tuyển chọn sen
 制 chế chế ngự, thể chế, chế độ sei
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
@@ -921,7 +919,6 @@
 平 bình hòa bình, bình đẳng, trung bình, bình thường hei, byoo
 支 chi chi nhánh, chi trì (ủng hộ) shi
 組 tổ tổ hợp, tổ chức so
-挙 cử tuyển cử, cử động, cử hành kyo
 報 báo báo cáo, báo thù, báo đáp hoo
 委 ủy ủy viên, ủy ban, ủy thác I
 資 tư tư bản, đầu tư, tư cách shi
