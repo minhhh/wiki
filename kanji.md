@@ -898,7 +898,7 @@
 段 đoạn giai đoạn dan
 
 彳
-chân
+
 
 
 的 đích mục đích, đích thực teki
