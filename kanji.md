@@ -213,7 +213,7 @@
 
 力 lực sức lực ryoku, riki
 男 nam đàn ông, nam giới dan, nan | おとこ
-加 gia tăng gia, gia giảm ka | くわ.える
+加 gia tăng gia, dùng sức và miệng để tăng ka | くわ.える
 丸 hoàn tròn gan | まる
 努 nỗ nỗ lực do | つと.める
 
@@ -796,6 +796,7 @@
 願 nguyện tự nguyện, tình nguyện gan | -ねがい
 
 又 hựu lại -
+反 phản phản loạn, phản đối han, hon, tan | かえ.す
 
 宿 túc tá túc, kí túc xá shuku
 
@@ -909,7 +910,7 @@
 揃 be complete;  uniform;  all present セン | そろ.える
 
 
-住
+加
 
 
 的 đích mục đích, đích thực teki
@@ -947,7 +948,6 @@
 省 tỉnh tỉnh lược, phản tỉnh, hồi tỉnh sei, shoo
 知 tri tri thức, tri giác chi
 打 đả đả kích, ẩu đả da
-反 phản phản loạn, phản đối han, hon, tan
 解 giải giải quyết, giải thể, giải thích kai, ge
 任 nhiệm trách nhiệm, nhiệm vụ nin
 策 sách đối sách saku
