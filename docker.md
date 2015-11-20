@@ -19,6 +19,9 @@ Docker images are read-only templates from which Docker containers are launched.
 * remove old containers
 ```
     docker rm 5d4bdae290a4
+
+    # remove all container
+    docker rm $(docker ps -a -q)
 ```
 * commit and tag
 ```
