@@ -121,9 +121,11 @@
 材 tài tài liệu lumber, wood, talent zai
 杯 bôi chén hai | さかずき
 桃 đào cây đào too | もも
-機 cơ cơ khí, thời cơ, phi cơ ki | はた
 構 cấu cấu tạo, cấu thành, cơ cấu koo | かま.う
 権 quyền chính quyền, quyền uy, quyền lợi ken, gon | おもり
+
+幾 kỉ how many;  how much;  how far;  how long;  some;  several ki | いく.つ
+機 cơ cơ khí,  ki | はた
 
 禾 2-branch tree radical
 利 lợi phúc lợi, lợi ích ri | き.く
@@ -852,7 +854,7 @@
 幅 phúc bề ngang fuku | はば
 帯 đới nhiệt đới, ôn đới, belt tai | お.びる
 
-更 canh canh tân koo | ふ.ける
+更 canh canh tân renew koo | ふ.ける
 
 兄 huynh phụ huynh kei, kyoo | あに
 党 đảng đảng phái too | なかま
@@ -907,7 +909,7 @@
 揃 be complete;  uniform;  all present セン | そろ.える
 
 
-
+機 能
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
@@ -2048,7 +2050,6 @@
 坪 bình 36 feet vuông -
 墜 trụy rơi, trụy lạc tsui
 娯 ngu vui chơi, ngu lạc go
-幾 kỉ hình học ki
 蛇 xà con rắn ja, da
 酢 tạc dấm saku
 紳 thân đàn ông shin
