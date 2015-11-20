@@ -39,6 +39,7 @@
 
 水 thủy thủy điện sui | みず
 氷 băng băng tuyết hyoo | こおり
+求 cầu yêu cầu, mưu cầu kyuu | もと.める
 
 河 hà sông, sơn hà ka | かわ
 沖 xung ngoài khơi chuu
@@ -813,7 +814,6 @@
 
 発 phát xuất phát, phát kiến, phát hiện, phát ngôn hatsu, hotsu | おこ.る
 
-
 氏 thị họ shi | うじ
 民 dân quốc dân, dân tộc min | たみ
 
@@ -955,7 +955,6 @@
 告 cáo báo cáo, thông cáo koku
 認 nhận xác nhận, nhận thức nin
 億 ức trăm triệu oku
-求 cầu yêu cầu, mưu cầu kyuu
 感 cảm cảm giác, cảm xúc, cảm tình kan
 示 thị biểu thị ji, shi
 価 giá giá cả, vô giá, giá trị ka
