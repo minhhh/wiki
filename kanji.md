@@ -849,6 +849,7 @@
 残 tàn tàn dư, tàn tích, tàn đảng zan |  のこ.る
 
 巾 CÂN Cái khăn | ちきり
+幅 phúc bề ngang fuku | はば
 帯 đới nhiệt đới, ôn đới, belt tai | お.びる
 
 更 canh canh tân koo | ふ.ける
@@ -904,8 +905,6 @@
 
 前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
 揃 be complete;  uniform;  all present セン | そろ.える
-
-咲
 
 
 
@@ -1164,7 +1163,6 @@
 具 cụ công cụ, dụng cụ gu
 殺 sát sát hại, sát nhân satsu, sai, setsu
 波 ba sóng, phong ba ha
-幅 phúc bề ngang fuku
 劇 kịch kịch bản, vở kịch, kịch tính geki
 周 chu chu vi, chu biên shuu
 拡 khuếch khuếch đại kaku
