@@ -117,6 +117,7 @@
 困 khốn khốn cùng kon | こま.る
 
 相 tương, tướng tương hỗ, tương tự, tương đương; thủ tướng soo, shoo | あい-
+材 tài tài liệu lumber, wood, talent zai
 杯 bôi chén hai | さかずき
 桃 đào cây đào too | もも
 機 cơ cơ khí, thời cơ, phi cơ ki | はた
@@ -238,7 +239,6 @@
 新 tân mới, cách tân, tân thời shin | あたら。しい
 親 thân thân thuộc, thân thích, thân thiết shin | おや
 
-前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
 後 hậu sau, hậu quả, hậu sự go, koo | あと
 
 全 toàn toàn bộ    zen | すべ.て
@@ -899,6 +899,10 @@
 
 彳
 
+前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
+揃 be complete;  uniform;  all present セン | そろ.える
+
+
 
 
 的 đích mục đích, đích thực teki
@@ -1099,7 +1103,6 @@
 督 đốc giám đốc, đôn đốc toku
 撃 kích công kích, tập kích geki
 橋 kiều cây cầu kyoo
-材 tài tài liệu zai
 識 thức nhận thức, kiến thức, tri thức shiki
 雄 hùng thư hùng, anh hùng, hùng tráng yuu
 録 lục kí lục, đăng lục roku
