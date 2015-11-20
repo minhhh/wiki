@@ -594,7 +594,6 @@
 科 khoa khoa học, chuyên khoa ka |
 
 背 bối bối cảnh hai | せい
-景 cảnh cảnh sắc, thắng cảnh, quang cảnh kei
 
 疒
 痛 thống thống khổ tsuu | いた.い
@@ -823,7 +822,8 @@
 
 尤 VƯU reasonable;  just;  natural;  superb;  outstanding | もっと.も
 京 kinh kinh đô, kinh thành kyoo, kei | みやこ
-就 tựu thành tựu shuu, ju | つ.く
+就 tựu thành tựu take position, employ shuu, ju | つ.く
+景 cảnh cảnh sắc, thắng cảnh, quang cảnh kei
 
 穴 huyệt sào huyệt ketsu | あな
 究 cứu nghiên cứu, cứu cánh kyuu | きわ.める
@@ -905,8 +905,6 @@
 前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
 揃 be complete;  uniform;  all present セン | そろ.える
 
-背
-景 cảnh cảnh sắc, thắng cảnh, quang cảnh kei
 
 
 
