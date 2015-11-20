@@ -224,7 +224,6 @@
 始 thủy ban đầu, khai thủy, nguyên thủy shi | はじまり, かいし (開始)
 好 hảo, hiếu hữu hảo; hiếu sắc koo
 妹 muội em gái mai | いもうと
-姉 tỉ chị gái shi | あね
 婦 phụ phụ nữ, dâm phụ fu | よめ
 婚 hôn kết hôn, hôn nhân kon |
 
@@ -282,7 +281,8 @@
 
 円 viên viên mãn, tiền Yên en
 
-市 thị thành thị, thị trường shi
+市 thị thành thị, thị trường shi | いち
+姉 tỉ chị gái shi | あね
 
 回 hồi vu hồi, chương hồi kai, e | まわ.る
 
@@ -904,6 +904,8 @@
 
 前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
 揃 be complete;  uniform;  all present セン | そろ.える
+
+咲
 
 
 
