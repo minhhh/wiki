@@ -594,6 +594,7 @@
 科 khoa khoa học, chuyên khoa ka |
 
 背 bối bối cảnh hai | せい
+景 cảnh cảnh sắc, thắng cảnh, quang cảnh kei
 
 疒
 痛 thống thống khổ tsuu | いた.い
@@ -865,6 +866,8 @@
 怪 quái kì quái, quái vật kai | あや.しい
 
 非 phi phi nhân đạo, phi nghĩa hi | あら.ず
+輩 bối tiền bối, hậu hối Fellow, someone who would not refuse 非 to give you a ride 車, comrade ハイ | やから
+
 常 thường bình thường, thông thường joo | つね
 
 比 tỉ so sánh, tỉ lệ, tỉ dụ hi | くら.べる
@@ -902,6 +905,8 @@
 前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
 揃 be complete;  uniform;  all present セン | そろ.える
 
+背
+景 cảnh cảnh sắc, thắng cảnh, quang cảnh kei
 
 
 
@@ -1020,7 +1025,6 @@
 松 tùng cây tùng, tùng bách shoo
 担 đảm đảm đương, đảm bảo tan
 幹 cán cán sự, cán bộ kan
-景 cảnh cảnh sắc, thắng cảnh, quang cảnh kei
 備 bị trang bị, phòng bị, thiết bị bi
 防 phòng phòng vệ, phòng bị, đề phòng boo
 労 lao lao động, lao lực, công lao roo
@@ -1744,7 +1748,6 @@
 頂 đỉnh thiên đỉnh, đỉnh đầu choo
 尋 tầm sưu tầm, tầm nã jin
 唆 toa xúi giục sa
-輩 bối tiền bối, hậu hối hai
 奇 kì kì lạ, kì diệu ki
 寄 kí kí gửi, kí sinh ki
 墓 mộ ngôi mộ bo
