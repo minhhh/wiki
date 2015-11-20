@@ -85,7 +85,7 @@
 仮 giả giả thuyết, giả trang, giả dối ka, ke | かり
 作 tác tác phẩm, công tác, canh tác saku, sa | つく.る
 傍 bàng bàng quan boo | そば
-住 trú, trụ cư trú; trụ sở juu | す.む
+住 trú, trụ cư trú; trụ sở; trú dân  juu | す.む
 停 đình đình chỉ tei | と.める
 優 ưu ưu việt, ưu thế, ưu tiên yuu | やさ.しい
 係 hệ quan hệ, hệ số kei | かか.る
@@ -125,7 +125,7 @@
 権 quyền chính quyền, quyền uy, quyền lợi ken, gon | おもり
 
 幾 kỉ how many;  how much;  how far;  how long;  some;  several ki | いく.つ
-機 cơ cơ khí,  ki | はた
+機 cơ cơ khí, machine made of some wood ki | はた
 
 禾 2-branch tree radical
 利 lợi phúc lợi, lợi ích ri | き.く
@@ -909,7 +909,8 @@
 揃 be complete;  uniform;  all present セン | そろ.える
 
 
-機 能
+住
+
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
