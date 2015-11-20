@@ -910,7 +910,7 @@
 揃 be complete;  uniform;  all present セン | そろ.える
 
 
-加
+実 行
 
 
 的 đích mục đích, đích thực teki
