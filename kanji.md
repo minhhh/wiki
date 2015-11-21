@@ -459,12 +459,12 @@
 社 xã xã hội, công xã, hợp tác xã sha
 
 手 thủ tay, thủ đoạn shu | て
+担 đảm đảm đương, đảm bảo tan | かつ.ぐ
 接 tiếp nối tiếp, tiếp đãi, tiếp xúc setsu | つ.ぐ
 指 chỉ chỉ định, chỉ số, ngón tay shi | さ.す ゆび
 拾 thập nhặt shuu, juu | ひろ.う
 探 thám do thám, thám hiểm tan | さが.す
 持 trì cầm, duy trì ji | も.つ も.てる
-掛 quải treo, arrive at - | か.ける か.かる
 描 miêu miêu tả byoo | か.く
 授 thụ đưa cho, truyền thụ, giáo thụ ju | さず.かる
 携 huề mang theo kei | たずさ.える
@@ -885,6 +885,8 @@
 散 tán, tản phấn tán, tản mát san | ち.る
 
 々
+掛 quải treo, arrive at - | か.ける か.かる
+
 
 ⻖
 除 trừ trừ khử, trừ bỏ, loại trừ, phép chia jo, ji | のぞ.く
@@ -911,7 +913,6 @@
 揃 be complete;  uniform;  all present セン | そろ.える
 
 
-担 đảm đảm đương, đảm bảo tan
 
 
 的 đích mục đích, đích thực teki
