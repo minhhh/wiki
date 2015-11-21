@@ -179,6 +179,7 @@
 鏡 kính gương kính kyoo | かがみ
 
 当 đương, đáng chính đáng; đương thời, tương đương too | あ.たり
+
 年 niên năm, niên đại nen | とし
 
 上 thượng thượng tầng, thượng đẳng joo, shoo | うえ
@@ -910,7 +911,7 @@
 揃 be complete;  uniform;  all present セン | そろ.える
 
 
-
+担 đảm đảm đương, đảm bảo tan
 
 
 的 đích mục đích, đích thực teki
@@ -1024,7 +1025,6 @@
 警 cảnh cảnh báo, cảnh sát, cảnh vệ kei
 英 anh anh hùng, anh tú, anh tuấn ei
 松 tùng cây tùng, tùng bách shoo
-担 đảm đảm đương, đảm bảo tan
 幹 cán cán sự, cán bộ kan
 備 bị trang bị, phòng bị, thiết bị bi
 防 phòng phòng vệ, phòng bị, đề phòng boo
