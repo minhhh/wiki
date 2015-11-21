@@ -230,6 +230,8 @@
 婦 phụ phụ nữ, dâm phụ fu | よめ
 婚 hôn kết hôn, hôn nhân kon |
 
+案 án luận án, đề án plan, good plan comes out when sitting beside a tree 木 peacefully 安. an | つくえ
+
 西 tây phương tây sei, sai | にし
 要 yêu, yếu yêu cầu; chủ yếu yoo | かなめ い.る
 
@@ -913,8 +915,9 @@
 广
 度 độ mức độ, quá độ, độ lượng do, to, taku | たび
 
-提 đề cung cấp, đề cung tei
-案 án luận án, đề án an
+提 đề cung cấp, đề cung tei | さ.げる
+
+管 quản ống, mao quản, quản lí kan | くだ
 
 
 
@@ -1095,7 +1098,6 @@
 極 cực cực lực, cùng cực, địa cực kyoku, goku
 去 khứ quá khứ, trừ khử kyo, ko
 欧 âu châu âu oo
-管 quản ống, mao quản, quản lí kan
 賞 thưởng giải thưởng, tưởng thưởng shoo
 競 cạnh cạnh tranh kyoo, kei
 振 chấn chấn động shin
