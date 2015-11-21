@@ -913,7 +913,8 @@
 广
 度 độ mức độ, quá độ, độ lượng do, to, taku | たび
 
-
+提 đề cung cấp, đề cung tei
+案 án luận án, đề án an
 
 
 
@@ -985,7 +986,6 @@
 式 thức hình thức, phương thức, công thức shiki
 確 xác chính xác, xác lập, xác suất kaku
 裁 tài may vá, tài phán, trọng tài sai
-提 đề cung cấp, đề cung tei
 沢 trạch đầm lầy taku
 義 nghĩa ý nghĩa, nghĩa lí, đạo nghĩa gi
 再 tái lại, tái phát sai, sa
@@ -1515,7 +1515,6 @@
 誤 ngộ ngộ nhận go
 籍 tịch quốc tịch, hộ tịch seki
 盗 đạo ăn trộm, đạo chích too
-案 án luận án, đề án an
 双 song song sinh soo
 挑 khiêu khiêu vũ, khiêu chiến choo
 戒 giới cảnh giới kai
