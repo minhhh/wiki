@@ -516,8 +516,6 @@
 短 đoản đoản mệnh, sở đoản tan | みじか.い
 喉 HẦU Cổ họng コウ | のど
 
-度 độ mức độ, quá độ, độ lượng do, to, taku | たび
-
 役 dịch chức vụ, nô dịch eki, yaku
 
 驚 kinh kinh ngạc, kinh sợ kyoo
@@ -855,6 +853,7 @@
 巾 CÂN Cái khăn | ちきり
 幅 phúc bề ngang fuku | はば
 帯 đới nhiệt đới, ôn đới, belt tai | お.びる
+制 chế chế ngự, thể chế, chế độ sei
 
 更 canh canh tân renew koo | ふ.ける
 
@@ -875,7 +874,6 @@
 
 常 thường bình thường, thông thường joo | つね
 
-比 tỉ so sánh, tỉ lệ, tỉ dụ hi | くら.べる
 鹿 LỘC Con hươu ロク | しか
 麓 LỘC chân núi ロク| ふもと
 皆 giai tất cả kai | みな
@@ -886,7 +884,7 @@
 
 々
 掛 quải treo, arrive at - | か.ける か.かる
-
+比 tỉ so sánh, tỉ lệ, tỉ dụ hi | くら.べる
 
 ⻖
 除 trừ trừ khử, trừ bỏ, loại trừ, phép chia jo, ji | のぞ.く
@@ -912,12 +910,17 @@
 前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
 揃 be complete;  uniform;  all present セン | そろ.える
 
+广
+度 độ mức độ, quá độ, độ lượng do, to, taku | たび
+
+
+
+
 
 
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
-制 chế chế ngự, thể chế, chế độ sei
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
 勝 thắng thắng lợi, thắng cảnh shoo
