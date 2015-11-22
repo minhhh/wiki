@@ -11,9 +11,19 @@ Docker images are read-only templates from which Docker containers are launched.
 
 
 ### Create and start a container from an image
+```
+    docker run ubuntu /bin/bash
+```
 
 
 ### Info
+* docker ps - show running container
+* docker logs - get logs from container
+* docker events - gets events from container.
+* docker port - shows public facing port of container.
+* docker top - shows running processes in container.
+* docker stats - shows containers' resource usage statistics.
+* docker diff - shows changed files in the container's FS.
 
 
 ### Import export
