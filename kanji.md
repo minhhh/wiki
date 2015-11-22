@@ -14,6 +14,7 @@
 
 方 phương phương hướng, phương pháp hoo | かた
 旅 lữ lữ hành, lữ khách ryo | たび
+施 thi thực thi, thi hành shi, se | ほどこ.す
 
 月 nguyệt mặt trăng, tháng, nguyệt san, nguyệt thực getsu, gatsu | つき
 明 minh quang minh, minh tinh mei, myoo |  あか.るい
@@ -319,7 +320,7 @@
 計 kê, kế thống kê; kế hoạch, kế toán kei | はか.る
 調 điều, điệu điều tra, điều hòa; thanh điệu, giai điệu choo | しら.べる
 設 thiết thiết lập, kiến thiết setsu | もう.ける
-許 hứa cho phép, hứa khả kyo | ゆる.す
+許 hứa permit;  approve kyo | ゆる.す
 
 己 kỉ tự kỉ, vị kỉ ko, ki
 記 kí thư kí, kí sự, kí ức ki | しる.す
@@ -930,8 +931,6 @@
 僚 liêu đồng liêu, quan liêu ryoo
 
 
-施 設
-
 
 
 
@@ -1024,7 +1023,6 @@
 導 đạo dẫn đường, chỉ đạo doo
 農 nông nông nghiệp, nông thôn, nông dân noo
 疑 nghi nghi ngờ, nghi vấn, tình nghi gi
-施 thi thực thi, thi hành shi, se
 庁 sảnh đại sảnh choo
 害 hại có hại, độc hại, lợi hại gai
 援 viện viện trợ en
