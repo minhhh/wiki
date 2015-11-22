@@ -95,6 +95,8 @@
 他 tha khác, tha hương, vị tha ta | ほか
 伯 bá thúc bá haku
 使 sử, sứ sử dụng; sứ giả, thiên sứ shi | つか.う
+化 hóa biến hóa ka, ke | ふ.ける
+
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
@@ -450,8 +452,6 @@
 置 trí bố trí, bài trí, vị trí chi | お.く
 
 整 chỉnh điều chỉnh, chỉnh hình sei
-
-化 hóa biến hóa ka, ke
 
 元 nguyên gốc gen, gan
 
@@ -928,7 +928,7 @@
 
 僚 liêu đồng liêu, quan liêu ryoo
 
-
+化
 
 
 
