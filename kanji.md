@@ -95,8 +95,9 @@
 他 tha khác, tha hương, vị tha ta | ほか
 伯 bá thúc bá haku
 使 sử, sứ sử dụng; sứ giả, thiên sứ shi | つか.う
-化 hóa biến hóa ka, ke | ふ.ける
 
+匕 spoon ヒ | さじ
+化 hóa biến hóa ka, ke | ふ.ける
 
 囚 tù tù nhân shuu
 丈 trượng trượng joo | たけ だけ
@@ -928,8 +929,8 @@
 
 僚 liêu đồng liêu, quan liêu ryoo
 
-化
 
+施 設
 
 
 
