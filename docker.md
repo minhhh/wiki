@@ -9,12 +9,36 @@ Docker images are read-only templates from which Docker containers are launched.
 
 ## Container
 
-
 ### Create and start a container from an image
 ```
     docker run ubuntu /bin/bash
 ```
 
+### Start and stop container
+```
+    docker start 196691c7e0cd
+    docker stop 196691c7e0cd
+```
+
+## Remove old containers
+```
+    docker rm 5d4bdae290a4
+
+    # remove all container
+    docker rm $(docker ps -a -q)
+```
+
+### Running a secondary process in a running container
+* [`docker exec`](http://docs.docker.com/engine/reference/commandline/exec/)
+```
+    docker exec [OPTIONS] CONTAINER COMMAND [ARG...]
+```
+
+* To enter running containter
+```
+    # This will create a new Bash session in the container ubuntu_bash
+    docker exec -it ubuntu_bash bash
+```
 
 ### Info
 * docker ps - show running container
@@ -25,26 +49,13 @@ Docker images are read-only templates from which Docker containers are launched.
 * docker stats - shows containers' resource usage statistics.
 * docker diff - shows changed files in the container's FS.
 
-
 ### Import export
+* docker cp - copies files or folders between a container and the local filesystem..
+* docker export - turns container filesystem into tarball archive stream to STDOUT.
+
+
 
 ## Basic commands
-* run a simple command and create new container
-```
-    docker run ubuntu /bin/bash
-```
-* start and stop container
-```
-    docker start 196691c7e0cd
-    docker stop 196691c7e0cd
-```
-* remove old containers
-```
-    docker rm 5d4bdae290a4
-
-    # remove all container
-    docker rm $(docker ps -a -q)
-```
 * commit and tag
 ```
     docker commit 5d4bdae290a4 minhhh/test:0.1
