@@ -6,6 +6,18 @@ Docker containers wrap up a piece of software in a complete filesystem that cont
 ## Building docker image
 Docker images are read-only templates from which Docker containers are launched.
 
+
+## Container
+
+
+### Create and start a container from an image
+
+
+### Info
+
+
+### Import export
+
 ## Basic commands
 * run a simple command and create new container
 ```
