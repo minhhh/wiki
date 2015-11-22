@@ -803,6 +803,7 @@
 
 疋 sơ  head ヒキ ショ ソ  ヒツ | あし
 題 đề đề tài, đề mục, chủ đề dai
+提 đề cung cấp, đề cung tei | さ.げる
 
 柿 THỊ シ |  かき  こけら
 
@@ -915,10 +916,9 @@
 广
 度 độ mức độ, quá độ, độ lượng do, to, taku | たび
 
-提 đề cung cấp, đề cung tei | さ.げる
-
 管 quản ống, mao quản, quản lí kan | くだ
 
+去 khứ quá khứ, trừ khử past kyo, ko | さ.る
 
 
 
@@ -1096,7 +1096,6 @@
 秒 miểu giây (1/60 phút) byoo
 風 phong phong ba, phong cách, phong tục fuu, fu
 極 cực cực lực, cùng cực, địa cực kyoku, goku
-去 khứ quá khứ, trừ khử kyo, ko
 欧 âu châu âu oo
 賞 thưởng giải thưởng, tưởng thưởng shoo
 競 cạnh cạnh tranh kyoo, kei
