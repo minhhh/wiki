@@ -462,7 +462,6 @@
 
 手 thủ tay, thủ đoạn shu | て
 担 đảm đảm đương, đảm bảo tan | かつ.ぐ
-接 tiếp nối tiếp, tiếp đãi, tiếp xúc setsu | つ.ぐ
 指 chỉ chỉ định, chỉ số, ngón tay shi | さ.す ゆび
 拾 thập nhặt shuu, juu | ひろ.う
 探 thám do thám, thám hiểm tan | さが.す
@@ -474,6 +473,8 @@
 撲 phác đánh boku
 採 thải pick;  take;  fetch sai | と.る
 捕 bộ bắt, đãi bộ ho | つか.まる catch
+
+接 tiếp nối tiếp, tiếp đãi, tiếp xúc setsu | つ.ぐ
 
 挙 cử tuyển cử, cử động, cử hành kyo | あ.げる to raise
 
@@ -919,7 +920,7 @@
 管 quản ống, mao quản, quản lí kan | くだ
 
 去 khứ quá khứ, trừ khử past kyo, ko | さ.る
-
+直 接
 
 
 
