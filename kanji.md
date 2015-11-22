@@ -925,7 +925,10 @@
 去 khứ quá khứ, trừ khử past kyo, ko | さ.る
 
 判 phán phán quyết, phán đoán han, ban | わか.る
+
 僚 liêu đồng liêu, quan liêu ryoo
+
+
 
 
 
