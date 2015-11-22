@@ -54,7 +54,6 @@ Docker images are read-only templates from which Docker containers are launched.
 * docker export - turns container filesystem into tarball archive stream to STDOUT.
 
 
-
 ## Basic commands
 * commit and tag
 ```
@@ -65,6 +64,7 @@ Docker images are read-only templates from which Docker containers are launched.
 ```
     docker build -t nginx-example .
 ```
+
 ## Volumes
 ```
     docker run -v /home/core/share:/var/www:rw -p 80:80 -d nginx-example
