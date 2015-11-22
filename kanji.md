@@ -890,6 +890,7 @@
 々
 掛 quải treo, arrive at - | か.ける か.かる
 比 tỉ so sánh, tỉ lệ, tỉ dụ hi | くら.べる
+批 phê phê bình, phê phán hi
 
 ⻖
 除 trừ trừ khử, trừ bỏ, loại trừ, phép chia jo, ji | のぞ.く
@@ -923,8 +924,8 @@
 
 去 khứ quá khứ, trừ khử past kyo, ko | さ.る
 
-批 phê phê bình, phê phán hi
-判 phán phán quyết, phán đoán han, ban
+判 phán phán quyết, phán đoán han, ban | わか.る
+刂 二 并 十
 
 
 
