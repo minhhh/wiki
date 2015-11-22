@@ -925,7 +925,8 @@
 去 khứ quá khứ, trừ khử past kyo, ko | さ.る
 
 判 phán phán quyết, phán đoán han, ban | わか.る
-刂 二 并 十
+僚 liêu đồng liêu, quan liêu ryoo
+
 
 
 
@@ -1234,7 +1235,6 @@
 圧 áp áp lực, trấn áp atsu
 績 tích thành tích seki
 頼 lại ỷ lại rai
-僚 liêu đồng liêu, quan liêu ryoo
 厚 hậu nồng hậu, hậu tạ koo
 替 thế thay thế, đại thế tai
 逆 nghịch phản nghịch gyaku
