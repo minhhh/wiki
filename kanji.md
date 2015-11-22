@@ -386,6 +386,7 @@
 飲 ẩm ẩm thực in | の.む
 
 工 công công tác, công nhân koo, ku
+功 công công lao achievement koo, ku | いさお
 
 士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
 売 mại thương mại bai | う.る
@@ -934,7 +935,6 @@
 
 
 
-
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
@@ -1373,7 +1373,6 @@
 迷 mê mê hoặc, mê đắm mei
 拠 cứ căn cứ, chiếm cứ kyo, ko
 奏 tấu diễn tấu soo
-功 công công lao koo, ku
 盤 bàn cái khay ban
 板 bản tấm bảng han, ban
 射 xạ xạ thủ sha
