@@ -933,6 +933,8 @@
 家 gia gia đình, chuyên gia ka, ke | いえ, うち
 遂 toại toại nguyện sui | つい.に
 
+嬉 glad キ | うれ.しい
+
 
 
 
