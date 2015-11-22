@@ -923,6 +923,9 @@
 
 去 khứ quá khứ, trừ khử past kyo, ko | さ.る
 
+批 phê phê bình, phê phán hi
+判 phán phán quyết, phán đoán han, ban
+
 
 
 
@@ -956,7 +959,6 @@
 投 đầu đầu tư, đầu cơ too
 派 phái trường phái ha
 税 thuế thuế vụ zei
-判 phán phán quyết, phán đoán han, ban
 活 hoạt hoạt động, sinh hoạt katsu
 省 tỉnh tỉnh lược, phản tỉnh, hồi tỉnh sei, shoo
 知 tri tri thức, tri giác chi
@@ -1165,7 +1167,6 @@
 険 hiểm nguy hiểm, mạo hiểm, hiểm ác ken
 摘 trích hái, trích yếu teki
 央 ương trung ương oo
-批 phê phê bình, phê phán hi
 弁 biện hùng biện, biện luận ben
 催 thôi tổ chức, khai thôi, thôi thúc sai
 児 nhi nhi đồng, hài nhi ji, ni
