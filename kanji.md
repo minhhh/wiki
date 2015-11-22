@@ -933,7 +933,9 @@
 家 gia gia đình, chuyên gia ka, ke | いえ, うち
 遂 toại toại nguyện sui | つい.に
 
+豆 đậu hạt đậu too, zu | まめ
 嬉 glad キ | うれ.しい
+
 
 
 
@@ -1700,7 +1702,6 @@
 郊 giao ngoại ô, giao ngoại koo
 耐 nại nhẫn nại tai
 瞬 thuấn trong nháy mắt shun
-豆 đậu hạt đậu too, zu
 箱 tương cái hộp -
 絞 giảo buộc, xử giảo koo
 彩 thái sắc thái sai
