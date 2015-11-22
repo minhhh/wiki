@@ -543,8 +543,6 @@
 
 定 định thiết định, quyết định, định mệnh tei, joo
 
-家 gia gia đình, chuyên gia ka, ke | いえ, うち
-
 秋 thu mùa thu shuu | あき
 
 足 túc chân, bổ túc, sung túc soku
@@ -930,6 +928,11 @@
 判 phán phán quyết, phán đoán han, ban | わか.る
 
 僚 liêu đồng liêu, quan liêu ryoo
+
+豕
+家 gia gia đình, chuyên gia ka, ke | いえ, うち
+遂 toại toại nguyện sui | つい.に
+
 
 
 
@@ -1776,7 +1779,6 @@
 舗 phố phố xá ho
 俵 biểu <đếm túi> hyoo
 暇 hạ nhàn hạ ka
-遂 toại toại nguyện sui
 伏 phục phục binh, phục kích fuku
 耕 canh canh tác koo
 殖 thực sinh sản shoku
