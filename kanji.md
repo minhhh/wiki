@@ -893,6 +893,7 @@
 
 ⻖
 除 trừ trừ khử, trừ bỏ, loại trừ, phép chia jo, ji | のぞ.く
+降 giáng, hàng giáng trần; đầu hàng koo | ふ.る
 
 舟 chu thuyền shuu | ふね
 般 bàn, ban nhất ban han
@@ -922,7 +923,7 @@
 
 去 khứ quá khứ, trừ khử past kyo, ko | さ.る
 
-降 giáng, hàng giáng trần; đầu hàng koo | ふ.る
+
 
 
 
