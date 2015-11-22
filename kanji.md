@@ -56,6 +56,7 @@
 決 quyết quyết định ketsu | き.める
 汚 ô ô nhiễm o | けが.す
 減 giảm gia giảm, giảm gen | へ.る
+激 kích kích động, kích thích, kích hoạt geki | はげ.しい
 
 落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
 
@@ -921,6 +922,7 @@
 
 去 khứ quá khứ, trừ khử past kyo, ko | さ.る
 
+降 giáng, hàng giáng trần; đầu hàng koo | ふ.る
 
 
 
@@ -1160,7 +1162,6 @@
 健 kiện khỏe mạnh, kiện khang, tráng kiện ken
 障 chướng chướng ngại shoo
 険 hiểm nguy hiểm, mạo hiểm, hiểm ác ken
-激 kích kích động, kích thích, kích hoạt geki
 摘 trích hái, trích yếu teki
 央 ương trung ương oo
 批 phê phê bình, phê phán hi
@@ -1210,7 +1211,6 @@
 延 duyên trì hoãn en
 遺 di sót lại, di tích, di ngôn, di vật i, yui
 級 cấp sơ cấp, trung cấp, cao cấp kyuu
-降 giáng, hàng giáng trần; đầu hàng koo
 講 giảng giảng đường, giảng bài koo
 維 duy sợi dây I
 均 quân quân bình, quân nhất kin
