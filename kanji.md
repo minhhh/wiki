@@ -546,8 +546,8 @@
 変 biến biến đổi, biến thiên hen | か.える か.わる
 夏 hạ mùa hè ka, ge | なつ
 
-各 các các, mỗi kaku | おのおの
-落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
+各 các các, mỗi; mùa đông mỗi một miệng ăn đều khó kaku | おのおの
+落 lạc rơi; mỗi một chiếc lá sẽ rơi một giọt nước raku | お.ちる
 
 勿 VẬT not;  must not;  do not;  be not モチ  ブツ   ボツ | なか.れ    なし
 場 trường hội trường, quảng trường joo | ば
@@ -578,7 +578,7 @@
 犬 khuyển con chó ken | いぬ
 狭 hiệp hẹp kyoo | せま.い
 犯 phạm phạm nhân han | おか.す
-猿 viên con khỉ en | さる
+猿 viên con khỉ; khỉ giống chó có thể đi, ăn và mặc quần áo en | さる
 
 集 tập tập hợp, tụ tập shuu
 
