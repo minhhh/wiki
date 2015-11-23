@@ -52,7 +52,6 @@
 消 tiêu tiêu diệt, tiêu hao, tiêu thất shoo | け.す
 治 trị cai trị, trị an, trị bệnh chi, ji | なお.る
 泳 vịnh bơi ei | およ.ぐ
-酒 tửu rượu shu | さけ
 済 tế kinh tế, cứu tế sai | す.まない
 決 quyết quyết định ketsu | き.める
 汚 ô ô nhiễm o | けが.す
@@ -224,7 +223,7 @@
 
 刀 đao cái đao too
 切 thiết cắt, thiết thực, thân thiết setsu, sai | き.る
-刻 khắc thời khắc, engrave koku | きざ.む
+刻 khắc thời khắc, engrave, time koku | きざ.む
 
 女 nữ phụ nữ jo, nyo, nyoo
 安 an an bình, an ổn an | やす
@@ -235,9 +234,6 @@
 婚 hôn kết hôn, hôn nhân kon |
 
 案 án luận án, đề án plan, good plan comes out when sitting beside a tree 木 peacefully 安. an | つくえ
-
-西 tây phương tây sei, sai | にし
-要 yêu, yếu yêu cầu; chủ yếu yoo | かなめ い.る
 
 古 cổ cũ, cổ điển, đồ cổ ko | ふる.い
 故 cố cố tổng thống, lí do ko | ふる.い
@@ -734,8 +730,6 @@
 
 球 cầu quả cầu, địa cầu kyuu | たま
 
-酸 toan axit san, chua | す.い
-
 葡 ブ nho
 萄 ドウ nho
 
@@ -940,6 +934,11 @@
 
 単 đơn cô đơn, đơn độc, đơn chiếc tan | ひとえ
 
+西 tây phương tây sei, sai | にし
+要 yêu, yếu yêu cầu; chủ yếu yoo | かなめ い.る
+酉 west, bird ユウ | とり
+酒 tửu rượu shu | さけ
+酸 toan axit san, chua | す.い
 
 
 
