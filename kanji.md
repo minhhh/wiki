@@ -203,7 +203,7 @@
 時 thời thời gian ji | とき
 村 thôn thôn xã, thôn làng son | むら
 付 phụ phụ thuộc, phụ lục fu | つく
-府 phủ chính phủ fu
+府 phủ chính phủ; the government depends on people like the house depends on cliff fu
 対 đối đối diện, phản đối, đối với tai, tsui | こた.える
 待 đãi đợi, đối đãi tai | ま.つ
 
@@ -789,7 +789,7 @@
 願 nguyện tự nguyện, tình nguyện gan | -ねがい
 
 又 hựu lại -
-反 phản phản loạn, phản đối han, hon, tan | かえ.す
+反 phản phản loạn; you go to the cliff and turn again to counter han, hon, tan | かえ.す
 
 宿 túc tá túc, kí túc xá shuku
 
@@ -944,6 +944,7 @@
 
 留 lưu lưu học, detain; halt; individual farmer stay with sword at their fields ryuu, ru | と.める
 
+対
 
 
 
