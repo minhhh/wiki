@@ -233,7 +233,8 @@
 案 án luận án, đề án plan, good plan comes out when sitting beside a tree 木 peacefully 安. an | つくえ
 
 古 cổ cũ, cổ điển, đồ cổ ko | ふる.い
-故 cố cố tổng thống, lí do ko | ふる.い
+苦 khổ khổ cực, cùng khổ ku | にが.い
+攵
 
 早 tảo sớm, tảo hôn soo, sa | はや
 草 thảo thảo mộc soo | くさ
@@ -436,8 +437,7 @@
 花 hoa hoa, bông hoa ka | はな
 菓 quả hoa quả ka |
 荷 hà hành lí baggage ka | に
-苦 khổ khổ cực, cùng khổ ku | にが.い
-若 nhược trẻ, nhược niên jaku, nyaku | わか.い
+若 nhược trẻ; young people can pick grass with right hand; jaku, nyaku | わか.い
 茶 trà trà チャ サ
 
 置 trí bố trí, bài trí, vị trí chi | お.く
@@ -871,7 +871,8 @@
 皆 giai tất cả kai | みな
 麗 lệ mĩ lệ rei | うるわ.しい
 
-攵
+攵 strike;  hit; 
+故 cố cố tổng thống; ko | ふる.い
 散 tán, tản phấn tán, tản mát san | ち.る
 
 々
@@ -942,7 +943,7 @@
 
 留 lưu lưu học, detain; halt; individual farmer stay with sword at their fields ryuu, ru | と.める
 
-者
+若 
 
 
 
