@@ -176,7 +176,6 @@
 
 会 hội hội họp, đại hội kai, e | あ。う
 合 hợp thích hợp, hội họp, hợp lí goo, gaQ, kaQ | あ。う
-今 kim đương kim, kim nhật kon, kin | いま
 鏡 kính gương kính kyoo | かがみ
 
 当 đương, đáng chính đáng; đương thời, tương đương too | あ.たり
@@ -940,7 +939,8 @@
 
 纏 wear;  wrap;  tie;  follow around; collect テン デン | まと.める
 
-
+今 kim đương kim; now kon, kin | いま
+令 lệnh mệnh lệnh, pháp lệnh rei; lệnh là phải làm ngay giờ
 
 
 的 đích mục đích, đích thực teki
@@ -1326,7 +1326,6 @@
 季 quý mùa ki
 密 mật bí mật, mật độ mitsu
 浮 phù nổi, phù du fu
-令 lệnh mệnh lệnh, pháp lệnh rei
 樹 thụ cây, cổ thụ ju
 恵 huệ ân huệ kei, e
 儀 nghi nghi thức gi
