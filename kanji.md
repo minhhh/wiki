@@ -59,8 +59,6 @@
 減 giảm gia giảm, giảm gen | へ.る
 激 kích kích động, kích thích, kích hoạt geki | はげ.しい
 
-落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
-
 火 hỏa lửa ka | ひ
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
 
@@ -73,7 +71,6 @@
 
 人 nhân nhân vật jin, nin | ひと
 太 thái thái dương, thái bình tai, ta | ふとい
-犬 khuyển con chó ken | いぬ
 夫 phu trượng phu, phu phụ fu, fuu | おっと
 天 thiên thiên thạch, thiên nhiên, thiên đường ten | あめ
 
@@ -549,6 +546,9 @@
 変 biến biến đổi, biến thiên hen | か.える か.わる
 夏 hạ mùa hè ka, ge | なつ
 
+各 các các, mỗi kaku | おのおの
+落 lạc rơi, lạc hạ, trụy lạc raku | お.ちる
+
 勿 VẬT not;  must not;  do not;  be not モチ  ブツ   ボツ | なか.れ    なし
 場 trường hội trường, quảng trường joo | ば
 易 dị, dịch dễ, dịch chuyển i, eki | やさ.しい
@@ -575,9 +575,10 @@
 
 虫 trùng côn trùng chuu | むし
 
-犬 khuyển con chó ken
+犬 khuyển con chó ken | いぬ
 狭 hiệp hẹp kyoo | せま.い
 犯 phạm phạm nhân han | おか.す
+猿 viên con khỉ en | さる
 
 集 tập tập hợp, tụ tập shuu
 
@@ -622,8 +623,6 @@
 
 走 tẩu chạy soo | はし.る
 起 khởi khởi động, khởi sự, khởi nghĩa ki | おこる
-
-猿 viên con khỉ en | さる
 
 馬 mã ngựa ba | うま
 駅 dịch ga eki |
@@ -941,7 +940,6 @@
 
 纏 wear;  wrap;  tie;  follow around; collect テン デン | まと.める
 
-猿
 
 
 
@@ -995,7 +993,6 @@
 勢 thế tư thế, thế lực sei
 情 tình tình cảm, tình thế joo, sei
 基 cơ cơ sở, cơ bản ki
-各 các các, mỗi kaku
 費 phí học phí, lộ phí, chi phí hi
 演 diễn diễn viên, biểu diễn, diễn giả en
 放 phóng giải phóng, phóng hỏa, phóng lao hoo
