@@ -942,7 +942,7 @@
 
 留 lưu lưu học, detain; halt; individual farmer stay with sword at their fields ryuu, ru | と.める
 
-若 
+
 
 
 
