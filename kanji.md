@@ -37,6 +37,7 @@
 
 白 bạch thanh bạch, bạch sắc kaku, byaku | しろ.い
 泊 bạc ngủ lại haku | と.まる
+迫 bách bức bách urge;  force haku | せま.る
 
 水 thủy thủy điện sui | みず
 氷 băng băng tuyết hyoo | こおり
@@ -506,7 +507,7 @@
 緒 tự tình tự sho, cho | いとぐち beginning
 細 tế tinh tế, tường tế, tế bào, mỏng sai | ほそ.い
 綺 khỉ beautiful キ | あや
-締 đế buộc tei | し.める
+締 đế buộc tighten tei | し.める
 結 kết đoàn kết, kết thúc ketsu | むす.ぶ
 線 tuyến dây, tiền tuyến, điện tuyến, vô tuyến sen | すじ
 経 kinh kinh tế, sách kinh, kinh độ kei, kyoo | はか.る
@@ -941,8 +942,7 @@
 酸 toan axit san, chua | す.い
 
 
-
-
+締 切
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
@@ -1286,7 +1286,6 @@
 逮 đãi đuổi bắt tai
 囲 vi chu vi, bao vây I
 倍 bội bội thu, bội số bai
-迫 bách áp bách, bức bách haku
 浦 phổ cửa biển ho
 闘 đấu đấu tranh, chiến đấu too
 池 trì cái ao chi
