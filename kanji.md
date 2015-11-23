@@ -819,8 +819,8 @@
 
 尤 VƯU reasonable;  just;  natural;  superb;  outstanding | もっと.も
 京 kinh kinh đô, kinh thành kyoo, kei | みやこ
-就 tựu thành tựu take position, employ;  shuu, ju | つ.く
-景 cảnh cảnh sắc, thắng cảnh, quang cảnh kei
+就 tựu thành tựu take position, employ; it's superb to take position at the capital shuu, ju | つ.く
+景 cảnh cảnh sắc;scenery; it's quite a scene when the sun shines at the capital kei
 
 穴 huyệt sào huyệt ketsu | あな
 究 cứu nghiên cứu, cứu cánh kyuu | きわ.める
@@ -942,9 +942,9 @@
 今 kim đương kim; now kon, kin | いま
 令 lệnh mệnh lệnh, pháp lệnh rei; lệnh là phải làm ngay giờ
 
-留 lưu lưu học, detain;halt ryuu, ru | と.める
+留 lưu lưu học, detain; halt; individual farmer stay with sword at their fields ryuu, ru | と.める
 
-就
+
 
 
 
