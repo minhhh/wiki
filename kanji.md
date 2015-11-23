@@ -352,8 +352,6 @@
 
 用 dụng sử dụng, dụng cụ, công dụng yoo
 
-物 vật động vật butsu, motsu | もの
-
 色 sắc màu sắc, sắc dục shoku, shiki | いろ
 
 竹 trúc trúc chiku
@@ -443,7 +441,7 @@
 ⺾
 花 hoa hoa, bông hoa ka | はな
 菓 quả hoa quả ka |
-荷 hà hành lí ka | に
+荷 hà hành lí baggage ka | に
 苦 khổ khổ cực, cùng khổ ku | にが.い
 若 nhược trẻ, nhược niên jaku, nyaku | わか.い
 茶 trà trà チャ サ
@@ -554,6 +552,7 @@
 勿 VẬT not;  must not;  do not;  be not モチ  ブツ   ボツ | なか.れ    なし
 場 trường hội trường, quảng trường joo | ば
 易 dị, dịch dễ, dịch chuyển i, eki | やさ.しい
+物 vật động vật butsu, motsu | もの
 
 魚 ngư cá gyo
 
@@ -625,7 +624,6 @@
 起 khởi khởi động, khởi sự, khởi nghĩa ki | おこる
 
 猿 viên con khỉ en | さる
-
 
 馬 mã ngựa ba | うま
 駅 dịch ga eki |
@@ -941,8 +939,11 @@
 酒 tửu rượu shu | さけ
 酸 toan axit san, chua | す.い
 
+纏 wear;  wrap;  tie;  follow around; collect テン デン | まと.める
 
-締 切
+猿
+
+
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
