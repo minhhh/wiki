@@ -160,7 +160,7 @@
 閉 bế bế mạc, bế quan hei | し.める, と.じる
 
 耳 nhĩ tai ji | みみ
-職 chức chức vụ, từ chức shoku | 
+職 chức chức vụ, employment; when soldier has job, they hear the sound of halberd shoku | 
 取 thủ lấy, nhận shu | と.る
 最 tối nhất (tối cao, tối đa) sai | つま
 
@@ -819,7 +819,7 @@
 
 尤 VƯU reasonable;  just;  natural;  superb;  outstanding | もっと.も
 京 kinh kinh đô, kinh thành kyoo, kei | みやこ
-就 tựu thành tựu take position, employ shuu, ju | つ.く
+就 tựu thành tựu take position, employ;  shuu, ju | つ.く
 景 cảnh cảnh sắc, thắng cảnh, quang cảnh kei
 
 穴 huyệt sào huyệt ketsu | あな
@@ -943,6 +943,8 @@
 令 lệnh mệnh lệnh, pháp lệnh rei; lệnh là phải làm ngay giờ
 
 留 lưu lưu học, detain;halt ryuu, ru | と.める
+
+就
 
 
 
