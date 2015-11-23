@@ -208,7 +208,7 @@
 
 分 phân phân số, phân chia bun, fun, bu | わ.かる
 
-者 giả học giả, tác giả sha | もの
+者 giả học giả; old people who work daily; sha | もの
 
 教 giáo giáo dục, giáo viên kyoo | おし。える
 
@@ -754,9 +754,9 @@
 
 達 đạt đạt tới, điều đạt, thành đạt tatsu | -たち
 
-艮 CẤN コン
+艮 CẤN; good radical; コン
 良 lương tốt, lương tâm, lương tri ryoo | よ.い いい
-眼 nhãn nhãn khoa gan, gen | まなこ
+眼 nhãn nhãn khoa; eyeball; eyeball is the good part of eye gan, gen | まなこ
 
 蔭 shade;  shadow;  backing assistance イン  オン | かげ
 
@@ -942,9 +942,9 @@
 
 留 lưu lưu học, detain; halt; individual farmer stay with sword at their fields ryuu, ru | と.める
 
+者
 
 
-触
 
 
 
