@@ -903,6 +903,7 @@
 段 đoạn giai đoạn dan
 
 彳 stop, going man radical テキ | たたず.む
+従 tùng phục tùng, obey; phục tùng là đang đi và bị đếm như con vật juu, shoo, ju | したが.う
 
 前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
 揃 be complete;  uniform;  all present セン | そろ.える
@@ -941,9 +942,6 @@
 今 kim đương kim; now kon, kin | いま
 令 lệnh mệnh lệnh, pháp lệnh rei; lệnh là phải làm ngay giờ
 
-彳
-疋
-従 tùng phục tùng, obey juu, shoo, ju | したが.う
 
 
 的 đích mục đích, đích thực teki
