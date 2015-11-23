@@ -90,7 +90,7 @@
 係 hệ quan hệ, hệ số kei | かか.る
 便 tiện thuận tiện ben, bin | たよ.り
 代 đại đại biểu, thời đại, đại diện, đại thế dai, tai | か.わる
-他 tha khác, tha hương, vị tha ta | ほか
+他 tha khác, tha hương, another ta | ほか
 伯 bá thúc bá haku
 使 sử, sứ sử dụng; sứ giả, thiên sứ shi | つか.う
 
@@ -941,6 +941,8 @@
 
 今 kim đương kim; now kon, kin | いま
 令 lệnh mệnh lệnh, pháp lệnh rei; lệnh là phải làm ngay giờ
+
+
 
 
 
