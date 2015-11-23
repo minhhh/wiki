@@ -233,8 +233,7 @@
 案 án luận án, đề án plan, good plan comes out when sitting beside a tree 木 peacefully 安. an | つくえ
 
 古 cổ cũ, cổ điển, đồ cổ ko | ふる.い
-苦 khổ khổ cực, cùng khổ ku | にが.い
-攵
+苦 khổ khổ cực;suffering; old grass will suffer ku | にが.い
 
 早 tảo sớm, tảo hôn soo, sa | はや
 草 thảo thảo mộc soo | くさ
@@ -872,7 +871,7 @@
 麗 lệ mĩ lệ rei | うるわ.しい
 
 攵 strike;  hit; 
-故 cố cố tổng thống; ko | ふる.い
+故 cố cố tổng thống; old person who was hit and die ko | ふる.い
 散 tán, tản phấn tán, tản mát san | ち.る
 
 々
