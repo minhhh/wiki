@@ -205,7 +205,6 @@
 付 phụ phụ thuộc, phụ lục fu | つく
 府 phủ chính phủ; the government depends on people like the house depends on cliff fu
 対 đối đối diện, phản đối, đối với tai, tsui | こた.える
-待 đãi đợi, đối đãi tai | ま.つ
 
 分 phân phân số, phân chia bun, fun, bu | わ.かる
 
@@ -426,7 +425,7 @@
 
 父 phụ phụ tử, phụ thân, phụ huynh fu | ちち
 交 giao giao hảo, giao hoán koo | か.わす
-校 hiệu trường học koo キョウ
+校 hiệu trường học; correction キョウ
 
 母 mẫu mẹ, phụ mẫu, mẫu thân bo | はは
 
@@ -608,7 +607,7 @@
 
 通 thông thông qua, thông hành, phổ thông tsuu, tsu | とお.り
 運 vận vận chuyển, vận mệnh un | はこ.ぶ
-遠 viễn viễn phương, vĩnh viễn en, on | とお
+遠 viễn viễn phương; in ancient time, one has to travel to far-away land to eat and buy clothes en, on | とお.い
 遊 du du hí, du lịch yuu, yu | あそ.び
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
 進 tiến thăng tiến, tiền tiến, tiến lên shin | すす.める
@@ -904,6 +903,7 @@
 
 彳 stop, going man radical テキ | たたず.む
 従 tùng phục tùng, obey; phục tùng là đang đi và bị đếm như con vật juu, shoo, ju | したが.う
+待 đãi đợi; when one goes to the temple, they have to wait tai | ま.つ
 
 前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
 揃 be complete;  uniform;  all present セン | そろ.える
@@ -944,9 +944,9 @@
 
 留 lưu lưu học, detain; halt; individual farmer stay with sword at their fields ryuu, ru | と.める
 
-対
 
 
+校
 
 
 
