@@ -681,7 +681,7 @@
 
 召 triệu triệu tập shoo | め.す
 
-割 cát chia cắt, cát cứ katsu | わ.る
+割 cát chia cắt, proportion;split katsu | わ.る わり
 
 飛 phi bay, phi công, phi hành hi | と.ぶ
 
@@ -942,6 +942,7 @@
 今 kim đương kim; now kon, kin | いま
 令 lệnh mệnh lệnh, pháp lệnh rei; lệnh là phải làm ngay giờ
 
+留 lưu lưu học, detain;halt ryuu, ru | と.める
 
 
 
@@ -1253,7 +1254,6 @@
 熱 nhiệt nhiệt độ, nhiệt tình netsu
 香 hương mùi hương, hương thơm koo, kyoo
 豊 phong phong phú hoo
-留 lưu lưu học, lưu trữ ryuu, ru
 順 thuận tòng thuận, thuận tự jun
 辞 từ từ vựng, từ chức ji
 津 tân bờ biển shin
