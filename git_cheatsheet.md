@@ -49,18 +49,7 @@
 #### Tagging
 
 ```
-    # pull rebase create nicer merge tree, but be careful with it
-    git stash # stash any change
-    git pull --rebase
-    git stash pop # stash pop any change
-
-    git fetch -p # Bring the repository up to date without executing merge on the current branch
-
-    git add -u # add modified files but not new files
-    git add -A # add all untracked files
-
-    # Diff with remote
-    git diff master origin/master
+    git tag -a <tag-name> -m "Tag message"
 ```
 <br/>
 
