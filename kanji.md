@@ -114,7 +114,7 @@
 本 bản sách, cơ bản, nguyên bản, bản chất hon | もと
 体 thể hình thể, thân thể, thể thao tai, tei | からだ
 未 vị vị thành niên, vị lai mi | ま.だ
-味 vị vị giác, mùi vị mi | あじ.わう
+味 vị vị giác; in the mouth not yet swallow; mi | あじ.わう
 楽 lạc, nhạc an lạc, lạc thú, âm nhạc gaku, raku | たの.しい
 果 quả hoa quả, thành quả, kết quả ka | くだ.もの
 困 khốn khốn cùng kon | こま.る
@@ -833,10 +833,10 @@
 夕 tịch tịch dương seki |  ゆう
 夜 dạ ban đêm, dạ cảnh, dạ quang ya | よる
 
-羊 dương con dê, con cừu yoo
+羊 dương con dê, sheep ヨウ | ひつじ
 耒 LỖI come, cái cầy ライ ルイ | き く すき
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo | わざ
-美 mĩ mĩ nhân, mĩ lệ bi | うつく.しい
+美 mĩ mĩ nhân; beautiful like a big sheep; bi | うつく.しい
 
 歹 NGẠT bad;  wrong ガツ ガチ タイ
 殆 ĐÃI almost;  quite;  really タイ  サイ | ほとん.ど
@@ -944,7 +944,7 @@
 
 
 
-校
+美
 
 
 
