@@ -174,8 +174,9 @@
 国 quốc nước, quốc gia, quốc ca koku | くに
 主 chủ chủ yếu, chủ nhân shu, su | ぬし
 
-会 hội hội họp, đại hội kai, e | あ。う
+会 hội hội họp, đại hội kai, e | あ.う
 合 hợp thích hợp, hội họp, hợp lí goo, gaQ, kaQ | あ。う
+命 mệnh, mạng tính mạng, vận mệnh, mệnh lệnh mei, myoo | いのち
 鏡 kính gương kính kyoo | かがみ
 
 当 đương, đáng chính đáng; đương thời, tương đương too | あ.たり
@@ -723,8 +724,6 @@
 
 祝 chúc chúc phúc shuku, shuu | いわ.う
 
-命 mệnh, mạng tính mạng, cách mạng, vận mệnh, mệnh lệnh mei, myoo | いのち
-
 球 cầu quả cầu, địa cầu kyuu | たま
 
 葡 ブ nho
@@ -903,7 +902,7 @@
 殳
 段 đoạn giai đoạn dan
 
-彳
+彳 stop, going man radical テキ | たたず.む
 
 前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
 揃 be complete;  uniform;  all present セン | そろ.える
@@ -941,6 +940,10 @@
 
 今 kim đương kim; now kon, kin | いま
 令 lệnh mệnh lệnh, pháp lệnh rei; lệnh là phải làm ngay giờ
+
+彳
+疋
+従 tùng phục tùng, obey juu, shoo, ju | したが.う
 
 
 的 đích mục đích, đích thực teki
@@ -1189,7 +1192,6 @@
 周 chu chu vi, chu biên shuu
 拡 khuếch khuếch đại kaku
 週 chu tuần shuu
-従 tùng phục tùng, tùy tùng, tòng thuận juu, shoo, ju
 否 phủ phủ định, phủ quyết hi
 織 chức dệt shoku, shiki
 舞 vũ vũ điệu, khiêu vũ bu
