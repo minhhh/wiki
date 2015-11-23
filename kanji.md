@@ -756,6 +756,7 @@
 
 艮 CẤN コン
 良 lương tốt, lương tâm, lương tri ryoo | よ.い いい
+眼 nhãn nhãn khoa gan, gen | まなこ
 
 蔭 shade;  shadow;  backing assistance イン  オン | かげ
 
@@ -800,11 +801,10 @@
 
 敵 địch quân địch teki | かたき
 
-角 giác tam giác, tứ giác kaku | かど
-触 xúc tiếp xúc shoku | さわ.る
-蟹 GIẢI con cua カイ | かに
+角 giác tam giác;horn; antlers kaku | かど
+触 xúc tiếp xúc; touch; insects use horns to touch; shoku | さわ.る
+蟹 GIẢI con cua; the crab looks like an insect with horns or a cow with knife カイ | かに
 
-眼 nhãn nhãn khoa gan, gen | まなこ
 
 発 phát xuất phát, phát kiến, phát hiện, phát ngôn hatsu, hotsu | おこ.る
 
@@ -944,7 +944,7 @@
 
 
 
-美
+触
 
 
 
