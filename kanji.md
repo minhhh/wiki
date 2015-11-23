@@ -156,7 +156,6 @@
 
 門 môn cửa, nhập môn, môn đồ, bộ môn mon | かど
 聞 văn nghe, tân văn (báo) bun, mon | きく
-間 gian trung gian, không gian kan, ken | あいだ
 問 vấn vấn đáp, chất vấn, vấn đề mon | と.う
 開 khai khai mạc, khai giảng kai | ひら.く
 関 quan hải quan, quan hệ kan | せき
@@ -936,6 +935,10 @@
 豆 đậu hạt đậu too, zu | まめ
 嬉 glad キ | うれ.しい
 
+間 gian trung gian, không gian kan, ken | あいだ
+簡 giản đơn giản simplicity;  brevity kan
+
+単 đơn cô đơn, đơn độc, đơn chiếc tan | ひとえ
 
 
 
@@ -1151,7 +1154,6 @@
 鉄 thiết sắt, thiết đạo, thiết giáp tetsu
 並 tịnh xếp hàng hei
 責 trách khiển trách, trách cứ, trách nhiệm seki
-単 đơn cô đơn, đơn độc, đơn chiếc tan
 客 khách hành khách, thực khách kyaku, kaku
 献 hiến hiến dâng, hiến tặng, hiến thân ken, kon
 蔵 tàng bảo tàng, tàng trữ, tàng hình zoo
@@ -1440,7 +1442,6 @@
 銭 tiền tiền bạc sen
 律 luật luật pháp ritsu, richi
 純 thuần đơn thuần, thuần khiết jun
-簡 giản đơn giản kan
 贈 tặng hiến tặng zoo, soo
 陽 dương thái dương yoo
 預 dự gửi yo
