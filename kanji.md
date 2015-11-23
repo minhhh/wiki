@@ -379,8 +379,9 @@
 功 công công lao achievement koo, ku | いさお
 
 士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
-売 mại thương mại bai | う.る
-続 tục tiếp tục zoku | つづ.く
+仕 sĩ làm việc; attend; shi, ji
+売 mại sell; the scholar goes around to sell; bai | う.る
+続 tục tiếp tục; one continues to sell like a thread; zoku | つづ.く
 
 貝 bối vỏ sò - | かい
 買 mãi mua, khuyến mãi bai | か.う
@@ -425,12 +426,9 @@
 
 父 phụ phụ tử, phụ thân, phụ huynh fu | ちち
 交 giao giao hảo, giao hoán koo | か.わす
-校 hiệu trường học; correction キョウ
+校 hiệu trường học; correction; under the tree people interact and learn is the school; キョウ
 
 母 mẫu mẹ, phụ mẫu, mẫu thân bo | はは
-
-仕 sĩ làm việc shi, ji
-
 
 身 thân thân thể, thân phận shin
 
