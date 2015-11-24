@@ -948,7 +948,13 @@
 世 thế thế giới; world sei, se | よ
 喋 ĐIỆP talk; use mouth to talk about the world besides a tree チョウ | しゃべ.る
 
-資 tư tư bản, đầu tư, tư cách shi
+欠 khiếm khiếm khuyết; lack; ketsu | か.ける
+資 tư assets;funds; assets like water and shellfish are constantly lacking shi
+
+
+
+
+
 
 
 
@@ -1284,7 +1290,6 @@
 属 thuộc phụ thuộc zoku
 押 áp ấn oo
 脱 thoát giải thoát datsu
-欠 khiếm khiếm khuyết ketsu
 尾 vĩ cái đuôi bi
 逮 đãi đuổi bắt tai
 囲 vi chu vi, bao vây I
