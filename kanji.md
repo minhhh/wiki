@@ -450,7 +450,8 @@
 
 事 sự sự việc ji, zu | こと
 
-社 xã xã hội, công xã, hợp tác xã sha
+礻cult
+社 xã xã hội; company; the land where people work in a cult; sha | やしろ
 
 手 thủ tay, thủ đoạn shu | て
 指 chỉ chỉ định, chỉ số, ngón tay shi | さ.す ゆび
@@ -953,6 +954,9 @@
 
 族 tộc gia tộc; tribe; a tribe shoot arrow in the same direction to the enemy; zoku
 
+勤 cần chuyên cần; diligence; serve;  kin, gon
+
+
 
 
 的 đích mục đích, đích thực teki
@@ -1311,7 +1315,6 @@
 著 trứ trứ danh, trứ tác cho
 房 phòng phòng ở boo
 塚 trủng đống đất -
-勤 cần chuyên cần, cần lao kin, gon
 臨 lâm lâm thời rin
 測 trắc đo đạc soku
 惑 hoặc nghi hoặc waku
