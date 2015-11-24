@@ -6,6 +6,24 @@ Docker containers wrap up a piece of software in a complete filesystem that cont
 ## Building docker image
 Docker images are read-only templates from which Docker containers are launched.
 
+### Listing all images
+```
+    docker images
+```
+
+
+
+### Info about a particular images
+```
+    docker history minhhh/dev
+    docker history minhhh/dev
+```
+
+### Saving and loading images to/from tar
+```
+    docker save busybox > busybox.tar
+    docker load --input busybox.tar
+```
 
 ## Container
 
