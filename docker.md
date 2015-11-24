@@ -92,9 +92,8 @@ Docker images are read-only templates from which Docker containers are launched.
 * docker stats - shows containers' resource usage statistics.
 * docker diff - shows changed files in the container's FS.
 
-### Import export
+### Copy files between container and host
 * docker cp - copies files or folders between a container and the local filesystem..
-* docker export - turns container filesystem into tarball archive stream to STDOUT.
 
 ## Volumes
 ```
