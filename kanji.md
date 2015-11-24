@@ -36,7 +36,7 @@
 昭 chiêu sáng shoo
 
 白 bạch thanh bạch, bạch sắc kaku, byaku | しろ.い
-泊 bạc ngủ lại haku | と.まる
+泊 bạc ngủ lại; with this white ice all around, it's better to stay over; haku | と.まる
 迫 bách bức bách urge;  force haku | せま.る
 
 水 thủy thủy điện sui | みず
@@ -957,6 +957,9 @@
 勤 cần chuyên cần; diligence; serve; kin, gon | つと.める
 
 株 chu cổ phiếu; shares; stock; in ancient times, people cut and stock trees to be shared シュ | かぶ
+
+
+
 
 
 的 đích mục đích, đích thực teki
