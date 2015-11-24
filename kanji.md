@@ -230,7 +230,7 @@
 好 hảo, hiếu hữu hảo; hiếu sắc koo
 妹 muội em gái mai | いもうと
 婦 phụ phụ nữ, dâm phụ fu | よめ
-婚 hôn kết hôn, hôn nhân kon |
+婚 hôn kết hôn; marriage is like a woman move to another clan; kon
 
 案 án luận án, đề án plan, good plan comes out when sitting beside a tree 木 peacefully 安. an | つくえ
 
@@ -500,7 +500,7 @@
 細 tế tinh tế, tường tế, tế bào, mỏng sai | ほそ.い
 綺 khỉ beautiful キ | あや
 締 đế buộc tighten tei | し.める
-結 kết đoàn kết, kết thúc ketsu | むす.ぶ
+結 kết đoàn kết; tie;conclude; scholars' words have good link like a thread ketsu | むす.ぶ
 線 tuyến dây, tiền tuyến, điện tuyến, vô tuyến sen | すじ
 経 kinh kinh tế, sách kinh, kinh độ kei, kyoo | はか.る
 素 tố yếu tố, nguyên tố so, su | もと
