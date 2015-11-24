@@ -3,25 +3,43 @@ Docker allows you to package an application with all of its dependencies into a 
 
 Docker containers wrap up a piece of software in a complete filesystem that contains everything it needs to run: code, runtime, system tools, system libraries – anything you can install on a server. This guarantees that it will always run the same, regardless of the environment it is running in.
 
-## Building docker image
+## Images
 Docker images are read-only templates from which Docker containers are launched.
 
-### Listing all images
+### List all images
 ```
     docker images
 ```
 
+### Build image from Dockerfile
+```
+    docker build
+```
 
+### Remove image
+```
+    docker rmi busybox
+```
 
-### Info about a particular images
+### Show history info about a particular images
 ```
     docker history minhhh/dev
-    docker history minhhh/dev
+```
+
+### Tag a particular image to a name
+
+```
+    docker tag 94535f57d8b2 minhhh/dev:0.1
 ```
 
 ### Saving and loading images to/from tar
 ```
-    docker import /path/to/exampleimage.tgz
+    # Export the contents of a container's filesystem as a tar archive
+    docker export red_panda > latest.tar
+
+    docker import latest.tar
+
+    # Save an image to a tar archive
     docker save busybox > busybox.tar
     docker load --input busybox.tar
 ```
