@@ -77,23 +77,35 @@ Docker images are read-only templates from which Docker containers are launched.
     docker exec -it ubuntu_bash bash
 ```
 
-### Commit modified container to image
+### View logs from running container
+
 ```
-    docker commit 5d4bdae290a4 minhhh/test:0.1
-    docker tag 5d4bdae290a4 minhhh/test
+    docker logs 90e35d012261
+
+    # to follow logs like tail -f
+    docker logs -f 90e35d012261
 ```
+
 
 ### Info
 * docker ps - show running container
-* docker logs - get logs from container
 * docker events - gets events from container.
 * docker port - shows public facing port of container.
 * docker top - shows running processes in container.
 * docker stats - shows containers' resource usage statistics.
 * docker diff - shows changed files in the container's FS.
 
+### Commit modified container to image
+```
+    docker commit 5d4bdae290a4 minhhh/test:0.1
+    docker tag 5d4bdae290a4 minhhh/test
+```
+
 ### Copy files between container and host
 * docker cp - copies files or folders between a container and the local filesystem..
+
+
+
 
 ## Volumes
 ```
