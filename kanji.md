@@ -662,7 +662,7 @@
 
 無 vô hư vô, vô ý nghĩa mu, bu | ない
 
-様 dạng đa dạng, hình dạng yoo | さま
+様 dạng hình dạng; way; manner; yoo | さま
 
 席 tịch seat, chủ tịch, xuất tịch (tham gia) seki | むしろ
 
@@ -951,11 +951,7 @@
 欠 khiếm khiếm khuyết; lack; ketsu | か.ける
 資 tư assets;funds; assets like water and shellfish are constantly lacking shi
 
-決
-定
-題
-頁
-
+族 tộc gia tộc; tribe; a tribe shoot arrow in the same direction to the enemy; zoku
 
 
 
@@ -1089,7 +1085,6 @@
 念 niệm ý niệm, tưởng niệm nen
 述 thuật tường thuật. tự thuật jutsu
 差 sai sai khác, sai biệt sa
-族 tộc gia tộc, dân tộc, chủng tộc zoku
 追 truy truy lùng, truy nã, truy cầu tsui
 訴 tố tố cáo, tố tụng so
 低 đê thấp, đê hèn, đê tiện tei
