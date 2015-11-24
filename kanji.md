@@ -75,8 +75,8 @@
 天 thiên thiên thạch, thiên nhiên, thiên đường ten | あめ
 
 大 đại to lớn, đại dương, đại lục dai, tai | おお.きい
-実 thực sự thực, chân thực jitsu | み
-因 nhân nguyên nhân in | よ.る
+実 thực sự thực; under the roof, great scholar tell the truth ; jitsu | み
+因 nhân nguyên nhân; cause; in | よ.る
 
 個 cá cá nhân, cá thể ko | か
 伸 thân dãn ra shin | の.びる
@@ -951,7 +951,7 @@
 欠 khiếm khiếm khuyết; lack; ketsu | か.ける
 資 tư assets;funds; assets like water and shellfish are constantly lacking shi
 
-
+実
 
 
 
