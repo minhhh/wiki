@@ -416,7 +416,6 @@
 
 原 nguyên thảo nguyên, nguyên tử, nguyên tắc gen
 
-世 thế thế giới, thế gian, thế sự sei, se
 界 giới thế giới, giới hạn, địa giới kai
 介 giới ở giữa, môi giới, giới thiệu kai
 
@@ -835,7 +834,7 @@
 羊 dương con dê, sheep ヨウ | ひつじ
 美 mĩ mĩ nhân; beautiful like a big sheep; bi | うつく.しい
 耒 LỖI come, cái cầy ライ ルイ | き く すき
-業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo | わざ
+業 nghiệp nghề nghiệp; business; using plough is a business; gyoo, goo | わざ
 
 歹 NGẠT bad;  wrong ガツ ガチ タイ
 殆 ĐÃI almost;  quite;  really タイ  サイ | ほとん.ど
@@ -942,8 +941,11 @@
 
 留 lưu lưu học, detain; halt; individual farmer stay with sword at their fields ryuu, ru | と.める
 
-営 doanh doanh nghiệp, kinh doanh, doanh trại ei
-業
+営 doanh doanh nghiệp; ei | いとな.む
+
+世 thế thế giới; world sei, se
+喋 ĐIỆP talk チョウ | しゃべ.る
+
 
 
 
