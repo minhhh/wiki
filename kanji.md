@@ -833,9 +833,9 @@
 夜 dạ ban đêm, dạ cảnh, dạ quang ya | よる
 
 羊 dương con dê, sheep ヨウ | ひつじ
+美 mĩ mĩ nhân; beautiful like a big sheep; bi | うつく.しい
 耒 LỖI come, cái cầy ライ ルイ | き く すき
 業 nghiệp nghề nghiệp, công nghiệp, sự nghiệp gyoo, goo | わざ
-美 mĩ mĩ nhân; beautiful like a big sheep; bi | うつく.しい
 
 歹 NGẠT bad;  wrong ガツ ガチ タイ
 殆 ĐÃI almost;  quite;  really タイ  サイ | ほとん.ど
@@ -863,7 +863,7 @@
 非 phi phi nhân đạo, phi nghĩa hi | あら.ず
 輩 bối tiền bối, hậu hối Fellow, someone who would not refuse 非 to give you a ride 車, comrade ハイ | やから
 
-常 thường bình thường, thông thường joo | つね
+常 thường bình thường; joo | つね
 
 鹿 LỘC Con hươu ロク | しか
 麓 LỘC chân núi ロク| ふもと
@@ -942,7 +942,8 @@
 
 留 lưu lưu học, detain; halt; individual farmer stay with sword at their fields ryuu, ru | と.める
 
-
+営 doanh doanh nghiệp, kinh doanh, doanh trại ei
+業
 
 
 
@@ -1015,7 +1016,6 @@
 沢 trạch đầm lầy taku
 義 nghĩa ý nghĩa, nghĩa lí, đạo nghĩa gi
 再 tái lại, tái phát sai, sa
-営 doanh doanh nghiệp, kinh doanh, doanh trại ei
 容 dung dung mạo, hình dung, nội dung, dung nhận yoo
 規 quy quy tắc, quy luật ki
 状 trạng tình trạng, trạng thái, cáo trạng joo
