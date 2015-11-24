@@ -189,7 +189,7 @@
 内 nội nội thành, nội bộ nai, dai | うち
 
 ト fortune-telling ボク | うらな.う
-外 ngoại ngoài, ngoại thành, ngoại đạo gai, ge | ほか
+外 ngoại ngoài; in the evening fortune-teller sit outside gai, ge | ほか
 
 長 trường, trưởng trường giang, sở trường; hiệu trưởng choo | なが.い
 帳 trướng sổ choo | とばり
@@ -479,8 +479,8 @@
 毎 mỗi mỗi mai
 海 hải hải cảng, hải phận kai | うみ
 
-由 do tự do, lí do yu, yuu, yui | よし
-画 họa, hoạch họa sĩ; kế hoạch ga, kaku | え
+由 do tự do, lí do; a reason; farm is a reason to live; yu, yuu, yui | よし
+画 họa, hoạch họa sĩ; painting ga, kaku | え えが.く
 
 屋 ốc phòng ốc oku | や
 
@@ -494,7 +494,7 @@
 糸 mịch sợ chỉ shi
 紙 chỉ giấy shi | かみ
 紀 kỉ thế kỉ, kỉ nguyên ki
-絵 hội hội họa kai, e
+絵 hội hội họa; many threads meet together to make a picture kai, e
 約 ước lời hứa (ước nguyện), ước tính yaku | つづ.まる
 緒 tự tình tự sho, cho | いとぐち beginning
 細 tế tinh tế, tường tế, tế bào, mỏng sai | ほそ.い
@@ -949,8 +949,7 @@
 喋 ĐIỆP talk; use mouth to talk about the world besides a tree チョウ | しゃべ.る
 
 
-外
-
+自 由
 
 
 
