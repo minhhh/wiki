@@ -791,9 +791,9 @@
 
 疋 sơ head; bolt of cloth ヒキ ショ ソ  ヒツ | あし
 題 đề đề tài; topic; the topic is a page in bolt of paper read under the sun dai
-是 thị đúng;  ze
-提 đề cung cấp; propose; take along; tei | さ.げる
-定 định thiết định, quyết định, định mệnh tei, joo
+是 thị đúng, thị phi; right;  justice; a bolt of cloths under the sun is the right thing; ze | これ
+提 đề cung cấp; propose; take along; the hand raised to propose the right thing to do ; tei | さ.げる
+定 định quyết định, định mệnh; determine; fix; tei, joo
 
 柿 THỊ シ |  かき  こけら
 
