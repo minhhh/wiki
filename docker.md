@@ -126,4 +126,4 @@ Docker images are read-only templates from which Docker containers are launched.
 * [Docker Tutorial Series](http://rominirani.com/2015/07/19/docker-tutorial-series/)
 * [Docker Tutorial Series](http://blog.flux7.com/blogs/docker/docker-tutorial-series-part-1-an-introduction)
 * [The Docker Ecosystem](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
-* https://github.com/wsargent/docker-cheat-sheet
+* [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
