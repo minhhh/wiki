@@ -55,9 +55,19 @@ Docker images are read-only templates from which Docker containers are launched.
 ```
     docker start 196691c7e0cd
     docker stop 196691c7e0cd
+
+    # quickly stop all running containers
+    docker stop $(docker ps -a -q)
 ```
 
-## Remove old containers
+### Show running container
+```
+    docker ps
+    # show all running and stopping containers
+    docker ps -a
+```
+
+### Remove old containers
 ```
     docker rm 5d4bdae290a4
 
@@ -88,7 +98,6 @@ Docker images are read-only templates from which Docker containers are launched.
 
 
 ### Info
-* docker ps - show running container
 * docker events - gets events from container.
 * docker port - shows public facing port of container.
 * docker top - shows running processes in container.
