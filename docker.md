@@ -21,6 +21,7 @@ Docker images are read-only templates from which Docker containers are launched.
 
 ### Saving and loading images to/from tar
 ```
+    docker import /path/to/exampleimage.tgz
     docker save busybox > busybox.tar
     docker load --input busybox.tar
 ```
