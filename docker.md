@@ -13,7 +13,7 @@ Docker images are read-only templates from which Docker containers are launched.
 
 ### Build image from Dockerfile
 ```
-    docker build
+    docker build -t nginx-example .
 ```
 
 ### Remove image
@@ -77,6 +77,12 @@ Docker images are read-only templates from which Docker containers are launched.
     docker exec -it ubuntu_bash bash
 ```
 
+### Commit modified container to image
+```
+    docker commit 5d4bdae290a4 minhhh/test:0.1
+    docker tag 5d4bdae290a4 minhhh/test
+```
+
 ### Info
 * docker ps - show running container
 * docker logs - get logs from container
@@ -89,18 +95,6 @@ Docker images are read-only templates from which Docker containers are launched.
 ### Import export
 * docker cp - copies files or folders between a container and the local filesystem..
 * docker export - turns container filesystem into tarball archive stream to STDOUT.
-
-
-## Basic commands
-* commit and tag
-```
-    docker commit 5d4bdae290a4 minhhh/test:0.1
-    docker tag 5d4bdae290a4 minhhh/test
-```
-* build image
-```
-    docker build -t nginx-example .
-```
 
 ## Volumes
 ```
