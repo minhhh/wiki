@@ -789,9 +789,10 @@
 
 宿 túc tá túc, kí túc xá shuku
 
-疋 sơ  head ヒキ ショ ソ  ヒツ | あし
-題 đề đề tài, đề mục, chủ đề dai
-提 đề cung cấp, đề cung tei | さ.げる
+疋 sơ head; bolt of cloth ヒキ ショ ソ  ヒツ | あし
+題 đề đề tài; topic; the topic is a page in bolt of paper read under the sun dai
+是 thị đúng;  ze
+提 đề cung cấp; propose; take along; tei | さ.げる
 定 định thiết định, quyết định, định mệnh tei, joo
 
 柿 THỊ シ |  かき  こけら
@@ -952,8 +953,8 @@
 
 決
 定
-
-
+題
+頁
 
 
 
@@ -1592,7 +1593,6 @@
 礼 lễ lễ nghi, lễ nghĩa rei, rai
 喚 hoán hô hoán kan
 既 kí đã ki
-是 thị đúng, thị phi ze
 液 dịch dung dịch eki
 床 sàng giường shoo
 斎 trai trai giới sai
