@@ -76,7 +76,7 @@
 
 大 đại to lớn, đại dương, đại lục dai, tai | おお.きい
 実 thực sự thực; under the roof, great scholar tell the truth ; jitsu | み
-因 nhân nguyên nhân; cause; in | よ.る
+因 nhân nguyên nhân; cause; if something big is enclosed, there must be a reason; in | よ.る
 
 個 cá cá nhân, cá thể ko | か
 伸 thân dãn ra shin | の.びる
@@ -529,8 +529,6 @@
 
 急 cấp khẩn cấp, cấp cứu kyuu
 
-定 định thiết định, quyết định, định mệnh tei, joo
-
 秋 thu mùa thu shuu | あき
 
 足 túc chân, bổ túc, sung túc soku
@@ -794,6 +792,7 @@
 疋 sơ  head ヒキ ショ ソ  ヒツ | あし
 題 đề đề tài, đề mục, chủ đề dai
 提 đề cung cấp, đề cung tei | さ.げる
+定 định thiết định, quyết định, định mệnh tei, joo
 
 柿 THỊ シ |  かき  こけら
 
@@ -951,7 +950,8 @@
 欠 khiếm khiếm khuyết; lack; ketsu | か.ける
 資 tư assets;funds; assets like water and shellfish are constantly lacking shi
 
-実
+決
+定
 
 
 
