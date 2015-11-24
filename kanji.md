@@ -187,6 +187,8 @@
 下 hạ dưới, hạ đẳng ka, ge | した
 中 trung trung tâm, trung gian, trung ương chuu | なか
 内 nội nội thành, nội bộ nai, dai | うち
+
+ト fortune-telling ボク | うらな.う
 外 ngoại ngoài, ngoại thành, ngoại đạo gai, ge | ほか
 
 長 trường, trưởng trường giang, sở trường; hiệu trưởng choo | なが.い
@@ -943,10 +945,11 @@
 
 営 doanh doanh nghiệp; ei | いとな.む
 
-世 thế thế giới; world sei, se
-喋 ĐIỆP talk チョウ | しゃべ.る
+世 thế thế giới; world sei, se | よ
+喋 ĐIỆP talk; use mouth to talk about the world besides a tree チョウ | しゃべ.る
 
 
+外
 
 
 
