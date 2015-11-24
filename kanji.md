@@ -480,7 +480,7 @@
 海 hải hải cảng, hải phận kai | うみ
 
 由 do tự do, lí do; a reason; farm is a reason to live; yu, yuu, yui | よし
-画 họa, hoạch họa sĩ; painting ga, kaku | え えが.く
+画 họa, hoạch họa sĩ; painting takes place around the field; ga, kaku | え えが.く
 
 屋 ốc phòng ốc oku | や
 
@@ -948,8 +948,7 @@
 世 thế thế giới; world sei, se | よ
 喋 ĐIỆP talk; use mouth to talk about the world besides a tree チョウ | しゃべ.る
 
-
-自 由
+資 tư tư bản, đầu tư, tư cách shi
 
 
 
@@ -972,7 +971,6 @@
 組 tổ tổ hợp, tổ chức so
 報 báo báo cáo, báo thù, báo đáp hoo
 委 ủy ủy viên, ủy ban, ủy thác I
-資 tư tư bản, đầu tư, tư cách shi
 院 viện học viện, y viện in
 共 cộng tổng cộng, cộng sản, công cộng kyoo
 第 đệ đệ nhất, đệ nhị dai
