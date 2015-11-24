@@ -954,9 +954,9 @@
 
 族 tộc gia tộc; tribe; a tribe shoot arrow in the same direction to the enemy; zoku
 
-勤 cần chuyên cần; diligence; serve;  kin, gon
+勤 cần chuyên cần; diligence; serve; kin, gon | つと.める
 
-
+株 chu cổ phiếu; shares; stock; in ancient times, people cut and stock trees to be shared シュ | かぶ
 
 
 的 đích mục đích, đích thực teki
@@ -1102,7 +1102,6 @@
 末 mạt kết thúc, mạt vận, mạt kì matsu, batsu
 隊 đội đội ngũ, quân đội tai
 注 chú chú ý, chú thích chuu
-株 chu cổ phiếu -
 望 vọng ước vọng, nguyện vọng, kì vọng boo, moo
 含 hàm hàm ý, hàm nghĩa, hàm súc gan
 種 chủng chủng loại, chủng tộc shu
