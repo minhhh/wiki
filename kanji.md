@@ -234,8 +234,8 @@
 
 案 án luận án, đề án plan, good plan comes out when sitting beside a tree 木 peacefully 安. an | つくえ
 
-古 cổ cũ, cổ điển, đồ cổ ko | ふる.い
-苦 khổ khổ cực;suffering; old grass will suffer ku | にが.い
+古 cổ cũ, cổ điển, đồ cổ; You get OLD fast if you have ten open mouths to feed; ko | ふる.い
+苦 khổ khổ cực;suffering; Flowers for the old man suffering in the hospital; ku | にが.い
 
 早 tảo sớm, tảo hôn soo, sa | はや
 草 thảo thảo mộc soo | くさ
@@ -962,7 +962,7 @@
 
 株 chu cổ phiếu; shares; stock; in ancient times, people cut and stock trees to be shared シュ | かぶ
 
-確 認
+
 
 
 
