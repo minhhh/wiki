@@ -909,7 +909,7 @@
 揃 be complete;  uniform;  all present セン | そろ.える
 
 广
-度 độ mức độ, quá độ, độ lượng do, to, taku | たび
+度 độ mức độ; do, to, taku | たび
 
 管 quản ống, mao quản, quản lí kan | くだ
 
@@ -958,7 +958,7 @@
 
 株 chu cổ phiếu; shares; stock; in ancient times, people cut and stock trees to be shared シュ | かぶ
 
-
+度
 
 
 
