@@ -199,7 +199,7 @@
 入 nhập nhập cảnh, nhập môn, nhập viện nyuu | い.れる
 出 xuất xuất hiện, xuất phát shutsu, sui | で.る
 
-寸 thốn thước đo sun
+寸 thốn thước đo; measurement sun
 寺 tự chùa ji
 団 đoàn đoàn kết, đoàn đội dan, ton
 時 thời thời gian ji | とき
@@ -985,7 +985,8 @@
 升 thăng cái đấu; measuring box; is it a thousand or ten? I need my measuring box; shoo | ます
 昇 thăng thăng tiến; we measure the sun to decide whether or not we should rise up out of bed; shoo | のぼ.る
 
-専 chuyên chuyên môn;specialty  sen | もっぱ.ら
+専 chuyên chuyên môn;specialty; after working in 10 fields and measure yourself, you have a specialty  sen | もっぱ.ら
+博 bác uyên bác; Dr.; if you have 10 specialty, you're a Dr. haku, baku
 
 
 的 đích mục đích, đích thực teki
@@ -1274,7 +1275,6 @@
 永 vĩnh vĩnh viễn, vỉnh cửu ei
 興 hưng, hứng hưng thịnh, phục hưng; hứng thú koo, kyoo
 羽 vũ lông vũ u
-博 bác uyên bác haku, baku
 迎 nghênh hoan nghênh, nghênh tiếp gei
 禁 cấm cấm đoán, nghiêm cấm kin
 彼 bỉ anh ta hi
