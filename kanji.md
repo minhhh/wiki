@@ -508,7 +508,7 @@
 
 勹 wrapping enclosure
 勺 chước gáo múc, ladle; A ladle binds drops together; shaku
-約 ước lời hứa, ước tính; yaku | つづ.まる
+約 ước lời hứa; promise; Thread + bound + drop of blood. Blood oath is a promise; yaku | つづ.まる
 
 矢 thỉ mũi tên shi
 医 y y học, y viện I
@@ -962,7 +962,7 @@
 
 株 chu cổ phiếu; shares; stock; in ancient times, people cut and stock trees to be shared シュ | かぶ
 
-予 約
+確 認
 
 
 
