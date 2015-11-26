@@ -26,7 +26,7 @@
 ## Grammar
 * [jgram](http://www.jgram.org/): Explaination of Japanese grammar
 
-# STORIES
+# Readings
 * http://life.ou.edu/stories/momotarou.html
 * http://life.ou.edu/stories/sarukani.html
 
