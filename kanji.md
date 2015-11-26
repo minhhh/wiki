@@ -962,8 +962,7 @@
 
 株 chu cổ phiếu; shares; stock; in ancient times, people cut and stock trees to be shared シュ | かぶ
 
-
-
+吾 I; I have 5 senses.; ゴ  | われ  わが    あ
 
 
 的 đích mục đích, đích thực teki
