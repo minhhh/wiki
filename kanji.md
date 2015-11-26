@@ -496,7 +496,7 @@
 紙 chỉ giấy shi | かみ
 紀 kỉ thế kỉ, kỉ nguyên ki
 絵 hội hội họa; many threads meet together to make a picture kai, e
-約 ước lời hứa (ước nguyện), ước tính yaku | つづ.まる
+約 ước lời hứa, ước tính; yaku | つづ.まる
 緒 tự tình tự sho, cho | いとぐち beginning
 細 tế tinh tế, tường tế, tế bào, mỏng sai | ほそ.い
 綺 khỉ beautiful キ | あや
