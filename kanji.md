@@ -260,7 +260,6 @@
 震 chấn địa chấn shin | ふる.う
 電 điện phát điện, điện lực den
 
-品 phẩm sản phẩm hin | しな
 
 左 tả bên trái, tả hữu, cánh tả sa | ひだり
 右 hữu bên phải, hữu ngạn, cánh hữu u, yuu | みぎ
@@ -968,6 +967,10 @@
 朋 companion; My companion and I are like two moons side by side. HO | とも
 
 唱 xướng; chant; Someone chanting with their mouth open for two consecutive days; shoo | とな.える
+晶 tinh; sparkle; A diamond sparkles as brightly as three suns; キ | かがや.く
+品 phẩm sản phẩm; goods; Three boxes of goods are devoured by the hungry mouths of waiting consumers.; hin | しな
+呂 spine; spine connects head and body; ロ | せぼね
+昌 prosperous; if you work from sun up to sun down you will be properous; ショウ | さかん
 
 
 的 đích mục đích, đích thực teki
@@ -1892,7 +1895,6 @@
 墨 mặc mực tàu boku
 姓 tính họ sei, shoo
 冠 quán quán quân kan
-晶 tinh kết tinh shoo
 亭 đình cái đình tei
 刈 ngải cắt cỏ -
 銅 đồng chất đồng doo
