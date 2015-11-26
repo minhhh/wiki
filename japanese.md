@@ -9,6 +9,8 @@
 * [Hand written Kanji Regconition](http://kanji.sljfaq.org/)
 * [kanji](http://yurika.saromalang.com/han-tu---kanji/kanji1945)
 * [Danh muc bo thu chu Han](http://vi.wiktionary.org/wiki/Wiktionary:Danh_m%E1%BB%A5c_b%E1%BB%99_th%E1%BB%A7_ch%E1%BB%AF_H%C3%A1n)
+* [How To Learn the 2,000+ Joyo Kanji in 97 Days](http://nihongoshark.com/fastest-way-to-learn-the-kanji/)
+* [http://kanji.koohii.com](http://kanji.koohii.com/)
 
 ## Verb conjugation dictionary
 * [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/VerbDetails.asp?txtVerb=uru&Go=Conjugate)
