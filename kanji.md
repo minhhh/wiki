@@ -975,6 +975,12 @@
 世 thế thế giới; generation; 3 tens = generation sei, se | よ
 
 胃 vị dạ dày; stomach; the rice field is harvested once a month to get food for our stomach フク |  はら
+旦 daybreak; a day break happens when the run rises over the horizon タンT  ダン |  あきら   ただし
+胆 đảm can đảm; gall bladder; courage; the moon has nerve trying to stick around when the sun rises; タン |  きも
+亘 span; the sun spans from horizon to horizon in a day; コウ  カン |  わた.る    もと.める
+
+
+
 
 
 的 đích mục đích, đích thực teki
@@ -1872,7 +1878,6 @@
 后 hậu hoàng hậu koo
 烈 liệt mãnh liệt, oanh liệt retsu
 嘆 thán ca thán, cảm thán tan
-胆 đảm can đảm tan
 棋 kì môn cờ ki
 麦 mạch lúa mạch baku
 筒 đồng cái ống too
