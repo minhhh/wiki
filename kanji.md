@@ -964,6 +964,11 @@
 
 吾 I; I have 5 senses.; ゴ  | われ  わが    あ
 
+冒 mạo mạo hiểm; Don't look at the sun directly with your eyes, it's risky! boo | おか.す
+朋 companion; My companion and I are like two moons side by side. HO | とも
+
+唱 xướng; chant; Someone chanting with their mouth open for two consecutive days; shoo | とな.える
+
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
@@ -1482,7 +1487,6 @@
 譲 nhượng nhượng bộ joo
 圏 quyển khí quyển ken
 診 chẩn chẩn đoán shin
-唱 xướng đề xướng shoo
 充 sung sung túc, bổ sung juu
 腐 hủ hủ bại fu
 薦 tiến tiến cử sen
@@ -1767,7 +1771,6 @@
 跳 khiêu khiêu vũ choo
 熟 thục hiền thục, thục nữ juku
 拍 phách vỗ tay haku, hyoo
-冒 mạo mạo hiểm boo
 陰 âm âm mưu, số âm in
 頂 đỉnh thiên đỉnh, đỉnh đầu choo
 尋 tầm sưu tầm, tầm nã jin
