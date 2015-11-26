@@ -660,6 +660,7 @@
 煙 yên khói en | けむ.る
 
 予 dự dự đoán; Be sure to check your halberd beforehand to make sure it's not missing its final stroke; beforehand yo | あらかじ.め
+矛 mâu halberd mu | ほこ
 
 無 vô hư vô, vô ý nghĩa mu, bu | ない
 
@@ -1911,7 +1912,6 @@
 廊 lang hành lang roo
 疫 dịch dịch bệnh eki, yaku
 乏 phạp nghèo, ít boo
-矛 mâu mâu thuẫn mu
 妊 nhâm mang thai nin
 桑 tang cây dâu soo
 嫁 giá đi lấy chồng ka
