@@ -659,7 +659,7 @@
 
 煙 yên khói en | けむ.る
 
-予 dự dự đoán, dự báo yo | あらかじ.め
+予 dự dự đoán; Be sure to check your halberd beforehand to make sure it's not missing its final stroke; beforehand yo | あらかじ.め
 
 無 vô hư vô, vô ý nghĩa mu, bu | ない
 
@@ -958,7 +958,7 @@
 
 株 chu cổ phiếu; shares; stock; in ancient times, people cut and stock trees to be shared シュ | かぶ
 
-度
+予 約
 
 
 
