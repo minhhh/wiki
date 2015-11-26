@@ -323,7 +323,7 @@
 咲 tiếu nở hoa - | さ.く
 号 hiệu phiên hiệu, tín hiệu, phù hiệu goo | さけ.ぶ
 
-舌 thiệt cái lưỡi zetsu | した
+舌 thiệt cái lưỡi; mouth say thousands things with tongue; zetsu | した
 話 thoại nói chuyện, đối thoại, giai thoại wa | はな.す
 
 止 chỉ đình chỉ shi | と.まる
@@ -484,8 +484,6 @@
 屋 ốc phòng ốc oku | や
 
 猫 miêu con mèo byoo
-
-旧 cựu cũ, cựu thủ tướng, cựu binh kyuu
 
 向 hướng hướng thượng, phương hướng koo | む.く
 同 đồng đồng nhất, tương đồng doo | おな.じ
@@ -981,6 +979,10 @@
 
 凹 ao lõm; concave; the letter U is concavely written; オウŌ | くぼ.む    へこ.む   ぼこ
 凸 đột lồi; convex; トツ |  でこ
+
+旧 cựu cũ; olden times; age 18=olden time kyuu | ふる.い
+
+升 thăng cái đấu; shoo | 
 
 
 
@@ -2259,7 +2261,6 @@
 附 phụ đính kèm, phụ lục fu
 厄 ách tai ách yaku
 侯 hầu tước hầu, hầu tước koo
-升 thăng đấu, cái đấu (để đong) shoo
 雌 thư con cái (<>con đực) shi
 爵 tước tước hiệu, quan tước shaku
 桟 sạn giá để đồ san
