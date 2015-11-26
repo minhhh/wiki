@@ -909,7 +909,7 @@
 揃 be complete;  uniform;  all present セン | そろ.える
 
 广
-度 độ mức độ; do, to, taku | たび
+度 độ mức độ; The cave/cavern is 20 degrees below zero and your crotch is freezing; do, to, taku | たび
 
 管 quản ống, mao quản, quản lí kan | くだ
 
