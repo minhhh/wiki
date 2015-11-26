@@ -237,7 +237,6 @@
 古 cổ cũ, cổ điển, đồ cổ; You get OLD fast if you have ten open mouths to feed; ko | ふる.い
 苦 khổ khổ cực;suffering; Flowers for the old man suffering in the hospital; ku | にが.い
 
-早 tảo sớm, tảo hôn soo, sa | はや
 草 thảo thảo mộc soo | くさ
 
 新 tân mới, cách tân, tân thời shin | あたら。しい
@@ -949,7 +948,6 @@
 
 営 doanh doanh nghiệp; ei | いとな.む
 
-世 thế thế giới; world sei, se | よ
 喋 ĐIỆP talk; use mouth to talk about the world besides a tree チョウ | しゃべ.る
 
 欠 khiếm khiếm khuyết; lack; ketsu | か.ける
@@ -971,6 +969,12 @@
 品 phẩm sản phẩm; goods; Three boxes of goods are devoured by the hungry mouths of waiting consumers.; hin | しな
 呂 spine; spine connects head and body; ロ | せぼね
 昌 prosperous; if you work from sun up to sun down you will be properous; ショウ | さかん
+早 tảo sớm; early; sun up early, before 10; soo, sa | はや
+旭 rising sun; 9am carries with it the rising sun キョク | あさひ
+
+世 thế thế giới; generation; 3 tens = generation sei, se | よ
+
+胃 vị dạ dày; stomach; the rice field is harvested once a month to get food for our stomach フク |  はら
 
 
 的 đích mục đích, đích thực teki
@@ -2016,7 +2020,6 @@
 怠 đãi lười biếng tai
 偉 vĩ vĩ đại I
 羅 la lụa ra
-胃 vị dạ dày I
 鉢 bát cái bát hatsu, hachi
 該 cai gai
 墳 phần mộ phần fun
