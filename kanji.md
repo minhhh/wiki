@@ -979,6 +979,9 @@
 胆 đảm can đảm; gall bladder; courage; the moon has nerve trying to stick around when the sun rises; タン |  きも
 亘 span; the sun spans from horizon to horizon in a day; コウ  カン |  わた.る    もと.める
 
+凹 ao lõm; concave; the letter U is concavely written; オウŌ | くぼ.む    へこ.む   ぼこ
+凸 đột lồi; convex; トツ |  でこ
+
 
 
 
@@ -2227,7 +2230,6 @@
 棺 quan quan tài kan
 幽 u tối tăm, u tối yuu
 謹 cẩn kính cẩn kin
-凸 đột lồi totsu
 醜 xú xấu xí shuu
 婿 tế con rể sei
 賊 tặc trộm cướp, đạo tặc zoku
@@ -2253,7 +2255,6 @@
 耗 hao tiêu hao, hao mòn moo, koo
 拷 khảo tra khảo, tra tấn goo
 堕 đọa rơi xuống, xa đọa da
-凹 ao lõm oo
 逐 trục đuổi theo, khu trục chiku
 附 phụ đính kèm, phụ lục fu
 厄 ách tai ách yaku
