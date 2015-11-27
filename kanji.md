@@ -387,7 +387,6 @@
 頁 HIỆT ケツ page, leaf ぺえじ | おおがい   かしら
 頃 KHOẢNH about toward | ころ
 財 tài tiền tài, tài sản zai, sai | たから
-員 viên thành viên, nhân viên in |
 
 青 thanh xanh, thanh thiên, thanh niên sei, shoo | あお.い
 晴 tình trong xanh sei | は.れる
@@ -999,6 +998,9 @@
 唄 pop song; Guys mouthing pop songs just to make money; バイ | うた   うた.う
 
 貞 trinh; upright; A magic wand is needed to make a clam stand upright.; テイ | さだ
+
+員 viên nhân viên; An employee is basically a shellfish with a mouth; イン
+貼 stick; paste; テン  チョウ | は.る   つ.く
 
 
 
