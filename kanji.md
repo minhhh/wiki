@@ -995,6 +995,12 @@
 朝 triều buổi sáng, triều đình choo | あさ
 嘲 ridicule; morning breath from your mouth is subject to ridicule; チョウ  トウ |  あざけ.る
 
+只 only; Imagine an animal with only a mouth and legs. シSHI | ただ
+唄 pop song; Guys mouthing pop songs just to make money; バイ | うた   うた.う
+
+貞 trinh; upright; A magic wand is needed to make a clam stand upright.; テイ | さだ
+
+
 
 
 的 đích mục đích, đích thực teki
@@ -1644,7 +1650,6 @@
 朗 lãng rõ ràng roo
 乳 nhũ nhũ mẫu nyuu
 旗 kì quốc kì ki
-貞 trinh trinh tiết tei
 梅 mai cây mơ bai
 尊 tôn tôn trọng son
 潮 triều thủy triều choo
