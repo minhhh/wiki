@@ -582,8 +582,6 @@
 
 忙 mang đa mang boo | いそが.しい
 
-負 phụ âm, mang, phụ trách, thua fu | ま.ける
-
 別 biệt biệt li, đặc biệt, tạm biệt | べつ , わか.れる
 
 科 khoa khoa học, chuyên khoa ka |
@@ -1004,6 +1002,13 @@
 頑 ngoan ngoan cố; stubborn gan | かたく
 
 児 nhi nhi đồng; newborn babe; In the olden times, a newborn babe came out legs first.; ji, ni | こ
+
+几 table; windy
+凡 phàm phàm nhân; mediocre; A drop of breeze is naught but a mediocre wind; BON HAN  | およ.そ  おうよ.そōyo.so    すべ.て
+
+負 phụ thua; defeat; フ | ま.ける   ま.かす   お.う
+
+
 
 
 的 đích mục đích, đích thực teki
@@ -2049,7 +2054,6 @@
 憾 hám hối hận kan
 傘 tản cái ô san
 塔 tháp tòa tháp too
-凡 phàm phàm nhân bon, han
 弊 tệ tệ hại, tệ xá hei
 漠 mạc sa mạc baku
 騎 kị kị sĩ ki
