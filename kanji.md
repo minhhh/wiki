@@ -988,6 +988,8 @@
 専 chuyên chuyên môn;specialty; after working in 10 fields and measure yourself, you have a specialty  sen | もっぱ.ら
 博 bác uyên bác; Dr.; if you have 10 specialty, you're a Dr. haku, baku
 
+卓 trác; eminent; the most eminent fortune teller learned early in life; taku
+
 
 的 đích mục đích, đích thực teki
 連 liên liên tục, liên lạc ren
@@ -1744,7 +1746,6 @@
 胞 bào đồng bào, tế bào hoo
 卵 noãn trứng ran
 偽 ngụy ngụy trang, ngụy tạo gi
-卓 trác trác việt taku
 干 can khô kan
 疲 bì mệt hi
 憶 ức kí ức oku
