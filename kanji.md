@@ -1001,6 +1001,7 @@
 
 員 viên nhân viên; An employee is basically a shellfish with a mouth; イン
 貼 stick; paste; paste a paper onto a shell and the fortune-teller will tell your future; テン  チョウ | は.る   つ.く
+頑 ngoan ngoan cố; stubborn gan | かたく
 
 児 nhi nhi đồng; newborn babe; In the olden times, a newborn babe came out legs first.; ji, ni | こ
 
@@ -1737,7 +1738,6 @@
 繊 tiêm thanh mảnh sen
 肥 phì phì nhiêu hi
 稿 cảo nguyên cảo, bản viết koo
-頑 ngoan ngoan cường, ngoan cố gan
 軟 nhuyễn mềm, nhu nhuyễn nan
 煮 chử luộc sha
 恒 hằng luôn luôn, hằng đẳng thức koo
