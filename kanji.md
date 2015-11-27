@@ -217,7 +217,6 @@
 力 lực sức lực ryoku, riki
 男 nam đàn ông, nam giới dan, nan | おとこ
 加 gia tăng gia, dùng sức và miệng để tăng ka | くわ.える
-丸 hoàn tròn; nice plus 1 rounds it off to ten; gan | まる
 努 nỗ nỗ lực do | つと.める
 
 刀 đao cái đao too
@@ -983,7 +982,10 @@
 旧 cựu cũ; olden times; age 18=olden time kyuu | ふる.い
 
 升 thăng cái đấu; measuring box; is it a thousand or ten? I need my measuring box; shoo | ます
-昇 thăng thăng tiến; we measure the sun to decide whether or not we should rise up out of bed; shoo | のぼ.る
+昇 thăng thăng tiến; we measure our progress daily; shoo | のぼ.る
+
+丸 hoàn tròn; nice plus 1 rounds it off to ten; gan | まる
+肘 elbow チュウ |  ひじ
 
 専 chuyên chuyên môn;specialty; after working in 10 fields and measure yourself, you have a specialty  sen | もっぱ.ら
 博 bác uyên bác; Dr.; if you have 10 specialty, you're a Dr. haku, baku
