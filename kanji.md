@@ -138,7 +138,7 @@
 断 đoạn, đoán phán đoán, đoạn tuyệt, decline dan | ことわ.る
 
 目 mục mắt, hạng mục, mục lục moku, boku | め
-見 kiến ý kiến ken | み.る
+見 kiến ý kiến; see; ken | み.る
 現 hiện xuất hiện, hiện tại, hiện tượng, hiện hình gen | あらわ。れる
 自 tự tự do, tự kỉ, tự thân ji, shi | みずか.ら
 首 thủ đầu, cổ, thủ tướng shu | くび
@@ -1000,9 +1000,9 @@
 貞 trinh; upright; A magic wand is needed to make a clam stand upright.; テイ | さだ
 
 員 viên nhân viên; An employee is basically a shellfish with a mouth; イン
-貼 stick; paste; テン  チョウ | は.る   つ.く
+貼 stick; paste; paste a paper onto a shell and the fortune-teller will tell your future; テン  チョウ | は.る   つ.く
 
-
+児 nhi nhi đồng; newborn babe; In the olden times, a newborn babe came out legs first.; ji, ni | こ
 
 
 的 đích mục đích, đích thực teki
@@ -1236,7 +1236,6 @@
 央 ương trung ương oo
 弁 biện hùng biện, biện luận ben
 催 thôi tổ chức, khai thôi, thôi thúc sai
-児 nhi nhi đồng, hài nhi ji, ni
 江 giang trường giang, giang hồ koo
 給 cấp cung cấp, cấp phát kyuu
 具 cụ công cụ, dụng cụ gu
