@@ -18,7 +18,6 @@
 
 月 nguyệt mặt trăng, tháng, nguyệt san, nguyệt thực getsu, gatsu | つき
 明 minh quang minh, minh tinh mei, myoo |  あか.るい
-朝 triều buổi sáng, triều đình choo | あさ
 育 dục giáo dục, dưỡng dục iku |  そだ.てる
 能 năng năng lực, tài năng noo | よ.く
 服 phục y phục, cảm phục, phục vụ fuku |
@@ -990,9 +989,11 @@
 専 chuyên chuyên môn;specialty; after working in 10 fields and measure yourself, you have a specialty  sen | もっぱ.ら
 博 bác uyên bác; Dr.; if you have 10 specialty, you're a Dr. haku, baku
 
-占 chiêm, chiếm; fortune-telling;  divining; occupy; sen | し.める
+占 chiêm, chiếm; fortune-telling; occupy; Fortune-telling: using a mouth as a divining rod; sen | し.める
 卓 trác; eminent; the most eminent fortune teller learned early in life; taku
 
+朝 triều buổi sáng, triều đình choo | あさ
+嘲 ridicule; morning breath from your mouth is subject to ridicule; チョウ  トウ |  あざけ.る
 
 
 
