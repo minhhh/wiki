@@ -985,11 +985,12 @@
 昇 thăng thăng tiến; we measure our progress daily; shoo | のぼ.る
 
 丸 hoàn tròn; nice plus 1 rounds it off to ten; gan | まる
-肘 elbow チュウ |  ひじ
+肘 elbow; elbow is the flesh that's used as measurement in the old days; チュウ |  ひじ
 
 専 chuyên chuyên môn;specialty; after working in 10 fields and measure yourself, you have a specialty  sen | もっぱ.ら
 博 bác uyên bác; Dr.; if you have 10 specialty, you're a Dr. haku, baku
 
+占 chiêm, chiếm; fortune-telling;  divining; occupy; sen | し.める
 卓 trác; eminent; the most eminent fortune teller learned early in life; taku
 
 
@@ -1256,7 +1257,6 @@
 盟 minh đồng minh, gia minh mei
 庫 khố kho, xa khố, kim khố ko, ku
 皇 hoàng hoàng đế koo, oo
-占 chiêm, chiếm chiếm cứ sen
 将 tướng tướng quân shoo
 捜 sưu sưu tầm, sưu tập soo
 厳 nghiêm tôn nghiêm, nghiêm khắc, nghiêm trọng gen, gon
