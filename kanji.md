@@ -264,7 +264,6 @@
 石 thạch đá, thạch anh, bảo thạch seki, shaku, koku | いし
 研 nghiên mài, nghiên cứu ken | と.ぐ
 
-子 tử tử tôn, phần tử, phân tử, nguyên tử shi, su
 学 học học sinh, học thuyết gaku
 字 tự chữ, văn tự ji
 
@@ -1036,8 +1035,10 @@
 丁 đinh; street; Two streets make a T-intersection.; チョウ テイ | ひのと
 町 đinh; village;town; village has rice field and streets; チョウ | まちmachi
 
-可 khả; can; カ コク | -べ.き  -べ.し
+可 khả; can; A mouth on the street asking for things: "Can I get some help?"; カ コク | -べ.き  -べ.し
+頂 đỉnh; place on the head; top; If I put a street sign on my head what do I get ? A place on the head !; チョウ | いただ.く   いただき
 
+子 tử; child; シ  ス  ツ |  こ
 
 
 
@@ -1826,7 +1827,6 @@
 熟 thục hiền thục, thục nữ juku
 拍 phách vỗ tay haku, hyoo
 陰 âm âm mưu, số âm in
-頂 đỉnh thiên đỉnh, đỉnh đầu choo
 尋 tầm sưu tầm, tầm nã jin
 唆 toa xúi giục sa
 奇 kì kì lạ, kì diệu ki
