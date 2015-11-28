@@ -571,8 +571,6 @@
 
 忙 mang đa mang boo | いそが.しい
 
-別 biệt biệt li, đặc biệt, tạm biệt | べつ , わか.れる
-
 科 khoa khoa học, chuyên khoa ka |
 
 背 bối bối cảnh hai | せい
@@ -1033,6 +1031,8 @@
 則 tắc;rule; those who has money and swords can make rule; ソク | のっと.る
 
 副 phó; vice; ;フク
+
+別 biệt; separate; ベツ| わか.れる
 
 
 
