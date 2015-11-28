@@ -384,7 +384,6 @@
 貝 bối vỏ sò - | かい
 買 mãi mua, khuyến mãi bai | か.う
 貸 thải cho mượn tai | か.す
-頁 HIỆT ケツ page, leaf ぺえじ | おおがい   かしら
 頃 KHOẢNH about toward | ころ
 財 tài tiền tài, tài sản zai, sai | たから
 
@@ -997,6 +996,7 @@
 
 貞 trinh; upright; A magic wand is needed to make a clam stand upright.; テイ | さだ
 
+頁 HIỆT ケツ page, leaf; a shellfish carry a page balanced on its head; ぺえじ | おおがい   かしら
 員 viên nhân viên; An employee is basically a shellfish with a mouth; イン
 貼 stick; paste; paste a paper onto a shell and the fortune-teller will tell your future; テン  チョウ | は.る   つ.く
 頑 ngoan ngoan cố; stubborn gan | かたく
@@ -1006,7 +1006,7 @@
 几 table; windy
 凡 phàm phàm nhân; mediocre; A drop of breeze is naught but a mediocre wind; BON HAN  | およ.そ  おうよ.そōyo.so    すべ.て
 
-負 phụ thua; defeat; フ | ま.ける   ま.かす   お.う
+負 phụ thua; defeat; Tied up, the shellfish had to accept defeat!; フ | ま.ける   ま.かす   お.う
 
 
 
