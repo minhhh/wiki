@@ -1032,6 +1032,7 @@
 
 則 tắc;rule; those who has money and swords can make rule; ソク | のっと.る
 
+副 phó; vice; ;フク
 
 
 
@@ -1130,7 +1131,6 @@
 援 viện viện trợ en
 可 khả có thể, khả năng, khả dĩ ka
 視 thị thị sát, thị lực, giám thị shi
-副 phó phó, phó phòng fuku
 例 lệ ví dụ, tiền lệ, thông lệ, điều lệ rei
 補 bổ bổ sung, bổ túc ho
 額 ngạch trán, giá tiền, hạn ngạch, kim ngạch gaku
