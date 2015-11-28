@@ -498,11 +498,6 @@
 素 tố yếu tố, nguyên tố so, su | もと
 孫 tôn con cháu son | まご
 
-勹 wrapping enclosure
-勺 chước gáo múc, ladle; A ladle binds drops together; シャク
-旬 tuần 10 ngày; decameron; If you bind up ten days, you get a decameron; ジュン
-約 ước lời hứa; promise; Thread + bound + drop of blood. Blood oath is a promise; yaku | つづ.まる
-
 矢 thỉ mũi tên shi
 医 y y học, y viện I
 短 đoản đoản mệnh, sở đoản tan | みじか.い
@@ -1013,6 +1008,11 @@
 
 肌 cơ texture; When you expose your flesh to the wind it gets textured: goosebumps!; キ | はだ
 
+勹 wrapping enclosure
+勺 chước gáo múc, ladle; A ladle binds drops together; シャク
+旬 tuần 10 ngày; decameron; If you bind up ten days, you get a decameron; ジュン
+約 ước lời hứa; promise; Thread + bound + drop of blood. Blood oath is a promise; yaku | つづ.まる
+的 đích; bull's eye; target; A white, bound up, drop in the center is the bull's eye.; テキ | まと
 
 
 
@@ -1021,7 +1021,9 @@
 
 
 
-的 đích mục đích, đích thực teki
+
+
+
 連 liên liên tục, liên lạc ren
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
