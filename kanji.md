@@ -386,7 +386,6 @@
 静 tĩnh bình tĩnh, trấn tĩnh sei, joo | しず.か
 
 田 điền điền viên, tá điền den | ta
-町 đinh khu phố choo | まち
 黄 hoàng hoàng kim koo ,oo | き
 略 lược tỉnh lược, xâm lược ryaku | ほぼ  おか.す
 
@@ -1032,9 +1031,12 @@
 
 副 phó; vice; ;フク
 
-別 biệt; separate; ベツ| わか.れる
+別 biệt; separate; a man is kneeling down waiting for execution, head is about to be separated from the body by a sword; ベツ| わか.れる
 
+丁 đinh; street; Two streets make a T-intersection.; チョウ テイ | ひのと
+町 đinh; village;town; village has rice field and streets; チョウ | まちmachi
 
+可 khả; can; カ コク | -べ.き  -べ.し
 
 
 
@@ -1129,7 +1131,6 @@
 庁 sảnh đại sảnh choo
 害 hại có hại, độc hại, lợi hại gai
 援 viện viện trợ en
-可 khả có thể, khả năng, khả dĩ ka
 視 thị thị sát, thị lực, giám thị shi
 例 lệ ví dụ, tiền lệ, thông lệ, điều lệ rei
 補 bổ bổ sung, bổ túc ho
@@ -1496,7 +1497,6 @@
 端 đoan đầu đoạn tan
 肉 nhục thịt niku
 枚 mai tờ mai
-丁 đinh <số đếm> tei, choo
 借 tá mượn, tá điền shaku
 骨 cốt xương, cốt nhục kotsu
 傾 khuynh khuynh đảo, khuynh hướng kei
