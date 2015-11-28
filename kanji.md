@@ -216,7 +216,6 @@
 加 gia tăng gia, dùng sức và miệng để tăng ka | くわ.える
 努 nỗ nỗ lực do | つと.める
 
-刀 đao cái đao too
 切 thiết cắt, thiết thực, thân thiết setsu, sai | き.る
 刻 khắc thời khắc, engrave, time koku | きざ.む
 
@@ -1025,6 +1024,12 @@
 有 hữu; possess; Possessed by the Earth's gravity, the moon stays by its side.; ユウ  ウ | あ.る
 賄 hối hối lộ;bribe; who possess money can bribe; ワイ | まかな.う
 
+貢 cống; cống hiến; tribute; support; tribute is the craft of raising money; コウ  ク | みつ.ぐ
+項 hạng;paragraph;To write a paragraph is the craft of grouping sentences on a page; コウ| うなじ
+
+刀 đao cái đao too
+刃 nhận; blade; a drop of blood on the blade of my sword; ジン  ニン | は  やいば   き.る
+;  sword
 
 
 
@@ -1493,7 +1498,6 @@
 跡 tích dấu tích, vết tích seki
 君 quân quân chủ, quân vương kun
 奥 áo trong cùng oo
-項 hạng hạng mục koo
 躍 dược nhảy lên yaku
 災 tai tai họa sai
 焼 thiêu thiêu đốt shoo
@@ -1584,7 +1588,6 @@
 茂 mậu mọc sum suê mo
 揺 dao dao động yoo
 祭 tế lễ hội sai
-貢 cống cống hiến koo, ku
 兼 kiêm kiêm nhiệm ken
 析 tích phân tích seki
 誤 ngộ ngộ nhận go
@@ -2104,7 +2107,6 @@
 畜 súc súc vật chiku
 辱 nhục sỉ nhục joku
 戯 hí hí kịch gi
-刃 nhận lưỡi dao jin
 槽 tào cái máng soo
 憎 tăng ghét zoo
 舶 bạc tàu haku
