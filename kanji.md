@@ -1030,6 +1030,8 @@
 召 triệu; To seduce is to make a sword of one's mouth.; ショウ | め.す
 昭 chiêu; shining; The sun was shining so bright that it seduced Icarus and he flew too close.; ショウ
 
+則 tắc;rule; those who has money and swords can make rule; ソク | のっと.る
+
 
 
 
@@ -1341,7 +1343,6 @@
 津 tân bờ biển shin
 途 đồ tiền đồ to
 罪 tội tội phạm, tội ác zai
-則 tắc quy tắc, phép tắc soku
 諸 chư chư hầu sho
 志 chí ý chí, chí nguyện shi
 源 nguyên nguồn, nguyên tuyền gen
