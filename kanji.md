@@ -371,7 +371,7 @@
 館 quán đại sứ quán, hội quán kan | やかた
 飲 ẩm ẩm thực in | の.む
 
-工 công công tác, công nhân koo, ku
+工 công; công tác; craft;  コウ ク
 功 công công lao achievement koo, ku | いさお
 
 士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
@@ -769,7 +769,6 @@
 
 勉 miễn miễn cưỡng, chăm chỉ ben | つと.める
 
-真 chân chân lí, chân thực shin |  まこと
 
 願 nguyện tự nguyện, tình nguyện gan | -ねがい
 
@@ -1019,8 +1018,10 @@
 
 乱 loạn; riot; A tongue with a hook can cause a riot.; ラン  ロン | みだ.れる  みだ.る  みだ.す
 
-直 trực; straight; straightaway; チョク |  なお.す
+直 trực; straight; straightaway; if you are watched by ten eyes, you must be straight; チョク |  なお.す
 
+具 cụ; tools; Keep an eye on your tools while you work at the table. ; グ | そな.える  つぶさ.に
+真 chân; true; Ten tools are all a true craftsman needs.; シン | まこと
 
 
 
@@ -1259,7 +1260,6 @@
 催 thôi tổ chức, khai thôi, thôi thúc sai
 江 giang trường giang, giang hồ koo
 給 cấp cung cấp, cấp phát kyuu
-具 cụ công cụ, dụng cụ gu
 殺 sát sát hại, sát nhân satsu, sai, setsu
 波 ba sóng, phong ba ha
 劇 kịch kịch bản, vở kịch, kịch tính geki
