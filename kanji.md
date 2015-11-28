@@ -141,7 +141,6 @@
 見 kiến ý kiến; see; ken | み.る
 現 hiện xuất hiện, hiện tại, hiện tượng, hiện hình gen | あらわ。れる
 自 tự tự do, tự kỉ, tự thân ji, shi | みずか.ら
-首 thủ đầu, cổ, thủ tướng shu | くび
 道 đạo đạo lộ, đạo đức, đạo lí doo, too | みち
 頭 đầu đầu não too, zu, to | あたま
 顔 nhan nhan sắc, hồng nhan gan | かお
@@ -1015,11 +1014,7 @@
 的 đích; bull's eye; target; A white, bound up, drop in the center is the bull's eye.; テキ | まと
 
 
-
-
-
-
-
+首 thủ cổ; neck; One has a strong NECK if one can carry HORNS on ONESELF; シュ | くび
 
 
 
