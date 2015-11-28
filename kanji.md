@@ -1023,6 +1023,7 @@
 真 chân; true; Ten tools are all a true craftsman needs.; シン | まこと
 
 有 hữu; possess; Possessed by the Earth's gravity, the moon stays by its side.; ユウ  ウ | あ.る
+賄 hối hối lộ;bribe; who possess money can bribe; ワイ | まかな.う
 
 
 
@@ -1619,7 +1620,6 @@
 駆 khu khu trục hạm ku
 抵 đề đề kháng tei
 焦 tiêu cháy shoo
-賄 hối hối lộ wai
 快 khoái khoái lạc kai
 克 khắc khắc phục koku
 柳 liễu cây liễu ryuu
