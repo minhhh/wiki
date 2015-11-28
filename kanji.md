@@ -32,7 +32,6 @@
 日 nhật ngày, nhật thực, nhật báo nichi, jitsu | ひ
 昨 tạc <hôm> qua, <năm> qua.. saku | きのう
 暖 noãn ấm dan | あたた.かい
-昭 chiêu sáng shoo
 
 白 bạch thanh bạch, bạch sắc kaku, byaku | しろ.い
 泊 bạc ngủ lại; with this white ice all around, it's better to stay over; haku | と.まる
@@ -216,7 +215,6 @@
 加 gia tăng gia, dùng sức và miệng để tăng ka | くわ.える
 努 nỗ nỗ lực do | つと.める
 
-切 thiết cắt, thiết thực, thân thiết setsu, sai | き.る
 刻 khắc thời khắc, engrave, time koku | きざ.む
 
 女 nữ phụ nữ jo, nyo, nyoo
@@ -661,8 +659,6 @@
 
 流 lưu lưu lượng, hạ lưu, lưu hành ryuu, ru | なが.れる
 
-召 triệu triệu tập shoo | め.す
-
 割 cát chia cắt, proportion;split katsu | わ.る わり
 
 飛 phi bay, phi công, phi hành hi | と.ぶ
@@ -1030,6 +1026,16 @@
 刀 đao cái đao too
 刃 nhận; blade; a drop of blood on the blade of my sword; ジン  ニン | は  やいば   き.る
 ;  sword
+切 thiết; cut; The seven samurai used their swords to cut their opponents.; セツ   サイ | き.る
+召 triệu; To seduce is to make a sword of one's mouth.; ショウ | め.す
+昭 chiêu; shining; The sun was shining so bright that it seduced Icarus and he flew too close.; ショウ
+
+
+
+
+
+
+
 
 
 
