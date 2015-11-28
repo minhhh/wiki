@@ -260,7 +260,6 @@
 右 hữu bên phải, hữu ngạn, cánh hữu u, yuu | みぎ
 友 hữu bạn hữu, hữu hảo yuu
 名 danh danh tính, địa danh mei, myoo | な
-有 hữu sở hữu, hữu hạn yuu, u | あ.る
 布 bố vải, tuyên bố fu | ぬの
 在 tại tồn tại, thực tại outskirts zai | あ.る
 
@@ -1023,7 +1022,7 @@
 具 cụ; tools; Keep an eye on your tools while you work at the table. ; グ | そな.える  つぶさ.に
 真 chân; true; Ten tools are all a true craftsman needs.; シン | まこと
 
-
+有 hữu; possess; Possessed by the Earth's gravity, the moon stays by its side.; ユウ  ウ | あ.る
 
 
 
