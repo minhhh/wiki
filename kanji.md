@@ -146,7 +146,6 @@
 顔 nhan nhan sắc, hồng nhan gan | かお
 祖 tổ tổ tiên so
 査 tra điều tra sa
-直 trực trực tiếp, chính trực choku, jiki | なお.る fix;  repair
 眠 miên thôi miên min | ねむ.い
 
 門 môn cửa, nhập môn, môn đồ, bộ môn mon | かど
@@ -1016,6 +1015,15 @@
 
 首 thủ cổ; neck; One has a strong NECK if one can carry HORNS on ONESELF; シュ | くび
 
+乙 ất; fish guts;  オツ   イツ |  おと   きのと
+
+乱 loạn; riot; A tongue with a hook can cause a riot.; ラン  ロン | みだ.れる  みだ.る  みだ.す
+
+直 trực; straight; straightaway; チョク |  なお.す
+
+
+
+
 
 
 
@@ -1356,7 +1364,6 @@
 削 tước gọt, tước đoạt saku
 坂 phản cái dốc han
 壊 hoại phá hoại kai
-乱 loạn phản loạn, chiến loạn ran
 岸 ngạn hải ngạn gan
 遣 khiển phân phát ken
 緊 khẩn khẩn cấp, khẩn trương kin
@@ -2184,7 +2191,6 @@
 挿 sáp cho vào soo
 斗 đẩu một đấu to
 摂 nhiếp nhiếp chính, nhiếp thủ setsu
-乙 ất can Ất otsu
 剖 phẫu phẫu thuật, giải phẫu boo
 詠 vịnh ngâm thơ, vịnh ei
 睡 thụy ngủ, thụy miên sui
