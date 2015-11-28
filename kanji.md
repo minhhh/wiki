@@ -499,7 +499,8 @@
 孫 tôn con cháu son | まご
 
 勹 wrapping enclosure
-勺 chước gáo múc, ladle; A ladle binds drops together; shaku
+勺 chước gáo múc, ladle; A ladle binds drops together; シャク
+旬 tuần 10 ngày; decameron; If you bind up ten days, you get a decameron; ジュン
 約 ước lời hứa; promise; Thread + bound + drop of blood. Blood oath is a promise; yaku | つづ.まる
 
 矢 thỉ mũi tên shi
@@ -1008,6 +1009,15 @@
 
 負 phụ thua; defeat; Tied up, the shellfish had to accept defeat!; フ | ま.ける   ま.かす   お.う
 
+句 cú; phrase;Some Japanese phrases are difficult to wrap your mouth around.; ku
+
+肌 cơ texture; When you expose your flesh to the wind it gets textured: goosebumps!; キ | はだ
+
+
+
+
+
+
 
 
 
@@ -1397,7 +1407,6 @@
 老 lão già, lão luyện roo
 患 hoạn bệnh hoạn kan
 底 để đáy tei
-旬 tuần 10 ngày jun
 損 tổn tổn hại, tổn thương son
 徒 đồ môn đồ, đồ đệ to
 承 thừa thừa nhận shoo
@@ -1540,7 +1549,6 @@
 漁 ngư đánh cá gyo, ryoo
 俊 tuấn tuấn kiệt, anh tuấn shun
 獲 hoạch thu hoạch kaku
-句 cú câu cú ku
 祉 chỉ phúc chỉ shi
 薄 bạc mỏng, bạc mệnh haku
 郡 quận quận gun
@@ -1988,7 +1996,6 @@
 盆 bồn cái bồn bon
 弦 huyền dây gen
 悼 điệu truy điệu too
-肌 cơ da -
 惜 tích tiếc seki
 珠 châu châu ngọc shu
 碑 bi tấm bia hi
