@@ -1039,6 +1039,12 @@
 頂 đỉnh; place on the head; top; If I put a street sign on my head what do I get ? A place on the head !; チョウ | いただ.く   いただき
 
 子 tử; child; シ  ス  ツ |  こ
+孔 khổng; cavity; I warned him about cavities, but the child is still hooked on sweets.; コウ | あな
+
+
+
+
+
 
 
 
@@ -2252,7 +2258,6 @@
 襟 khâm vạt áo, cổ áo kin
 禍 họa tai họa ka
 漆 tất sơn shitsu
-孔 khổng lỗ hổng koo
 繕 thiện cải thiện zen
 楼 lâu tòa nhà, nhà lầu roo
 畔 bạn ruộng lúa han
