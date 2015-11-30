@@ -1053,7 +1053,12 @@
 石 thạch đá, thạch anh, bảo thạch seki, shaku, koku | いし
 肖 tiếu;resemblance; This kanji has some resemblance to a candle with sparks flying off.; ショウ | あやか.る
 硝 tiêu; nitrate; That stone has sparks coming out of it! Someone must have poured nitrate acid on it.; ショウ
-砕
+砕 toái;smash;To SMASH a STONE you need to hit it NINE or TEN times.; サイ | くだ.く  くだ.ける
+砂 sa; sand; Sand is a made of quite a few tiny stones. サ  シャ |  すな
+妬 jealous; WOMEN are JEALOUS of the STONE on my wife's ring.; ト  ツ | ねた.む    そね.む  つも.る  ふさ.ぐ
+削 tước;plane;  サク | けず.る   はつ.る  そ.ぐ
+
+
 
 
 
@@ -1393,7 +1398,6 @@
 池 trì cái ao chi
 像 tượng tưởng tượng, thần tượng zoo
 貨 hóa hàng hóa ka
-削 tước gọt, tước đoạt saku
 坂 phản cái dốc han
 壊 hoại phá hoại kai
 岸 ngạn hải ngạn gan
@@ -1625,7 +1629,6 @@
 敏 mẫn mẫn cảm bin
 御 ngự ngự uyển gyo, go
 邸 để trang trại tei
-砂 sa cát sa, sha
 包 bao bao bọc hoo
 巡 tuần tuần tra jun
 滞 trệ đình trệ tai
@@ -2051,7 +2054,6 @@
 狩 thú săn bắn shu
 恭 cung cung kính kyoo
 唐 đường nhà Đường, Trung quốc too
-砕 toái phá vỡ sai
 虜 lỗ tù binh ryo
 垂 thùy rủ xuống sui
 頻 tần tần số, tần suất hin
