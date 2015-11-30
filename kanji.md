@@ -273,8 +273,6 @@
 
 回 hồi vu hồi, chương hồi kai, e | まわ.る
 
-川 xuyên sông sen | がわ
-
 心 tâm tâm lí, nội tâm shin | こころ
 思 tư nghĩ, suy tư, tư tưởng, tư duy shi | おも。い
 忘 vong quên boo | わすれる
@@ -1065,9 +1063,9 @@
 省 tỉnh;focus;You focus by concentrating your eye on fewer objects.;  セイ   ショウ | かえり.みる   はぶ.く
 
 厚 hậu; thick; The thick cliff walls protected the children from the sun.; コウ | あつ.い  あか
-奇 kì; strange; キ | く.しき  あや.しい   くし   めずら.しい
+奇 kì; strange;Strange - that is when a big dog can stand on top of can.;  キ | く.しき  あや.しい   くし   めずら.しい
 
-
+川 xuyên sông セン | がわ
 
 
 
