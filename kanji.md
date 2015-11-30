@@ -414,7 +414,6 @@
 交 giao giao hảo, giao hoán koo | か.わす
 校 hiệu trường học; correction; under the tree people interact and learn is the school; キョウ
 
-母 mẫu mẹ, phụ mẫu, mẫu thân bo | はは
 
 身 thân thân thể, thân phận shin
 
@@ -826,7 +825,6 @@
 
 更 canh canh tân renew koo | ふ.ける
 
-兄 huynh phụ huynh kei, kyoo | あに
 党 đảng đảng phái too | なかま
 
 両 lưỡng hai, lưỡng quốc ryoo | ふたつ
@@ -1043,7 +1041,11 @@
 好 hảo; fond; A woman is fond of her child; コウ | この.む  す.く よ.い
 如 như;likeness; Women share a common likeness. Their mouths are always open, whining about this and that. ジョ  ニョ | ごと.し
 
+母 mẫu; mother; ボ | はは も
+貫 quán;pierce; The sad fate of Mama shellfish was to be captured and pierced to make an earring; カン | つらぬ.く   ぬ.く  ぬき
 
+兄 huynh;elder brother;My elder brother was basically a mouth on legs when he was a teenager.; ケイ  キョウ |  あに
+呪 curse; ジュ  シュ  シュウ  ズ | まじな.う   のろ.い   まじな.い  のろ.う
 
 
 
@@ -1700,7 +1702,6 @@
 飾 sức trang sức shoku
 即 tức tức thì, lập tức, tức là soku
 翼 dực cánh yoku
-貫 quán xuyên qua, quán xuyến kan
 懇 khẩn khẩn khoản, khẩn đãi kon
 浅 thiển thiển cận sen
 昔 tích ngày xưa seki, shaku
