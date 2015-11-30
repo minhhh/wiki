@@ -184,7 +184,6 @@
 内 nội nội thành, nội bộ nai, dai | うち
 
 ト fortune-telling ボク | うらな.う
-外 ngoại ngoài; in the evening fortune-teller sit outside gai, ge | ほか
 
 長 trường, trưởng trường giang, sở trường; hiệu trưởng choo | なが.い
 帳 trướng sổ choo | とばり
@@ -254,7 +253,6 @@
 左 tả bên trái, tả hữu, cánh tả sa | ひだり
 右 hữu bên phải, hữu ngạn, cánh hữu u, yuu | みぎ
 友 hữu bạn hữu, hữu hảo yuu
-名 danh danh tính, địa danh mei, myoo | な
 布 bố vải, tuyên bố fu | ぬの
 在 tại tồn tại, thực tại outskirts zai | あ.る
 
@@ -1048,6 +1046,11 @@
 
 夕 tịch; evening; セキ |  ゆう
 多 đa đa số ta | おお.い
+汐 eventide; Eventide is just another word for evening, and it has the word tide in it which we associate with water.; セキ   しお   | うしお   せい
+
+外 ngoại ngoài; in the evening fortune-teller sit outside gai, ge | ほか
+名 danh;name;In the evening, her sweet mouth whispered my name.;  メイ   ミョウ  | な
+
 
 
 
