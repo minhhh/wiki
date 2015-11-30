@@ -103,7 +103,6 @@
 
 小 tiểu nhỏ, ít shoo | ちい.さい
 少 thiếu, thiểu thiếu niên; thiểu số shoo | すく.ない, すこ.し
-多 đa đa số ta | おお.い
 
 木 mộc cây, gỗ boku, moku | き
 林 lâm lâm sản, lâm nghiệp rin | はやし
@@ -806,7 +805,6 @@
 表 biểu biểu hiện, bảng biểu, biểu diễn hyoo | おもて
 初 sơ sơ cấp sho | はじ.め
 
-夕 tịch tịch dương seki |  ゆう
 夜 dạ ban đêm, dạ cảnh, dạ quang ya | よる
 
 羊 dương con dê, sheep ヨウ | ひつじ
@@ -1045,8 +1043,11 @@
 貫 quán;pierce; The sad fate of Mama shellfish was to be captured and pierced to make an earring; カン | つらぬ.く   ぬ.く  ぬき
 
 兄 huynh;elder brother;My elder brother was basically a mouth on legs when he was a teenager.; ケイ  キョウ |  あに
-呪 curse; ジュ  シュ  シュウ  ズ | まじな.う   のろ.い   まじな.い  のろ.う
+呪 curse; I curse at my elder brother; ジュ  シュ  シュウ  ズ | まじな.う   のろ.い   まじな.い  のろ.う
+克 khắc;overcome; Ten elder brothers can overcome anything; コク | か.つ
 
+夕 tịch; evening; セキ |  ゆう
+多 đa đa số ta | おお.い
 
 
 
@@ -1642,7 +1643,6 @@
 抵 đề đề kháng tei
 焦 tiêu cháy shoo
 快 khoái khoái lạc kai
-克 khắc khắc phục koku
 柳 liễu cây liễu ryuu
 吸 hấp hô hấp, hấp thu kyuu
 閥 phiệt tài phiệt batsu
