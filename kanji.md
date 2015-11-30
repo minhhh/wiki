@@ -68,7 +68,6 @@
 増 tăng tăng gia, tăng tốc zoo | ふ.える
 
 人 nhân nhân vật jin, nin | ひと
-太 thái thái dương, thái bình tai, ta | ふとい
 夫 phu trượng phu, phu phụ fu, fuu | おっと
 天 thiên thiên thạch, thiên nhiên, thiên đường ten | あめ
 
@@ -1056,7 +1055,12 @@
 砕 toái;smash;To SMASH a STONE you need to hit it NINE or TEN times.; サイ | くだ.く  くだ.ける
 砂 sa; sand; Sand is a made of quite a few tiny stones. サ  シャ |  すな
 妬 jealous; WOMEN are JEALOUS of the STONE on my wife's ring.; ト  ツ | ねた.む    そね.む  つも.る  ふさ.ぐ
-削 tước;plane;  サク | けず.る   はつ.る  そ.ぐ
+削 tước;plane; To carve a sculpture from wooden block, you cut it (with a sword) little by little, until there is resemblance with whatever it was meant to resemble.; サク | けず.る   はつ.る  そ.ぐ
+光 quang;ray;A ray of light is not a wave but made of little photons with human legs.; コウ | ひか.る  ひかり
+
+太 thái;plump; A large person with a big drop of sweat dripping off of him because he is so plump.; タイ  タ | ふと.い   ふと.る
+器 khí; utensil; キ | うつわ
+
 
 
 
@@ -1202,7 +1206,6 @@
 然 nhiên quả nhiên, tất nhiên, thiên nhiên zen, nen
 独 độc cô độc, đơn độc doku
 衛 vệ bảo vệ, vệ tinh, vệ sinh ei
-器 khí khí cụ, cơ khí, dung khí ki
 値 trị giá trị chi
 退 thoái triệt thoái, thoái lui tai
 末 mạt kết thúc, mạt vận, mạt kì matsu, batsu
@@ -1254,7 +1257,6 @@
 鮮 tiên sáng, tươi, tiên minh (tươi đẹp), tân tiên sen
 効 hiệu hiệu quả, hiệu ứng, công hiệu koo
 被 bị bị, bị động, bị cáo hi
-光 quang ánh sáng, nhật quang, quang minh koo
 渉 thiệp can thiệp, giao thiệp shoo
 融 dung tan chảy, dung hòa, dung hợp yuu
 針 châm cái kim, phương châm, châm cứu shin
