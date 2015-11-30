@@ -1041,6 +1041,8 @@
 孔 khổng; cavity; I warned him about cavities, but the child is still hooked on sweets.; コウ | あな
 了 liễu; complete; The child is not complete. He's got no arms!; リョウ
 好 hảo; fond; A woman is fond of her child; コウ | この.む  す.く よ.い
+如 như;likeness; Women share a common likeness. Their mouths are always open, whining about this and that. ジョ  ニョ | ごと.し
+
 
 
 
@@ -2084,7 +2086,6 @@
 漠 mạc sa mạc baku
 騎 kị kị sĩ ki
 循 tuần tuần hoàn jun
-如 như như thế jo, nyo
 裸 lõa, khỏa khỏa thân ra
 愚 ngu ngu ngốc gu
 朱 chu shu
