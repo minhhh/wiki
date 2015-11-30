@@ -1040,6 +1040,8 @@
 
 子 tử; child; シ  ス  ツ |  こ
 孔 khổng; cavity; I warned him about cavities, but the child is still hooked on sweets.; コウ | あな
+了 liễu; complete; The child is not complete. He's got no arms!; リョウ
+
 
 
 
@@ -1481,7 +1483,6 @@
 裕 dụ giàu sang yuu
 賃 nhẫm tiền thuê chin
 扱 tráp đối xử -
-了 liễu kết liễu, liễu giải ryoo
 枠 <khung> cái khung -
 秘 tất tất nhiên, tất yếu hi
 鈴 linh cái chuông rei, rin
