@@ -1059,7 +1059,8 @@
 光 quang;ray;A ray of light is not a wave but made of little photons with human legs.; コウ | ひか.る  ひかり
 
 太 thái;plump; A large person with a big drop of sweat dripping off of him because he is so plump.; タイ  タ | ふと.い   ふと.る
-器 khí; utensil; キ | うつわ
+器 khí; utensil;Four hungry mouths sit around a big table, waiting for some utensils so they can start eating.; キ | うつわ
+臭 xú;stinking; I have just done a big one. It's really stinking.; シュウ | くさ.い   にお.う   にお.い
 
 
 
@@ -2050,7 +2051,6 @@
 尿 niệu niệu đạo nyoo
 酷 khốc tàn khốc koku
 忍 nhẫn tàn nhẫn, nhẫn nại nin
-臭 xú mùi thối, xú khí shuu
 錯 thác thác giác, thác loạn saku
 寂 tịch cô tịch, tịch mịch jaku, seki
 狩 thú săn bắn shu
