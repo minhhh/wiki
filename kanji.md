@@ -220,7 +220,6 @@
 女 nữ phụ nữ jo, nyo, nyoo
 安 an an bình, an ổn an | やす
 始 thủy ban đầu, khai thủy, nguyên thủy shi | はじまり, かいし (開始)
-好 hảo, hiếu hữu hảo; hiếu sắc koo
 妹 muội em gái mai | いもうと
 婦 phụ phụ nữ, dâm phụ fu | よめ
 婚 hôn kết hôn; marriage is like a woman move to another clan; kon
@@ -1041,7 +1040,7 @@
 子 tử; child; シ  ス  ツ |  こ
 孔 khổng; cavity; I warned him about cavities, but the child is still hooked on sweets.; コウ | あな
 了 liễu; complete; The child is not complete. He's got no arms!; リョウ
-
+好 hảo; fond; A woman is fond of her child; コウ | この.む  す.く よ.い
 
 
 
