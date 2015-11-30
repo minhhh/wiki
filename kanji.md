@@ -257,7 +257,6 @@
 在 tại tồn tại, thực tại outskirts zai | あ.る
 
 碌 lục satisfactory ROKU | ろく.な
-石 thạch đá, thạch anh, bảo thạch seki, shaku, koku | いし
 研 nghiên mài, nghiên cứu ken | と.ぐ
 
 学 học học sinh, học thuyết gaku
@@ -1051,6 +1050,10 @@
 外 ngoại ngoài; in the evening fortune-teller sit outside gai, ge | ほか
 名 danh;name;In the evening, her sweet mouth whispered my name.;  メイ   ミョウ  | な
 
+石 thạch đá, thạch anh, bảo thạch seki, shaku, koku | いし
+肖 tiếu;resemblance; This kanji has some resemblance to a candle with sparks flying off.; ショウ | あやか.る
+硝 tiêu; nitrate; That stone has sparks coming out of it! Someone must have poured nitrate acid on it.; ショウ
+砕
 
 
 
@@ -2178,7 +2181,6 @@
 傑 kiệt tuấn kiệt, hào kiệt ketsu
 尺 xích thước shaku
 濁 trọc đục daku
-肖 tiếu giống shoo
 遍 biến lần hen
 冗 nhũng joo
 款 khoản điều khoản kan
@@ -2236,7 +2238,6 @@
 抹 mạt bột, mài thành bột matsu
 錬 luyện tinh luyện, rèn luyện ren
 遮 già cản trở sha
-硝 tiêu kiềm nitrade shoo
 尉 úy cấp úy, trung úy I
 滴 đích giọt nước teki
 勅 sắc sắc lệnh choku
