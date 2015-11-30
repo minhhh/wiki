@@ -1061,6 +1061,11 @@
 太 thái;plump; A large person with a big drop of sweat dripping off of him because he is so plump.; タイ  タ | ふと.い   ふと.る
 器 khí; utensil;Four hungry mouths sit around a big table, waiting for some utensils so they can start eating.; キ | うつわ
 臭 xú;stinking; I have just done a big one. It's really stinking.; シュウ | くさ.い   にお.う   にお.い
+嗅 sniff; Your mouth stinks: you need to sniff your breath.; キュウ   か.ぐ
+省 tỉnh;focus;You focus by concentrating your eye on fewer objects.;  セイ   ショウ | かえり.みる   はぶ.く
+
+厚 hậu; thick; The thick cliff walls protected the children from the sun.; コウ | あつ.い  あか
+奇 kì; strange; キ | く.しき  あや.しい   くし   めずら.しい
 
 
 
@@ -1101,7 +1106,6 @@
 派 phái trường phái ha
 税 thuế thuế vụ zei
 活 hoạt hoạt động, sinh hoạt katsu
-省 tỉnh tỉnh lược, phản tỉnh, hồi tỉnh sei, shoo
 知 tri tri thức, tri giác chi
 打 đả đả kích, ẩu đả da
 解 giải giải quyết, giải thể, giải thích kai, ge
@@ -1358,7 +1362,6 @@
 圧 áp áp lực, trấn áp atsu
 績 tích thành tích seki
 頼 lại ỷ lại rai
-厚 hậu nồng hậu, hậu tạ koo
 替 thế thay thế, đại thế tai
 逆 nghịch phản nghịch gyaku
 陸 lục lục địa, lục quân riku
@@ -1850,7 +1853,6 @@
 陰 âm âm mưu, số âm in
 尋 tầm sưu tầm, tầm nã jin
 唆 toa xúi giục sa
-奇 kì kì lạ, kì diệu ki
 寄 kí kí gửi, kí sinh ki
 墓 mộ ngôi mộ bo
 雰 phân sương mù fun
