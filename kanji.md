@@ -37,8 +37,6 @@
 泊 bạc ngủ lại; with this white ice all around, it's better to stay over; haku | と.まる
 迫 bách bức bách urge;  force haku | せま.る
 
-水 thủy thủy điện sui | みず
-氷 băng băng tuyết hyoo | こおり
 求 cầu yêu cầu, mưu cầu kyuu | もと.める
 
 河 hà sông, sơn hà ka | かわ
@@ -1067,8 +1065,10 @@
 
 川 xuyên sông セン | がわ
 州 châu; state; There were 3 little islands in the stream who all decided to set themselves up as independent states.; シュウ  ス | す
-順 thuận; obey; ジュン
+順 thuận; obey; Obey the orders streaming down from head office.; ジュン
 
+水 thủy thủy điện sui | みず
+氷 băng băng tuyết hyoo | こおり
 
 
 
