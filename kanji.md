@@ -1081,6 +1081,7 @@
 源 nguyên; source; Water is the source of a meadow's beauty.; ゲン | みなもと
 活 hoạt; lively; Water comes off the lively speaker's tongue.; カツ |  い.きる  い.かす  い.ける
 消 tiêu; extinguish; To extinguish fire, use water or something resembling it.; ショウ | き.える   け.す
+況 huống; キョウ | まし.て   いわ.んや   おもむき
 
 
 
@@ -1213,7 +1214,6 @@
 福 phúc phúc, hạnh phúc, phúc lợi fuku
 審 thẩm thẩm tra, thẩm phán, thẩm định shin
 境 cảnh nhập cảnh, quá cảnh, cảnh ngộ kyoo, kei
-況 huống tình huống, trạng huống kyoo
 条 điều điều khoản, điều kiện joo
 想 tưởng tư tưởng, tưởng tượng soo, so
 渡 độ đi qua, truyền tay to
