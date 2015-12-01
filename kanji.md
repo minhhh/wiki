@@ -1022,8 +1022,7 @@
 了 liễu; complete; The child is not complete. He's got no arms!; リョウ
 好 hảo; fond; A woman is fond of her child; コウ | この.む  す.く よ.い
 如 như;likeness; Women share a common likeness. Their mouths are always open, whining about this and that. ジョ  ニョ | ごと.し
-妙 diệu;exquisite;  ミョウ  ビョウ | たえ
-
+妙 diệu;exquisite; Exquisite women are few and far between.; ミョウ  ビョウ | たえ
 
 母 mẫu; mother; ボ | はは も
 貫 quán;pierce; The sad fate of Mama shellfish was to be captured and pierced to make an earring; カン | つらぬ.く   ぬ.く  ぬき
