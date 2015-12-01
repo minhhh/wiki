@@ -53,7 +53,6 @@
 火 hỏa lửa ka | ひ
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
 
-土 thổ thổ địa, thổ công do, to | つち
 地 địa thổ địa, địa đạo chi, ji |
 坊 phường phường , con trai boo, bo |
 埋 mai chôn mai | う.める
@@ -1083,7 +1082,10 @@
 河 hà;river; A river CAN exist only if there is WATER.; カ |  かわ
 泊 bạc; overnight; with this white ice all around, it's better to stay over; ハク | と.まる   と.める
 湖 hồ; lake;Water reflects the old moon in the lake.; コ | みずうみ
+測 trắc;fathom; A fathom is the unit you use when making rules about water's depth; ソク |  はか.る
 
+土 thổ thổ địa, thổ công do, to | つち
+吐 thổ; spit; SPIT goes from my MOUTH to the GROUND.; ト | は.く   つ.く
 
 
 
@@ -1434,7 +1436,6 @@
 房 phòng phòng ở boo
 塚 trủng đống đất -
 臨 lâm lâm thời rin
-測 trắc đo đạc soku
 惑 hoặc nghi hoặc waku
 巨 cự to lớn, cự đại, cự phách kyo
 為 vi, vị hành vi; vị kỉ I
@@ -2119,7 +2120,6 @@
 搬 ban vận chuyển han
 獣 thú thú vật juu
 詐 trá lừa dối sa
-吐 thổ thổ huyết, thổ lộ to
 窒 trất ngạt chitsu
 幣 tệ tiền tệ hei
 慈 từ từ bi, nhân từ ji
