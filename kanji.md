@@ -48,7 +48,6 @@
 渇 khát khát, khát vọng katsu | かわ.く
 消 tiêu tiêu diệt, tiêu hao, tiêu thất shoo | け.す
 治 trị cai trị, trị an, trị bệnh chi, ji | なお.る
-泳 vịnh bơi ei | およ.ぐ
 済 tế kinh tế, cứu tế sai | す.まない
 決 quyết quyết định ketsu | き.める
 汚 ô ô nhiễm o | けが.す
@@ -1072,6 +1071,9 @@
 腺 TUYẾN; gland; A body part that acts like a spring for hormones is a gland.; セン
 原 nguyên; meadow;Follow the springs down the cliff and you will find a nice meadow.  ゲン | はら
 願 nguyện; petition; ガン | ねが.う   -ねがい
+泳 vịnh; swim; If you don't know how to swim, you'll be in that water for eternity.; エ イ  およ.ぐ
+沼 chiểu đầm lầy shoo
+
 
 
 
@@ -1707,7 +1709,6 @@
 尊 tôn tôn trọng son
 潮 triều thủy triều choo
 滑 hoạt trượt, giảo hoạt katsu
-沼 chiểu đầm lầy shoo
 鎖 tỏa xích, bế tỏa, tỏa cảng sa
 鉱 khoáng khai khoáng koo
 覇 bá xưng bá ha
