@@ -1074,6 +1074,9 @@
 沼 chiểu; marsh; A marsh is where water is seduced into the ground.;  ショウ | ぬま
 沖 xung;open sea; Open sea is a lot of water in the middle of nowhere.; チュウ |  おき   おきつ   ちゅう.する    わく
 汎 pan-; Yeah, all our water is fairly mediocre, but if we work together in some pan-continental union, we can make some better water! ハン  ブ フウ  ホウ   ホン | ただよ.う  ひろ.い
+江 giang; A CREEK is a small trail of water easily crafted with a stick; コウ | え
+汰 luxury; If you are FAT, it takes more WATER to CLEANSE you; TA  タイ | おご.る   にご.る  よな.げる
+
 
 
 
@@ -1310,7 +1313,6 @@
 央 ương trung ương oo
 弁 biện hùng biện, biện luận ben
 催 thôi tổ chức, khai thôi, thôi thúc sai
-江 giang trường giang, giang hồ koo
 給 cấp cung cấp, cấp phát kyuu
 殺 sát sát hại, sát nhân satsu, sai, setsu
 波 ba sóng, phong ba ha
