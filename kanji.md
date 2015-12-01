@@ -1070,7 +1070,8 @@
 水 thủy thủy điện sui | みず
 氷 băng băng tuyết hyoo | こおり
 永 vĩnh; eternity; It would take an eternity to count all the drops of water.; エイ |  なが.い
-
+泉 tuyền; spring; A spring has white frothy water. セン |  いずみ
+腺
 
 
 
@@ -1605,7 +1606,6 @@
 忠 trung trung thành, trung thực chuu
 綱 cương kỉ cương koo
 紛 phân phân vân fun
-泉 tuyền suối sen
 駐 trú đồn trú chuu
 芝 chi cỏ -
 柱 trụ trụ cột chuu
