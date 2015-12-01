@@ -1022,6 +1022,8 @@
 了 liễu; complete; The child is not complete. He's got no arms!; リョウ
 好 hảo; fond; A woman is fond of her child; コウ | この.む  す.く よ.い
 如 như;likeness; Women share a common likeness. Their mouths are always open, whining about this and that. ジョ  ニョ | ごと.し
+妙 diệu;exquisite;  ミョウ  ビョウ | たえ
+
 
 母 mẫu; mother; ボ | はは も
 貫 quán;pierce; The sad fate of Mama shellfish was to be captured and pierced to make an earring; カン | つらぬ.く   ぬ.く  ぬき
@@ -1091,7 +1093,7 @@
 垣 viên; hedge;The HEDGE spans the GROUNDS of the estate.; エン | かき
 填 inlay; I stuffed up his mouth with dirt to keep the truth from coming out.; テン  チン |  は.まる   は.める   うず.める   しず.める   ふさ.ぐ
 圭 square jewel; Piling SOIL upon SOIL for aeons is how SQUARE JEWELS are formed deep in the earth.; ケイ  ケ
-封 phong; 
+封 phong; seal; Squared jewels with the right measurements receive the jeweler's seal of approval. フウ ホウ
 
 
 
@@ -1698,7 +1700,6 @@
 柄 bính cái cán hei
 臣 thần trung thần shin, jin
 柔 nhu nhu nhuyễn juu, nyuu
-妙 diệu kì diệu, diệu kế myoo
 慶 khánh quốc khánh kei
 訓 huấn huấn luyện kun
 距 cự cự li kyo
