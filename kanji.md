@@ -1076,6 +1076,9 @@
 汎 pan-; Yeah, all our water is fairly mediocre, but if we work together in some pan-continental union, we can make some better water! ハン  ブ フウ  ホウ   ホン | ただよ.う  ひろ.い
 江 giang; A CREEK is a small trail of water easily crafted with a stick; コウ | え
 汰 luxury; If you are FAT, it takes more WATER to CLEANSE you; TA  タイ | おご.る   にご.る  よな.げる
+汁 trấp; soup;To make soup you just take water and add (+) the rest of your ingredients.; JŪ | しる  -しる-   つゆ
+沙 grains of sand; Each water wave washes away a few grains of sand; サ シャ | すな   よなげる
+潮 triều; tide; The morning tide is basically, well, WATER in the MORNING.; チョウ | しお   うしお
 
 
 
@@ -1712,7 +1715,6 @@
 旗 kì quốc kì ki
 梅 mai cây mơ bai
 尊 tôn tôn trọng son
-潮 triều thủy triều choo
 滑 hoạt trượt, giảo hoạt katsu
 鎖 tỏa xích, bế tỏa, tỏa cảng sa
 鉱 khoáng khai khoáng koo
@@ -1943,7 +1945,6 @@
 鑑 giám giám định kan
 荘 trang trang trại soo
 懐 hoài hoài cổ kai
-汁 trấp nước quả juu
 后 hậu hoàng hậu koo
 烈 liệt mãnh liệt, oanh liệt retsu
 嘆 thán ca thán, cảm thán tan
