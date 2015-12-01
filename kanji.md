@@ -1081,7 +1081,8 @@
 消 tiêu; extinguish; To extinguish fire, use water or something resembling it.; ショウ | き.える   け.す
 況 huống; condition; Would you like to throw water on your elder brother? But of course!; キョウ | まし.て   いわ.んや   おもむき
 河 hà;river; A river CAN exist only if there is WATER.; カ |  かわ
-泊 bạc;  ngủ lại; with this white ice all around, it's better to stay over; haku | と.まる
+泊 bạc; overnight; with this white ice all around, it's better to stay over; ハク | と.まる   と.める
+湖 hồ; lake;Water reflects the old moon in the lake.; コ | みずうみ
 
 
 
@@ -1770,7 +1771,6 @@
 湯 thang nước nóng too
 魅 mị mị lực, mộng mị mi
 浪 lãng sóng roo
-湖 hồ ao hồ ko
 遇 ngộ tao ngộ, đãi ngộ guu
 礎 sở cơ sở so
 聖 thánh thánh ca sei
