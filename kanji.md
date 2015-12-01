@@ -1069,6 +1069,7 @@
 
 水 thủy thủy điện sui | みず
 氷 băng băng tuyết hyoo | こおり
+永 vĩnh; eternity; It would take an eternity to count all the drops of water.; エイ |  なが.い
 
 
 
@@ -1351,7 +1352,6 @@
 覚 giác cảm giác, giác ngộ kaku
 習 tập học tập shuu
 標 tiêu mục tiêu, tiêu chuẩn hyoo
-永 vĩnh vĩnh viễn, vỉnh cửu ei
 興 hưng, hứng hưng thịnh, phục hưng; hứng thú koo, kyoo
 羽 vũ lông vũ u
 迎 nghênh hoan nghênh, nghênh tiếp gei
