@@ -1086,6 +1086,11 @@
 
 土 thổ thổ địa, thổ công do, to | つち
 吐 thổ; spit; SPIT goes from my MOUTH to the GROUND.; ト | は.く   つ.く
+圧 áp; pressure; The GROUND at the base of a CLIFF must suffer from enormous pressure.; アツ   エン   オウ  | お.す   へ.す   おさ.える   お.さえる
+埼 cape; A CAPE is a piece of LAND that stands out STRANGLY in the sea.; キ | さき   さい   みさき
+垣 viên; hedge;The HEDGE spans the GROUNDS of the estate.; エン | かき
+
+
 
 
 
@@ -1378,7 +1383,6 @@
 禁 cấm cấm đoán, nghiêm cấm kin
 彼 bỉ anh ta hi
 継 kế kế tục kei
-圧 áp áp lực, trấn áp atsu
 績 tích thành tích seki
 頼 lại ỷ lại rai
 替 thế thay thế, đại thế tai
@@ -1836,7 +1840,6 @@
 擁 ủng ủng hộ yoo
 拘 câu câu thúc koo
 悟 ngộ tỉnh ngộ go
-垣 viên tường -
 漏 lậu lộ roo
 殊 thù đặc thù shu
 黙 mặc trầm mặc moku
