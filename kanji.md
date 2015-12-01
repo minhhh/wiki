@@ -1089,6 +1089,10 @@
 圧 áp; pressure; The GROUND at the base of a CLIFF must suffer from enormous pressure.; アツ   エン   オウ  | お.す   へ.す   おさ.える   お.さえる
 埼 cape; A CAPE is a piece of LAND that stands out STRANGLY in the sea.; キ | さき   さい   みさき
 垣 viên; hedge;The HEDGE spans the GROUNDS of the estate.; エン | かき
+填 inlay; I stuffed up his mouth with dirt to keep the truth from coming out.; テン  チン |  は.まる   は.める   うず.める   しず.める   ふさ.ぐ
+圭 square jewel; Piling SOIL upon SOIL for aeons is how SQUARE JEWELS are formed deep in the earth.; ケイ  ケ
+封 phong; 
+
 
 
 
@@ -1707,7 +1711,6 @@
 斎 trai trai giới sai
 索 sách tìm kiếm saku
 宙 trụ vũ trụ chuu
-封 phong phong kiến fuu, hoo
 郷 hương quê hương kyoo, goo
 斉 tề nhất tề sei
 趣 thú hứng thú, thú vị shu
