@@ -1079,6 +1079,9 @@
 汁 trấp; soup;To make soup you just take water and add (+) the rest of your ingredients.; JŪ | しる  -しる-   つゆ
 沙 grains of sand; Each water wave washes away a few grains of sand; サ シャ | すな   よなげる
 潮 triều; tide; The morning tide is basically, well, WATER in the MORNING.; チョウ | しお   うしお
+源 nguyên; source; Water is the source of a meadow's beauty.; ゲン | みなもと
+活 hoạt; lively; Water comes off the lively speaker's tongue.; カツ |  い.きる  い.かす  い.ける
+
 
 
 
@@ -1119,7 +1122,6 @@
 投 đầu đầu tư, đầu cơ too
 派 phái trường phái ha
 税 thuế thuế vụ zei
-活 hoạt hoạt động, sinh hoạt katsu
 知 tri tri thức, tri giác chi
 打 đả đả kích, ẩu đả da
 解 giải giải quyết, giải thể, giải thích kai, ge
@@ -1386,7 +1388,6 @@
 罪 tội tội phạm, tội ác zai
 諸 chư chư hầu sho
 志 chí ý chí, chí nguyện shi
-源 nguyên nguồn, nguyên tuyền gen
 湾 loan vịnh wan
 踏 đạp dẫm lên too
 幸 hạnh hạnh phúc, hạnh vận koo
