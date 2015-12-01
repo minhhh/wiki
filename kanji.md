@@ -40,7 +40,6 @@
 求 cầu yêu cầu, mưu cầu kyuu | もと.める
 
 河 hà sông, sơn hà ka | かわ
-沖 xung ngoài khơi chuu
 洗 tiển rửa sen | あら.う
 汽 khí không khí, hơi ki
 気 khí không khí, khí chất, khí khái, khí phách ki, ke | いき
@@ -1072,7 +1071,11 @@
 原 nguyên; meadow;Follow the springs down the cliff and you will find a nice meadow.  ゲン | はら
 願 nguyện; petition; ガン | ねが.う   -ねがい
 泳 vịnh; swim; If you don't know how to swim, you'll be in that water for eternity.; エ イ  およ.ぐ
-沼 chiểu đầm lầy shoo
+沼 chiểu; marsh; A marsh is where water is seduced into the ground.;  ショウ | ぬま
+沖 xung;open sea; Open sea is a lot of water in the middle of nowhere.; チュウ |  おき   おきつ   ちゅう.する    わく
+汎 pan-; Yeah, all our water is fairly mediocre, but if we work together in some pan-continental union, we can make some better water! ハン  ブ フウ  ホウ   ホン | ただよ.う  ひろ.い
+
+
 
 
 
