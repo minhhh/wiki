@@ -392,7 +392,6 @@
 
 店 điếm cửa hàng, tửu điếm ten | みせ
 
-原 nguyên thảo nguyên, nguyên tử, nguyên tắc gen
 
 界 giới thế giới, giới hạn, địa giới kai
 介 giới ở giữa, môi giới, giới thiệu kai
@@ -749,7 +748,6 @@
 勉 miễn miễn cưỡng, chăm chỉ ben | つと.める
 
 
-願 nguyện tự nguyện, tình nguyện gan | -ねがい
 
 又 hựu lại -
 反 phản phản loạn; you go to the cliff and turn again to counter han, hon, tan | かえ.す
@@ -1071,7 +1069,10 @@
 氷 băng băng tuyết hyoo | こおり
 永 vĩnh; eternity; It would take an eternity to count all the drops of water.; エイ |  なが.い
 泉 tuyền; spring; A spring has white frothy water. セン |  いずみ
-腺
+腺 TUYẾN; gland; A body part that acts like a spring for hormones is a gland.; セン
+原 nguyên; meadow;Follow the springs down the cliff and you will find a nice meadow.  ゲン | はら
+願 nguyện; petition; ガン | ねが.う   -ねがい
+
 
 
 
