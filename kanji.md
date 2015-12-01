@@ -34,12 +34,10 @@
 暖 noãn ấm dan | あたた.かい
 
 白 bạch thanh bạch, bạch sắc kaku, byaku | しろ.い
-泊 bạc ngủ lại; with this white ice all around, it's better to stay over; haku | と.まる
 迫 bách bức bách urge;  force haku | せま.る
 
 求 cầu yêu cầu, mưu cầu kyuu | もと.める
 
-河 hà sông, sơn hà ka | かわ
 洗 tiển rửa sen | あら.う
 汽 khí không khí, hơi ki
 気 khí không khí, khí chất, khí khái, khí phách ki, ke | いき
@@ -1081,7 +1079,10 @@
 源 nguyên; source; Water is the source of a meadow's beauty.; ゲン | みなもと
 活 hoạt; lively; Water comes off the lively speaker's tongue.; カツ |  い.きる  い.かす  い.ける
 消 tiêu; extinguish; To extinguish fire, use water or something resembling it.; ショウ | き.える   け.す
-況 huống; キョウ | まし.て   いわ.んや   おもむき
+況 huống; condition; Would you like to throw water on your elder brother? But of course!; キョウ | まし.て   いわ.んや   おもむき
+河 hà;river; A river CAN exist only if there is WATER.; カ |  かわ
+泊 bạc;  ngủ lại; with this white ice all around, it's better to stay over; haku | と.まる
+
 
 
 
