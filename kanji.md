@@ -45,7 +45,6 @@
 気 khí không khí, khí chất, khí khái, khí phách ki, ke | いき
 温 ôn ôn hòa, ôn tồn on | あたた.かい
 渇 khát khát, khát vọng katsu | かわ.く
-消 tiêu tiêu diệt, tiêu hao, tiêu thất shoo | け.す
 治 trị cai trị, trị an, trị bệnh chi, ji | なお.る
 済 tế kinh tế, cứu tế sai | す.まない
 決 quyết quyết định ketsu | き.める
@@ -1081,6 +1080,9 @@
 潮 triều; tide; The morning tide is basically, well, WATER in the MORNING.; チョウ | しお   うしお
 源 nguyên; source; Water is the source of a meadow's beauty.; ゲン | みなもと
 活 hoạt; lively; Water comes off the lively speaker's tongue.; カツ |  い.きる  い.かす  い.ける
+消 tiêu; extinguish; To extinguish fire, use water or something resembling it.; ショウ | き.える   け.す
+
+
 
 
 
