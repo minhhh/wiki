@@ -1066,6 +1066,8 @@
 奇 kì; strange;Strange - that is when a big dog can stand on top of can.;  キ | く.しき  あや.しい   くし   めずら.しい
 
 川 xuyên sông セン | がわ
+州 châu; state; There were 3 little islands in the stream who all decided to set themselves up as independent states.; シュウ  ス | す
+順 thuận; obey; ジュン
 
 
 
@@ -1155,7 +1157,6 @@
 商 thương thương mại, thương số shoo
 収 thu thu nhập, thu nhận, thu hoạch shuu
 武 vũ vũ trang, vũ lực bu, mu
-州 châu tỉnh, bang, châu lục shuu
 導 đạo dẫn đường, chỉ đạo doo
 農 nông nông nghiệp, nông thôn, nông dân noo
 疑 nghi nghi ngờ, nghi vấn, tình nghi gi
@@ -1367,7 +1368,6 @@
 熱 nhiệt nhiệt độ, nhiệt tình netsu
 香 hương mùi hương, hương thơm koo, kyoo
 豊 phong phong phú hoo
-順 thuận tòng thuận, thuận tự jun
 辞 từ từ vựng, từ chức ji
 津 tân bờ biển shin
 途 đồ tiền đồ to
