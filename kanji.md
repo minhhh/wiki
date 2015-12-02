@@ -188,11 +188,11 @@
 寺 tự chùa ji
 団 đoàn đoàn kết, đoàn đội dan, ton
 時 thời thời gian ji | とき
-均 quân; 
 村 thôn thôn xã, thôn làng son | むら
 付 phụ phụ thuộc, phụ lục fu | つく
 府 phủ chính phủ; the government depends on people like the house depends on cliff fu
 対 đối đối diện, phản đối, đối với tai, tsui | こた.える
+
 
 分 phân phân số, phân chia bun, fun, bu | わ.かる
 
@@ -1096,8 +1096,9 @@
 封 phong; seal; Squared jewels with the right measurements receive the jeweler's seal of approval. フウ ホウ
 涯 nhai; horizon; Over the WATER and past the HORIZON there is said to be a CLIFF that holds a very rare JEWEL.; ガイ | はて
 
+匀 equal; ladel with an extra drop will be equal; イン | すく.ない  ひと.しい
+均 quân; level; soil is equal to leveled ground.; キン | なら.す
 
-時
 
 
 
