@@ -188,6 +188,7 @@
 寺 tự chùa ji
 団 đoàn đoàn kết, đoàn đội dan, ton
 時 thời thời gian ji | とき
+均 quân; 
 村 thôn thôn xã, thôn làng son | むら
 付 phụ phụ thuộc, phụ lục fu | つく
 府 phủ chính phủ; the government depends on people like the house depends on cliff fu
@@ -1093,9 +1094,10 @@
 填 inlay; I stuffed up his mouth with dirt to keep the truth from coming out.; テン  チン |  は.まる   は.める   うず.める   しず.める   ふさ.ぐ
 圭 square jewel; Piling SOIL upon SOIL for aeons is how SQUARE JEWELS are formed deep in the earth.; ケイ  ケ
 封 phong; seal; Squared jewels with the right measurements receive the jeweler's seal of approval. フウ ホウ
+涯 nhai; horizon; Over the WATER and past the HORIZON there is said to be a CLIFF that holds a very rare JEWEL.; ガイ | はて
 
 
-
+時
 
 
 
@@ -1375,7 +1377,6 @@
 級 cấp sơ cấp, trung cấp, cao cấp kyuu
 講 giảng giảng đường, giảng bài koo
 維 duy sợi dây I
-均 quân quân bình, quân nhất kin
 油 du dầu yu
 喜 hỉ vui ki
 芸 nghệ nghệ thuật, nghệ nhân gei
@@ -2005,7 +2006,6 @@
 鈍 độn ngu độn don
 滝 lang thác nước -
 潔 khiết thanh khiết ketsu
-涯 nhai sinh nhai gai
 廊 lang hành lang roo
 疫 dịch dịch bệnh eki, yaku
 乏 phạp nghèo, ít boo
