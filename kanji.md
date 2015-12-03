@@ -1101,6 +1101,12 @@
 火 hỏa lửa ka | ひ
 炎 viêm;inflammation; エン | ほのお
 煩 phiền; anxiety; An anxiety feels like FIRE in the HEAD; ハン   ボン | わずら.う   わずら.わす   うるさ.がる   うるさ.い
+淡 đạm; thin; Adding water to an inflammation sure will make it a thin fire.; タン | あわ.い
+灯 đăng; lamp; Imagine old gas lamps which had a flame to light up the street signs; トウ | ひ   ほ   ともしび   とも.す   あかり
+畑 farm; Many farms are created by first setting FIRE over the land to clear the land for the FIELDS.; はた    はたけ   -ばたけ-
+災 tai; disaster;What a disaster! First a FIRE, then on top of it came FLOODs.; サイ |  わざわ.い
+灰 hôi;ashes カイ | はい
+
 
 
 
@@ -1561,7 +1567,6 @@
 君 quân quân chủ, quân vương kun
 奥 áo trong cùng oo
 躍 dược nhảy lên yaku
-災 tai tai họa sai
 焼 thiêu thiêu đốt shoo
 促 xúc xúc tiến soku
 群 quần quần chúng, quần thể gun
@@ -1745,7 +1750,6 @@
 麻 ma cây tầm ma ma
 緑 lục xanh lục ryoku, roku
 俳 bài diễn viên hai
-畑 <vườn> vườn -
 泰 thái thái bình tai
 旨 chỉ shi
 浴 dục tắm yoku
@@ -1937,7 +1941,6 @@
 披 phi mở ra hi
 狂 cuồng cuồng sát kyoo
 癒 dũ chữa bệnh yu
-淡 đạm đạm bạc tan
 訂 đính đính chính tei
 緯 vĩ vĩ độ I
 佳 giai giai nhân ka
@@ -1963,7 +1966,6 @@
 棋 kì môn cờ ki
 麦 mạch lúa mạch baku
 筒 đồng cái ống too
-灯 đăng hải đăng too
 妃 phi phi tần hi
 徐 từ từ từ jo
 衰 suy suy thoái sui
@@ -2078,7 +2080,6 @@
 虜 lỗ tù binh ryo
 垂 thùy rủ xuống sui
 頻 tần tần số, tần suất hin
-灰 hôi tro kai
 鼻 tị mũi bi
 践 tiễn thực tiễn sen
 洞 động hang động doo
