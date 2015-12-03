@@ -50,7 +50,6 @@
 減 giảm gia giảm, giảm gen | へ.る
 激 kích kích động, kích thích, kích hoạt geki | はげ.しい
 
-火 hỏa lửa ka | ひ
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
 
 地 địa thổ địa, địa đạo chi, ji |
@@ -1099,8 +1098,9 @@
 匀 equal; ladel with an extra drop will be equal; イン | すく.ない  ひと.しい
 均 quân; level; soil is equal to leveled ground.; キン | なら.す
 
-
-
+火 hỏa lửa ka | ひ
+炎 viêm;inflammation; エン | ほのお
+煩 phiền; anxiety; An anxiety feels like FIRE in the HEAD; ハン   ボン | わずら.う   わずら.わす   うるさ.がる   うるさ.い
 
 
 
@@ -1755,7 +1755,6 @@
 慰 úy úy lạo, an úy I
 砲 pháo khẩu pháo hoo
 剣 kiếm thanh kiếm ken
-炎 viêm lửa lớn en
 寿 thọ trường thọ, tổi thọ ju
 序 tự trình tự jo
 滅 diệt diệt vong metsu
@@ -2333,7 +2332,6 @@
 衷 trung ở giữa chuu
 鐘 chung cái chuông shoo
 倣 phỏng mô phỏng hoo
-煩 phiền phiền muộn han, bon
 妄 vọng sằng, càn, vô căn cứ moo, boo
 抄 sao viết rõ ràng, tổng kết shoo
 婆 bà bà già ba
