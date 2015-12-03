@@ -373,7 +373,6 @@
 略 lược tỉnh lược, xâm lược ryaku | ほぼ  おか.す
 
 理 lí lí do, lí luận, nguyên lí ri | ことわり
-黒 hắc đen, hắc ám koku | くろ
 野 dã cánh đồng, hoang dã, thôn dã ya | の
 
 重 trọng, trùng trọng lượng; trùng phùng juu, choo | おも.い
@@ -1110,7 +1109,14 @@
 魚 ngư cá gyo
 漁 ngư;fishing;You need WATER and FISH for fishing.; ギョ  リョウ | あさ.る
 
-里 lí làng ri | さと
+里 lí làng リ | さと
+黒 hắc;black;If you burn the GROUND of a RICE FIELD with FIRE, eventually it will turn black; コク | くろ   くろ.ずむ   くろ.い
+墨 mặc;black ink; Black ink comes from black soil.; ボク | すみ
+鯉 carp;Japanese carp are massive fish - they are measured in ri!; リ |  こい
+量 lượng;quantity; A quantity can be a measure of time or space (day/ri).; リョウ | はか.る
+厘 li;rin; リン
+
+
 
 
 
@@ -1253,7 +1259,6 @@
 追 truy truy lùng, truy nã, truy cầu tsui
 訴 tố tố cáo, tố tụng so
 低 đê thấp, đê hèn, đê tiện tei
-量 lượng lực lượng, độ lượng, dung lượng, trọng lượng ryoo
 然 nhiên quả nhiên, tất nhiên, thiên nhiên zen, nen
 独 độc cô độc, đơn độc doku
 衛 vệ bảo vệ, vệ tinh, vệ sinh ei
@@ -1989,7 +1994,6 @@
 脂 chi mỡ shi
 栽 tài trồng sai
 穏 ổn yên ổn on
-墨 mặc mực tàu boku
 姓 tính họ sei, shoo
 冠 quán quán quân kan
 亭 đình cái đình tei
@@ -2234,7 +2238,6 @@
 絹 quyên lụa ken
 紺 cám xanh đậm kon
 憩 khế nghỉ ngơi kei
-厘 li một li rin
 屯 đồn đồn trú ton
 挿 sáp cho vào soo
 斗 đẩu một đấu to
