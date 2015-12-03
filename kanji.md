@@ -372,7 +372,6 @@
 黄 hoàng hoàng kim koo ,oo | き
 略 lược tỉnh lược, xâm lược ryaku | ほぼ  おか.す
 
-里 lí làng ri | さと
 理 lí lí do, lí luận, nguyên lí ri | ことわり
 黒 hắc đen, hắc ám koku | くろ
 野 dã cánh đồng, hoang dã, thôn dã ya | の
@@ -515,7 +514,6 @@
 易 dị, dịch dễ, dịch chuyển i, eki | やさ.しい
 物 vật động vật butsu, motsu | もの
 
-魚 ngư cá gyo
 
 守 thủ cố thủ, bảo thủ shu, su
 
@@ -649,7 +647,6 @@
 
 難 nan, nạn khó, nan giải, nguy nan; tai nạn ナン | むずか.しい
 
-点 điểm điểm số, điểm hỏa ten | つ.ける
 
 供 cung cung cấp, cung phụng kyoo, ku | ども
 
@@ -1105,7 +1102,16 @@
 灯 đăng; lamp; Imagine old gas lamps which had a flame to light up the street signs; トウ | ひ   ほ   ともしび   とも.す   あかり
 畑 farm; Many farms are created by first setting FIRE over the land to clear the land for the FIELDS.; はた    はたけ   -ばたけ-
 災 tai; disaster;What a disaster! First a FIRE, then on top of it came FLOODs.; サイ |  わざわ.い
-灰 hôi;ashes カイ | はい
+灰 hôi;ashes; The fire underneath the cliff will eventually turn everything above to ashes; カイ | はい
+点 điểm;spot; The FORTUNE TELLER was burned by FLAMES on the spot because she was accused of being a witch.; テン | つ.ける   つ.く   た.てる   さ.す   とぼ.す   とも.す   ぼち
+
+照 chiếu;illuminate;SHINING FLAMES illuminate!; ショウ |  て.る   て.らす   て.れる
+
+魚 ngư cá gyo
+漁 ngư;fishing;You need WATER and FISH for fishing.; ギョ  リョウ | あさ.る
+
+里 lí làng ri | さと
+
 
 
 
@@ -1621,7 +1627,6 @@
 看 khán khán giả kan
 鋼 cương gang koo
 華 hoa Trung Hoa ka, ke
-漁 ngư đánh cá gyo, ryoo
 俊 tuấn tuấn kiệt, anh tuấn shun
 獲 hoạch thu hoạch kaku
 祉 chỉ phúc chỉ shi
@@ -1646,7 +1651,6 @@
 孝 hiếu hiếu thảo koo
 握 ác nắm aku
 潟 tích vũng nước -
-照 chiếu tham chiếu shoo
 堀 quật mương -
 謝 tạ cảm tạ, tạ lỗi sha
 範 phạm phạm vi, mô phạm han
