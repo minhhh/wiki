@@ -144,7 +144,7 @@
 閉 bế bế mạc, bế quan hei | し.める, と.じる
 
 耳 nhĩ tai ji | みみ
-職 chức chức vụ, employment; when soldier has job, they hear the sound of halberd shoku | 
+職 chức chức vụ, employment; when soldier has job, they hear the sound of halberd shoku |
 取 thủ lấy, nhận shu | と.る
 最 tối nhất (tối cao, tối đa) sai | つま
 
@@ -250,7 +250,6 @@
 研 nghiên mài, nghiên cứu ken | と.ぐ
 
 学 học học sinh, học thuyết gaku
-字 tự chữ, văn tự ji
 
 立 lập thiết lập, tự lập ritsu, ryuu | た.つ
 辛 tân cay shin | から.い
@@ -509,8 +508,6 @@
 易 dị, dịch dễ, dịch chuyển i, eki | やさ.しい
 物 vật động vật butsu, motsu | もの
 
-
-守 thủ cố thủ, bảo thủ shu, su
 
 鳥 điểu chim chóc choo | とり
 
@@ -1116,13 +1113,13 @@
 同 đồng đồng nhất, tương đồng doo | おな.じ
 洞 động;den;All the animals in the den share the same water.; ドウ | ほら
 胴 đỗng;trunk;The trunk (torso) of everyone's body is mostly the same; ドウ
-向 hướng;yonder; コウ |  む.く   む.い 
+向 hướng;yonder; コウ |  む.く   む.い
+尚 thượng;esteem;An especially esteemed alien has three antennae on his helmet.; ショウ |  なお
 
-
-
-
-
-
+字 tự chữ, văn tự ji
+守 thủ;guard; A guard provides a measure of security to those under a roof.; シュ   ス |  まも.る   まも.り   もり
+完 hoàn;perfect;Make the perfect impression in the beginning by removing your shoes upon entering a Japanese home; カン
+宣 tuyên;proclaim; セン |  のたま.う
 
 
 
@@ -1377,7 +1374,6 @@
 越 việt vượt qua, việt vị etsu
 攻 công tấn công, công kích koo
 歴 lịch lí lịch, lịch sử, kinh lịch reki
-完 hoàn hoàn thành, hoàn toàn kan
 破 phá phá hoại, tàn phá ha
 船 thuyền thuyền sen
 危 nguy nguy hiểm, nguy cơ ki
@@ -1464,7 +1460,6 @@
 康 khang kiện khang, khang trang koo
 棄 khí từ bỏ ki
 刑 hình hình phạt, tử hình kei
-宣 tuyên tuyên bố, tuyên cáo sen
 避 tị tị nạn hi
 著 trứ trứ danh, trứ tác cho
 房 phòng phòng ở boo
@@ -1896,7 +1891,6 @@
 雰 phân sương mù fun
 征 chinh chinh phục, chinh phạt sei
 艦 hạm chiến hạm, hạm đội kan
-尚 thượng cao thượng shoo
 塾 thục tư thục juku
 漫 mạn chịu đựng man
 喫 khiết uống, hút kitsu
