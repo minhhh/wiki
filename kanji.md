@@ -1125,7 +1125,7 @@
 宴 yến; banquet; The WOMAN spent all DAY preparing a banquet in the HOUSE. エン | うたげ
 寄 kí;draw near; As you draw near the house you have a strange feeling that you've been there before...; キ | よ.る
 富 phú;wealth; A HOUSE with only ONE MOUTH and a RICE FIELD has a lot of WEALTH.; フ   フウ |  と.む   とみ
-貯 trữ; savings; チョ |  た.める   たくわ.える
+貯 trữ; savings;It takes a lot more than one clam of savings to buy a house on a street. チョ |  た.める   たくわ.える
  
 
 
