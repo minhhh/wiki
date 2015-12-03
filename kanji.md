@@ -205,8 +205,6 @@
 
 刻 khắc thời khắc, engrave, time koku | きざ.む
 
-女 nữ phụ nữ jo, nyo, nyoo
-安 an an bình, an ổn an | やす
 始 thủy ban đầu, khai thủy, nguyên thủy shi | はじまり, かいし (開始)
 妹 muội em gái mai | いもうと
 婦 phụ phụ nữ, dâm phụ fu | よめ
@@ -1119,7 +1117,11 @@
 字 tự chữ, văn tự ji
 守 thủ;guard; A guard provides a measure of security to those under a roof.; シュ   ス |  まも.る   まも.り   もり
 完 hoàn;perfect;Make the perfect impression in the beginning by removing your shoes upon entering a Japanese home; カン
-宣 tuyên;proclaim; セン |  のたま.う
+宣 tuyên;proclaim;You can proclaim your opinions from the comfort of your HOUSE and have it SPAN the entire globe these days via The Internet; セン |  のたま.う
+宵 tiêu;wee hours;I burn the CANDLE in my HOUSE until the WEE HOURS;  ショウ | よい
+
+女 nữ phụ nữ jo, nyo, nyoo
+安 an an bình, an ổn an | やす
 
 
 
@@ -2354,7 +2356,6 @@
 褐 hoạt màu nâu katsu
 倹 kiệm tiết kiệm ken
 薪 tân củi shin
-宵 tiêu đầu tối, nguyên tiêu shoo
 繭 kiển lông mày ken
 詔 chiếu chiếu chỉ của vua shoo
 漸 tiệm dần dần, tiệm cận zen
