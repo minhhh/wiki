@@ -1122,7 +1122,11 @@
 
 女 nữ phụ nữ jo, nyo, nyoo
 安 an an bình, an ổn an | やす
-
+宴 yến; banquet; The WOMAN spent all DAY preparing a banquet in the HOUSE. エン | うたげ
+寄 kí;draw near; As you draw near the house you have a strange feeling that you've been there before...; キ | よ.る
+富 phú;wealth; A HOUSE with only ONE MOUTH and a RICE FIELD has a lot of WEALTH.; フ   フウ |  と.む   とみ
+貯 trữ; savings; チョ |  た.める   たくわ.える
+ 
 
 
 
@@ -1339,7 +1343,6 @@
 券 khoán vé, chứng khoán ken
 清 thanh thanh bạch, trong sạch sei, shoo
 核 hạch hạt nhân, hạch tâm kaku
-富 phú giàu, phú hào, phú hộ, phong phú fu, fuu
 城 thành thành phố, thành quách joo
 販 phán bán, phán mại han
 請 thỉnh thỉnh cầu, thỉnh nguyện sei, shin
@@ -1646,7 +1649,6 @@
 銃 súng khấu súng juu
 隠 ẩn ẩn giấu in
 稲 đạo cây lúa too
-貯 trữ tàng trữ, lưu trữ cho
 衝 xung xung đột, xung kích shoo
 操 thao thao tác soo
 忠 trung trung thành, trung thực chuu
@@ -1888,7 +1890,6 @@
 陰 âm âm mưu, số âm in
 尋 tầm sưu tầm, tầm nã jin
 唆 toa xúi giục sa
-寄 kí kí gửi, kí sinh ki
 墓 mộ ngôi mộ bo
 雰 phân sương mù fun
 征 chinh chinh phục, chinh phạt sei
@@ -2117,7 +2118,6 @@
 該 cai gai
 墳 phần mộ phần fun
 峡 hạp đường núi hẹp kyoo
-宴 yến yến tiệc en
 窮 cùng cùng cực kyuu
 憾 hám hối hận kan
 傘 tản cái ô san
