@@ -54,7 +54,6 @@
 
 地 địa thổ địa, địa đạo chi, ji |
 坊 phường phường , con trai boo, bo |
-埋 mai chôn mai | う.める
 域 vực khu vực, lĩnh vực iki
 増 tăng tăng gia, tăng tốc zoo | ふ.える
 
@@ -452,9 +451,6 @@
 屋 ốc phòng ốc oku | や
 
 猫 miêu con mèo byoo
-
-向 hướng hướng thượng, phương hướng koo | む.く
-同 đồng đồng nhất, tương đồng doo | おな.じ
 
 糸 mịch sợ chỉ shi
 紙 chỉ giấy shi | かみ
@@ -1114,7 +1110,17 @@
 墨 mặc;black ink; Black ink comes from black soil.; ボク | すみ
 鯉 carp;Japanese carp are massive fish - they are measured in ri!; リ |  こい
 量 lượng;quantity; A quantity can be a measure of time or space (day/ri).; リョウ | はか.る
-厘 li;rin; リン
+厘 li;rin;The Square Root of 1 RI = 1 RIN.; リン
+埋 mai;bury;bury me in the soil next to the village; マイ | う.める   う.まる   う.もれる   うず.める   うず.まる   い.ける
+
+同 đồng đồng nhất, tương đồng doo | おな.じ
+洞 động;den;All the animals in the den share the same water.; ドウ | ほら
+胴 đỗng;trunk;The trunk (torso) of everyone's body is mostly the same; ドウ
+向 hướng;yonder; コウ |  む.く   む.い 
+
+
+
+
 
 
 
@@ -2090,7 +2096,6 @@
 頻 tần tần số, tần suất hin
 鼻 tị mũi bi
 践 tiễn thực tiễn sen
-洞 động hang động doo
 諾 nặc chấp thuận daku
 俸 bổng lương bổng, bổng lộc hoo
 穀 cốc ngũ cốc koku
@@ -2233,7 +2238,6 @@
 肯 khẳng khẳng định koo
 猟 liệp săn bắn ryoo
 胎 thai bào thai tai
-胴 đỗng thân hình doo
 塊 khối đống kai
 絹 quyên lụa ken
 紺 cám xanh đậm kon
