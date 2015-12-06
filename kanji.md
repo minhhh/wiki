@@ -1142,6 +1142,8 @@
 草 thảo;grass;Grass grows in earlier than flowers; ソウ  | くさ
 苦 khổ; suffering; Flowers for the old man suffering in the hospital; ku | にが.い
 苛 bullying;Flowers Can Stop Bullying; カ | いじ.める  さいな.む   いらだ.つ   からい   こまかい
+寛 khoan;tolerant;See the flowers in the house. See the good in people. Be TOLERANT; カン | くつろ.ぐ   ひろ.い   ゆる.やか
+
 
 
 
@@ -1875,7 +1877,6 @@
 漏 lậu lộ roo
 殊 thù đặc thù shu
 黙 mặc trầm mặc moku
-寛 khoan khoan dung kan
 剰 thặng thặng dư joo
 没 một trầm một botsu
 覧 lãm triển lãm ran
