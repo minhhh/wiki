@@ -204,8 +204,6 @@
 婦 phụ phụ nữ, dâm phụ fu | よめ
 婚 hôn kết hôn; marriage is like a woman move to another clan; kon
 
-案 án luận án, đề án plan, good plan comes out when sitting beside a tree 木 peacefully 安. an | つくえ
-
 古 cổ cũ, cổ điển, đồ cổ; You get OLD fast if you have ten open mouths to feed; ko | ふる.い
 苦 khổ khổ cực;suffering; Flowers for the old man suffering in the hospital; ku | にが.い
 
@@ -1137,8 +1135,8 @@
 本 bản sách, cơ bản, nguyên bản, bản chất hon | もと
 札 trát;tag; In order to put a tag on a tree you need a hook; サツ | ふだ
 暦 lịch; calendar; It takes many years for a cliff to form or erode. A tree takes many months to grow. But days pass by regularly - so in this way, we see the movement of time such as with a CALENDAR; レキ | こよみ  りゃく
-
-
+案 án luận án, đề án plan, good plan comes out when sitting beside a tree 木 peacefully 安. an | つくえ
+燥 táo; parch; It's been so parched recently that your wooden goods suddenly catches fire; ソウ |  はしゃ.ぐ
 
 
 
@@ -2189,7 +2187,6 @@
 淑 thục hiền thục shuku
 偵 trinh trinh thám tei
 篤 đốc toku
-燥 táo can táo soo
 憤 phẫn phẫn uất fun
 恨 hận căm hận kon
 泡 bào bọt hoo
