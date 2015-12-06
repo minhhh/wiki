@@ -95,7 +95,6 @@
 
 休 hưu hưu trí, hưu nhàn kyuu | やすみ
 体 thể hình thể, thân thể, thể thao tai, tei | からだ
-未 vị vị thành niên, vị lai mi | ま.だ
 味 vị vị giác; in the mouth not yet swallow; mi | あじ.わう
 楽 lạc, nhạc an lạc, lạc thú, âm nhạc gaku, raku | たの.しい
 果 quả hoa quả, thành quả, kết quả ka | くだ.もの
@@ -1138,6 +1137,11 @@
 案 án luận án, đề án plan, good plan comes out when sitting beside a tree 木 peacefully 安. an | つくえ
 燥 táo; parch; It's been so parched recently that your wooden goods suddenly catches fire; ソウ |  はしゃ.ぐ
 
+未 vị vị thành niên, vị lai mi | ま.だ
+末 mạt;extremity;The tree's top branches have grown to extremities.; マツ  バツ |  すえ
+昧 obscure;Things look obscure when the sun is not yet out; マイ  バイ  | くら.い   むさぼ.る
+
+
 
 
 
@@ -1275,7 +1279,6 @@
 衛 vệ bảo vệ, vệ tinh, vệ sinh ei
 値 trị giá trị chi
 退 thoái triệt thoái, thoái lui tai
-末 mạt kết thúc, mạt vận, mạt kì matsu, batsu
 隊 đội đội ngũ, quân đội tai
 注 chú chú ý, chú thích chuu
 望 vọng ước vọng, nguyện vọng, kì vọng boo, moo
