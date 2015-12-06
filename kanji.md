@@ -1144,6 +1144,8 @@
 苛 bullying;Flowers Can Stop Bullying; カ | いじ.める  さいな.む   いらだ.つ   からい   こまかい
 寛 khoan;tolerant;See the flowers in the house. See the good in people. Be TOLERANT; カン | くつろ.ぐ   ひろ.い   ゆる.やか
 
+薄 bạc;dilute;A Dr. missing his needle can only use dilute flower water for medicine; ハク | うす.い   うす.める   うす.まる   うす.らぐ
+
 
 
 
@@ -1653,7 +1655,6 @@
 俊 tuấn tuấn kiệt, anh tuấn shun
 獲 hoạch thu hoạch kaku
 祉 chỉ phúc chỉ shi
-薄 bạc mỏng, bạc mệnh haku
 郡 quận quận gun
 悩 não khổ não noo
 壁 bích tường, bích họa heki
