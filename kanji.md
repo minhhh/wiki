@@ -1145,6 +1145,10 @@
 寛 khoan;tolerant;See the flowers in the house. See the good in people. Be TOLERANT; カン | くつろ.ぐ   ひろ.い   ゆる.やか
 
 薄 bạc;dilute;A Dr. missing his needle can only use dilute flower water for medicine; ハク | うす.い   うす.める   うす.まる   うす.らぐ
+葉 diệp;leaf;On top of the leaves a flower appears, promising new generations for the old tree below; ヨウ| は
+模 mô;imitation;The imitation tree looked like a big sun flower; モ ボ
+漠 mạc;vague; バク
+
 
 
 
@@ -1254,7 +1258,6 @@
 監 giam, giám giam cấm; giám đốc, giám sát kan
 準 chuẩn tiêu chuẩn, chuẩn bị jun
 張 trương chủ trương, khai trương choo
-葉 diệp lá, lạc diệp, hồng diệp yoo
 警 cảnh cảnh báo, cảnh sát, cảnh vệ kei
 英 anh anh hùng, anh tú, anh tuấn ei
 松 tùng cây tùng, tùng bách shoo
@@ -1355,7 +1358,6 @@
 客 khách hành khách, thực khách kyaku, kaku
 献 hiến hiến dâng, hiến tặng, hiến thân ken, kon
 蔵 tàng bảo tàng, tàng trữ, tàng hình zoo
-模 mô mô phỏng, mô hình mo, bo
 系 hệ hệ thống, hệ số kei
 券 khoán vé, chứng khoán ken
 清 thanh thanh bạch, trong sạch sei, shoo
@@ -2133,7 +2135,6 @@
 傘 tản cái ô san
 塔 tháp tòa tháp too
 弊 tệ tệ hại, tệ xá hei
-漠 mạc sa mạc baku
 騎 kị kị sĩ ki
 循 tuần tuần hoàn jun
 裸 lõa, khỏa khỏa thân ra
