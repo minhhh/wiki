@@ -1151,7 +1151,8 @@
 漠 mạc;vague;The water in the graveyard has worn away the headstones, so the writing is vague; バク
 
 暮 mộ;livelihood;He made a livelihood out of robbing GRAVEYARDS in broad DAYlight; ボ | く.れる   く.らす
-膜 mạc niêm mạc maku
+膜 mạc;membrane;The membranes in your flesh rot when placed in the graveyard; マク
+苗 miêu; seedling;If you plant seedlings in a FIELD eventually they will FLOWER; ビョウ   ミョウ |  なえ   なわ
 
 
 
@@ -1972,7 +1973,6 @@
 訂 đính đính chính tei
 緯 vĩ vĩ độ I
 佳 giai giai nhân ka
-苗 miêu mầm byoo
 据 cư đặt, để -
 径 kính bán kính kei
 磁 từ từ tính, từ trường ji
