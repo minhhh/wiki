@@ -93,11 +93,7 @@
 小 tiểu nhỏ, ít shoo | ちい.さい
 少 thiếu, thiểu thiếu niên; thiểu số shoo | すく.ない, すこ.し
 
-木 mộc cây, gỗ boku, moku | き
-林 lâm lâm sản, lâm nghiệp rin | はやし
-森 sâm rừng shin | もり
 休 hưu hưu trí, hưu nhàn kyuu | やすみ
-本 bản sách, cơ bản, nguyên bản, bản chất hon | もと
 体 thể hình thể, thân thể, thể thao tai, tei | からだ
 未 vị vị thành niên, vị lai mi | ま.だ
 味 vị vị giác; in the mouth not yet swallow; mi | あじ.わう
@@ -105,7 +101,6 @@
 果 quả hoa quả, thành quả, kết quả ka | くだ.もの
 困 khốn khốn cùng kon | こま.る
 
-相 tương, tướng tương hỗ, tương tự, tương đương; thủ tướng soo, shoo | あい-
 材 tài tài liệu lumber, wood, talent zai
 杯 bôi chén hai | さかずき
 桃 đào cây đào too | もも
@@ -186,7 +181,6 @@
 寺 tự chùa ji
 団 đoàn đoàn kết, đoàn đội dan, ton
 時 thời thời gian ji | とき
-村 thôn thôn xã, thôn làng son | むら
 付 phụ phụ thuộc, phụ lục fu | つく
 府 phủ chính phủ; the government depends on people like the house depends on cliff fu
 対 đối đối diện, phản đối, đối với tai, tsui | こた.える
@@ -650,8 +644,6 @@
 
 伝 truyền, truyện truyền đạt, truyền động; tự truyện den | つだ.う
 
-椅 y, ỷ ghế イ
-
 鞄 bạc, bào, cái va li | かばん
 
 
@@ -695,8 +687,6 @@
 漢 hán hảo hán kan
 
 腕 oản cánh tay wan | うで
-
-机 cơ cái bàn ki |  つくえ
 
 達 đạt đạt tới, điều đạt, thành đạt tatsu | -たち
 
@@ -1127,12 +1117,26 @@
 富 phú;wealth; A HOUSE with only ONE MOUTH and a RICE FIELD has a lot of WEALTH.; フ   フウ |  と.む   とみ
 貯 trữ; savings;It takes a lot more than one clam of savings to buy a house on a street. チョ |  た.める   たくわ.える
  
-
-
-
-
-
-
+木 mộc cây, gỗ boku, moku | き
+林 lâm lâm sản, lâm nghiệp rin | はやし
+森 sâm rừng shin | もり
+桂 Japanese Judas-tree; A tree covered in poison ivy will quickly betray you, thus the name JAPANESE JUDAS-TREE;ケイ |  かつら
+柏 oak; an oak tree is white from left to right; ハク   ヒャク   ビャク |  かしわ
+枠 khung; Nine out of ten picture frames are made out of wood. The rest are made of metal or plastic.; frame; | わく
+梢 treetops; Treetops used to get a special tree candle (the one that sparks) before the invention of christmas lights; ショウ | こずえ   くすのき
+棚 bằng; shelf;A shelf is a wooden companion to books.; ホウ | たな
+杏 apricot; From the tree straight into the mouth is the best way to eat an APRICOT; キョウ   アン  コウ | あんずanzu
+桐 paulownia; Paulownia is a Japanese tree which looks same as any other tree; トウ   ドウ |  きり
+植 thực; plant;Plants don't become trees straightaway; ショク | う.える   う.わる
+椅 y; chair;A strange kind of tree grows in the shape of a chair; イ
+枯 khô; wither; A tree withers away as it gets old; コ |  か.れる   か.らす
+朴 phác; crude; Wooden wands are the crudest. They are nothng compared to their carbon fibre equivilents; ボク |  ほう
+村 thôn;village; a village is just a bunch of wood glued together; ソン | むら
+相 tương;inter-;a piece of wood went "inter" my eyes; ソウ  ショウ |  あい
+机 cơ;desk; My wooden desk is so messy, it looks like a strong wind blew my things all over it; キ | つくえ
+本 bản sách, cơ bản, nguyên bản, bản chất hon | もと
+札 trát;tag; In order to put a tag on a tree you need a hook; サツ | ふだ
+暦 lịch; calendar; It takes many years for a cliff to form or erode. A tree takes many months to grow. But days pass by regularly - so in this way, we see the movement of time such as with a CALENDAR; レキ | こよみ  りゃく
 
 
 
@@ -1395,7 +1399,6 @@
 塁 lũy thành lũy rui
 異 dị dị bản, dị tộc, dị giáo I
 薬 dược thuốc yaku
-札 trát tiền giấy satsu
 盛 thịnh thịnh vượng, hưng thịnh sei, joo
 延 duyên trì hoãn en
 遺 di sót lại, di tích, di ngôn, di vật i, yui
@@ -1439,7 +1442,6 @@
 版 bản xuất bản han
 精 tinh tinh lực, tinh túy sei, shoo
 亡 vong diệt vong boo, moo
-植 thực thực vật, thực dân shoku
 崩 băng băng hoại hoo
 層 tầng hạ tầng, thượng tầng soo
 聴 thính thính giả choo
@@ -1553,7 +1555,6 @@
 裕 dụ giàu sang yuu
 賃 nhẫm tiền thuê chin
 扱 tráp đối xử -
-枠 <khung> cái khung -
 秘 tất tất nhiên, tất yếu hi
 鈴 linh cái chuông rei, rin
 巻 quyển quyển sách kan
@@ -2002,7 +2003,6 @@
 亭 đình cái đình tei
 刈 ngải cắt cỏ -
 銅 đồng chất đồng doo
-棚 bằng cái giá -
 幻 huyễn huyễn hoặc gen
 巣 sào sào huyệt soo
 拝 bái sùng bái hai
@@ -2067,7 +2067,6 @@
 碑 bi tấm bia hi
 把 bả cầm ha
 架 giá cái giá ka
-朴 phác chất phác boku
 艇 đĩnh thuyền nhỏ tei
 憂 ưu ưu phiền yuu
 壮 tráng cường tráng soo
@@ -2154,8 +2153,6 @@
 沸 phí đun sôi futsu
 媒 môi môi giới bai
 殻 xác vỏ kaku
-暦 lịch lịch reki
-枯 khô khô khát ko
 蓄 súc lưu trữ chiku
 畜 súc súc vật chiku
 辱 nhục sỉ nhục joku
