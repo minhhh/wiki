@@ -95,7 +95,6 @@
 
 休 hưu hưu trí, hưu nhàn kyuu | やすみ
 体 thể hình thể, thân thể, thể thao tai, tei | からだ
-味 vị vị giác; in the mouth not yet swallow; mi | あじ.わう
 楽 lạc, nhạc an lạc, lạc thú, âm nhạc gaku, raku | たの.しい
 果 quả hoa quả, thành quả, kết quả ka | くだ.もの
 困 khốn khốn cùng kon | こま.る
@@ -199,7 +198,6 @@
 刻 khắc thời khắc, engrave, time koku | きざ.む
 
 始 thủy ban đầu, khai thủy, nguyên thủy shi | はじまり, かいし (開始)
-妹 muội em gái mai | いもうと
 婦 phụ phụ nữ, dâm phụ fu | よめ
 婚 hôn kết hôn; marriage is like a woman move to another clan; kon
 
@@ -885,8 +883,6 @@
 
 勤 cần chuyên cần; diligence; serve; kin, gon | つと.める
 
-株 chu cổ phiếu; shares; stock; in ancient times, people cut and stock trees to be shared シュ | かぶ
-
 吾 I; I have 5 senses.; ゴ  | われ  わが    あ
 
 冒 mạo mạo hiểm; Don't look at the sun directly with your eyes, it's risky! boo | おか.す
@@ -1140,6 +1136,13 @@
 未 vị vị thành niên, vị lai mi | ま.だ
 末 mạt;extremity;The tree's top branches have grown to extremities.; マツ  バツ |  すえ
 昧 obscure;Things look obscure when the sun is not yet out; マイ  バイ  | くら.い   むさぼ.る
+沫 splash; The extremity of a wave of water is the splash; マツ  バツ |  あわ   しぶき   つばき
+味 vị; flavor;To enjoy a food's FLAVOR, it must be in one's MOUTH but NOT YET swallowed; ミ  | あじ   あじ.わう
+妹 muội; younger sister マイ |  いもうと
+朱 chu;vermilion;It's autumn: only one vermilion leaf on the tree has not yet fallen; シュ | あけ
+株 chu; cổ phiếu; shares; stock; in ancient times, people cut and stock trees to be shared シュ | かぶ
+
+
 
 
 
@@ -2128,7 +2131,6 @@
 循 tuần tuần hoàn jun
 裸 lõa, khỏa khỏa thân ra
 愚 ngu ngu ngốc gu
-朱 chu shu
 旋 toàn sen
 縫 phùng may vá hoo
 鶏 kê con gà kei
