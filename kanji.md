@@ -1146,8 +1146,12 @@
 
 薄 bạc;dilute;A Dr. missing his needle can only use dilute flower water for medicine; ハク | うす.い   うす.める   うす.まる   うす.らぐ
 葉 diệp;leaf;On top of the leaves a flower appears, promising new generations for the old tree below; ヨウ| は
+墓 mộ; grave;The soil under a graveyard is full of graves; ボ | はか
 模 mô;imitation;The imitation tree looked like a big sun flower; モ ボ
-漠 mạc;vague; バク
+漠 mạc;vague;The water in the graveyard has worn away the headstones, so the writing is vague; バク
+
+暮 mộ;livelihood;He made a livelihood out of robbing GRAVEYARDS in broad DAYlight; ボ | く.れる   く.らす
+膜 mạc niêm mạc maku
 
 
 
@@ -1558,7 +1562,6 @@
 板 bản tấm bảng han, ban
 射 xạ xạ thủ sha
 秀 tú ưu tú, tuấn tú shuu
-暮 mộ chiều tối bo
 懸 huyền treo ken, ke
 章 chương chương sách shoo
 撤 triệt triệt thoái tetsu
@@ -1904,7 +1907,6 @@
 陰 âm âm mưu, số âm in
 尋 tầm sưu tầm, tầm nã jin
 唆 toa xúi giục sa
-墓 mộ ngôi mộ bo
 雰 phân sương mù fun
 征 chinh chinh phục, chinh phạt sei
 艦 hạm chiến hạm, hạm đội kan
@@ -2038,7 +2040,6 @@
 妊 nhâm mang thai nin
 桑 tang cây dâu soo
 嫁 giá đi lấy chồng ka
-膜 mạc niêm mạc maku
 綿 miên lụa men
 班 ban lớp han
 恥 sỉ sỉ nhục chi
