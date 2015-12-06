@@ -202,9 +202,6 @@
 婚 hôn kết hôn; marriage is like a woman move to another clan; kon
 
 古 cổ cũ, cổ điển, đồ cổ; You get OLD fast if you have ten open mouths to feed; ko | ふる.い
-苦 khổ khổ cực;suffering; Flowers for the old man suffering in the hospital; ku | にが.い
-
-草 thảo thảo mộc soo | くさ
 
 新 tân mới, cách tân, tân thời shin | あたら。しい
 親 thân thân thuộc, thân thích, thân thiết shin | おや
@@ -388,7 +385,6 @@
 花 hoa hoa, bông hoa ka | はな
 菓 quả hoa quả ka |
 荷 hà hành lí baggage ka | に
-若 nhược trẻ; young people can pick grass with right hand; jaku, nyaku | わか.い
 茶 trà trà チャ サ
 
 置 trí bố trí, bài trí, vị trí chi | お.く
@@ -1141,6 +1137,15 @@
 妹 muội; younger sister マイ |  いもうと
 朱 chu;vermilion;It's autumn: only one vermilion leaf on the tree has not yet fallen; シュ | あけ
 株 chu; cổ phiếu; shares; stock; in ancient times, people cut and stock trees to be shared シュ | かぶ
+
+若 nhược;young;The young little girl held a cute flower in her right hand; ジャク   ニャク   ニャ | わか.い  も.しくわ  も.し   も.しくは
+草 thảo;grass;Grass grows in earlier than flowers; ソウ  | くさ
+苦 khổ; suffering; Flowers for the old man suffering in the hospital; ku | にが.い
+苛 bullying;Flowers Can Stop Bullying; カ | いじ.める  さいな.む   いらだ.つ   からい   こまかい
+
+
+
+
 
 
 
