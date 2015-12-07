@@ -70,6 +70,7 @@ Gradle is an open source build automation system that builds upon the concepts o
 
 * Run a task
 ```
+    # -q for running it quietly
     gradle -q <task>
 ```
 
