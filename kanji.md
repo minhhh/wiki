@@ -1157,10 +1157,7 @@
 桃 đào;peach tree; トウ| もも
 眺 thiếu;Sauron's One fiery eye stare at Frodo and it is a sign of portent. Evil will become whomever the eye is staring upon; チョウ | なが.める
 状 trạng;status quo; It was left to the turtle to make right with the dog and thus maintain the status quo; ジョウ
-
-
-
-
+黙 mặc;silence;Silence is a paramount for any black ninja dog; モク   ボク | だま.る    もだ.す
 
 
 
@@ -1884,7 +1881,6 @@
 悟 ngộ tỉnh ngộ go
 漏 lậu lộ roo
 殊 thù đặc thù shu
-黙 mặc trầm mặc moku
 剰 thặng thặng dư joo
 没 một trầm một botsu
 覧 lãm triển lãm ran
