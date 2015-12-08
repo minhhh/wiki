@@ -1156,6 +1156,7 @@
 兆 triệu;portent;A bad portent makes the hairs on your legs stand; チョウ | きざ.す   きざ.し
 桃 đào;peach tree; トウ| もも
 眺 thiếu;Sauron's One fiery eye stare at Frodo and it is a sign of portent. Evil will become whomever the eye is staring upon; チョウ | なが.める
+状 trạng;status quo; It was left to the turtle to make right with the dog and thus maintain the status quo; ジョウ
 
 
 
@@ -1236,7 +1237,6 @@
 再 tái lại, tái phát sai, sa
 容 dung dung mạo, hình dung, nội dung, dung nhận yoo
 規 quy quy tắc, quy luật ki
-状 trạng tình trạng, trạng thái, cáo trạng joo
 輸 thâu thâu nhập, thâu xuất yu
 談 đàm hội đàm, đàm thoại dan
 説 thuyết tiểu thuyết, học thuyết, lí thuyết setsu, zei
