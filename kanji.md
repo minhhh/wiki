@@ -101,7 +101,6 @@
 
 材 tài tài liệu lumber, wood, talent zai
 杯 bôi chén hai | さかずき
-桃 đào cây đào too | もも
 構 cấu cấu tạo, cấu thành, cơ cấu koo | かま.う
 権 quyền chính quyền, quyền uy, quyền lợi ken, gon | おもり
 
@@ -1155,6 +1154,7 @@
 苗 miêu; seedling;If you plant seedlings in a FIELD eventually they will FLOWER; ビョウ   ミョウ |  なえ   なわ
 
 兆 triệu;portent;A bad portent makes the hairs on your legs stand; チョウ | きざ.す   きざ.し
+桃 đào;peach tree; トウ| もも
 
 
 
