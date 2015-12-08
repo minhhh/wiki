@@ -1154,7 +1154,8 @@
 膜 mạc;membrane;The membranes in your flesh rot when placed in the graveyard; マク
 苗 miêu; seedling;If you plant seedlings in a FIELD eventually they will FLOWER; ビョウ   ミョウ |  なえ   なわ
 
-兆 triệu;
+兆 triệu;portent;A bad portent makes the hairs on your legs stand; チョウ | きざ.す   きざ.し
+
 
 
 
