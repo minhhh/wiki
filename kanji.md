@@ -1154,6 +1154,7 @@
 膜 mạc;membrane;The membranes in your flesh rot when placed in the graveyard; マク
 苗 miêu; seedling;If you plant seedlings in a FIELD eventually they will FLOWER; ビョウ   ミョウ |  なえ   なわ
 
+兆 triệu;
 
 
 
@@ -1495,7 +1496,6 @@
 惑 hoặc nghi hoặc waku
 巨 cự to lớn, cự đại, cự phách kyo
 為 vi, vị hành vi; vị kỉ I
-兆 triệu triệu chứng, triệu triệu (10 mũ 12) choo
 混 hỗn hỗn hợp, hỗn độn, hỗn loạn kon
 幕 mạc khai mạc, bế mạc maku, baku
 賀 hạ chúc mừng ga
