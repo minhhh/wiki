@@ -1155,7 +1155,7 @@
 
 兆 triệu;portent;A bad portent makes the hairs on your legs stand; チョウ | きざ.す   きざ.し
 桃 đào;peach tree; トウ| もも
-
+眺 thiếu;Sauron's One fiery eye stare at Frodo and it is a sign of portent. Evil will become whomever the eye is staring upon; チョウ | なが.める
 
 
 
@@ -2184,7 +2184,6 @@
 酢 tạc dấm saku
 紳 thân đàn ông shin
 瓶 bình cái bình bin
-眺 thiếu nhìn choo
 涼 lương mát ryoo
 枢 xu chốt cửa suu
 譜 phổ, phả phổ nhạc, gia phả fu
