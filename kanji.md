@@ -1158,9 +1158,7 @@
 眺 thiếu;Sauron's One fiery eye stare at Frodo and it is a sign of portent. Evil will become whomever the eye is staring upon; チョウ | なが.める
 状 trạng;status quo; It was left to the turtle to make right with the dog and thus maintain the status quo; ジョウ
 黙 mặc;silence;Silence is a paramount for any black ninja dog; モク   ボク | だま.る    もだ.す
-
-
-
+然 nhiên;sort of thing;There are all sorts of things in hot dogs; ゼン   ネン | しか   しか.り   しか.し
 
 
 
@@ -1293,7 +1291,6 @@
 追 truy truy lùng, truy nã, truy cầu tsui
 訴 tố tố cáo, tố tụng so
 低 đê thấp, đê hèn, đê tiện tei
-然 nhiên quả nhiên, tất nhiên, thiên nhiên zen, nen
 独 độc cô độc, đơn độc doku
 衛 vệ bảo vệ, vệ tinh, vệ sinh ei
 値 trị giá trị chi
