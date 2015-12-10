@@ -299,7 +299,6 @@
 星 tinh hành tinh, tinh tú sei, shoo
 
 午 ngọ chính ngọ go | ひる, うま
-牛 ngưu con trâu gyuu | うし
 件 kiện điều kiện, sự kiện, bưu kiện ken | くだん
 
 用 dụng sử dụng, dụng cụ, công dụng yoo
@@ -431,7 +430,6 @@
 
 屋 ốc phòng ốc oku | や
 
-猫 miêu con mèo byoo
 
 糸 mịch sợ chỉ shi
 紙 chỉ giấy shi | かみ
@@ -1159,8 +1157,10 @@
 状 trạng;status quo; It was left to the turtle to make right with the dog and thus maintain the status quo; ジョウ
 黙 mặc;silence;Silence is a paramount for any black ninja dog; モク   ボク | だま.る    もだ.す
 然 nhiên;sort of thing;There are all sorts of things in hot dogs; ゼン   ネン | しか   しか.り   しか.し
+狩 thú; hunt;Actually when hunting it may be a good idea to use a pack of dogs as your personal guard; シュ | か.る   か.り
+猫 miêu; cat;ビョウ |  ねこ
 
-
+牛 ngưu con trâu gyuu | うし
 
 
 
@@ -2092,7 +2092,6 @@
 忍 nhẫn tàn nhẫn, nhẫn nại nin
 錯 thác thác giác, thác loạn saku
 寂 tịch cô tịch, tịch mịch jaku, seki
-狩 thú săn bắn shu
 恭 cung cung kính kyoo
 唐 đường nhà Đường, Trung quốc too
 虜 lỗ tù binh ryo
