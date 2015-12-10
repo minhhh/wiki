@@ -1156,12 +1156,13 @@
 眺 thiếu;Sauron's One fiery eye stare at Frodo and it is a sign of portent. Evil will become whomever the eye is staring upon; チョウ | なが.める
 状 trạng;status quo; It was left to the turtle to make right with the dog and thus maintain the status quo; ジョウ
 黙 mặc;silence;Silence is a paramount for any black ninja dog; モク   ボク | だま.る    もだ.す
-然 nhiên;sort of thing;There are all sorts of things in hot dogs; ゼン   ネン | しか   しか.り   しか.し
 狩 thú; hunt;Actually when hunting it may be a good idea to use a pack of dogs as your personal guard; シュ | か.る   か.り
-荻 シュ | か.る   か.り
+荻 テキ;reed; Reeds: the only flowers that can survive fire and dogs |  おぎ
 猫 miêu; cat;ビョウ |  ねこ
+然 nhiên;sort of thing;There are all sorts of things in hot dogs; ゼン   ネン | しか   しか.り   しか.し
 
 牛 ngưu con trâu gyuu | うし
+特 đặc; special; Cows at a Buddhist temple are special - they are holy cows; トク
 
 
 
@@ -1217,7 +1218,6 @@
 費 phí học phí, lộ phí, chi phí hi
 演 diễn diễn viên, biểu diễn, diễn giả en
 放 phóng giải phóng, phóng hỏa, phóng lao hoo
-特 đặc đặc biệt, đặc công toku
 敗 bại thất bại hai
 位 vị vị trí, tước vị, đơn vị I
 軍 quân quân đội, quân sự gun
