@@ -1158,6 +1158,7 @@
 黙 mặc;silence;Silence is a paramount for any black ninja dog; モク   ボク | だま.る    もだ.す
 然 nhiên;sort of thing;There are all sorts of things in hot dogs; ゼン   ネン | しか   しか.り   しか.し
 狩 thú; hunt;Actually when hunting it may be a good idea to use a pack of dogs as your personal guard; シュ | か.る   か.り
+荻 シュ | か.る   か.り
 猫 miêu; cat;ビョウ |  ねこ
 
 牛 ngưu con trâu gyuu | うし
