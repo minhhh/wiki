@@ -1163,6 +1163,8 @@
 
 牛 ngưu con trâu gyuu | うし
 特 đặc; special; Cows at a Buddhist temple are special - they are holy cows; トク
+告 cáo;revelation; The revelation makes the cow's mouth drop down, "Hamburgers are made of what?!";コク |  つ.げる
+
 
 
 
@@ -1206,7 +1208,6 @@
 際 tế quốc tế sai
 革 cách da thuộc, cách mạng kaku
 論 luận lí luận, ngôn luận, thảo luận ron
-告 cáo báo cáo, thông cáo koku
 認 nhận xác nhận, nhận thức nin
 億 ức trăm triệu oku
 感 cảm cảm giác, cảm xúc, cảm tình kan
