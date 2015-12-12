@@ -362,9 +362,6 @@
 
 店 điếm cửa hàng, tửu điếm ten | みせ
 
-
-界 giới thế giới, giới hạn, địa giới kai
-
 声 thanh âm thanh, thanh điệu sei, shoo | こえ
 
 来 lai đến, tương lai, vị lai rai | く.る,きた.る
@@ -380,7 +377,6 @@
 花 hoa hoa, bông hoa ka | はな
 菓 quả hoa quả ka |
 荷 hà hành lí baggage ka | に
-茶 trà trà チャ サ
 
 置 trí bố trí, bài trí, vị trí chi | お.く
 
@@ -1166,6 +1162,11 @@
 洗 tiển; wash; WASH with WATER BEFORE doing anything; セン |  あら.う
 
 介 giới;jammed in; The two strokes at the bottom look like a J and I, which stands for "jammed in."; カイ
+界 giới;world;If you fit everyone in the world into a rice field, they would be pretty jammed in.; カイ
+茶 trà;tea; チャ | サ
+
+
+
 
 
 
