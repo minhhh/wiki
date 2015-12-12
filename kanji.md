@@ -38,7 +38,6 @@
 
 求 cầu yêu cầu, mưu cầu kyuu | もと.める
 
-洗 tiển rửa sen | あら.う
 汽 khí không khí, hơi ki
 気 khí không khí, khí chất, khí khái, khí phách ki, ke | いき
 温 ôn ôn hòa, ôn tồn on | あたた.かい
@@ -294,7 +293,6 @@
 
 束 thúc bó (hoa) soku | たば
 
-先 tiên tiên sinh, tiên tiến sen | さき
 生 sinh sinh sống, sinh sản sei, shoo
 星 tinh hành tinh, tinh tú sei, shoo
 
@@ -366,7 +364,6 @@
 
 
 界 giới thế giới, giới hạn, địa giới kai
-介 giới ở giữa, môi giới, giới thiệu kai
 
 声 thanh âm thanh, thanh điệu sei, shoo | こえ
 
@@ -1165,8 +1162,10 @@
 特 đặc; special; Cows at a Buddhist temple are special - they are holy cows; トク
 告 cáo;revelation; The revelation makes the cow's mouth drop down, "Hamburgers are made of what?!";コク |  つ.げる
 
+先 tiên tiên sinh, tiên tiến sen | さき
+洗 tiển; wash; WASH with WATER BEFORE doing anything; セン |  あら.う
 
-
+介 giới;jammed in; The two strokes at the bottom look like a J and I, which stands for "jammed in."; カイ
 
 
 
