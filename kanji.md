@@ -1173,13 +1173,20 @@
 
 皇 hoàng;emperor; the white king is the emperor; コウ | オウ
 呈 trình; display; the mouth of the king display power; テイ
+
 全 toàn; toàn bộ    zen | すべ.て
 栓 xuyên; plug; you plug the tree in the hole to cover the whole thing; セン
+
 理 lí; logic; the king create logic for the village; リ | ことわり
 注 chú;pour; pour some water for the lord; チュウ | そそ.ぐ   さ.す   つ.ぐ
 柱 trụ;pillar;this wooden pillar is the lord of the house; チュウ |  はしら
+
 銑 tiển; pig iron; Pig iron is basic/crude metal, that is, before it has been processed; セン
-鉢 bát;bowl; ハチ   ハツ
+鉢 bát;bowl;This is the BOWL of an alchemist: see how he mixes metals in his bowl, as he follows the instructions from his book?; ハチ   ハツ
+銅 đồng; copper; copper looks the same as gold; ドウ | あかがね
+釣 điếu;angling;The easiest angling is pulling goldfish out with a big ladle.; チョウ | つ.る   つ.り
+針 châm; needle; a golden needle is worth ten times an ordinary needle; シン | はり
+
 
 
 
@@ -1363,7 +1370,6 @@
 被 bị bị, bị động, bị cáo hi
 渉 thiệp can thiệp, giao thiệp shoo
 融 dung tan chảy, dung hòa, dung hợp yuu
-針 châm cái kim, phương châm, châm cứu shin
 満 mãn thỏa mãn, bất mãn, mãn nguyện man
 兵 binh binh lính, binh lực hei, hyoo
 修 tu tu sửa, tu chính, tu luyện shuu, shu
@@ -2025,7 +2031,6 @@
 冠 quán quán quân kan
 亭 đình cái đình tei
 刈 ngải cắt cỏ -
-銅 đồng chất đồng doo
 幻 huyễn huyễn hoặc gen
 巣 sào sào huyệt soo
 拝 bái sùng bái hai
@@ -2054,7 +2059,6 @@
 謙 khiêm khiêm tốn ken
 劣 liệt thua kém retsu
 凶 hung hung khí, hung thủ kyoo
-釣 điếu câu cá choo
 疎 sơ không thân so
 獄 ngục cai ngục, ngục tù goku
 紋 văn hoa văn mon
