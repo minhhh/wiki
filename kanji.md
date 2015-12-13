@@ -200,7 +200,6 @@
 
 後 hậu sau, hậu quả, hậu sự go, koo | あと
 
-全 toàn toàn bộ    zen | すべ.て
 金 kim hoàng kim, kim ngân kin, kon
 銀 ngân ngân hàng, ngân lượng, kim ngân gin
 鉛 duyên kim loại chì en | なまり
@@ -1174,7 +1173,9 @@
 旺 effulgent; the sun is the effulgent king of the stars; オウ   キョウ   ゴウ | かがや.き   うつくし.い   さかん
 
 皇 hoàng;emperor; the white king is the emperor; コウ | オウ
-呈 trình; display; テイ
+呈 trình; display; the mouth of the king display power; テイ
+全 toàn; toàn bộ    zen | すべ.て
+栓 xuyên; plug; you plug the tree in the hole to cover the whole thing; セン
 
 
 
@@ -2324,7 +2325,6 @@
 嚇 hách nạt nộ, hách dịch kaku
 蚊 văn con muỗi -
 殉 tuẫn chết vì đạo, tuẫn tiết jun
-栓 xuyên then cài sen
 窃 thiết trộm cắp setsu
 搾 trá ép, vắt saku
 賜 tứ ban tặng shi
