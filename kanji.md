@@ -1169,6 +1169,9 @@
 宝 bảo; treasure;On treasure island is a single house - where all the jewels are stored; ホウ | たからtakara
 珠 châu; シュ;The king of the Oysters produces special Vermillion pearls; | たま
 現 hiện xuất hiện, hiện tại, hiện tượng, hiện hình gen | あらわ。れる
+玩 toy; Even the king played with toys in the beginning;ガン; | もちあそ.ぶ   もてあそ.ぶ
+狂 cuồng;lunatic;The Dog king was a lunatic; キョウ | くる.う   くる.おしい   くるお.しい
+
 
 
 
@@ -1965,7 +1968,6 @@
 准 chuẩn thứ nhì jun
 抽 trừu trừu tượng chuu
 披 phi mở ra hi
-狂 cuồng cuồng sát kyoo
 癒 dũ chữa bệnh yu
 訂 đính đính chính tei
 緯 vĩ vĩ độ I
