@@ -1189,7 +1189,9 @@
 鎮 trấn;tranquilize;Enough gold can tranquilize the truth in anyone; チン | しず.める   しず.まる   おさえ
 
 道 đạo;road-way; ドウ   トウ |  みち
-導 đạo;guidance; ドウ | みちび.く
+導 đạo;guidance;Good guidance will help you stay glued to the right path; ドウ | みちび.く
+辻 crossing; cross-road; つじ
+
 
 
 
