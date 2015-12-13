@@ -1178,7 +1178,9 @@
 理 lí; logic; the king create logic for the village; リ | ことわり
 注 chú;pour; pour some water for the lord; チュウ | そそ.ぐ   さ.す   つ.ぐ
 柱 trụ;pillar;this wooden pillar is the lord of the house; チュウ |  はしら
-銑
+銑 tiển; pig iron; Pig iron is basic/crude metal, that is, before it has been processed; セン
+鉢 bát;bowl; ハチ   ハツ
+
 
 
 
@@ -2130,7 +2132,6 @@
 怠 đãi lười biếng tai
 偉 vĩ vĩ đại I
 羅 la lụa ra
-鉢 bát cái bát hatsu, hachi
 該 cai gai
 墳 phần mộ phần fun
 峡 hạp đường núi hẹp kyoo
@@ -2371,7 +2372,6 @@
 弧 hồ cung, cánh cung ko
 畝 mẫu mẫu (đo diện tích) -
 丙 bính can bính (can thứ 3) hei
-銑 tiển gang sen
 塑 tố đắp tượng so
 劾 hặc luận tội gai
 濫 lạm làm quá, lạm dụng ran
