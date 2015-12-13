@@ -1163,7 +1163,7 @@
 
 介 giới;jammed in; The two strokes at the bottom look like a J and I, which stands for "jammed in."; カイ
 界 giới;world;If you fit everyone in the world into a rice field, they would be pretty jammed in.; カイ
-茶 trà;tea; チャ | サ
+茶 trà;tea;the flower of the umbrella tree make the best tea; チャ | サ
 
 
 
