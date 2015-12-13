@@ -117,7 +117,6 @@
 
 目 mục mắt, hạng mục, mục lục moku, boku | め
 見 kiến ý kiến; see; ken | み.る
-現 hiện xuất hiện, hiện tại, hiện tượng, hiện hình gen | あらわ。れる
 自 tự tự do, tự kỉ, tự thân ji, shi | みずか.ら
 道 đạo đạo lộ, đạo đức, đạo lí doo, too | みち
 頭 đầu đầu não too, zu, to | あたま
@@ -144,10 +143,6 @@
 山 sơn núi, sơn hà san | やま
 岩 nham đá tảng, nham thạch gan | いわ
 
-王 vương vương giả oo
-玉 ngọc ngọc gyoku | たま
-国 quốc nước, quốc gia, quốc ca koku | くに
-主 chủ chủ yếu, chủ nhân shu, su | ぬし
 
 会 hội hội họp, đại hội kai, e | あ.う
 命 mệnh, mạng tính mạng, vận mệnh, mệnh lệnh mei, myoo | いのち
@@ -1167,7 +1162,13 @@
 合 hợp; fit; ゴウ   ガッ   カッ | あ.う あ.い  あ.わす  あ.わせる
 塔 tháp; pagoda; In order to build a pagoda in this small Japanese garden everything has to fit: the soil to the left and the flowers in the upper right corner. | トウ
 
-
+王 vương vương giả oo
+玉 ngọc ngọc gyoku | たま
+国 quốc nước, quốc gia, quốc ca koku | くに
+主 chủ chủ yếu, chủ nhân shu, su | ぬし
+宝 bảo; treasure;On treasure island is a single house - where all the jewels are stored; ホウ | たからtakara
+珠 châu; シュ;The king of the Oysters produces special Vermillion pearls; | たま
+現 hiện xuất hiện, hiện tại, hiện tượng, hiện hình gen | あらわ。れる
 
 
 
@@ -1714,7 +1715,6 @@
 喪 tang đám tang soo
 揚 dương giơ lên yoo
 襲 tập tập kích shuu
-宝 bảo bảo vật hoo
 括 quát tổng quát katsu
 駆 khu khu trục hạm ku
 抵 đề đề kháng tei
@@ -2074,7 +2074,6 @@
 弦 huyền dây gen
 悼 điệu truy điệu too
 惜 tích tiếc seki
-珠 châu châu ngọc shu
 碑 bi tấm bia hi
 把 bả cầm ha
 架 giá cái giá ka
