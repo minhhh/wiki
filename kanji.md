@@ -1177,6 +1177,9 @@
 栓 xuyên; plug; you plug the tree in the hole to cover the whole thing; セン
 理 lí; logic; the king create logic for the village; リ | ことわり
 注 chú;pour; pour some water for the lord; チュウ | そそ.ぐ   さ.す   つ.ぐ
+柱 trụ;pillar;this wooden pillar is the lord of the house; チュウ |  はしら
+銑
+
 
 
 
@@ -1682,7 +1685,6 @@
 紛 phân phân vân fun
 駐 trú đồn trú chuu
 芝 chi cỏ -
-柱 trụ trụ cột chuu
 誠 thành thành thực sei
 孝 hiếu hiếu thảo koo
 握 ác nắm aku
