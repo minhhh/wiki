@@ -34,7 +34,6 @@
 暖 noãn ấm dan | あたた.かい
 
 白 bạch thanh bạch, bạch sắc kaku, byaku | しろ.い
-迫 bách bức bách urge;  force haku | せま.る
 
 求 cầu yêu cầu, mưu cầu kyuu | もと.める
 
@@ -1147,7 +1146,7 @@
 
 牛 ngưu con trâu gyuu | うし
 特 đặc; special; Cows at a Buddhist temple are special - they are holy cows; トク
-告 cáo;revelation; The revelation makes the cow's mouth drop down, "Hamburgers are made of what?!";コク |  つ.げる
+告 cáo;revelation; the cow eats everything to reveal the road;コク |  つ.げる
 
 先 tiên tiên sinh, tiên tiến sen | さき
 洗 tiển; wash; WASH with WATER BEFORE doing anything; セン |  あら.う
@@ -1191,6 +1190,10 @@
 道 đạo;road-way; ドウ   トウ |  みち
 導 đạo;guidance;Good guidance will help you stay glued to the right path; ドウ | みちび.く
 辻 crossing; cross-road; つじ
+迅 tấn;swift;The car went too swiftly through the crossing and was hooked by the cops; ジン
+造 tạo;create;A cow creates a road by eating all the grass on its path; ゾウ | つく.る   つく.り
+迫 bách;urge; I urge you to go on the white road; ハク | せま.る
+
 
 
 
@@ -1316,7 +1319,6 @@
 条 điều điều khoản, điều kiện joo
 想 tưởng tư tưởng, tưởng tượng soo, so
 渡 độ đi qua, truyền tay to
-造 tạo chế tạo, sáng tạo zoo
 念 niệm ý niệm, tưởng niệm nen
 述 thuật tường thuật. tự thuật jutsu
 差 sai sai khác, sai biệt sa
@@ -2280,7 +2282,6 @@
 逓 đệ đệ trình, gửi đi tei
 逝 thệ chết sei
 愉 du sảng khoái, du khoái yu
-迅 tấn nhanh chóng, thông tấn jin
 癖 phích tật, tật xấu heki
 慌 hoảng hốt hoảng, hoảng loạn koo
 抹 mạt bột, mài thành bột matsu
