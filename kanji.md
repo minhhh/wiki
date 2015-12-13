@@ -150,7 +150,6 @@
 主 chủ chủ yếu, chủ nhân shu, su | ぬし
 
 会 hội hội họp, đại hội kai, e | あ.う
-合 hợp thích hợp, hội họp, hợp lí goo, gaQ, kaQ | あ。う
 命 mệnh, mạng tính mạng, vận mệnh, mệnh lệnh mei, myoo | いのち
 鏡 kính gương kính kyoo | かがみ
 
@@ -1165,7 +1164,8 @@
 界 giới;world;If you fit everyone in the world into a rice field, they would be pretty jammed in.; カイ
 茶 trà;tea;the flower of the umbrella tree make the best tea; チャ | サ
 脊 stature; セキ | せ   せい
-
+合 hợp; fit; ゴウ   ガッ   カッ | あ.う あ.い  あ.わす  あ.わせる
+塔 tháp; pagoda; In order to build a pagoda in this small Japanese garden everything has to fit: the soil to the left and the flowers in the upper right corner. | トウ
 
 
 
@@ -2130,7 +2130,6 @@
 窮 cùng cùng cực kyuu
 憾 hám hối hận kan
 傘 tản cái ô san
-塔 tháp tòa tháp too
 弊 tệ tệ hại, tệ xá hei
 騎 kị kị sĩ ki
 循 tuần tuần hoàn jun
