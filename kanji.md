@@ -1171,6 +1171,11 @@
 現 hiện xuất hiện, hiện tại, hiện tượng, hiện hình gen | あらわ。れる
 玩 toy; Even the king played with toys in the beginning;ガン; | もちあそ.ぶ   もてあそ.ぶ
 狂 cuồng;lunatic;The Dog king was a lunatic; キョウ | くる.う   くる.おしい   くるお.しい
+旺 effulgent; the sun is the effulgent king of the stars; オウ   キョウ   ゴウ | かがや.き   うつくし.い   さかん
+
+皇 hoàng;emperor; the white king is the emperor; コウ | オウ
+呈 trình; display; テイ
+
 
 
 
@@ -1414,7 +1419,6 @@
 廃 phế tàn phế, hoang phế hai
 盟 minh đồng minh, gia minh mei
 庫 khố kho, xa khố, kim khố ko, ku
-皇 hoàng hoàng đế koo, oo
 将 tướng tướng quân shoo
 捜 sưu sưu tầm, sưu tập soo
 厳 nghiêm tôn nghiêm, nghiêm khắc, nghiêm trọng gen, gon
@@ -2106,7 +2110,6 @@
 諾 nặc chấp thuận daku
 俸 bổng lương bổng, bổng lộc hoo
 穀 cốc ngũ cốc koku
-呈 trình trình bày, đệ trình tei
 髄 tủy xương tủy zui
 庶 thứ thứ dân sho
 遭 tao tao ngộ soo
