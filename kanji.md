@@ -118,7 +118,6 @@
 目 mục mắt, hạng mục, mục lục moku, boku | め
 見 kiến ý kiến; see; ken | み.る
 自 tự tự do, tự kỉ, tự thân ji, shi | みずか.ら
-道 đạo đạo lộ, đạo đức, đạo lí doo, too | みち
 頭 đầu đầu não too, zu, to | あたま
 顔 nhan nhan sắc, hồng nhan gan | かお
 祖 tổ tổ tiên so
@@ -1186,6 +1185,12 @@
 銅 đồng; copper; copper looks the same as gold; ドウ | あかがね
 釣 điếu;angling;The easiest angling is pulling goldfish out with a big ladle.; チョウ | つ.る   つ.り
 針 châm; needle; a golden needle is worth ten times an ordinary needle; シン | はり
+銘 minh;inscription;A piece of metal with a name on it. Well, this is basically the definition of inscription; メイ
+鎮 trấn;tranquilize;Enough gold can tranquilize the truth in anyone; チン | しず.める   しず.まる   おさえ
+
+道 đạo;road-way; ドウ   トウ |  みち
+導 đạo;guidance; ドウ | みちび.く
+
 
 
 
@@ -1270,7 +1275,6 @@
 商 thương thương mại, thương số shoo
 収 thu thu nhập, thu nhận, thu hoạch shuu
 武 vũ vũ trang, vũ lực bu, mu
-導 đạo dẫn đường, chỉ đạo doo
 農 nông nông nghiệp, nông thôn, nông dân noo
 疑 nghi nghi ngờ, nghi vấn, tình nghi gi
 庁 sảnh đại sảnh choo
@@ -1934,7 +1938,6 @@
 軒 hiên <đếm nhà> ken
 芳 phương thơm hoo
 屈 khuất khuất phục kutsu
-銘 minh khắc mei
 舗 phố phố xá ho
 俵 biểu <đếm túi> hyoo
 暇 hạ nhàn hạ ka
@@ -2079,7 +2082,6 @@
 稚 trĩ ấu trĩ chi
 陶 đào đồ sứ too
 穫 hoạch thu hoạch kaku
-鎮 trấn trấn áp, trấn tĩnh chin
 酔 túy say sui
 粗 thô thô ráp so
 隻 chiếc <đếm thuyền> seki
