@@ -343,7 +343,6 @@
 黄 hoàng hoàng kim koo ,oo | き
 略 lược tỉnh lược, xâm lược ryaku | ほぼ  おか.す
 
-理 lí lí do, lí luận, nguyên lí ri | ことわり
 野 dã cánh đồng, hoang dã, thôn dã ya | の
 
 重 trọng, trùng trọng lượng; trùng phùng juu, choo | おも.い
@@ -1164,7 +1163,7 @@
 王 vương vương giả oo
 玉 ngọc ngọc gyoku | たま
 国 quốc nước, quốc gia, quốc ca koku | くに
-主 chủ chủ yếu, chủ nhân shu, su | ぬし
+主 chủ;lord; シュ  ス  シュウ | ぬし   おも   あるじ
 宝 bảo; treasure;On treasure island is a single house - where all the jewels are stored; ホウ | たからtakara
 珠 châu; シュ;The king of the Oysters produces special Vermillion pearls; | たま
 現 hiện xuất hiện, hiện tại, hiện tượng, hiện hình gen | あらわ。れる
@@ -1176,6 +1175,8 @@
 呈 trình; display; the mouth of the king display power; テイ
 全 toàn; toàn bộ    zen | すべ.て
 栓 xuyên; plug; you plug the tree in the hole to cover the whole thing; セン
+理 lí; logic; the king create logic for the village; リ | ことわり
+注 chú;pour; pour some water for the lord; チュウ | そそ.ぐ   さ.す   つ.ぐ
 
 
 
@@ -1309,7 +1310,6 @@
 値 trị giá trị chi
 退 thoái triệt thoái, thoái lui tai
 隊 đội đội ngũ, quân đội tai
-注 chú chú ý, chú thích chuu
 望 vọng ước vọng, nguyện vọng, kì vọng boo, moo
 含 hàm hàm ý, hàm nghĩa, hàm súc gan
 種 chủng chủng loại, chủng tộc shu
