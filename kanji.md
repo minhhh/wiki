@@ -1193,9 +1193,7 @@
 迅 tấn;swift;The car went too swiftly through the crossing and was hooked by the cops; ジン
 造 tạo;create;A cow creates a road by eating all the grass on its path; ゾウ | つく.る   つく.り
 迫 bách;urge; I urge you to go on the white road; ハク | せま.る
-
-
-
+逃 đào;escape;Escape down the road when you recieve an omen/portent warning of danger; トウ | に.げる  に.がす    のが.す    のが.れる
 
 
 
@@ -1605,7 +1603,6 @@
 巻 quyển quyển sách kan
 縮 súc co lại shuku
 折 chiết bẻ gãy, chiết suất setsu
-逃 đào đào tẩu too
 詰 cật đóng hộp kitsu
 弾 đàn, đạn đánh đàn; viên đạn dan
 宇 vũ vũ trụ u
