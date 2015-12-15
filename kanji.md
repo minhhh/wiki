@@ -522,7 +522,6 @@
 遊 du du hí, du lịch yuu, yu | あそ.び
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
 進 tiến thăng tiến, tiền tiến, tiến lên shin | すす.める
-辺 biên biên, biên giới hen | あた.り ほと.り
 遅 trì muộn chi | おそ.い おく.れる
 違 vi vi phạm, tương vi I | ちが.う
 送 tống tiễn, tống tiễn, tống đạt soo | おく.る
@@ -1194,6 +1193,7 @@
 造 tạo;create;A cow creates a road by eating all the grass on its path; ゾウ | つく.る   つく.り
 迫 bách;urge; I urge you to go on the white road; ハク | せま.る
 逃 đào;escape;Escape down the road when you recieve an omen/portent warning of danger; トウ | に.げる  に.がす    のが.す    のが.れる
+辺 biên; To protect the environs around their village, samurai would travel the roads with their swords;
 
 
 
