@@ -320,7 +320,6 @@
 工 công; công tác; craft;  コウ ク
 功 công công lao achievement koo, ku | いさお
 
-士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
 仕 sĩ làm việc; attend; shi, ji
 売 mại sell; the scholar goes around to sell; bai | う.る
 続 tục tiếp tục; one continues to sell like a thread; zoku | つづ.く
@@ -1234,6 +1233,7 @@
 
 週 chu; week;It takes a WEEK to walk the "circumference" of this "road"; シュウ
 
+士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
 
 
 
