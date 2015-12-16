@@ -339,7 +339,6 @@
 
 田 điền điền viên, tá điền den | ta
 黄 hoàng hoàng kim koo ,oo | き
-略 lược tỉnh lược, xâm lược ryaku | ほぼ  おか.す
 
 野 dã cánh đồng, hoang dã, thôn dã ya | の
 
@@ -1206,6 +1205,8 @@
 各 các; each; each mouth is hard to feed in the winter; カク |  おのおの
 格 cách;status;A tree of each kind in your garden = Status; カク   コウ   キャク   ゴウ
 賂 LỘ; bribe; to bribe you have to give money for each potilician; ロ | まいな.い   まいな.う
+略 lược;abbreviation;Each landing field has it's own abbreviation; リャク | ほぼ   おか.す
+
 
 
 
