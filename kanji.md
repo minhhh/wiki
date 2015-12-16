@@ -460,7 +460,6 @@
 冬 đông mùa đông too | ふゆ
 終 chung chung kết, chung liễu shuu | お.わり
 変 biến biến đổi, biến thiên hen | か.える か.わる
-夏 hạ mùa hè ka, ge | なつ
 
 落 lạc rơi; mỗi một chiếc lá sẽ rơi một giọt nước raku | お.ちる
 
@@ -1206,7 +1205,10 @@
 格 cách;status;A tree of each kind in your garden = Status; カク   コウ   キャク   ゴウ
 賂 LỘ; bribe; to bribe you have to give money for each potilician; ロ | まいな.い   まいな.う
 略 lược;abbreviation;Each landing field has it's own abbreviation; リャク | ほぼ   おか.す
-客 khách;guest; キャク  カク
+客 khách;guest;Each person under my roof is treated as a guest; キャク  カク
+額 ngạch; forehead; Sign the guestbook page with your forehead; ガク |  ひたい
+夏 hạ; summer; カ  ガ  ゲ | なつ
+
 
 
 
@@ -1297,7 +1299,6 @@
 視 thị thị sát, thị lực, giám thị shi
 例 lệ ví dụ, tiền lệ, thông lệ, điều lệ rei
 補 bổ bổ sung, bổ túc ho
-額 ngạch trán, giá tiền, hạn ngạch, kim ngạch gaku
 証 chứng bằng chứng, nhân chứng, chứng nhận shoo
 限 hạn giới hạn, hữu hạn, hạn độ gen
 製 chế chế tạo sei
