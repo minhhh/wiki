@@ -463,7 +463,6 @@
 変 biến biến đổi, biến thiên hen | か.える か.わる
 夏 hạ mùa hè ka, ge | なつ
 
-各 các các, mỗi; mùa đông mỗi một miệng ăn đều khó kaku | おのおの
 落 lạc rơi; mỗi một chiếc lá sẽ rơi một giọt nước raku | お.ちる
 
 勿 VẬT not;  must not;  do not;  be not モチ  ブツ   ボツ | なか.れ    なし
@@ -808,7 +807,6 @@
 従 tùng phục tùng, obey; phục tùng là đang đi và bị đếm như con vật juu, shoo, ju | したが.う
 待 đãi đợi; when one goes to the temple, they have to wait tai | ま.つ
 
-前 tiền trước, tiền sử, tiền chiến, mặt tiền zen | まえ
 揃 be complete;  uniform;  all present セン | そろ.える
 
 广
@@ -1198,11 +1196,14 @@
 
 連 liên;take along;When you put your car on the road you should always take along a few friends; レン |  つら.なる   つら.ねる   つ.れる
 軌 quỹ;rut;My car got so stuck in a rut it required nine people pushing to get it out again; キ
-輸 thâu;transport; ユ |  シュ
+輸 thâu;transport;The vehicle transports animals for a meeting with the butcher; ユ |  シュ
 
+喩 metaphor;Metaphorically speaking, all the equipment in your mouth is basically just a meeting of butchers, designed to pulverize whatever meat you put in there; ユ |  たと.える   さと.す
 
+前 tiền;in front; ゼン |  まえ
+煎 roast;meat is roasted right in front of flames; セン | せん.じる   い.る   に.る
 
-
+各 các; each; カク |  おのおの
 
 
 
