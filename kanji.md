@@ -713,9 +713,7 @@
 受 thụ nhận, tiếp thụ ju | う.ける
 
 尤 VƯU reasonable;  just;  natural;  superb;  outstanding | もっと.も
-京 kinh kinh đô, kinh thành kyoo, kei | みやこ
 就 tựu thành tựu take position, employ; it's superb to take position at the capital shuu, ju | つ.く
-景 cảnh cảnh sắc;scenery; it's quite a scene when the sun shines at the capital kei
 
 穴 huyệt sào huyệt ketsu | あな
 究 cứu nghiên cứu, cứu cánh kyuu | きわ.める
@@ -1227,6 +1225,17 @@
 塾 thục;cram school;Welcome to our cram school: you will receive a rounded education on our grounds; ジュク
 熟 thục;mellow;Even if mellow, shy children receive a well-rounded education, they too will have a chance to burn brightly and succeed; ジュク | う.れる
 亭 đình;pavilion;The tallest Pavilion crowns the street; テイ  チン
+京 kinh;capital; キョウ | みやこ
+涼 lương;refreshing;The water from the capital of Japan, Tokyo, is so refreshing; リョウ | すず.しい   すず.む  すず.やか   うす.い   ひや.す   まことに
+景 cảnh cảnh sắc;scenery; it's quite a scene when the sun shines at the capital ケイ
+鯨 kình;whale;The whale is the ruler of the fish capital; ゲイ | くじら
+舎 xá;cottage;The cottage is so small - it has an umbrella for the roof; soil for the floor and room for only one mouth; シャ  セキ | やど.る
+周 chu;circumference; シュウ | まわ.り
+
+
+
+
+
 
 
 
@@ -1452,7 +1461,6 @@
 殺 sát sát hại, sát nhân satsu, sai, setsu
 波 ba sóng, phong ba ha
 劇 kịch kịch bản, vở kịch, kịch tính geki
-周 chu chu vi, chu biên shuu
 拡 khuếch khuếch đại kaku
 週 chu tuần shuu
 否 phủ phủ định, phủ quyết hi
@@ -1828,7 +1836,6 @@
 鉱 khoáng khai khoáng koo
 覇 bá xưng bá ha
 胸 hung ngực kyoo
-舎 xá cư xá sha
 飾 sức trang sức shoku
 即 tức tức thì, lập tức, tức là soku
 翼 dực cánh yoku
@@ -1896,7 +1903,6 @@
 倫 luân luân lí rin
 脚 cước cẳng chân kyaku, kya
 縁 duyên duyên số en
-鯨 kình cá voi, kình ngạc gei
 繊 tiêm thanh mảnh sen
 肥 phì phì nhiêu hi
 稿 cảo nguyên cảo, bản viết koo
@@ -2221,7 +2227,6 @@
 酢 tạc dấm saku
 紳 thân đàn ông shin
 瓶 bình cái bình bin
-涼 lương mát ryoo
 枢 xu chốt cửa suu
 譜 phổ, phả phổ nhạc, gia phả fu
 鍛 đoán luyện tan
