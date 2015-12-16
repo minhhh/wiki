@@ -461,8 +461,6 @@
 終 chung chung kết, chung liễu shuu | お.わり
 変 biến biến đổi, biến thiên hen | か.える か.わる
 
-落 lạc rơi; mỗi một chiếc lá sẽ rơi một giọt nước raku | お.ちる
-
 勿 VẬT not;  must not;  do not;  be not モチ  ブツ   ボツ | なか.れ    なし
 場 trường hội trường, quảng trường joo | ば
 易 dị, dịch dễ, dịch chuyển i, eki | やさ.しい
@@ -1207,7 +1205,16 @@
 略 lược;abbreviation;Each landing field has it's own abbreviation; リャク | ほぼ   おか.す
 客 khách;guest;Each person under my roof is treated as a guest; キャク  カク
 額 ngạch; forehead; Sign the guestbook page with your forehead; ガク |  ひたい
+
 夏 hạ; summer; カ  ガ  ゲ | なつ
+
+処 xử; dispose;To dispose of something you can either kick it away with your walking legs or you can wait for the wind to blow it away; ショ | ところ
+条 điều;article;ARTICLE One of the Reforestation Act: No walking legs may crush a tree; ジョウ  チョウ   デキ | えだ   すじ
+落 lạc;fall; ラク | お.ちる   お.ち
+
+
+
+
 
 
 
@@ -1326,7 +1333,6 @@
 福 phúc phúc, hạnh phúc, phúc lợi fuku
 審 thẩm thẩm tra, thẩm phán, thẩm định shin
 境 cảnh nhập cảnh, quá cảnh, cảnh ngộ kyoo, kei
-条 điều điều khoản, điều kiện joo
 想 tưởng tư tưởng, tưởng tượng soo, so
 渡 độ đi qua, truyền tay to
 念 niệm ý niệm, tưởng niệm nen
@@ -1391,7 +1397,6 @@
 満 mãn thỏa mãn, bất mãn, mãn nguyện man
 兵 binh binh lính, binh lực hei, hyoo
 修 tu tu sửa, tu chính, tu luyện shuu, shu
-処 xử, xứ cư xử, xử trí, xử lí; nơi chỗ sho
 積 tích tích tụ, súc tích, tích phân seki
 編 biên đan, biên tập hen
 師 sư giáo sư, tôn sư trọng đạo shi
