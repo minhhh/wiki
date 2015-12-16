@@ -512,7 +512,6 @@
 愛 ái yêu, ái tình, ái mộ ai | かな.しい
 
 通 thông thông qua, thông hành, phổ thông tsuu, tsu | とお.り
-運 vận vận chuyển, vận mệnh un | はこ.ぶ
 遠 viễn viễn phương; in ancient time, one has to travel to far-away land to eat and buy clothes en, on | とお.い
 遊 du du hí, du lịch yuu, yu | あそ.び
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
@@ -1212,7 +1211,13 @@
 条 điều;article;ARTICLE One of the Reforestation Act: No walking legs may crush a tree; ジョウ  チョウ   デキ | えだ   すじ
 落 lạc;fall;Water each flower or the petals will wither and fall; ラク | お.ちる   お.ち
 
-冗 nhũng;superfluous; ジョウ
+冗 nhũng;superfluous;A crown for the wind would just be superfluous.; ジョウ
+
+冥 MINH; hades;If you can survive Hades for six days they give you a crown as a reward; メイ  ミョウ | くら.い
+
+軍 quân; army; British army cars are at the service of the crown; グン | いくさ
+輝 huy; radiance; Radiance is an army of rays; キ | かがや.く
+運 vận;carry; ウン | はこ.ぶ
 
 
 
@@ -1278,7 +1283,6 @@
 放 phóng giải phóng, phóng hỏa, phóng lao hoo
 敗 bại thất bại hai
 位 vị vị trí, tước vị, đơn vị I
-軍 quân quân đội, quân sự gun
 井 tỉnh giếng sei, shoo
 宮 cung cung điện kyuu, guu, ku
 検 kiểm kiểm tra ken
@@ -1836,7 +1840,6 @@
 滅 diệt diệt vong metsu
 詳 tường tường tế (chi tiết) shoo
 陥 hãm vây hãm kan
-輝 huy lấp lánh ki
 鳴 minh hót mei
 帝 đế hoàng đế tei
 踊 dũng nhảy múa yoo
