@@ -1230,10 +1230,9 @@
 景 cảnh cảnh sắc;scenery; it's quite a scene when the sun shines at the capital ケイ
 鯨 kình;whale;The whale is the ruler of the fish capital; ゲイ | くじら
 舎 xá;cottage;The cottage is so small - it has an umbrella for the roof; soil for the floor and room for only one mouth; シャ  セキ | やど.る
-周 chu;circumference; シュウ | まわ.り
+周 chu;circumference;When the ground has an opening (a hole), you need to cover the entire circumference or you will fall in; シュウ | まわ.り
 
-
-
+週 chu; week;It takes a WEEK to walk the "circumference" of this "road"; シュウ
 
 
 
@@ -1462,7 +1461,6 @@
 波 ba sóng, phong ba ha
 劇 kịch kịch bản, vở kịch, kịch tính geki
 拡 khuếch khuếch đại kaku
-週 chu tuần shuu
 否 phủ phủ định, phủ quyết hi
 織 chức dệt shoku, shiki
 舞 vũ vũ điệu, khiêu vũ bu
