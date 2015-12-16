@@ -1234,6 +1234,8 @@
 週 chu; week;It takes a WEEK to walk the "circumference" of this "road"; シュウ
 
 士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
+吉 cát;good luck;A true samurai gentleman will always mouth, "Good luck" to his opponents before a match; キチ   キツ | よし
+
 
 
 
@@ -1447,7 +1449,6 @@
 脳 não bộ não, đầu não noo
 候 hậu mùa, khí hậu, thời hậu koo
 存 tồn tồn tại, bảo tồn, ôn tồn son, zon
-吉 cát tốt lành, cát tường kichi, kitsu
 超 siêu siêu việt, siêu thị, siêu nhân choo
 健 kiện khỏe mạnh, kiện khang, tráng kiện ken
 障 chướng chướng ngại shoo
