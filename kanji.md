@@ -1212,6 +1212,9 @@
 条 điều;article;ARTICLE One of the Reforestation Act: No walking legs may crush a tree; ジョウ  チョウ   デキ | えだ   すじ
 落 lạc;fall;Water each flower or the petals will wither and fall; ラク | お.ちる   お.ち
 
+冗 nhũng;superfluous; ジョウ
+
+
 
 
 
@@ -2245,7 +2248,6 @@
 尺 xích thước shaku
 濁 trọc đục daku
 遍 biến lần hen
-冗 nhũng joo
 款 khoản điều khoản kan
 扶 phù phù hộ, phù trợ fu
 弔 điếu phúng điếu choo
