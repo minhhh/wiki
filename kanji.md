@@ -1223,6 +1223,14 @@
 坑 khanh; pit;A whirlwind digs a hole in the ground throwing out lots of dirt until it ends up with a giant pit; コウ
 
 高 cao cao đẳng, cao thượng koo | たか.い
+享 hưởng;receive;In basketball however, tall children receive all the attention; キョウ  コウ | う.けるu.keru
+塾 thục;cram school;Welcome to our cram school: you will receive a rounded education on our grounds; ジュク
+熟 thục;mellow;Even if mellow, shy children receive a well-rounded education, they too will have a chance to burn brightly and succeed; ジュク | う.れる
+亭 đình;pavilion;The tallest Pavilion crowns the street; テイ  チン
+
+
+
+
 
 
 
@@ -1948,7 +1956,6 @@
 紅 hồng hồng quân koo, ku
 衡 hành cái cân koo
 跳 khiêu khiêu vũ choo
-熟 thục hiền thục, thục nữ juku
 拍 phách vỗ tay haku, hyoo
 陰 âm âm mưu, số âm in
 尋 tầm sưu tầm, tầm nã jin
@@ -1956,7 +1963,6 @@
 雰 phân sương mù fun
 征 chinh chinh phục, chinh phạt sei
 艦 hạm chiến hạm, hạm đội kan
-塾 thục tư thục juku
 漫 mạn chịu đựng man
 喫 khiết uống, hút kitsu
 噴 phún phun fun
@@ -2056,7 +2062,6 @@
 栽 tài trồng sai
 穏 ổn yên ổn on
 姓 tính họ sei, shoo
-亭 đình cái đình tei
 刈 ngải cắt cỏ -
 幻 huyễn huyễn hoặc gen
 巣 sào sào huyệt soo
@@ -2247,7 +2252,6 @@
 悠 du xa xăm yuu
 甚 thậm thậm chí jin
 渦 qua dòng xoáy ka
-享 hưởng hưởng thụ kyoo
 尼 ni ni cô ni
 廉 liêm thanh liêm ren
 傑 kiệt tuấn kiệt, hào kiệt ketsu
