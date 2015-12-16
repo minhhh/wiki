@@ -1210,7 +1210,7 @@
 
 処 xử; dispose;To dispose of something you can either kick it away with your walking legs or you can wait for the wind to blow it away; ショ | ところ
 条 điều;article;ARTICLE One of the Reforestation Act: No walking legs may crush a tree; ジョウ  チョウ   デキ | えだ   すじ
-落 lạc;fall; ラク | お.ちる   お.ち
+落 lạc;fall;Water each flower or the petals will wither and fall; ラク | お.ちる   お.ち
 
 
 
