@@ -1206,6 +1206,7 @@
 格 cách;status;A tree of each kind in your garden = Status; カク   コウ   キャク   ゴウ
 賂 LỘ; bribe; to bribe you have to give money for each potilician; ロ | まいな.い   まいな.う
 略 lược;abbreviation;Each landing field has it's own abbreviation; リャク | ほぼ   おか.す
+客 khách;guest; キャク  カク
 
 
 
@@ -1396,7 +1397,6 @@
 鉄 thiết sắt, thiết đạo, thiết giáp tetsu
 並 tịnh xếp hàng hei
 責 trách khiển trách, trách cứ, trách nhiệm seki
-客 khách hành khách, thực khách kyaku, kaku
 献 hiến hiến dâng, hiến tặng, hiến thân ken, kon
 蔵 tàng bảo tàng, tàng trữ, tàng hình zoo
 系 hệ hệ thống, hệ số kei
