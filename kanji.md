@@ -1203,7 +1203,11 @@
 前 tiền;in front; ゼン |  まえ
 煎 roast;meat is roasted right in front of flames; セン | せん.じる   い.る   に.る
 
-各 các; each; カク |  おのおの
+各 các; each; each mouth is hard to feed in the winter; カク |  おのおの
+格 cách;status;A tree of each kind in your garden = Status; カク   コウ   キャク   ゴウ
+賂 LỘ; bribe; to bribe you have to give money for each potilician; ロ | まいな.い   まいな.う
+
+
 
 
 
@@ -1262,7 +1266,6 @@
 位 vị vị trí, tước vị, đơn vị I
 軍 quân quân đội, quân sự gun
 井 tỉnh giếng sei, shoo
-格 cách tư cách, cách thức, sở hữu cách kaku, koo
 宮 cung cung điện kyuu, guu, ku
 検 kiểm kiểm tra ken
 式 thức hình thức, phương thức, công thức shiki
