@@ -1193,7 +1193,8 @@
 造 tạo;create;A cow creates a road by eating all the grass on its path; ゾウ | つく.る   つく.り
 迫 bách;urge; I urge you to go on the white road; ハク | せま.る
 逃 đào;escape;Escape down the road when you recieve an omen/portent warning of danger; トウ | に.げる  に.がす    のが.す    のが.れる
-辺 biên; To protect the environs around their village, samurai would travel the roads with their swords;
+辺 biên;environs; To protect the environs around their village, samurai would travel the roads with their swords; ヘン |  あた.り   ほと.り
+
 
 
 
