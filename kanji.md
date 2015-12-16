@@ -227,8 +227,6 @@
 立 lập thiết lập, tự lập ritsu, ryuu | た.つ
 辛 tân cay shin | から.い
 
-高 cao cao đẳng, cao thượng koo | たか.い
-
 円 viên viên mãn, tiền Yên en
 
 市 thị thành thị, thị trường shi | いち
@@ -1217,7 +1215,14 @@
 
 軍 quân; army; British army cars are at the service of the crown; グン | いくさ
 輝 huy; radiance; Radiance is an army of rays; キ | かがや.く
-運 vận;carry; ウン | はこ.ぶ
+運 vận;carry;In the past, roads were established mainly to carry the army; ウン | はこ.ぶ
+
+冠 quán;crown;A crown, from the beginning of the new king's life, is glued to him. He must inherit it. カン | かんむり
+
+夢 mộng;dream;Sweet dreams like flowers for the eye are the crown of a perfect evening; ム ボウ | ゆめ   ゆめ.みる   くら.い
+坑 khanh; pit;A whirlwind digs a hole in the ground throwing out lots of dirt until it ends up with a giant pit; コウ
+
+高 cao cao đẳng, cao thượng koo | たか.い
 
 
 
@@ -1662,7 +1667,6 @@
 贈 tặng hiến tặng zoo, soo
 陽 dương thái dương yoo
 預 dự gửi yo
-夢 mộng mơ mu
 燃 nhiên nhiên liệu nen
 却 khước khước từ kyaku
 杉 sam cây sam -
@@ -2052,7 +2056,6 @@
 栽 tài trồng sai
 穏 ổn yên ổn on
 姓 tính họ sei, shoo
-冠 quán quán quân kan
 亭 đình cái đình tei
 刈 ngải cắt cỏ -
 幻 huyễn huyễn hoặc gen
@@ -2293,7 +2296,6 @@
 喝 hát mắng katsu
 忌 kị ghét, kiêng kị, cấm kị ki
 抗 kháng chống lại, đề kháng, kháng chiến koo
-坑 khanh hố đào koo
 禅 thiền thiền tọa zen
 逓 đệ đệ trình, gửi đi tei
 逝 thệ chết sei
