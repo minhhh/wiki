@@ -1194,6 +1194,11 @@
 迫 bách;urge; I urge you to go on the white road; ハク | せま.る
 逃 đào;escape;Escape down the road when you recieve an omen/portent warning of danger; トウ | に.げる  に.がす    のが.す    のが.れる
 辺 biên;environs; To protect the environs around their village, samurai would travel the roads with their swords; ヘン |  あた.り   ほと.り
+巡 tuần;patrol;The cops don't PATROL anymore - they just flood the road; ジュン |  めぐ.る   めぐ.り
+
+連 liên;take along;When you put your car on the road you should always take along a few friends; レン |  つら.なる   つら.ねる   つ.れる
+軌 quỹ;rut;My car got so stuck in a rut it required nine people pushing to get it out again; キ
+輸 thâu;transport; ユ |  シュ
 
 
 
@@ -1204,7 +1209,7 @@
 
 
 
-連 liên liên tục, liên lạc ren
+
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
 勝 thắng thắng lợi, thắng cảnh shoo
@@ -1267,7 +1272,6 @@
 再 tái lại, tái phát sai, sa
 容 dung dung mạo, hình dung, nội dung, dung nhận yoo
 規 quy quy tắc, quy luật ki
-輸 thâu thâu nhập, thâu xuất yu
 談 đàm hội đàm, đàm thoại dan
 説 thuyết tiểu thuyết, học thuyết, lí thuyết setsu, zei
 応 ứng đáp ứng, ứng đối, phản ứng oo
@@ -1723,7 +1727,6 @@
 御 ngự ngự uyển gyo, go
 邸 để trang trại tei
 包 bao bao bọc hoo
-巡 tuần tuần tra jun
 滞 trệ đình trệ tai
 侵 xâm xâm lược shin
 捨 xả vứt sha
@@ -2003,7 +2006,6 @@
 卸 tá bán buôn -
 匹 thất <đếm con vật> hitsu
 逸 dật ẩn dật itsu
-軌 quỹ quỹ đạo ki
 鑑 giám giám định kan
 荘 trang trang trại soo
 懐 hoài hoài cổ kai
