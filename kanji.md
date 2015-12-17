@@ -222,7 +222,6 @@
 碌 lục satisfactory ROKU | ろく.な
 研 nghiên mài, nghiên cứu ken | と.ぐ
 
-学 học học sinh, học thuyết gaku
 
 立 lập thiết lập, tự lập ritsu, ryuu | た.つ
 辛 tân cay shin | から.い
@@ -321,7 +320,6 @@
 功 công công lao achievement koo, ku | いさお
 
 仕 sĩ làm việc; attend; shi, ji
-売 mại sell; the scholar goes around to sell; bai | う.る
 続 tục tiếp tục; one continues to sell like a thread; zoku | つづ.く
 
 貝 bối vỏ sò - | かい
@@ -1236,7 +1234,11 @@
 士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
 吉 cát;good luck;A true samurai gentleman will always mouth, "Good luck" to his opponents before a match; キチ   キツ | よし
 壮 tráng;robust;Turtle samurai are more robust than regular samurai, because of their shells; ソウ | さかん
-荘 trang;villa; ソウ   ショウ   チャン | ほうき   おごそ.か
+荘 trang;villa;A villa is fancier (decorated with flowers) and more robust than the average; ソウ   ショウ   チャン | ほうき   おごそ.か
+売 mại; sell; the scholar goes around to sell; bai | う.る
+
+学 học học sinh, học thuyết gaku
+覚 giác;memorize;When you are in the schoolhouse you must memorise what you see; カク | おぼ.える   さ.ます   さ.める   さと.る
 
 
 
@@ -1500,7 +1502,6 @@
 油 du dầu yu
 喜 hỉ vui ki
 芸 nghệ nghệ thuật, nghệ nhân gei
-覚 giác cảm giác, giác ngộ kaku
 習 tập học tập shuu
 標 tiêu mục tiêu, tiêu chuẩn hyoo
 興 hưng, hứng hưng thịnh, phục hưng; hứng thú koo, kyoo
