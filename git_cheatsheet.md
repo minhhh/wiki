@@ -77,10 +77,12 @@
 ```
 <br/>
 
-#### Diff 2 files at specific revision
+#### Diff 2 files at specific revisions or branches
 
 ```
     git diff <revision_1>..<revision_2> -- <file>
+    git diff <branch_1> <branch_2> -- <file>
+    git diff <branch_2> -- <file>
 ```
 <br/>
 
