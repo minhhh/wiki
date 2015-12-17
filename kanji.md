@@ -1235,6 +1235,10 @@
 
 士 sĩ chiến sĩ, sĩ tử, bác sĩ shi
 吉 cát;good luck;A true samurai gentleman will always mouth, "Good luck" to his opponents before a match; キチ   キツ | よし
+壮 tráng;robust;Turtle samurai are more robust than regular samurai, because of their shells; ソウ | さかん
+荘 trang;villa; ソウ   ショウ   チャン | ほうき   おごそ.か
+
+
 
 
 
@@ -2039,7 +2043,6 @@
 匹 thất <đếm con vật> hitsu
 逸 dật ẩn dật itsu
 鑑 giám giám định kan
-荘 trang trang trại soo
 懐 hoài hoài cổ kai
 后 hậu hoàng hậu koo
 烈 liệt mãnh liệt, oanh liệt retsu
@@ -2130,7 +2133,6 @@
 架 giá cái giá ka
 艇 đĩnh thuyền nhỏ tei
 憂 ưu ưu phiền yuu
-壮 tráng cường tráng soo
 壌 nhưỡng thổ nhưỡng joo
 堤 đê đê điều tei
 拐 quải bắt cóc kai
