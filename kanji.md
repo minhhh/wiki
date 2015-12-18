@@ -1239,6 +1239,8 @@
 
 学 học học sinh, học thuyết gaku
 覚 giác;memorize;When you are in the schoolhouse you must memorise what you see; カク | おぼ.える   さ.ます   さ.める   さと.る
+栄 vinh;flourish;Within the schoolhouse, the tree of knowledge does flourish; エイ   ヨウ | さか.える   は.え
+
 
 
 
@@ -1640,7 +1642,6 @@
 撤 triệt triệt thoái tetsu
 納 nạp nộp noo, naQ, na, nan, too
 街 nhai phố xá gai, kai
-栄 vinh vinh quang, vinh hạnh ei
 救 cứu cấp cứu, cứu trợ kyuu
 仲 trọng trọng tài chuu
 裕 dụ giàu sang yuu
