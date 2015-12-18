@@ -298,7 +298,6 @@
 答 đáp trả lời, vấn đáp, đáp ứng too | こた.える
 
 聿 DUẬT bút イチ | ふで
-書 thư thư đạo, thư tịch, thư kí sho | か.く
 圕 đồ | ショ
 図 đồ bản đồ, đồ án, địa đồ zu, to | え
 
@@ -1241,6 +1240,11 @@
 覚 giác;memorize;When you are in the schoolhouse you must memorise what you see; カク | おぼ.える   さ.ます   さ.める   さと.る
 栄 vinh;flourish;Within the schoolhouse, the tree of knowledge does flourish; エイ   ヨウ | さか.える   は.え
 
+書 thư thư đạo, thư tịch, thư kí sho | か.く
+津 tân;haven;A brush laying in dirty water is a haven for bacteria; シン | つtsu
+
+牧 mục;pasture; ボク | まきmaki
+
 
 
 
@@ -1522,7 +1526,6 @@
 香 hương mùi hương, hương thơm koo, kyoo
 豊 phong phong phú hoo
 辞 từ từ vựng, từ chức ji
-津 tân bờ biển shin
 途 đồ tiền đồ to
 罪 tội tội phạm, tội ác zai
 諸 chư chư hầu sho
@@ -1877,7 +1880,6 @@
 縦 tung tung hoành, tung độ juu
 竜 long con rồng ryuu
 稼 giá kiếm tiền ka
-牧 mục mục đồng, du mục boku
 腰 yêu eo yoo
 脅 hiếp uy hiếp kyoo
 湯 thang nước nóng too
