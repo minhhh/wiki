@@ -762,7 +762,6 @@
 麗 lệ mĩ lệ rei | うるわ.しい
 
 攵 strike;  hit; 
-故 cố cố tổng thống; old person who was hit and die ko | ふる.い
 散 tán, tản phấn tán, tản mát san | ち.る
 
 々
@@ -1243,7 +1242,14 @@
 書 thư thư đạo, thư tịch, thư kí sho | か.く
 津 tân;haven;A brush laying in dirty water is a haven for bacteria; シン | つtsu
 
-牧 mục;pasture; ボク | まきmaki
+牧 mục;pasture; cow are strike/hit a bit so that they all go to the pasture; ボク | まきmaki
+攻 công; aggression; aggression is the craft of strike/hit; コウ | せ.める
+敗 bại;failure; when you fail you lose money and is struck ハイ | やぶ.れる
+枚 mai;sheet of; a tree is truck until it becomes a sheet of paper; マイ  バイ
+故 cố; cố tổng thống; old person who was hit and die コ | ふる.い
+
+
+
 
 
 
@@ -1316,7 +1322,6 @@
 費 phí học phí, lộ phí, chi phí hi
 演 diễn diễn viên, biểu diễn, diễn giả en
 放 phóng giải phóng, phóng hỏa, phóng lao hoo
-敗 bại thất bại hai
 位 vị vị trí, tước vị, đơn vị I
 井 tỉnh giếng sei, shoo
 宮 cung cung điện kyuu, guu, ku
@@ -1482,7 +1487,6 @@
 突 đột đột phá, đột nhiên totsu
 余 dư thặng dư, dư dật yo
 越 việt vượt qua, việt vị etsu
-攻 công tấn công, công kích koo
 歴 lịch lí lịch, lịch sử, kinh lịch reki
 破 phá phá hoại, tàn phá ha
 船 thuyền thuyền sen
@@ -1669,7 +1673,6 @@
 徴 trưng đặc trưng, tượng trưng choo
 端 đoan đầu đoạn tan
 肉 nhục thịt niku
-枚 mai tờ mai
 借 tá mượn, tá điền shaku
 骨 cốt xương, cốt nhục kotsu
 傾 khuynh khuynh đảo, khuynh hướng kei
