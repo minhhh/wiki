@@ -249,7 +249,6 @@
 広 quảng quảng trường, quảng đại koo | ひろ.い
 
 口 khẩu miệng, nhân khẩu, khẩu ngữ koo, ku
-言 ngôn ngôn ngữ, ngôn luận, phát ngôn gen, gon | い.う
 語 ngữ ngôn ngữ, từ ngữ go | かた.る
 読 độc độc giả, độc thư doku, toku, too | よ.む
 計 kê, kế thống kê; kế hoạch, kế toán kei | はか.る
@@ -1246,29 +1245,11 @@
 攻 công; aggression; aggression is the craft of strike/hit; コウ | せ.める
 敗 bại;failure; when you fail you lose money and is struck ハイ | やぶ.れる
 枚 mai;sheet of; a tree is truck until it becomes a sheet of paper; マイ  バイ
-故 cố; cố tổng thống; old person who was hit and die コ | ふる.い
+故 cố; cố tổng thống; happenstance; old person who was hit and die コ | ふる.い
+敬 kính;awe; you have to show awe to your master with flowery phrases, or you will be hit; ケイ  キョウ | うやま.う
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+言 ngôn ngôn ngữ, ngôn luận, phát ngôn gen, gon | い.う
+警 cảnh cảnh báo, cảnh sát, cảnh vệ; kei
 
 
 
@@ -1359,7 +1340,6 @@
 監 giam, giám giam cấm; giám đốc, giám sát kan
 準 chuẩn tiêu chuẩn, chuẩn bị jun
 張 trương chủ trương, khai trương choo
-警 cảnh cảnh báo, cảnh sát, cảnh vệ kei
 英 anh anh hùng, anh tú, anh tuấn ei
 松 tùng cây tùng, tùng bách shoo
 幹 cán cán sự, cán bộ kan
@@ -1711,7 +1691,6 @@
 奪 đoạt chiếm đoạt datsu
 豪 hào hào kiệt, phú hào goo
 紹 thiệu giới thiệu shoo
-敬 kính kính yêu kei
 症 chứng chứng bệnh, triệu chứng shoo
 購 cấu mua koo
 顧 cố nhìn lại ko
