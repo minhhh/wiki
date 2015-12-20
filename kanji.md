@@ -1251,6 +1251,8 @@
 警 cảnh;admonish;To admonish is to enforce awe by means of words; ケイ | いまし.める
 計 kê; plot; ケイ | はか.る  はか.らう
 詮 elucidate;Words that tell you the results of the whole story really elucidate; セン | せん.ずる   かい   あき.らか
+獄 ngục;prison;Prison is a dog-say-dog world; ゴク
+
 
 
 
@@ -2089,7 +2091,6 @@
 劣 liệt thua kém retsu
 凶 hung hung khí, hung thủ kyoo
 疎 sơ không thân so
-獄 ngục cai ngục, ngục tù goku
 紋 văn hoa văn mon
 紫 tử tử ngoại shi
 芽 nha mầm, manh nha ga
