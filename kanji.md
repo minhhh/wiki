@@ -251,7 +251,6 @@
 口 khẩu miệng, nhân khẩu, khẩu ngữ koo, ku
 語 ngữ ngôn ngữ, từ ngữ go | かた.る
 読 độc độc giả, độc thư doku, toku, too | よ.む
-計 kê, kế thống kê; kế hoạch, kế toán kei | はか.る
 調 điều, điệu điều tra, điều hòa; thanh điệu, giai điệu choo | しら.べる
 設 thiết thiết lập, kiến thiết setsu | もう.ける
 許 hứa permit;  approve kyo | ゆる.す
@@ -1250,6 +1249,9 @@
 
 言 ngôn ngôn ngữ, ngôn luận, phát ngôn gen, gon | い.う
 警 cảnh;admonish;To admonish is to enforce awe by means of words; ケイ | いまし.める
+計 kê; plot; ケイ | はか.る  はか.らう
+詮 elucidate;Words that tell you the results of the whole story really elucidate; セン | せん.ずる   かい   あき.らか
+
 
 
 
