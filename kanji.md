@@ -1249,7 +1249,8 @@
 敬 kính;awe; you have to show awe to your master with flowery phrases, or you will be hit; ケイ  キョウ | うやま.う
 
 言 ngôn ngôn ngữ, ngôn luận, phát ngôn gen, gon | い.う
-警 cảnh cảnh báo, cảnh sát, cảnh vệ; kei
+警 cảnh;admonish;To admonish is to enforce awe by means of words; ケイ | いまし.める
+
 
 
 
