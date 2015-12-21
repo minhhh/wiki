@@ -1252,6 +1252,8 @@
 計 kê; plot; ケイ | はか.る  はか.らう
 詮 elucidate;Words that tell you the results of the whole story really elucidate; セン | せん.ずる   かい   あき.らか
 獄 ngục;prison;Prison is a dog-say-dog world; ゴク
+訂 đính;revise;Revise, revise and revise until you have all the words nailed down; テイ
+
 
 
 
@@ -2019,7 +2021,6 @@
 抽 trừu trừu tượng chuu
 披 phi mở ra hi
 癒 dũ chữa bệnh yu
-訂 đính đính chính tei
 緯 vĩ vĩ độ I
 佳 giai giai nhân ka
 据 cư đặt, để -
