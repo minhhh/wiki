@@ -1253,6 +1253,9 @@
 詮 elucidate;Words that tell you the results of the whole story really elucidate; セン | せん.ずる   かい   あき.らか
 獄 ngục;prison;Prison is a dog-say-dog world; ゴク
 訂 đính;revise;Revise, revise and revise until you have all the words nailed down; テイ
+訃 フ;obituary;The words of the obituary were like a magic wand; removing all blemishes; | しらせ
+討 thảo;chastise; If you chastise someone correctly the words will stick like glue. トウ |  う.つ
+
 
 
 
@@ -1422,7 +1425,6 @@
 識 thức nhận thức, kiến thức, tri thức shiki
 雄 hùng thư hùng, anh hùng, hùng tráng yuu
 録 lục kí lục, đăng lục roku
-討 thảo thảo phạt, thảo luận, kiểm thảo too
 鮮 tiên sáng, tươi, tiên minh (tươi đẹp), tân tiên sen
 効 hiệu hiệu quả, hiệu ứng, công hiệu koo
 被 bị bị, bị động, bị cáo hi
