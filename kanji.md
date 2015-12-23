@@ -249,9 +249,6 @@
 広 quảng quảng trường, quảng đại koo | ひろ.い
 
 口 khẩu miệng, nhân khẩu, khẩu ngữ koo, ku
-語 ngữ ngôn ngữ, từ ngữ go | かた.る
-読 độc độc giả, độc thư doku, toku, too | よ.む
-調 điều, điệu điều tra, điều hòa; thanh điệu, giai điệu choo | しら.べる
 設 thiết thiết lập, kiến thiết setsu | もう.ける
 許 hứa permit;  approve kyo | ゆる.す
 
@@ -1259,10 +1256,10 @@
 詰 cật;packed;WORDS of GOOD LUCK are PACKED into fortune cookies; キツ  キチKICHI |  つ.める   つ.め   -づ.め   つ.まる   つ.む
 話 thoại nói chuyện, đối thoại, giai thoại wa | はな.す
 詠 vịnh;recitation;If you study some words for a recitation, there is a good chance they will be stuck in your memory for all eternity; エイ | よ.む   うた.う
-
-
-
-
+詩 thi;poem;A poem is a temple of words; シ | うた
+語 ngữ ngôn ngữ, từ ngữ go | かた.る
+読 độc độc giả, độc thư doku, toku, too | よ.む
+調 điều, điệu; tune;The most catchy tunes are words the go round and round the circuference of your head; チョウ | しら.べる   しら.べ   ととの.う   ととの.える
 
 
 
@@ -1823,7 +1820,6 @@
 釈 thích chú thích shaku
 似 tự tương tự ji
 肝 can tâm can kan
-詩 thi thi phú shi
 敷 phu trải fu
 濃 nồng nồng độ noo
 童 đồng nhi đồng doo
