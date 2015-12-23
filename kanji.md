@@ -265,7 +265,6 @@
 号 hiệu phiên hiệu, tín hiệu, phù hiệu goo | さけ.ぶ
 
 舌 thiệt cái lưỡi; mouth say thousands things with tongue; zetsu | した
-話 thoại nói chuyện, đối thoại, giai thoại wa | はな.す
 
 止 chỉ đình chỉ shi | と.まる
 正 chính chính đáng, chính nghĩa, chân chính sei, shoo | ただ.す
@@ -1255,6 +1254,12 @@
 訂 đính;revise;Revise, revise and revise until you have all the words nailed down; テイ
 訃 フ;obituary;The words of the obituary were like a magic wand; removing all blemishes; | しらせ
 討 thảo;chastise; If you chastise someone correctly the words will stick like glue. トウ |  う.つ
+訓 huấn;instruction;A stream of words (byte pairs) carries assembly instructions; クン   キン | おし.える   よ.む   くん.ずる
+詔 chiếu;imperial edict;The WORDS of an IMPERIAL EDICT are meant to SEDUCE the people and make them obey; ショウ | みことのり
+詰 cật;packed;WORDS of GOOD LUCK are PACKED into fortune cookies; キツ  キチKICHI |  つ.める   つ.め   -づ.め   つ.まる   つ.む
+話 thoại nói chuyện, đối thoại, giai thoại wa | はな.す
+詠 vịnh;recitation;If you study some words for a recitation, there is a good chance they will be stuck in your memory for all eternity; エイ | よ.む   うた.う
+
 
 
 
@@ -1648,7 +1653,6 @@
 巻 quyển quyển sách kan
 縮 súc co lại shuku
 折 chiết bẻ gãy, chiết suất setsu
-詰 cật đóng hộp kitsu
 弾 đàn, đạn đánh đàn; viên đạn dan
 宇 vũ vũ trụ u
 託 thác ủy thác taku
@@ -1802,7 +1806,6 @@
 臣 thần trung thần shin, jin
 柔 nhu nhu nhuyễn juu, nyuu
 慶 khánh quốc khánh kei
-訓 huấn huấn luyện kun
 距 cự cự li kyo
 歯 xỉ răng shi
 礼 lễ lễ nghi, lễ nghĩa rei, rai
@@ -2285,7 +2288,6 @@
 斗 đẩu một đấu to
 摂 nhiếp nhiếp chính, nhiếp thủ setsu
 剖 phẫu phẫu thuật, giải phẫu boo
-詠 vịnh ngâm thơ, vịnh ei
 睡 thụy ngủ, thụy miên sui
 侍 thị người hầu, thị lang ji
 酪 lạc sản phẩm sữa, nước quả ép raku
@@ -2396,7 +2398,6 @@
 倹 kiệm tiết kiệm ken
 薪 tân củi shin
 繭 kiển lông mày ken
-詔 chiếu chiếu chỉ của vua shoo
 漸 tiệm dần dần, tiệm cận zen
 吏 lại quan lại, thư lại ri
 弧 hồ cung, cánh cung ko
