@@ -1264,6 +1264,7 @@
 諾 nặc;consent;The words of the very young are useless without CONSENT from their elders; ダク
 諭 dụ;rebuke;A good rebuke is like being verbally slaughtered; ユ | さと.す
 
+式 thức;style;The latest style is shirts crafted out of arrows; シキ
 
 
 
@@ -1321,7 +1322,6 @@
 井 tỉnh giếng sei, shoo
 宮 cung cung điện kyuu, guu, ku
 検 kiểm kiểm tra ken
-式 thức hình thức, phương thức, công thức shiki
 確 xác chính xác, xác lập, xác suất kaku
 裁 tài may vá, tài phán, trọng tài sai
 沢 trạch đầm lầy taku
