@@ -1260,6 +1260,8 @@
 語 ngữ ngôn ngữ, từ ngữ go | かた.る
 読 độc độc giả, độc thư doku, toku, too | よ.む
 調 điều, điệu; tune;The most catchy tunes are words the go round and round the circuference of your head; チョウ | しら.べる   しら.べ   ととの.う   ととの.える
+談 đàm;discuss;Internet discussions often involve inflammatory words. Flame war; ダン
+諾 nặc;consent;The words of the very young are useless without CONSENT from their elders; ダク
 
 
 
@@ -1327,7 +1329,6 @@
 再 tái lại, tái phát sai, sa
 容 dung dung mạo, hình dung, nội dung, dung nhận yoo
 規 quy quy tắc, quy luật ki
-談 đàm hội đàm, đàm thoại dan
 説 thuyết tiểu thuyết, học thuyết, lí thuyết setsu, zei
 応 ứng đáp ứng, ứng đối, phản ứng oo
 争 tranh đấu tranh, chiến tranh, tranh luận, cạnh tranh soo
@@ -2146,7 +2147,6 @@
 頻 tần tần số, tần suất hin
 鼻 tị mũi bi
 践 tiễn thực tiễn sen
-諾 nặc chấp thuận daku
 俸 bổng lương bổng, bổng lộc hoo
 穀 cốc ngũ cốc koku
 髄 tủy xương tủy zui
