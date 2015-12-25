@@ -1262,7 +1262,7 @@
 調 điều, điệu; tune;The most catchy tunes are words the go round and round the circuference of your head; チョウ | しら.べる   しら.べ   ととの.う   ととの.える
 談 đàm;discuss;Internet discussions often involve inflammatory words. Flame war; ダン
 諾 nặc;consent;The words of the very young are useless without CONSENT from their elders; ダク
-
+諭 dụ;rebuke;A good rebuke is like being verbally slaughtered; ユ | さと.す
 
 
 
@@ -1996,7 +1996,6 @@
 騰 đằng tăng cao too
 翻 phiên phiên dịch hon
 叫 khiếu kêu kyoo
-諭 dụ cảnh báo yu
 随 tùy tùy tùng zui
 粘 niêm niêm mạc nen
 浸 tẩm ngâm tẩm shin
