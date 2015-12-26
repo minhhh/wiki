@@ -256,7 +256,6 @@
 記 kí thư kí, kí sự, kí ức ki | しる.す
 誌 chí tạp chí shi |
 議 nghị nghị luận, nghị sự gi |
-試 thí thí nghiệm, thí điểm shi | ため.す
 
 咲 tiếu nở hoa - | さ.く
 号 hiệu phiên hiệu, tín hiệu, phù hiệu goo | さけ.ぶ
@@ -1265,6 +1264,8 @@
 諭 dụ;rebuke;A good rebuke is like being verbally slaughtered; ユ | さと.す
 
 式 thức;style;The latest style is shirts crafted out of arrows; シキ
+試 thí;test;In an essay test, you are judged on both your choice of words and your writing style; シ | こころ.みる  ため.す
+
 
 
 
