@@ -1265,6 +1265,7 @@
 
 式 thức;style;The latest style is shirts crafted out of arrows; シキ
 試 thí;test;In an essay test, you are judged on both your choice of words and your writing style; シ | こころ.みる  ため.す
+弐 nhị;two; Once you have two old arrows left in your quiver, you better start running...! ニ  ジ | ふた.つ  そえ
 
 
 
@@ -2413,7 +2414,6 @@
 錘 chùy quả cân sui
 虞 ngu lo lắng -
 遵 tuân tuân theo, tuân phục jun
-弐 nhị số hai (thay cho 二 trên tiền giấy) ni
 且 thả và, hơn nữa -
 脹 trướng nở ra, bành trướng choo
 匁 <đơn vị đo khối lượng> -
