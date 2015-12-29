@@ -738,7 +738,6 @@
 
 戈 QUA halberd | ほこ
 我 ngã bản ngã ga | われ
-成 thành thành tựu, hoàn thành, trở thành sei, joo | な.る
 
 忄 standing heart
 怪 quái kì quái, quái vật kai | あや.しい
@@ -1270,7 +1269,9 @@
 栽 tài;plantation;During the harvest festival, all the trees on the plantation celebrate what a good job they did producing fruit; サイ
 載 tải;ride;Load the crops into the wagon in preparation for the harvest festival; サイ | の.せる   の.る
 茂 mậu;overgrown;At the flower parade, (hippies' parade) all I can see is walking masses of overgrown hair!; モ | しげ.る
-戚 relatives; ソク セキ | いた.む   うれ.える   みうち
+戚 relatives;When you take visiting relatives to a parade, hold the little ones up above so they can see over the crowd; ソク セキ | いた.む   うれ.える   みうち
+成 thành;turn into; セイ   ジョウ | な.る   な.す
+
 
 
 
