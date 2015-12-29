@@ -45,7 +45,6 @@
 済 tế kinh tế, cứu tế sai | す.まない
 決 quyết quyết định ketsu | き.める
 汚 ô ô nhiễm o | けが.す
-減 giảm gia giảm, giảm gen | へ.る
 激 kích kích động, kích thích, kích hoạt geki | はげ.しい
 
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
@@ -1275,12 +1274,9 @@
 誠 thành;sincerity;Sincerity happens when what you say actually turns into something; セイ | まこと
 威 uy;intimidate;The march of women - against intimidation in the workplace - is pretty intimidating in itself!; イ |  おど.す   おど.し   おど.かす
 滅 diệt;destroy;Water flows down to destroy the march of fire; メツ | ほろ.びる   ほろ.ぶ   ほろ.ぼす
+減 giảm;dwindle;When WATER was tossed on the PROTESTORS (a march of mouths), the numbers began to DWINDLE. ゲン | へ.る   へ.らす
 
-
-
-
-
-
+蔑 revile;They gays were reviled by society, so they put flowers above their eyes and marched around; ベツ | ないがしろ   なみ.する   くらい   さげす.む
 
 
 
