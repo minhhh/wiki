@@ -1282,9 +1282,14 @@
 止 chỉ;stop; シ | と.まる
 歩 bộ; walk; ホ  ブ   フ| ある.く
 渉 thiệp;ford;A ford is a place where one can walk through the water, a place only a few footsteps deep; ショウ | わた.る
-頻 tần;repeatedly; ヒン | しき.りに
+頻 tần;repeatedly;I repeatedly walk around hoping this kanji will come into my head; ヒン | しき.りに
+肯 khẳng;agreement;The peace agreement put a stop on the fighting for a month.; コウ | がえんじ.る
+
+確 認
 
 
+
+確 xác;assurance;To assure that no one will get into the Turkey coop, put a huge rock in the entrance! カク   コウ | たし.か   たし.かめる
 
 
 
@@ -1348,7 +1353,6 @@
 井 tỉnh giếng sei, shoo
 宮 cung cung điện kyuu, guu, ku
 検 kiểm kiểm tra ken
-確 xác chính xác, xác lập, xác suất kaku
 裁 tài may vá, tài phán, trọng tài sai
 沢 trạch đầm lầy taku
 義 nghĩa ý nghĩa, nghĩa lí, đạo nghĩa gi
@@ -2286,7 +2290,6 @@
 嗣 tự thừa kế shi
 暁 hiểu bình minh gyoo
 挟 hiệp kẹp kyoo
-肯 khẳng khẳng định koo
 猟 liệp săn bắn ryoo
 胎 thai bào thai tai
 塊 khối đống kai
