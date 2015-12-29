@@ -261,7 +261,6 @@
 舌 thiệt cái lưỡi; mouth say thousands things with tongue; zetsu | した
 
 正 chính chính đáng, chính nghĩa, chân chính sei, shoo | ただ.す
-企 xí xí nghiệp, xí hoạch ki | くわだ.てる
 政 chính chính phủ, chính sách, hành chính sei, shoo | まつりごと
 
 東 đông phía đông too | ひがし
@@ -1284,6 +1283,12 @@
 渉 thiệp;ford;A ford is a place where one can walk through the water, a place only a few footsteps deep; ショウ | わた.る
 頻 tần;repeatedly;I repeatedly walk around hoping this kanji will come into my head; ヒン | しき.りに
 肯 khẳng;agreement;The peace agreement put a stop on the fighting for a month.; コウ | がえんじ.る
+企 xí;undertake;In Resident Evil, you UNDERTAKE a mission to STOP UMBRELLA キ | くわだ.てる   たくら.む
+歴 lịch;curriculum;A CURRICULUM is a calendar that replaces days with reasons to stop having fun; レキ  レッキ
+
+武 vũ;warrior; ブ  ム | たけ.し
+
+
 
 
 
@@ -1293,9 +1298,7 @@
 認 nhận;acknowledge;Imagine a salaryman forced to acknowledge some unfortunate news. His stoic face means he is unable to respond to the words, and endures them, for now at least; ニン|  みと.める   したた.める
 
 
-
-
-
+帽 mạo;cap; If you wear a towel as a cap, you are at risk of being seized and searched in U.S. airports; ボウ  モウ | ずきん   おお.う
 
 
 
@@ -1367,7 +1370,6 @@
 配 phối phân phối, chi phối, phối ngẫu hai
 商 thương thương mại, thương số shoo
 収 thu thu nhập, thu nhận, thu hoạch shuu
-武 vũ vũ trang, vũ lực bu, mu
 農 nông nông nghiệp, nông thôn, nông dân noo
 疑 nghi nghi ngờ, nghi vấn, tình nghi gi
 庁 sảnh đại sảnh choo
@@ -1506,7 +1508,6 @@
 突 đột đột phá, đột nhiên totsu
 余 dư thặng dư, dư dật yo
 越 việt vượt qua, việt vị etsu
-歴 lịch lí lịch, lịch sử, kinh lịch reki
 破 phá phá hoại, tàn phá ha
 船 thuyền thuyền sen
 危 nguy nguy hiểm, nguy cơ ki
@@ -2206,7 +2207,6 @@
 慈 từ từ bi, nhân từ ji
 縛 phược baku
 欺 khi lừa dối gi
-帽 mạo cái mũ boo
 腸 tràng ruột choo
 濯 trạc rửa taku
 薫 huân thơm kun
