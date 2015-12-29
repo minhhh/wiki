@@ -1277,6 +1277,7 @@
 減 giảm;dwindle;When WATER was tossed on the PROTESTORS (a march of mouths), the numbers began to DWINDLE. ゲン | へ.る   へ.らす
 
 蔑 revile;They gays were reviled by society, so they put flowers above their eyes and marched around; ベツ | ないがしろ   なみ.する   くらい   さげす.む
+桟 sạn;scaffold; You need a SCAFFOLD made of WOOD to build a FLOAT if it will be several stories high; サン   セン | かけはし
 
 
 
@@ -2382,7 +2383,6 @@
 侯 hầu tước hầu, hầu tước koo
 雌 thư con cái (<>con đực) shi
 爵 tước tước hiệu, quan tước shaku
-桟 sạn giá để đồ san
 衷 trung ở giữa chuu
 鐘 chung cái chuông shoo
 倣 phỏng mô phỏng hoo
