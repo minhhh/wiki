@@ -1286,7 +1286,8 @@
 企 xí;undertake;In Resident Evil, you UNDERTAKE a mission to STOP UMBRELLA キ | くわだ.てる   たくら.む
 歴 lịch;curriculum;A CURRICULUM is a calendar that replaces days with reasons to stop having fun; レキ  レッキ
 
-武 vũ;warrior; ブ  ム | たけ.し
+武 vũ;warrior;ONE-ARROW can STOP a warrior; ブ  ム | たけ.し
+賦 phú;levy;A warrior stands guard at a bridge collecting shells as a levy for any who want to pass; フ  ブ
 
 
 
@@ -2401,7 +2402,6 @@
 惰 nọa lười biếng da
 伺 tứ hỏi thăm shi
 某 mỗ ~ nào đó boo
-賦 phú thơ phú, thiên phú fu
 壱 nhất số một, một (thay cho 一) ichi
 痘 đậu thủy đậu (bệnh) too
 褐 hoạt màu nâu katsu
