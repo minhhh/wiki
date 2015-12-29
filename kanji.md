@@ -1270,7 +1270,9 @@
 載 tải;ride;Load the crops into the wagon in preparation for the harvest festival; サイ | の.せる   の.る
 茂 mậu;overgrown;At the flower parade, (hippies' parade) all I can see is walking masses of overgrown hair!; モ | しげ.る
 戚 relatives;When you take visiting relatives to a parade, hold the little ones up above so they can see over the crowd; ソク セキ | いた.む   うれ.える   みうち
-成 thành;turn into; セイ   ジョウ | な.る   な.す
+成 thành;turn into;It only takes a single stroke of a dagger for a parade to TURN INTO a bloodbath; セイ   ジョウ | な.る   な.す
+城 thành;castle; ジョウ |  しろ
+
 
 
 
@@ -1462,7 +1464,6 @@
 券 khoán vé, chứng khoán ken
 清 thanh thanh bạch, trong sạch sei, shoo
 核 hạch hạt nhân, hạch tâm kaku
-城 thành thành phố, thành quách joo
 販 phán bán, phán mại han
 請 thỉnh thỉnh cầu, thỉnh nguyện sei, shin
 久 cửu lâu, vĩnh cửu kyuu, ku
