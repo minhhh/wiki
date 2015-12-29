@@ -1274,7 +1274,8 @@
 城 thành;castle;The sand castle is just the 土 that turns into a castle. ジョウ |  しろ
 誠 thành;sincerity;Sincerity happens when what you say actually turns into something; セイ | まこと
 威 uy;intimidate;The march of women - against intimidation in the workplace - is pretty intimidating in itself!; イ |  おど.す   おど.し   おど.かす
-滅 diệt;
+滅 diệt;destroy;Water flows down to destroy the march of fire; メツ | ほろ.びる   ほろ.ぶ   ほろ.ぼす
+
 
 
 
