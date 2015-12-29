@@ -1271,7 +1271,12 @@
 茂 mậu;overgrown;At the flower parade, (hippies' parade) all I can see is walking masses of overgrown hair!; モ | しげ.る
 戚 relatives;When you take visiting relatives to a parade, hold the little ones up above so they can see over the crowd; ソク セキ | いた.む   うれ.える   みうち
 成 thành;turn into;It only takes a single stroke of a dagger for a parade to TURN INTO a bloodbath; セイ   ジョウ | な.る   な.す
-城 thành;castle; ジョウ |  しろ
+城 thành;castle;The sand castle is just the 土 that turns into a castle. ジョウ |  しろ
+誠 thành;sincerity;Sincerity happens when what you say actually turns into something; セイ | まこと
+威 uy;intimidate;The march of women - against intimidation in the workplace - is pretty intimidating in itself!; イ |  おど.す   おど.し   おど.かす
+滅 diệt;
+
+
 
 
 
@@ -1756,7 +1761,6 @@
 紛 phân phân vân fun
 駐 trú đồn trú chuu
 芝 chi cỏ -
-誠 thành thành thực sei
 孝 hiếu hiếu thảo koo
 握 ác nắm aku
 潟 tích vũng nước -
@@ -1807,7 +1811,6 @@
 械 giới cơ giới kai
 隣 lân lân bang, lân cận rin
 到 đáo đến too
-威 uy uy nghi, uy nghiêm I
 微 vi hiển vi, vi sinh vật bi
 翌 dực <tiếp sau> yoku
 硬 ngạnh cứng, ngang ngạnh koo
@@ -1868,7 +1871,6 @@
 剣 kiếm thanh kiếm ken
 寿 thọ trường thọ, tổi thọ ju
 序 tự trình tự jo
-滅 diệt diệt vong metsu
 詳 tường tường tế (chi tiết) shoo
 陥 hãm vây hãm kan
 鳴 minh hót mei
