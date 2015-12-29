@@ -1266,6 +1266,8 @@
 試 thí;test;In an essay test, you are judged on both your choice of words and your writing style; シ | こころ.みる  ため.す
 弐 nhị;two; Once you have two old arrows left in your quiver, you better start running...! ニ  ジ | ふた.つ  そえ
 域 vực;range; イキ
+賊 tặc;burglar;The burglar tried to steal my money by using a lockpicking needle, so I impaled him to the wall with my spear; ゾク
+
 
 
 
@@ -2347,7 +2349,6 @@
 謹 cẩn kính cẩn kin
 醜 xú xấu xí shuu
 婿 tế con rể sei
-賊 tặc trộm cướp, đạo tặc zoku
 姻 nhân hôn nhân in
 租 tô thuế, tô thuế so
 褒 bao khen ngợi hoo
