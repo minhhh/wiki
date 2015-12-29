@@ -784,7 +784,7 @@
 揃 be complete;  uniform;  all present セン | そろ.える
 
 广
-度 độ mức độ; The cave/cavern is 20 degrees below zero and your crotch is freezing; do, to, taku | たび
+度 độ mức độ; The cave/cavern is 20 degrees below zero and your crotch is freezing; ド  ト  タク | たび
 
 管 quản ống, mao quản, quản lí kan | くだ
 
@@ -1285,12 +1285,12 @@
 頻 tần;repeatedly;I repeatedly walk around hoping this kanji will come into my head; ヒン | しき.りに
 肯 khẳng;agreement;The peace agreement put a stop on the fighting for a month.; コウ | がえんじ.る
 
-確 認
-
 
 
 確 xác;assurance;To assure that no one will get into the Turkey coop, put a huge rock in the entrance! カク   コウ | たし.か   たし.かめる
 
+
+認 nhận;acknowledge;Imagine a salaryman forced to acknowledge some unfortunate news. His stoic face means he is unable to respond to the words, and endures them, for now at least; ニン|  みと.める   したた.める
 
 
 
@@ -1338,7 +1338,6 @@
 際 tế quốc tế sai
 革 cách da thuộc, cách mạng kaku
 論 luận lí luận, ngôn luận, thảo luận ron
-認 nhận xác nhận, nhận thức nin
 億 ức trăm triệu oku
 感 cảm cảm giác, cảm xúc, cảm tình kan
 示 thị biểu thị ji, shi
