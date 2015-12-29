@@ -1270,7 +1270,7 @@
 栽 tài;plantation;During the harvest festival, all the trees on the plantation celebrate what a good job they did producing fruit; サイ
 載 tải;ride;Load the crops into the wagon in preparation for the harvest festival; サイ | の.せる   の.る
 茂 mậu;overgrown;At the flower parade, (hippies' parade) all I can see is walking masses of overgrown hair!; モ | しげ.る
-戚 grieve; ソク セキ | いた.む   うれ.える   みうち
+戚 relatives; ソク セキ | いた.む   うれ.える   みうち
 
 
 
