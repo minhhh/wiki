@@ -52,7 +52,6 @@
 
 地 địa thổ địa, địa đạo chi, ji |
 坊 phường phường , con trai boo, bo |
-域 vực khu vực, lĩnh vực iki
 増 tăng tăng gia, tăng tốc zoo | ふ.える
 
 人 nhân nhân vật jin, nin | ひと
@@ -1266,6 +1265,8 @@
 式 thức;style;The latest style is shirts crafted out of arrows; シキ
 試 thí;test;In an essay test, you are judged on both your choice of words and your writing style; シ | こころ.みる  ため.す
 弐 nhị;two; Once you have two old arrows left in your quiver, you better start running...! ニ  ジ | ふた.つ  そえ
+域 vực;range; イキ
+
 
 
 
