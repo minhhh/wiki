@@ -1267,6 +1267,14 @@
 弐 nhị;two; Once you have two old arrows left in your quiver, you better start running...! ニ  ジ | ふた.つ  そえ
 域 vực;range; イキ
 賊 tặc;burglar;The burglar tried to steal my money by using a lockpicking needle, so I impaled him to the wall with my spear; ゾク
+栽 tài;plantation;During the harvest festival, all the trees on the plantation celebrate what a good job they did producing fruit; サイ
+載 tải;ride;Load the crops into the wagon in preparation for the harvest festival; サイ | の.せる   の.る
+茂 mậu;overgrown;At the flower parade, (hippies' parade) all I can see is walking masses of overgrown hair!; モ | しげ.る
+戚 grieve; ソク セキ | いた.む   うれ.える   みうち
+
+
+
+
 
 
 
@@ -1577,7 +1585,6 @@
 混 hỗn hỗn hợp, hỗn độn, hỗn loạn kon
 幕 mạc khai mạc, bế mạc maku, baku
 賀 hạ chúc mừng ga
-載 tải đăng tải sai
 創 sáng sáng tạo soo
 陣 trận trận mạc jin
 暴 bạo, bộc bạo lực, bộc lộ boo, baku
@@ -1755,7 +1762,6 @@
 謝 tạ cảm tạ, tạ lỗi sha
 範 phạm phạm vi, mô phạm han
 臓 tạng nội tạng zoo
-茂 mậu mọc sum suê mo
 揺 dao dao động yoo
 祭 tế lễ hội sai
 兼 kiêm kiêm nhiệm ken
@@ -2065,7 +2071,6 @@
 潤 nhuận lợi nhuận, nhuận tràng jun
 俗 tục thông tục, tục lệ zoku
 脂 chi mỡ shi
-栽 tài trồng sai
 穏 ổn yên ổn on
 姓 tính họ sei, shoo
 刈 ngải cắt cỏ -
