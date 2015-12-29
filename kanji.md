@@ -260,10 +260,8 @@
 
 舌 thiệt cái lưỡi; mouth say thousands things with tongue; zetsu | した
 
-止 chỉ đình chỉ shi | と.まる
 正 chính chính đáng, chính nghĩa, chân chính sei, shoo | ただ.す
 企 xí xí nghiệp, xí hoạch ki | くわだ.てる
-歩 bộ bộ hành, tiến bộ ho, bu, fu | ある.く
 政 chính chính phủ, chính sách, hành chính sei, shoo | まつりごと
 
 東 đông phía đông too | ひがし
@@ -1278,6 +1276,15 @@
 
 蔑 revile;They gays were reviled by society, so they put flowers above their eyes and marched around; ベツ | ないがしろ   なみ.する   くらい   さげす.む
 桟 sạn;scaffold; You need a SCAFFOLD made of WOOD to build a FLOAT if it will be several stories high; サン   セン | かけはし
+銭 tiền;coin;Gold coins will not float; セン   ゼン | ぜに   すき
+浅 thiển;shallow;water can't be too SHALLOW if you expect to float. セン | あさ.い
+
+止 chỉ;stop; シ | と.まる
+歩 bộ; walk; ホ  ブ   フ| ある.く
+渉 thiệp;ford;A ford is a place where one can walk through the water, a place only a few footsteps deep; ショウ | わた.る
+頻 tần;repeatedly; ヒン | しき.りに
+
+
 
 
 
@@ -1450,7 +1457,6 @@
 鮮 tiên sáng, tươi, tiên minh (tươi đẹp), tân tiên sen
 効 hiệu hiệu quả, hiệu ứng, công hiệu koo
 被 bị bị, bị động, bị cáo hi
-渉 thiệp can thiệp, giao thiệp shoo
 融 dung tan chảy, dung hòa, dung hợp yuu
 満 mãn thỏa mãn, bất mãn, mãn nguyện man
 兵 binh binh lính, binh lực hei, hyoo
@@ -1696,7 +1702,6 @@
 瀬 lại thác nước -
 拒 cự cự tuyệt kyo
 縄 thằng sợi dây joo
-銭 tiền tiền bạc sen
 律 luật luật pháp ritsu, richi
 純 thuần đơn thuần, thuần khiết jun
 贈 tặng hiến tặng zoo, soo
@@ -1853,7 +1858,6 @@
 即 tức tức thì, lập tức, tức là soku
 翼 dực cánh yoku
 懇 khẩn khẩn khoản, khẩn đãi kon
-浅 thiển thiển cận sen
 昔 tích ngày xưa seki, shaku
 麻 ma cây tầm ma ma
 緑 lục xanh lục ryoku, roku
@@ -2155,7 +2159,6 @@
 唐 đường nhà Đường, Trung quốc too
 虜 lỗ tù binh ryo
 垂 thùy rủ xuống sui
-頻 tần tần số, tần suất hin
 鼻 tị mũi bi
 践 tiễn thực tiễn sen
 俸 bổng lương bổng, bổng lộc hoo
