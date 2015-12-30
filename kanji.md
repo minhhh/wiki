@@ -504,7 +504,6 @@
 
 呉 ngô triều Ngô, Trung quốc, cho ai, go | くれる
 
-走 tẩu chạy soo | はし.る
 起 khởi khởi động, khởi sự, khởi nghĩa ki | おこる
 
 馬 mã ngựa ba | うま
@@ -1289,7 +1288,18 @@
 証 chứng;evidence;evidence must be correct words; ショウ | あかし
 政 chính;politics;Those involved in politics are always trying to elect the correct taskmaster; セイ  ショウ | まつりごと   まん
 
-定 định;determine; テイ ジョウ | さだ.める   さだ.まる   さだ.か
+定 định;determine;In The Karate Kid, the boy must prove his determination by MENDING his teacher's HOUSE in various ways; テイ ジョウ | さだ.める   さだ.まる   さだ.か
+錠 đĩnh;lock;Even if you lock up your GOLD, a DETERMINED thief will get it in the end; ジョウ
+
+走 tẩu;run; If you run 10 miles, you will need to mend your socks; ソウ | はし.る
+超 siêu;transcend;To transcend to a higher path you need to run from the seduction of earthly desires; チョウ | こ.える   こ.す
+赴 phó;proceed;While running, my magic wand tells me where to proceed; フ | おもむ.く
+越 việt;surpass;The person in charge of running the parade surpassed all our expectations; エツ オツ | こ.す  こ.える
+
+
+
+
+
 
 
 
@@ -1491,7 +1501,6 @@
 脳 não bộ não, đầu não noo
 候 hậu mùa, khí hậu, thời hậu koo
 存 tồn tồn tại, bảo tồn, ôn tồn son, zon
-超 siêu siêu việt, siêu thị, siêu nhân choo
 健 kiện khỏe mạnh, kiện khang, tráng kiện ken
 障 chướng chướng ngại shoo
 険 hiểm nguy hiểm, mạo hiểm, hiểm ác ken
@@ -1511,7 +1520,6 @@
 療 liệu trị liệu ryoo
 突 đột đột phá, đột nhiên totsu
 余 dư thặng dư, dư dật yo
-越 việt vượt qua, việt vị etsu
 破 phá phá hoại, tàn phá ha
 船 thuyền thuyền sen
 危 nguy nguy hiểm, nguy cơ ki
@@ -2182,7 +2190,6 @@
 閲 duyệt kiểm duyệt etsu
 寮 liêu kí túc xá ryoo
 赦 xá tha thứ, dung xá, xá tội sha
-赴 phó fu
 宰 tể chúa tể, tể tướng sai
 殴 ẩu ẩu đả oo
 怠 đãi lười biếng tai
@@ -2330,7 +2337,6 @@
 滴 đích giọt nước teki
 勅 sắc sắc lệnh choku
 隷 lệ nô lệ, lệ thuộc rei
-錠 đĩnh viên thuốc, khóa joo
 拙 chuyết vụng về, dở setsu
 迭 điệt luân phiên tetsu
 擬 nghĩ bắt chước gi
