@@ -695,8 +695,6 @@
 空 không không khí, hư không, hàng không kuu | そら , す.く
 
 
-衤
-衣 y y phục I | きぬ
 園 viên vườn, điền viên, hoa viên, công viên en | その
 表 biểu biểu hiện, bảng biểu, biểu diễn hyoo | おもて
 初 sơ sơ cấp sho | はじ.め
@@ -1301,8 +1299,10 @@
 延 duyên;prolong;Stretching correctly prolongs life.  エン | の.びる   の.べる   の.べ   の.ばす
 誕 đản;nativity; birth is a prolonged event with a lot of words uttered; タン
 礎 sở;cornerstone;Features like stones and groves of trees are the cornerstones of a happy zoo; ソ | いしずえ 
-婿 tế;bridegroom; セイ | むこ
+婿 tế;bridegroom;The bridegroom will take his woman to the zoo for a month long honeymoon セイ | むこ
 
+衤
+衣 y y phục I | きぬ
 
 
 
