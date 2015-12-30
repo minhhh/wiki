@@ -475,7 +475,6 @@
 
 参 tham tham chiếu, tham quan, tham khảo san
 
-建 kiến kiến thiết, kiến tạo ken, kon | たてる
 
 忙 mang đa mang boo | いそが.しい
 
@@ -1297,7 +1296,14 @@
 
 是 thị;just so;I spent all day mending to make things just so; ゼ  シ | これ   この   ここ
 題 đề;topic;The "TOPIC" of the day's newspaper must be placed JUST SO at the top of the PAGE to attract attention; ダイ
-堤 đê; dike;
+堤 đê; dike;Making a dike is all about arranging the soil just so テイ | つつみ
+
+建 kiến;build;A construction worker's classic morning. Stretch, brush his teeth, and then start to build; ケン コン | た.てる   た.て   た.つ
+鍵 key;The metal thing you need in order to enter things you build is a key.ケン   かぎ
+延 duyên;prolong;Stretching correctly prolongs life.  エン | の.びる   の.べる   の.べ   の.ばす
+誕
+
+
 
 
 
@@ -1539,7 +1545,6 @@
 異 dị dị bản, dị tộc, dị giáo I
 薬 dược thuốc yaku
 盛 thịnh thịnh vượng, hưng thịnh sei, joo
-延 duyên trì hoãn en
 遺 di sót lại, di tích, di ngôn, di vật i, yui
 級 cấp sơ cấp, trung cấp, cao cấp kyuu
 講 giảng giảng đường, giảng bài koo
