@@ -669,8 +669,6 @@
 宿 túc tá túc, kí túc xá shuku
 
 疋 sơ head; bolt of cloth ヒキ ショ ソ  ヒツ | あし
-題 đề đề tài; topic; the topic is a page in bolt of paper read under the sun dai
-是 thị đúng, thị phi; right;  justice; a bolt of cloths under the sun is the right thing; ze | これ
 提 đề cung cấp; propose; take along; the hand raised to propose the right thing to do ; tei | さ.げる
 
 柿 THỊ シ |  かき  こけら
@@ -1261,6 +1259,7 @@
 栽 tài;plantation;During the harvest festival, all the trees on the plantation celebrate what a good job they did producing fruit; サイ
 載 tải;ride;Load the crops into the wagon in preparation for the harvest festival; サイ | の.せる   の.る
 茂 mậu;overgrown;At the flower parade, (hippies' parade) all I can see is walking masses of overgrown hair!; モ | しげ.る
+
 戚 relatives;When you take visiting relatives to a parade, hold the little ones up above so they can see over the crowd; ソク セキ | いた.む   うれ.える   みうち
 成 thành;turn into;It only takes a single stroke of a dagger for a parade to TURN INTO a bloodbath; セイ   ジョウ | な.る   な.す
 城 thành;castle;The sand castle is just the 土 that turns into a castle. ジョウ |  しろ
@@ -1295,6 +1294,10 @@
 超 siêu;transcend;To transcend to a higher path you need to run from the seduction of earthly desires; チョウ | こ.える   こ.す
 赴 phó;proceed;While running, my magic wand tells me where to proceed; フ | おもむ.く
 越 việt;surpass;The person in charge of running the parade surpassed all our expectations; エツ オツ | こ.す  こ.える
+
+是 thị;just so;I spent all day mending to make things just so; ゼ  シ | これ   この   ここ
+題 đề;topic;The "TOPIC" of the day's newspaper must be placed JUST SO at the top of the PAGE to attract attention; ダイ
+堤 đê; dike;
 
 
 
@@ -2158,7 +2161,6 @@
 艇 đĩnh thuyền nhỏ tei
 憂 ưu ưu phiền yuu
 壌 nhưỡng thổ nhưỡng joo
-堤 đê đê điều tei
 拐 quải bắt cóc kai
 累 lũy thành lũy, tích lũy rui
 署 thự biệt thự sho
