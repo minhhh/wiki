@@ -260,8 +260,6 @@
 
 舌 thiệt cái lưỡi; mouth say thousands things with tongue; zetsu | した
 
-正 chính chính đáng, chính nghĩa, chân chính sei, shoo | ただ.す
-政 chính chính phủ, chính sách, hành chính sei, shoo | まつりごと
 
 東 đông phía đông too | ひがし
 南 nam phương nam nan, na | みなみ
@@ -675,7 +673,6 @@
 題 đề đề tài; topic; the topic is a page in bolt of paper read under the sun dai
 是 thị đúng, thị phi; right;  justice; a bolt of cloths under the sun is the right thing; ze | これ
 提 đề cung cấp; propose; take along; the hand raised to propose the right thing to do ; tei | さ.げる
-定 định quyết định, định mệnh; determine; fix; the bolt of cloths is fixed to be under a roof ; tei, joo | さだ
 
 柿 THỊ シ |  かき  こけら
 
@@ -1288,6 +1285,13 @@
 
 武 vũ;warrior;ONE-ARROW can STOP a warrior; ブ  ム | たけ.し
 賦 phú;levy;A warrior stands guard at a bridge collecting shells as a levy for any who want to pass; フ  ブ
+正 chính;correct; セイ ショウ | ただ.しい   ただ.す   まさ   まさ.に
+証 chứng;evidence;evidence must be correct words; ショウ | あかし
+政 chính;politics;Those involved in politics are always trying to elect the correct taskmaster; セイ  ショウ | まつりごと   まん
+
+定 định;determine; テイ ジョウ | さだ.める   さだ.まる   さだ.か
+
+
 
 
 
@@ -1379,7 +1383,6 @@
 視 thị thị sát, thị lực, giám thị shi
 例 lệ ví dụ, tiền lệ, thông lệ, điều lệ rei
 補 bổ bổ sung, bổ túc ho
-証 chứng bằng chứng, nhân chứng, chứng nhận shoo
 限 hạn giới hạn, hữu hạn, hạn độ gen
 製 chế chế tạo sei
 監 giam, giám giam cấm; giám đốc, giám sát kan
