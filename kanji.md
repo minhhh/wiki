@@ -622,8 +622,6 @@
 
 映 ánh phản ánh ei | うつ.る
 
-誕 đản sinh ra tan |
-
 呼 hô gọi tên, hô hoán, hô hấp, hô hào ko | よ.ぶ
 
 漢 hán hảo hán kan
@@ -1301,7 +1299,10 @@
 建 kiến;build;A construction worker's classic morning. Stretch, brush his teeth, and then start to build; ケン コン | た.てる   た.て   た.つ
 鍵 key;The metal thing you need in order to enter things you build is a key.ケン   かぎ
 延 duyên;prolong;Stretching correctly prolongs life.  エン | の.びる   の.べる   の.べ   の.ばす
-誕
+誕 đản;nativity; birth is a prolonged event with a lot of words uttered; タン
+礎 sở;cornerstone;Features like stones and groves of trees are the cornerstones of a happy zoo; ソ | いしずえ 
+婿 tế;bridegroom; セイ | むこ
+
 
 
 
@@ -1918,7 +1919,6 @@
 魅 mị mị lực, mộng mị mi
 浪 lãng sóng roo
 遇 ngộ tao ngộ, đãi ngộ guu
-礎 sở cơ sở so
 聖 thánh thánh ca sei
 菜 thái rau sai
 尽 tận tận lực jin
@@ -2377,7 +2377,6 @@
 幽 u tối tăm, u tối yuu
 謹 cẩn kính cẩn kin
 醜 xú xấu xí shuu
-婿 tế con rể sei
 姻 nhân hôn nhân in
 租 tô thuế, tô thuế so
 褒 bao khen ngợi hoo
