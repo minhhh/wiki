@@ -216,7 +216,6 @@
 研 nghiên mài, nghiên cứu ken | と.ぐ
 
 
-立 lập thiết lập, tự lập ritsu, ryuu | た.つ
 辛 tân cay shin | から.い
 
 円 viên viên mãn, tiền Yên en
@@ -1326,6 +1325,15 @@
 冬 đông mùa đông トウ | ふゆ
 
 天 thiên;heaven; テン| あめ
+妖 bewitched; young women is bewitched ヨウ | あや.しい   なま.めく   わざわ.い
+沃 irrigate;You use water to irrigate your saplings. ヨウ ヨク  オク | そそ.ぐ
+
+橋 kiều;bridge;The wooden bridge is guarded by an impressively tall angel; キョウ | はし
+嬌 attractive; The most attractive of women are said to resemble angels. Similarly, angelic women tend to be attractive; キョウ | なまめか.しい
+
+立 lập thiết lập, tự lập ritsu, ryuu | た.つ
+
+
 
 
 
@@ -1492,7 +1500,6 @@
 離 li tách li, li khai ri
 督 đốc giám đốc, đôn đốc toku
 撃 kích công kích, tập kích geki
-橋 kiều cây cầu kyoo
 識 thức nhận thức, kiến thức, tri thức shiki
 雄 hùng thư hùng, anh hùng, hùng tráng yuu
 録 lục kí lục, đăng lục roku
