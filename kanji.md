@@ -515,8 +515,6 @@
 
 凝 ngưng ngưng kết, ngưng tụ gyoo | こ.る
 
-泣 khấp khóc kyuu | な.く
-
 郵 bưu bưu điện yuu |
 
 局 cục cục diện, cục kế hoạch kyoku | つぼね
@@ -1331,10 +1329,9 @@
 橋 kiều;bridge;The wooden bridge is guarded by an impressively tall angel; キョウ | はし
 嬌 attractive; The most attractive of women are said to resemble angels. Similarly, angelic women tend to be attractive; キョウ | なまめか.しい
 
-立 lập thiết lập, tự lập ritsu, ryuu | た.つ
-
-
-
+立 lập;stand up; リツ | た.つ
+泣 khấp;cry; water pour down as you cry; キュウ | な.く
+章 chương;badge;In the military, badges are given out early in the day, with everyone standing at attention; ショウ
 
 
 
@@ -1700,7 +1697,6 @@
 射 xạ xạ thủ sha
 秀 tú ưu tú, tuấn tú shuu
 懸 huyền treo ken, ke
-章 chương chương sách shoo
 撤 triệt triệt thoái tetsu
 納 nạp nộp noo, naQ, na, nan, too
 街 nhai phố xá gai, kai
