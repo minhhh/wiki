@@ -703,7 +703,6 @@
 殆 ĐÃI almost;  quite;  really タイ  サイ | ほとん.ど
 残 tàn tàn dư, tàn tích, tàn đảng zan |  のこ.る
 
-帯 đới nhiệt đới, ôn đới, belt tai | お.びる
 制 chế chế ngự, thể chế, chế độ sei
 
 更 canh canh tân renew koo | ふ.ける
@@ -1315,6 +1314,12 @@
 市 thị thành thị, thị trường シ | いち
 柿 THỊ;persimmon; シ |  かき  こけら
 姉 tỉ chị gái shi | あね
+肺 phế;lungs;lungs can be found at the market; ハイ
+帯 đới;sash;sash is made up of thirty and towel; タイ | お.びる   おび
+滞 trệ;stagnate;if you put water inside a sash, it will stagnate; タイ  テイ | とどこお.る
+
+
+
  
 
 
@@ -1826,7 +1831,6 @@
 御 ngự ngự uyển gyo, go
 邸 để trang trại tei
 包 bao bao bọc hoo
-滞 trệ đình trệ tai
 侵 xâm xâm lược shin
 捨 xả vứt sha
 塩 diêm muối en
@@ -2086,7 +2090,6 @@
 缶 phữu đồ hộp kan
 猛 mãnh mãnh liệt moo
 粒 lạp hạt ryuu
-肺 phế phổi hai
 虐 ngược ngược đãi gyaku
 卸 tá bán buôn -
 匹 thất <đếm con vật> hitsu
