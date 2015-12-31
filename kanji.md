@@ -55,7 +55,6 @@
 
 人 nhân nhân vật jin, nin | ひと
 夫 phu trượng phu, phu phụ fu, fuu | おっと
-天 thiên thiên thạch, thiên nhiên, thiên đường ten | あめ
 
 大 đại to lớn, đại dương, đại lục dai, tai | おお.きい
 実 thực sự thực; under the roof, great scholar tell the truth ; jitsu | み
@@ -203,9 +202,6 @@
 行 hành, hàng thực hành, lữ hành; ngân hàng koo, gyoo, an | い.く おこな.う
 術 thuật kĩ thuật, học thuật, nghệ thuật jutsu | すべ
 
-雨 vũ mưa u
-雲 vân mây un | くも
-曇 đàm có mây don | くもり
 雪 tuyết tuyết setsu | ゆき
 震 chấn địa chấn shin | ふる.う
 電 điện phát điện, điện lực den
@@ -432,8 +428,6 @@
 
 息 tức con trai, tử tức soku | いき
 
-夂
-冬 đông mùa đông too | ふゆ
 終 chung chung kết, chung liễu shuu | お.わり
 変 biến biến đổi, biến thiên hen | か.える か.わる
 
@@ -1322,29 +1316,16 @@
 転 chuyển;revolve;The REVOLVING wheels of the car kicked up RISING CLOUDS of dust テン | ころ.がる   ころ.げる   ころ.がす   ころ.ぶ   まろ.ぶ   うたた   うつ.る   くる.めく
 芸 nghệ;technique;rising cloud flower technique; ゲイ ウン | う.える   のり   わざ
 
+雨 vũ mưa u
+雲 vân;cloud;Every rising cloud is a potential rain cloud ウン | くも
+曇 đàm; có mây; cloudy weather; ドン | くも.る
+雷 lôi;thunder;rain usually has thunder striking at the field; ライ | かみなり   いかずち   いかづち
+霜 sương;frost;FROST is kind of an inter-weather, phenomenon, something between rain, snow and freezing temp’s;  ソウ | しも
 
+夂
+冬 đông mùa đông トウ | ふゆ
 
-
-
-
-
-
- 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
+天 thiên;heaven; テン| あめ
 
 
 
@@ -2112,7 +2093,6 @@
 徐 từ từ từ jo
 衰 suy suy thoái sui
 乾 can khô kan
-雷 lôi thiên lôi rai
 惨 thảm thảm thương, thảm sát san, zan
 郭 quách thành quách kaku
 粧 trang hóa trang shoo
@@ -2413,7 +2393,6 @@
 搾 trá ép, vắt saku
 賜 tứ ban tặng shi
 罷 bãi hủy bỏ, bãi bỏ hi
-霜 sương sương mù soo
 唇 thần môi shin
 酌 chước chuốc rượu shaku
 蛮 man man di, dã man ban
