@@ -214,7 +214,6 @@
 左 tả bên trái, tả hữu, cánh tả sa | ひだり
 右 hữu bên phải, hữu ngạn, cánh hữu u, yuu | みぎ
 友 hữu bạn hữu, hữu hảo yuu
-布 bố vải, tuyên bố fu | ぬの
 在 tại tồn tại, thực tại outskirts zai | あ.る
 
 碌 lục satisfactory ROKU | ろく.な
@@ -707,8 +706,6 @@
 殆 ĐÃI almost;  quite;  really タイ  サイ | ほとん.ど
 残 tàn tàn dư, tàn tích, tàn đảng zan |  のこ.る
 
-巾 CÂN Cái khăn | ちきり
-幅 phúc bề ngang fuku | はば
 帯 đới nhiệt đới, ôn đới, belt tai | お.びる
 制 chế chế ngự, thể chế, chế độ sei
 
@@ -1308,8 +1305,19 @@
 
 遠 viễn;distant; travel to far-away land to buy food and garment エン  オン | とお.い
 猿 viên; monkey; monkey is similar to dog in that they can walk, eat and wear clothes; エン |  さる
-
 初 sơ; first time; The CLOAK and DAGGER trick only works the first time, when the element of surprise is there; ショ | はじ.め   はじ.めて
+
+巾 CÂN;towel; キン  フク | おお.い   ちきり   きれ
+布 bố;linen;A linen towel should always be by your side just in case; フ | ぬの
+帆 phàm;sail;A towel makes a mediocre sail; ハン | ほ
+幅 phúc;hanging scroll;The towels of the wealthy: hanging scrolls; フク | はば
+帽 mạo;cap; If you wear a towel as a cap, you are at risk of being seized and searched in U.S. airports; ボウ  モウ | ずきん   おお.う
+幕 mạc;curtain; When a mobster says "It's gonna be curtains for you!" He means you'll be wrapped in a towel, dead in a graveyard; マク   バク | とばり
+
+
+ 
+
+
 
 
 
@@ -1332,7 +1340,6 @@
 認 nhận;acknowledge;Imagine a salaryman forced to acknowledge some unfortunate news. His stoic face means he is unable to respond to the words, and endures them, for now at least; ニン|  みと.める   したた.める
 
 
-帽 mạo;cap; If you wear a towel as a cap, you are at risk of being seized and searched in U.S. airports; ボウ  モウ | ずきん   おお.う
 
 
 
@@ -1625,7 +1632,6 @@
 巨 cự to lớn, cự đại, cự phách kyo
 為 vi, vị hành vi; vị kỉ I
 混 hỗn hỗn hợp, hỗn độn, hỗn loạn kon
-幕 mạc khai mạc, bế mạc maku, baku
 賀 hạ chúc mừng ga
 創 sáng sáng tạo soo
 陣 trận trận mạc jin
@@ -2328,7 +2334,6 @@
 奔 bôn chạy, bôn tẩu hon
 岬 giáp mũi đất -
 吟 ngâm ngâm, ngân nga gin
-帆 phàm cánh buồm han
 奴 nô nô lệ, nô dịch do
 糾 củ buộc dây kyuu
 茎 hành thân cây cỏ kei
