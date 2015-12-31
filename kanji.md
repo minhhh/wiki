@@ -721,7 +721,6 @@
 
 両 lưỡng hai, lưỡng quốc ryoo | ふたつ
 
-戈 QUA halberd | ほこ
 我 ngã bản ngã ga | われ
 
 忄 standing heart
@@ -1301,8 +1300,14 @@
 礎 sở;cornerstone;Features like stones and groves of trees are the cornerstones of a happy zoo; ソ | いしずえ 
 婿 tế;bridegroom;The bridegroom will take his woman to the zoo for a month long honeymoon セイ | むこ
 
+戈 QUA halberd;festival | ほこ
 衤
 衣 y y phục I | きぬ
+裁 tài;tailor;My TAILOR made me 10 garments for the upcoming fiestas; サイ | た.つ   さば.く
+装 trang;attire;Attire is more robust than a garment; ソウ ショウ |  よそお.う    よそお.い
+裏 lí;back; リ | うら
+
+
 
 
 
@@ -1380,7 +1385,6 @@
 井 tỉnh giếng sei, shoo
 宮 cung cung điện kyuu, guu, ku
 検 kiểm kiểm tra ken
-裁 tài may vá, tài phán, trọng tài sai
 沢 trạch đầm lầy taku
 義 nghĩa ý nghĩa, nghĩa lí, đạo nghĩa gi
 再 tái lại, tái phát sai, sa
@@ -1541,7 +1545,6 @@
 将 tướng tướng quân shoo
 捜 sưu sưu tầm, sưu tập soo
 厳 nghiêm tôn nghiêm, nghiêm khắc, nghiêm trọng gen, gon
-装 trang trang phục, hóa trang, trang bị soo, shoo
 塁 lũy thành lũy rui
 異 dị dị bản, dị tộc, dị giáo I
 薬 dược thuốc yaku
@@ -1654,7 +1657,6 @@
 隆 long cao quý ryuu
 択 trạch tuyển trạch taku
 居 cư cư trú kyo
-裏 lí đằng sau ri
 卒 tốt tốt nghiệp sotsu
 傷 thương tổn thương, thương tật shoo
 雇 cố thuê, cố nông ko
