@@ -291,7 +291,6 @@
 車 xa xe cộ, xa lộ sha | くるま
 輪 luân bánh xe, luân hồi rin | わ
 軽 khinh khinh suất, khinh khi kei | かるい
-転 chuyển chuyển động ten | ころ.ぶ
 
 食 thực ẩm thực, thực đường shoku, jiki | た.べる
 飯 phạn cơm han | めし
@@ -1319,6 +1318,11 @@
 制 chế;system;The system for making leather towel involves slicing up a cow with a sword. セイ
 製 chế;made in..;Made in... is a system of labels you can find on every garments; セイ
 
+云 Think of manga where what a person says is quoted in a rising cloud.
+転 chuyển;revolve;The REVOLVING wheels of the car kicked up RISING CLOUDS of dust テン | ころ.がる   ころ.げる   ころ.がす   ころ.ぶ   まろ.ぶ   うたた   うつ.る   くる.めく
+芸 nghệ;technique;rising cloud flower technique; ゲイ ウン | う.える   のり   わざ
+
+
 
 
 
@@ -1579,7 +1583,6 @@
 維 duy sợi dây I
 油 du dầu yu
 喜 hỉ vui ki
-芸 nghệ nghệ thuật, nghệ nhân gei
 習 tập học tập shuu
 標 tiêu mục tiêu, tiêu chuẩn hyoo
 興 hưng, hứng hưng thịnh, phục hưng; hứng thú koo, kyoo
