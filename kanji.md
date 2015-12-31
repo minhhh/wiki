@@ -467,7 +467,6 @@
 犬 khuyển con chó ken | いぬ
 狭 hiệp hẹp kyoo | せま.い
 犯 phạm phạm nhân han | おか.す
-猿 viên con khỉ; khỉ giống chó có thể đi, ăn và mặc quần áo en | さる
 
 集 tập tập hợp, tụ tập shuu
 
@@ -491,7 +490,6 @@
 愛 ái yêu, ái tình, ái mộ ai | かな.しい
 
 通 thông thông qua, thông hành, phổ thông tsuu, tsu | とお.り
-遠 viễn viễn phương; in ancient time, one has to travel to far-away land to eat and buy clothes en, on | とお.い
 遊 du du hí, du lịch yuu, yu | あそ.び
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
 進 tiến thăng tiến, tiền tiến, tiến lên shin | すす.める
@@ -697,7 +695,6 @@
 
 園 viên vườn, điền viên, hoa viên, công viên en | その
 表 biểu biểu hiện, bảng biểu, biểu diễn hyoo | おもて
-初 sơ sơ cấp sho | はじ.め
 
 夜 dạ ban đêm, dạ cảnh, dạ quang ya | よる
 
@@ -1301,13 +1298,18 @@
 婿 tế;bridegroom;The bridegroom will take his woman to the zoo for a month long honeymoon セイ | むこ
 
 戈 QUA halberd;festival | ほこ
-衤
+衤 clothes;
 衣 y y phục I | きぬ
 裁 tài;tailor;My TAILOR made me 10 garments for the upcoming fiestas; サイ | た.つ   さば.く
 装 trang;attire;Attire is more robust than a garment; ソウ ショウ |  よそお.う    よそお.い
 裏 lí;back;the houses at the back of the villages make garment リ | うら
 壊 hoại;demolition;If you stand too close to a DEMOLITION site, the dust might sting you like NEEDLES in your EYE and get your GARMENTs all dirty; カイ   エ | こわ.す   こわ.れる   やぶ.る
+哀 ai;pathetic;One of my friends with a crazy sense of fashion loves to wear a tophat and a scarf so that you can't see his whole face but only his mouth. He thinks it's cool. I think it's pathetic; アイ | あわ.れ   あわ.れむ   かな.しい
 
+遠 viễn;distant; travel to far-away land to buy food and garment エン  オン | とお.い
+猿 viên; monkey; monkey is similar to dog in that they can walk, eat and wear clothes; エン |  さる
+
+初 sơ; first time; The CLOAK and DAGGER trick only works the first time, when the element of surprise is there; ショ | はじ.め   はじ.めて
 
 
 
@@ -2232,7 +2234,6 @@
 濯 trạc rửa taku
 薫 huân thơm kun
 粋 túy tinh túy sui
-哀 ai bi ai ai　
 搭 đáp chất lên xe too
 漬 tí ngâm tẩm -
 畳 điệp chiếu joo
