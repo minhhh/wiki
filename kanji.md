@@ -1305,7 +1305,9 @@
 衣 y y phục I | きぬ
 裁 tài;tailor;My TAILOR made me 10 garments for the upcoming fiestas; サイ | た.つ   さば.く
 装 trang;attire;Attire is more robust than a garment; ソウ ショウ |  よそお.う    よそお.い
-裏 lí;back; リ | うら
+裏 lí;back;the houses at the back of the villages make garment リ | うら
+壊 hoại;demolition;If you stand too close to a DEMOLITION site, the dust might sting you like NEEDLES in your EYE and get your GARMENTs all dirty; カイ   エ | こわ.す   こわ.れる   やぶ.る
+
 
 
 
@@ -1605,7 +1607,6 @@
 像 tượng tưởng tượng, thần tượng zoo
 貨 hóa hàng hóa ka
 坂 phản cái dốc han
-壊 hoại phá hoại kai
 岸 ngạn hải ngạn gan
 遣 khiển phân phát ken
 緊 khẩn khẩn cấp, khẩn trương kin
