@@ -225,8 +225,6 @@
 
 円 viên viên mãn, tiền Yên en
 
-市 thị thành thị, thị trường shi | いち
-姉 tỉ chị gái shi | あね
 
 回 hồi vu hồi, chương hồi kai, e | まわ.る
 
@@ -665,7 +663,6 @@
 疋 sơ head; bolt of cloth ヒキ ショ ソ  ヒツ | あし
 提 đề cung cấp; propose; take along; the hand raised to propose the right thing to do ; tei | さ.げる
 
-柿 THỊ シ |  かき  こけら
 
 不 bất bất công, bất bình đẳng, bất tài fu, bu
 
@@ -1313,6 +1310,13 @@
 幅 phúc;hanging scroll;The towels of the wealthy: hanging scrolls; フク | はば
 帽 mạo;cap; If you wear a towel as a cap, you are at risk of being seized and searched in U.S. airports; ボウ  モウ | ずきん   おお.う
 幕 mạc;curtain; When a mobster says "It's gonna be curtains for you!" He means you'll be wrapped in a towel, dead in a graveyard; マク   バク | とばり
+幌 コウ;canopy;A canopy is a towel to block the suns rays; | ほろ とばり
+錦 brocade;Brocade is the art of sewing gold on a white towel; キン | にしき
+市 thị thành thị, thị trường シ | いち
+柿 THỊ;persimmon; シ |  かき  こけら
+姉 tỉ chị gái shi | あね
+ 
+
 
 
  
