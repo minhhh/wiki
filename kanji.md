@@ -703,8 +703,6 @@
 殆 ĐÃI almost;  quite;  really タイ  サイ | ほとん.ど
 残 tàn tàn dư, tàn tích, tàn đảng zan |  のこ.る
 
-制 chế chế ngự, thể chế, chế độ sei
-
 更 canh canh tân renew koo | ふ.ける
 
 党 đảng đảng phái too | なかま
@@ -1317,6 +1315,13 @@
 肺 phế;lungs;lungs can be found at the market; ハイ
 帯 đới;sash;sash is made up of thirty and towel; タイ | お.びる   おび
 滞 trệ;stagnate;if you put water inside a sash, it will stagnate; タイ  テイ | とどこお.る
+刺 thích;thorn;a market of tree will have a lot of thorns sharp as sabres; シ | さ.す   さ.さる  さ.し   さし
+制 chế;system;The system for making leather towel involves slicing up a cow with a sword. セイ
+製 chế;made in..;Made in... is a system of labels you can find on every garments; セイ
+
+
+
+
 
 
 
@@ -1428,7 +1433,6 @@
 例 lệ ví dụ, tiền lệ, thông lệ, điều lệ rei
 補 bổ bổ sung, bổ túc ho
 限 hạn giới hạn, hữu hạn, hạn độ gen
-製 chế chế tạo sei
 監 giam, giám giam cấm; giám đốc, giám sát kan
 準 chuẩn tiêu chuẩn, chuẩn bị jun
 張 trương chủ trương, khai trương choo
@@ -1785,7 +1789,6 @@
 訟 tụng tố tụng shoo
 撮 toát chụp ảnh satsu
 誉 dự danh dự yo
-刺 thích, thứ thích khách shi
 勧 khuyến khuyến cáo kan
 甲 giáp vỏ sò, thứ nhất koo,kan
 透 thấu thẩm thấu too
