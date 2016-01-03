@@ -40,7 +40,6 @@
 汽 khí không khí, hơi ki
 気 khí không khí, khí chất, khí khái, khí phách ki, ke | いき
 温 ôn ôn hòa, ôn tồn on | あたた.かい
-渇 khát khát, khát vọng katsu | かわ.く
 治 trị cai trị, trị an, trị bệnh chi, ji | なお.る
 済 tế kinh tế, cứu tế sai | す.まない
 決 quyết quyết định ketsu | き.める
@@ -1348,7 +1347,13 @@
 昆 côn;descendants;Grandparent spends all DAY COMPARING photos of their DESCENDANTS; コン
 皆 giai; tất cả kai | みな
 楷 block letters;Block letters (as opposed to cursive) are rigid and lifeless like wood; they're all the same size so that all can read them; カイ
-諧 harmony; カイ  かな.う   やわ.らぐ
+諧 orderliness; To have orderliness, your words must be in all the right places; カイ  かな.う   やわ.らぐ
+混 hỗn;mix;People have to mix their fluids (have sex), in order to create descendants. コン   ま.じる   ま.ざる   ま.ぜる   こ.む
+渇 khát;thirst;When you are really thirsty walking under the blazing sun you can almost smell the aroma of fresh water; カツ | かわ.く
+謁 yết;audience;The talk was so boring the audience took a siesta; エツ
+
+ 
+
 
 
  
@@ -1650,7 +1655,6 @@
 惑 hoặc nghi hoặc waku
 巨 cự to lớn, cự đại, cự phách kyo
 為 vi, vị hành vi; vị kỉ I
-混 hỗn hỗn hợp, hỗn độn, hỗn loạn kon
 賀 hạ chúc mừng ga
 創 sáng sáng tạo soo
 陣 trận trận mạc jin
@@ -2451,7 +2455,6 @@
 謄 đằng sao chép too
 但 đãn nhưng, do đó -
 箇 cá cá thể, cá nhân ka
-謁 yết yết kiến etsu
 頒 ban ban bố, ban phát han
 崇 sùng tôn sùng, sùng bái suu
 璽 tỉ con dấu của vua, quốc tỉ ji
