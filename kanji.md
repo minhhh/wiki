@@ -1336,7 +1336,14 @@
 帝 đế;sovereign;stand tall with a crown and towel; テイ | みかど
 諦 abandon;renunciation;The words of the sovereign king inspire the people: never give up! テイ  タイ | あきら.める   つまびらか   まこと
 童 đồng;juvenile;Most juvenile people stand on the house of their fathers, because they can't yet afford their own house; ドウ | わらべ
-瞳 pupil; ドウ   トウ | ひとみ
+瞳 pupil; ドウ トウ | ひとみ
+鐘 chung;bell;The METAL bell rings to call the JUVENILES to class; ショウ | かね
+商 thương;make a deal;Four loudmouths trying to make a deal on a vase; ショウ | あきな.う
+嫡 đích;legitimate wife;The woman you'll want to be with even when you're both antique should be your LEGITIMATE WIFE. チャク  テキ
+適 thích; thích hợp teki
+
+ 
+
 
 
 
@@ -1421,7 +1428,6 @@
 率 suất thống suất, xác suất, tỉ lệ suất sotsu, ritsu
 算 toán tính toán, kế toán, toán học san
 配 phối phân phối, chi phối, phối ngẫu hai
-商 thương thương mại, thương số shoo
 収 thu thu nhập, thu nhận, thu hoạch shuu
 農 nông nông nghiệp, nông thôn, nông dân noo
 疑 nghi nghi ngờ, nghi vấn, tình nghi gi
@@ -1611,7 +1617,6 @@
 崩 băng băng hoại hoo
 層 tầng hạ tầng, thượng tầng soo
 聴 thính thính giả choo
-適 thích thích hợp teki
 属 thuộc phụ thuộc zoku
 押 áp ấn oo
 脱 thoát giải thoát datsu
@@ -2379,7 +2384,6 @@
 繕 thiện cải thiện zen
 楼 lâu tòa nhà, nhà lầu roo
 畔 bạn ruộng lúa han
-嫡 đích chính thê, đích tôn chaku
 斥 xích bài xích seki
 泌 bí rỉ ra, tiết ra hitsu, hi
 蛍 huỳnh đom đóm, huỳnh quang kei
@@ -2415,7 +2419,6 @@
 雌 thư con cái (<>con đực) shi
 爵 tước tước hiệu, quan tước shaku
 衷 trung ở giữa chuu
-鐘 chung cái chuông shoo
 倣 phỏng mô phỏng hoo
 妄 vọng sằng, càn, vô căn cứ moo, boo
 抄 sao viết rõ ràng, tổng kết shoo
