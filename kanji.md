@@ -76,7 +76,6 @@
 伯 bá thúc bá haku
 使 sử, sứ sử dụng; sứ giả, thiên sứ shi | つか.う
 
-匕 spoon ヒ | さじ
 化 hóa biến hóa ka, ke | ふ.ける
 
 囚 tù tù nhân shuu
@@ -656,7 +655,6 @@
 
 不 bất bất công, bất bình đẳng, bất tài fu, bu
 
-敵 địch quân địch teki | かたき
 
 角 giác tam giác;horn; antlers kaku | かど
 触 xúc tiếp xúc; touch; insects use horns to touch; shoku | さわ.る
@@ -1340,15 +1338,16 @@
 鐘 chung;bell;The METAL bell rings to call the JUVENILES to class; ショウ | かね
 商 thương;make a deal;Four loudmouths trying to make a deal on a vase; ショウ | あきな.う
 嫡 đích;legitimate wife;The woman you'll want to be with even when you're both antique should be your LEGITIMATE WIFE. チャク  テキ
-適 thích; thích hợp teki
+適 thích;suitable; It's an antique, but it's still suitable for the road テキ | かな.う
+滴 đích;drip;You must never let water drip onto antiques; テキ | しずく   したた.る
+敵 địch;enemy;who hit my antiques is my enemy; テキ | かたき  あだ  かな.う
+
+匕 spoon ヒ | さじ
+叱 scold;A kid gets scolded if they don't put the spoon properly into their mouth when eating; シツ  シチ | しか.る
 
  
 
-
-
-
-
-
+ 
 
 
 
@@ -2357,7 +2356,6 @@
 錬 luyện tinh luyện, rèn luyện ren
 遮 già cản trở sha
 尉 úy cấp úy, trung úy I
-滴 đích giọt nước teki
 勅 sắc sắc lệnh choku
 隷 lệ nô lệ, lệ thuộc rei
 拙 chuyết vụng về, dở setsu
