@@ -1333,7 +1333,13 @@
 泣 khấp;cry; water pour down as you cry; キュウ | な.く
 章 chương;badge;In the military, badges are given out early in the day, with everyone standing at attention; ショウ
 競 cạnh;vie;Two crazy brothers vying for the guiness records books of stupidity by trying to stand on their heads the longest. キョウ   ケイ | きそ.う   せ.る   くら.べる
-帝 đế;sovereign; テイ | みかど
+帝 đế;sovereign;stand tall with a crown and towel; テイ | みかど
+諦 abandon;renunciation;The words of the sovereign king inspire the people: never give up! テイ  タイ | あきら.める   つまびらか   まこと
+童 đồng;juvenile;Most juvenile people stand on the house of their fathers, because they can't yet afford their own house; ドウ | わらべ
+瞳 pupil; ドウ   トウ | ひとみ
+
+
+
 
 
 
@@ -1878,7 +1884,6 @@
 肝 can tâm can kan
 敷 phu trải fu
 濃 nồng nồng độ noo
-童 đồng nhi đồng doo
 郎 lang tân lang roo
 朗 lãng rõ ràng roo
 乳 nhũ nhũ mẫu nyuu
