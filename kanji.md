@@ -466,7 +466,6 @@
 
 科 khoa khoa học, chuyên khoa ka |
 
-背 bối bối cảnh hai | せい
 
 疒
 痛 thống thống khổ tsuu | いた.い
@@ -708,7 +707,6 @@
 
 鹿 LỘC Con hươu ロク | しか
 麓 LỘC chân núi ロク| ふもと
-皆 giai tất cả kai | みな
 麗 lệ mĩ lệ rei | うるわ.しい
 
 攵 strike;  hit; 
@@ -716,7 +714,6 @@
 
 々
 掛 quải treo, arrive at - | か.ける か.かる
-比 tỉ so sánh, tỉ lệ, tỉ dụ hi | くら.べる
 批 phê phê bình, phê phán hi
 
 ⻖
@@ -1272,7 +1269,7 @@
 鍵 key;The metal thing you need in order to enter things you build is a key.ケン   かぎ
 延 duyên;prolong;Stretching correctly prolongs life.  エン | の.びる   の.べる   の.べ   の.ばす
 誕 đản;nativity; birth is a prolonged event with a lot of words uttered; タン
-礎 sở;cornerstone;Features like stones and groves of trees are the cornerstones of a happy zoo; ソ | いしずえ 
+礎 sở;cornerstone;Features like stones and groves of trees are the cornerstones of a happy zoo; ソ | いしずえ
 婿 tế;bridegroom;The bridegroom will take his woman to the zoo for a month long honeymoon セイ | むこ
 
 戈 QUA halberd;festival | ほこ
@@ -1345,8 +1342,14 @@
 叱 scold;A kid gets scolded if they don't put the spoon properly into their mouth when eating; シツ  シチ | しか.る
 匂 aroma;The aroma of any delicacy is bound up in a spoon; にお.う   にお.い   にお.わせる
 頃 KHOẢNH; about that time; About that time to sit down and get some head; ケイ  キョウ | ころ  ごろ  しばら.く
-北
  
+背 bối;stature;Stature/height has to do with how far "NORTH"(upward?XD) your FLESH/BODY goes; ハイ | せ   せい   そむ.く   そむ.ける
+比 tỉ so sánh, tỉ lệ, tỉ dụ hi | くら.べる
+昆 côn;descendants;Grandparent spends all DAY COMPARING photos of their DESCENDANTS; コン
+皆 giai; tất cả kai | みな
+楷 block letters;Block letters (as opposed to cursive) are rigid and lifeless like wood; they're all the same size so that all can read them; カイ
+諧 harmony; カイ  かな.う   やわ.らぐ
+
 
  
 
@@ -2286,7 +2289,6 @@
 洪 hồng hồng thủy koo
 藩 phiên han
 疾 tật tật bệnh shitsu
-昆 côn côn trùng kon
 淑 thục hiền thục shuku
 偵 trinh trinh thám tei
 篤 đốc toku
