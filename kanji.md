@@ -1332,6 +1332,9 @@
 立 lập;stand up; リツ | た.つ
 泣 khấp;cry; water pour down as you cry; キュウ | な.く
 章 chương;badge;In the military, badges are given out early in the day, with everyone standing at attention; ショウ
+競 cạnh;vie;Two crazy brothers vying for the guiness records books of stupidity by trying to stand on their heads the longest. キョウ   ケイ | きそ.う   せ.る   くら.べる
+帝 đế;sovereign; テイ | みかど
+
 
 
 
@@ -1484,7 +1487,6 @@
 極 cực cực lực, cùng cực, địa cực kyoku, goku
 欧 âu châu âu oo
 賞 thưởng giải thưởng, tưởng thưởng shoo
-競 cạnh cạnh tranh kyoo, kei
 振 chấn chấn động shin
 察 sát quan sát, giám sát, cảnh sát satsu
 観 quan quan sát, tham quan kan
@@ -1910,7 +1912,6 @@
 詳 tường tường tế (chi tiết) shoo
 陥 hãm vây hãm kan
 鳴 minh hót mei
-帝 đế hoàng đế tei
 踊 dũng nhảy múa yoo
 摩 ma ma sát ma
 牲 sinh hi sinh sei
