@@ -300,7 +300,6 @@
 貝 bối vỏ sò - | かい
 買 mãi mua, khuyến mãi bai | か.う
 貸 thải cho mượn tai | か.す
-頃 KHOẢNH about toward | ころ
 財 tài tiền tài, tài sản zai, sai | たから
 
 青 thanh xanh, thanh thiên, thanh niên sei, shoo | あお.い
@@ -1344,6 +1343,10 @@
 
 匕 spoon ヒ | さじ
 叱 scold;A kid gets scolded if they don't put the spoon properly into their mouth when eating; シツ  シチ | しか.る
+匂 aroma;The aroma of any delicacy is bound up in a spoon; にお.う   にお.い   にお.わせる
+頃 KHOẢNH; about that time; About that time to sit down and get some head; ケイ  キョウ | ころ  ごろ  しばら.く
+北
+ 
 
  
 
