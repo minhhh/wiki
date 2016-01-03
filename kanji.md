@@ -1351,26 +1351,16 @@
 混 hỗn;mix;People have to mix their fluids (have sex), in order to create descendants. コン   ま.じる   ま.ざる   ま.ぜる   こ.む
 渇 khát;thirst;When you are really thirsty walking under the blazing sun you can almost smell the aroma of fresh water; カツ | かわ.く
 謁 yết;audience;The talk was so boring the audience took a siesta; エツ
-
- 
-
+褐 hoạt;brown;Mexicans use a cloak (pancho) for their siestas. Their color is usually brown; カツ
 
 
  
-
- 
-
-
-
 
 
 確 xác;assurance;To assure that no one will get into the Turkey coop, put a huge rock in the entrance! カク   コウ | たし.か   たし.かめる
 
 
 認 nhận;acknowledge;Imagine a salaryman forced to acknowledge some unfortunate news. His stoic face means he is unable to respond to the words, and endures them, for now at least; ニン|  みと.める   したた.める
-
-
-
 
 
 
@@ -2439,7 +2429,6 @@
 某 mỗ ~ nào đó boo
 壱 nhất số một, một (thay cho 一) ichi
 痘 đậu thủy đậu (bệnh) too
-褐 hoạt màu nâu katsu
 倹 kiệm tiết kiệm ken
 薪 tân củi shin
 繭 kiển lông mày ken
