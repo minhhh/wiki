@@ -372,7 +372,6 @@
 
 文 văn văn chương, văn học bun, mon | ふみ
 
-海 hải hải cảng, hải phận kai | うみ
 
 由 do tự do, lí do; a reason; farm is a reason to live; yu, yuu, yui | よし
 画 họa, hoạch họa sĩ; painting takes place around the field; ga, kaku | え えが.く
@@ -1360,7 +1359,14 @@
 
 壱 nhất;one;the samurai who has been crowned number one is so good he uses a spoon to fight with rather than a sword; イチ  イツ|  ひとつ
 毎 mỗi; every; マイ | ごと
-敏 mẫn;cleverness; ビン | さとい
+敏 mẫn;cleverness;Every taskmaster has cleverness; ビン | さとい
+梅 mai;plum;Plum trees have fruit on every branch; バイ | うめ
+海 hải hải cảng, hải phận kai | うみ
+乞 beg;Lying down, Captain Hook is begging to be spared from the ticking crocodile. コツ  キツ キ  キケ  コチ | こ.う
+乾 can;drought;During a drought, everything begs for even a mist for relief; カン  ケン | かわ.く   かわ.かす   ほ.す   ひ.る   いぬい
+
+
+
 
 
 
@@ -1902,7 +1908,6 @@
 朗 lãng rõ ràng roo
 乳 nhũ nhũ mẫu nyuu
 旗 kì quốc kì ki
-梅 mai cây mơ bai
 尊 tôn tôn trọng son
 滑 hoạt trượt, giảo hoạt katsu
 鎖 tỏa xích, bế tỏa, tỏa cảng sa
@@ -2114,7 +2119,6 @@
 妃 phi phi tần hi
 徐 từ từ từ jo
 衰 suy suy thoái sui
-乾 can khô kan
 惨 thảm thảm thương, thảm sát san, zan
 郭 quách thành quách kaku
 粧 trang hóa trang shoo
