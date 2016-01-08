@@ -372,7 +372,6 @@
 
 文 văn văn chương, văn học bun, mon | ふみ
 
-毎 mỗi mỗi mai
 海 hải hải cảng, hải phận kai | うみ
 
 由 do tự do, lí do; a reason; farm is a reason to live; yu, yuu, yui | よし
@@ -1360,6 +1359,8 @@
 詣 visit a temple; You visit a shrine to say your wishes and offer delicious offering to the gods; ケイ  ゲイ | けい.する  まい.る  いた.る  もう.でる
 
 壱 nhất;one;the samurai who has been crowned number one is so good he uses a spoon to fight with rather than a sword; イチ  イツ|  ひとつ
+毎 mỗi; every; マイ | ごと
+敏 mẫn;cleverness; ビン | さとい
 
 
 
@@ -1839,7 +1840,6 @@
 挑 khiêu khiêu vũ, khiêu chiến choo
 戒 giới cảnh giới kai
 沿 duyên ven, dọc theo en
-敏 mẫn mẫn cảm bin
 御 ngự ngự uyển gyo, go
 邸 để trang trại tei
 包 bao bao bọc hoo
