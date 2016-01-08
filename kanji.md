@@ -515,7 +515,6 @@
 
 曲 khúc ca khúc kyoku | ま.がる bend
 
-腹 phục bụng fuku | はら, おなか
 
 歌 ca ca dao, ca khúc ka | うた.う
 
@@ -1364,6 +1363,9 @@
 海 hải hải cảng, hải phận kai | うみ
 乞 beg;Lying down, Captain Hook is begging to be spared from the ticking crocodile. コツ  キツ キ  キケ  コチ | こ.う
 乾 can;drought;During a drought, everything begs for even a mist for relief; カン  ケン | かわ.く   かわ.かす   ほ.す   ひ.る   いぬい
+腹 phục;abdomen; The part of the body (flesh) that is exercised when we lie down and bring our walking legs toward the sun (aka: leglifts) is the abdomen; フク | はら
+複 phức;duplicate; フク
+ 
 
 
 
@@ -1711,7 +1713,6 @@
 絡 lạc liên lạc raku
 訳 dịch thông dịch, phiên dịch yaku
 募 mộ mộ tập, chiêu mộ bo
-複 phức phức tạp fuku
 血 huyết tâm huyết ketsu
 希 hi hi hữu, hi vọng ki
 筋 cân gân cơ kin
