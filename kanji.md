@@ -778,7 +778,6 @@
 
 喋 ĐIỆP talk; use mouth to talk about the world besides a tree チョウ | しゃべ.る
 
-欠 khiếm khiếm khuyết; lack; ketsu | か.ける
 資 tư assets;funds; assets like water and shellfish are constantly lacking shi
 
 族 tộc gia tộc; tribe; a tribe shoot arrow in the same direction to the enemy; zoku
@@ -1364,8 +1363,10 @@
 乞 beg;Lying down, Captain Hook is begging to be spared from the ticking crocodile. コツ  キツ キ  キケ  コチ | こ.う
 乾 can;drought;During a drought, everything begs for even a mist for relief; カン  ケン | かわ.く   かわ.かす   ほ.す   ひ.る   いぬい
 腹 phục;abdomen; The part of the body (flesh) that is exercised when we lie down and bring our walking legs toward the sun (aka: leglifts) is the abdomen; フク | はら
-複 phức;duplicate; フク
+複 phức;duplicate;The magician took his CLOAK, FOLDED IT (DOUBLE BACKED IT) and DUPLICATED it フク
  
+欠 khiếm;lack; ケツ ケン | か.ける   か.く
+吹 xúy;blow; I cannot blow if I lack a mouth; スイ | ふ.く
 
 
 
@@ -1872,7 +1873,6 @@
 柳 liễu cây liễu ryuu
 吸 hấp hô hấp, hấp thu kyuu
 閥 phiệt tài phiệt batsu
-吹 xúy thổi, cổ xúy sui
 慣 quán tập quán kan
 械 giới cơ giới kai
 隣 lân lân bang, lân cận rin
