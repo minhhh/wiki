@@ -1357,6 +1357,9 @@
 
 旨 chỉ;delicious;Use a spoon to eat a DELICIOUS hot fudge sundae; シ | むね  うま.い
 脂 chi;fat;fat is what make the meat taste delicious; シ | あぶら
+詣 visit a temple; You visit a shrine to say your wishes and offer delicious offering to the gods; ケイ  ゲイ | けい.する  まい.る  いた.る  もう.でる
+
+壱 nhất;one;the samurai who has been crowned number one is so good he uses a spoon to fight with rather than a sword; イチ  イツ|  ひとつ
 
 
 
@@ -2431,7 +2434,6 @@
 惰 nọa lười biếng da
 伺 tứ hỏi thăm shi
 某 mỗ ~ nào đó boo
-壱 nhất số một, một (thay cho 一) ichi
 痘 đậu thủy đậu (bệnh) too
 倹 kiệm tiết kiệm ken
 薪 tân củi shin
