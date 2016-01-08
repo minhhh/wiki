@@ -1352,7 +1352,12 @@
 渇 khát;thirst;When you are really thirsty walking under the blazing sun you can almost smell the aroma of fresh water; カツ | かわ.く
 謁 yết;audience;The talk was so boring the audience took a siesta; エツ
 褐 hoạt;brown;Mexicans use a cloak (pancho) for their siestas. Their color is usually brown; カツ
-喝 hát;hoarse;If you have a siesta with your mouthopen, you will wake up with a hoarse voice; カツ
+喝 hát;hoarse; under the blazing sun, you can smell water but your mouth is hoarse; カツ
+葛 kudzu; you can smell the kudzu plant under the blazing sun; カツ   カチ | つづら   くず
+
+旨 chỉ;delicious;Use a spoon to eat a DELICIOUS hot fudge sundae; シ | むね  うま.い
+脂 chi;fat;fat is what make the meat taste delicious; シ | あぶら
+
 
 
 
@@ -1910,7 +1915,6 @@
 緑 lục xanh lục ryoku, roku
 俳 bài diễn viên hai
 泰 thái thái bình tai
-旨 chỉ shi
 浴 dục tắm yoku
 露 lộ sương mù ro, roo
 炭 than than tan
@@ -2119,7 +2123,6 @@
 霧 vụ sương mù mu
 潤 nhuận lợi nhuận, nhuận tràng jun
 俗 tục thông tục, tục lệ zoku
-脂 chi mỡ shi
 穏 ổn yên ổn on
 姓 tính họ sei, shoo
 刈 ngải cắt cỏ -
