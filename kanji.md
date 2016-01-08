@@ -1352,6 +1352,8 @@
 渇 khát;thirst;When you are really thirsty walking under the blazing sun you can almost smell the aroma of fresh water; カツ | かわ.く
 謁 yết;audience;The talk was so boring the audience took a siesta; エツ
 褐 hoạt;brown;Mexicans use a cloak (pancho) for their siestas. Their color is usually brown; カツ
+喝 hát;hoarse;If you have a siesta with your mouthopen, you will wake up with a hoarse voice; カツ
+
 
 
  
@@ -2342,7 +2344,6 @@
 奴 nô nô lệ, nô dịch do
 糾 củ buộc dây kyuu
 茎 hành thân cây cỏ kei
-喝 hát mắng katsu
 忌 kị ghét, kiêng kị, cấm kị ki
 抗 kháng chống lại, đề kháng, kháng chiến koo
 禅 thiền thiền tọa zen
