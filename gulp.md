@@ -207,7 +207,9 @@ Then run `yo`. We can go with all the default stuff and see how it goes. Remove 
 ### Gzip scripts and styles
 * Use `gulp-pako`
 
+
 ## Tips
+* To list all available tasks use `gulp --tasks`
 * Use `gulp-print` to print filenames to console so that you can see what's going through the pipe
 
 
