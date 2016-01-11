@@ -17,6 +17,7 @@ To create custom key mapping go to `Preference > Environment > Key Bindings`
 ```
     C R - Rename variable
     C / - Toggle comment line
+    C I - Format code
 ```
 
 ### Search and replace
