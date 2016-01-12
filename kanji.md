@@ -1367,6 +1367,8 @@
  
 欠 khiếm;lack; ケツ ケン | か.ける   か.く
 吹 xúy;blow; I cannot blow if I lack a mouth; スイ | ふ.く
+炊 xuy;cook; スイ  た.く
+
 
 
 
@@ -2223,7 +2225,6 @@
 膚 phu da fu
 飢 cơ đói, cơ ngạ ki
 寧 ninh an ninh nei
-炊 xuy nấu cơm sui
 閲 duyệt kiểm duyệt etsu
 寮 liêu kí túc xá ryoo
 赦 xá tha thứ, dung xá, xá tội sha
