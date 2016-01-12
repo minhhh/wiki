@@ -515,9 +515,6 @@
 
 曲 khúc ca khúc kyoku | ま.がる bend
 
-
-歌 ca ca dao, ca khúc ka | うた.う
-
 嫌 hiềm hiềm khích ken, gen | きら.い
 
 煙 yên khói en | けむ.る
@@ -1367,7 +1364,8 @@
  
 欠 khiếm;lack; ケツ ケン | か.ける   か.く
 吹 xúy;blow; I cannot blow if I lack a mouth; スイ | ふ.く
-炊 xuy;cook; スイ  た.く
+炊 xuy;cook;Japanese cooking sometimes lacks fire; スイ| た.く
+歌 ca ca dao, ca khúc ka | うた.う
 
 
 
