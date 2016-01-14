@@ -1366,6 +1366,7 @@
 吹 xúy;blow; I cannot blow if I lack a mouth; スイ | ふ.く
 炊 xuy;cook;Japanese cooking sometimes lacks fire; スイ| た.く
 歌 ca ca dao, ca khúc ka | うた.う
+軟 nhuyễn;soft;Cars are rough steel things, lacking softness; ナン | やわ.らか  やわ.らかい
 
 
 
@@ -1979,7 +1980,6 @@
 繊 tiêm thanh mảnh sen
 肥 phì phì nhiêu hi
 稿 cảo nguyên cảo, bản viết koo
-軟 nhuyễn mềm, nhu nhuyễn nan
 煮 chử luộc sha
 恒 hằng luôn luôn, hằng đẳng thức koo
 郊 giao ngoại ô, giao ngoại koo
