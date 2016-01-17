@@ -570,7 +570,6 @@
 
 神 thần thần, thần thánh, thần dược shin, jin | かみ
 
-次 thứ thứ nam, thứ nữ ji, shi | つぎ
 冷 lãnh lạnh, lãnh đạm rei |  つめ.たい
 姿 tư tư thế, tư dung, tư sắc shi | すがた
 
@@ -1367,6 +1366,8 @@
 炊 xuy;cook;Japanese cooking sometimes lacks fire; スイ| た.く
 歌 ca ca dao, ca khúc ka | うた.う
 軟 nhuyễn;soft;Cars are rough steel things, lacking softness; ナン | やわ.らか  やわ.らかい
+次 thứ;next;Is this store lacking ice? Let's try the next one, then; ジ  シ | つ.ぐ   つぎ
+
 
 
 
