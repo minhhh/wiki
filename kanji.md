@@ -774,7 +774,6 @@
 
 喋 ĐIỆP talk; use mouth to talk about the world besides a tree チョウ | しゃべ.る
 
-資 tư assets;funds; assets like water and shellfish are constantly lacking shi
 
 族 tộc gia tộc; tribe; a tribe shoot arrow in the same direction to the enemy; zoku
 
@@ -1367,6 +1366,9 @@
 歌 ca ca dao, ca khúc ka | うた.う
 軟 nhuyễn;soft;Cars are rough steel things, lacking softness; ナン | やわ.らか  やわ.らかい
 次 thứ;next;Is this store lacking ice? Let's try the next one, then; ジ  シ | つ.ぐ   つぎ
+茨 briar;An important life lesson: Briars are always NEXT to FLOWERS; シ  ジ | いばら   かや   くさぶき
+資 tư;assets;Assets are the next best thing to money; シ
+
 
 
 
