@@ -1369,7 +1369,9 @@
 資 tư;assets;Assets are the next best thing to money; シ
 姿 tư;figure;The next woman always has a better figure!; シ | すがた
 諮 tư;consult with;"Consulting with" is having words with the next mouth; シ | はか.る
-賠 bồi;compensation; バイ
+賠 bồi;compensation;Compensation is money you give to someone to shut them up; バイ
+培 bồi;cultivate;To cultivate the land is to tame it, control it; バイ | つちか.う
+
  
 
 
@@ -2064,7 +2066,6 @@
 涙 lệ nước mắt rui
 祥 tường cát tường shoo
 棟 đống tòa nhà too
-培 bồi bồi đắp bai
 奨 tưởng tưởng thưởng shoo
 妨 phương phương hại boo
 騰 đằng tăng cao too
