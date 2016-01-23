@@ -1367,13 +1367,10 @@
 次 thứ;next;Is this store lacking ice? Let's try the next one, then; ジ  シ | つ.ぐ   つぎ
 茨 briar;An important life lesson: Briars are always NEXT to FLOWERS; シ  ジ | いばら   かや   くさぶき
 資 tư;assets;Assets are the next best thing to money; シ
-姿 tư;figure; シ | すがた
-
-
-
-
-
-
+姿 tư;figure;The next woman always has a better figure!; シ | すがた
+諮 tư;consult with;"Consulting with" is having words with the next mouth; シ | はか.る
+賠 bồi;compensation; バイ
+ 
 
 
 
@@ -1971,7 +1968,6 @@
 沈 trầm trầm mặc chin
 幼 ấu ấu trĩ, thơ ấu yoo
 勇 dũng dũng cảm yuu
-賠 bồi bồi thường bai
 怒 nộ thịnh nộ do
 偏 thiên thiên lệch, thiên kiến hen
 賢 hiền hiền thần, hiền nhân ken
@@ -2010,7 +2006,6 @@
 恩 ân ân huệ on
 簿 bộ danh bộ bo
 怖 bố khủng bố fu
-諮 tư tư vấn shi
 丘 khâu đồi kyuu
 廷 đình pháp đình, triều đình tei
 恋 luyến lưu luyến, luyến ái ren
