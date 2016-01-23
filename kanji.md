@@ -571,7 +571,6 @@
 神 thần thần, thần thánh, thần dược shin, jin | かみ
 
 冷 lãnh lạnh, lãnh đạm rei |  つめ.たい
-姿 tư tư thế, tư dung, tư sắc shi | すがた
 
 祝 chúc chúc phúc shuku, shuu | いわ.う
 
@@ -1368,6 +1367,8 @@
 次 thứ;next;Is this store lacking ice? Let's try the next one, then; ジ  シ | つ.ぐ   つぎ
 茨 briar;An important life lesson: Briars are always NEXT to FLOWERS; シ  ジ | いばら   かや   くさぶき
 資 tư;assets;Assets are the next best thing to money; シ
+姿 tư;figure; シ | すがた
+
 
 
 
