@@ -228,7 +228,6 @@
 悪 ác ố hung ác, độc ác; tăng ố aku, o | わる.い
 悲 bi sầu bi, bi quan hi | かな.しい
 
-音 âm âm thanh, phát âm on, in | おと
 意 ý ý nghĩa, ý thức, ý kiến, chú ý | い
 暗 ám ám sát an | くれる
 
@@ -1369,8 +1368,13 @@
 資 tư;assets;Assets are the next best thing to money; シ
 姿 tư;figure;The next woman always has a better figure!; シ | すがた
 諮 tư;consult with;"Consulting with" is having words with the next mouth; シ | はか.る
+
 賠 bồi;compensation;Compensation is money you give to someone to shut them up; バイ
 培 bồi;cultivate;To cultivate the land is to tame it, control it; バイ | つちか.う
+剖 phẫu;divide;Divide and Conquer: Shut 'em Up and Cut 'em Up; ボウ
+
+音 âm;sound; オン   イン |  おと   ね
+
 
  
 
@@ -2344,7 +2348,6 @@
 挿 sáp cho vào soo
 斗 đẩu một đấu to
 摂 nhiếp nhiếp chính, nhiếp thủ setsu
-剖 phẫu phẫu thuật, giải phẫu boo
 睡 thụy ngủ, thụy miên sui
 侍 thị người hầu, thị lang ji
 酪 lạc sản phẩm sữa, nước quả ép raku
