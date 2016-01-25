@@ -229,7 +229,6 @@
 悲 bi sầu bi, bi quan hi | かな.しい
 
 意 ý ý nghĩa, ý thức, ý kiến, chú ý | い
-暗 ám ám sát an | くれる
 
 私 tư tư nhân, công tư, tư lợi shi
 公 công công cộng, công thức, công tước koo | おおやけ
@@ -1374,6 +1373,8 @@
 剖 phẫu;divide;Divide and Conquer: Shut 'em Up and Cut 'em Up; ボウ
 
 音 âm;sound; オン   イン |  おと   ね
+暗 ám;darkness;Total darkness lacks sun and sound; アン | くら.い   くら.む   くれ.る
+
 
 
  
