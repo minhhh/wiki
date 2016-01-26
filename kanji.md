@@ -139,7 +139,6 @@
 
 会 hội hội họp, đại hội kai, e | あ.う
 命 mệnh, mạng tính mạng, vận mệnh, mệnh lệnh mei, myoo | いのち
-鏡 kính gương kính kyoo | かがみ
 
 当 đương, đáng chính đáng; đương thời, tương đương too | あ.たり
 
@@ -1374,10 +1373,9 @@
 
 音 âm;sound; オン   イン |  おと   ね
 暗 ám;darkness;Total darkness lacks sun and sound; アン | くら.い   くら.む   くれ.る
-
-
-
- 
+韻 vận;rhyme;What is a RHYME but some SOUND that EMPLOYEES say to get them through work; イン
+識 thức;discriminating;Words are difficult to discriminate/discern from sounds in the middle of a fiesta; シキ  | し.る  しる.す
+鏡 kính;mirror; キョウ  ケイ | かがみ
 
 
 
@@ -1540,7 +1538,6 @@
 離 li tách li, li khai ri
 督 đốc giám đốc, đôn đốc toku
 撃 kích công kích, tập kích geki
-識 thức nhận thức, kiến thức, tri thức shiki
 雄 hùng thư hùng, anh hùng, hùng tráng yuu
 録 lục kí lục, đăng lục roku
 鮮 tiên sáng, tươi, tiên minh (tươi đẹp), tân tiên sen
@@ -2435,7 +2432,6 @@
 妄 vọng sằng, càn, vô căn cứ moo, boo
 抄 sao viết rõ ràng, tổng kết shoo
 婆 bà bà già ba
-韻 vận vần, âm vận in
 儒 nho nho giáo ju
 芋 dụ khoai -
 帥 soái tướng soái sui
