@@ -7,6 +7,9 @@
     adb logcat *:V # Get all message in verbose mode
     adb logcat xxxxxxx:V *:S # Get all message starts with xxxxx
 
+    # Log by pid
+    adb logcat | grep `adb shell ps | grep com.example.package | cut -c10-15`
+
 ### List package
 
     adb shell pm list package
