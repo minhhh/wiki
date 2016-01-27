@@ -1376,6 +1376,8 @@
 韻 vận;rhyme;What is a RHYME but some SOUND that EMPLOYEES say to get them through work; イン
 識 thức;discriminating;Words are difficult to discriminate/discern from sounds in the middle of a fiesta; シキ  | し.る  しる.す
 鏡 kính;mirror; キョウ  ケイ | かがみ
+境 cảnh;boundary;the owner has put mirrors on the boundary of his land so it feels much bigger; キョウ  ケイ | さかい
+
 
 
 
@@ -1487,7 +1489,6 @@
 票 phiếu lá phiếu, đầu phiếu hyoo
 福 phúc phúc, hạnh phúc, phúc lợi fuku
 審 thẩm thẩm tra, thẩm phán, thẩm định shin
-境 cảnh nhập cảnh, quá cảnh, cảnh ngộ kyoo, kei
 想 tưởng tư tưởng, tưởng tượng soo, so
 渡 độ đi qua, truyền tay to
 念 niệm ý niệm, tưởng niệm nen
