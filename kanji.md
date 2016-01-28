@@ -1377,6 +1377,8 @@
 識 thức;discriminating;Words are difficult to discriminate/discern from sounds in the middle of a fiesta; シキ  | し.る  しる.す
 鏡 kính;mirror; キョウ  ケイ | かがみ
 境 cảnh;boundary;the owner has put mirrors on the boundary of his land so it feels much bigger; キョウ  ケイ | さかい
+亡 vong;deceased;The recently DECEASED are said to hang their hats on a hook; BŌ  モウ | な.い   ほろ.びる   ほろ.ぶ   ほろ.ぼす
+
 
 
 
@@ -1640,7 +1642,6 @@
 善 thiện thiện ác, từ thiện zen
 版 bản xuất bản han
 精 tinh tinh lực, tinh túy sei, shoo
-亡 vong diệt vong boo, moo
 崩 băng băng hoại hoo
 層 tầng hạ tầng, thượng tầng soo
 聴 thính thính giả choo
