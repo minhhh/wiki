@@ -12,7 +12,6 @@
 千 thiên nghìn, nhiều, thiên lí sen
 万 vạn vạn, nhiều, vạn vật man, ban
 
-方 phương phương hướng, phương pháp hoo | かた
 旅 lữ lữ hành, lữ khách ryo | たび
 施 thi thực thi, thi hành shi, se | ほどこ.す
 
@@ -1377,7 +1376,15 @@
 識 thức;discriminating;Words are difficult to discriminate/discern from sounds in the middle of a fiesta; シキ  | し.る  しる.す
 鏡 kính;mirror; キョウ  ケイ | かがみ
 境 cảnh;boundary;the owner has put mirrors on the boundary of his land so it feels much bigger; キョウ  ケイ | さかい
+
 亡 vong;deceased;The recently DECEASED are said to hang their hats on a hook; BŌ  モウ | な.い   ほろ.びる   ほろ.ぶ   ほろ.ぼす
+盲 manh;blind;Deceased eyes! Easy ;). モウ | めくら
+妄 vọng;delusion;If you think you should perish for that woman, you have a major delusion; モウ  ボウ | みだ.りに
+荒 hoang;laid waste;After Godzilla laid waste to the city, the survivors put some flowers on the bodies of the deceased and floated their bodies down the stream; コウ | あら.い   あ.れる  あ.らす   すさ.む
+望 vọng;ambition;You're dead meat, buddy, my ambition is to be king. ボウ  モウ | のぞ.む   もち
+
+方 phương;direction; ホウ | かた
+妨 phương;disturb;A woman is the number one thing that can disturb your direction in life;  ボウ | さまた.げる
 
 
 
@@ -1385,7 +1392,7 @@
 
 
 
- 
+
 
 
 確 xác;assurance;To assure that no one will get into the Turkey coop, put a huge rock in the entrance! カク   コウ | たし.か   たし.かめる
@@ -1504,7 +1511,6 @@
 値 trị giá trị chi
 退 thoái triệt thoái, thoái lui tai
 隊 đội đội ngũ, quân đội tai
-望 vọng ước vọng, nguyện vọng, kì vọng boo, moo
 含 hàm hàm ý, hàm nghĩa, hàm súc gan
 種 chủng chủng loại, chủng tộc shu
 返 phản trả lại hen
@@ -1862,7 +1868,6 @@
 侵 xâm xâm lược shin
 捨 xả vứt sha
 塩 diêm muối en
-荒 hoang hoang dã, hoang dại koo
 哲 triết triết học tetsu
 裂 liệt rách retsu
 至 chí đến shi
@@ -2071,7 +2076,6 @@
 祥 tường cát tường shoo
 棟 đống tòa nhà too
 奨 tưởng tưởng thưởng shoo
-妨 phương phương hại boo
 騰 đằng tăng cao too
 翻 phiên phiên dịch hon
 叫 khiếu kêu kyoo
@@ -2294,7 +2298,6 @@
 轄 hạt địa hạt katsu
 餓 ngạ đói ga
 豚 đồn con lợn ton
-盲 manh mù moo
 飽 bão bão hòa hoo
 洪 hồng hồng thủy koo
 藩 phiên han
@@ -2431,7 +2434,6 @@
 爵 tước tước hiệu, quan tước shaku
 衷 trung ở giữa chuu
 倣 phỏng mô phỏng hoo
-妄 vọng sằng, càn, vô căn cứ moo, boo
 抄 sao viết rõ ràng, tổng kết shoo
 婆 bà bà già ba
 儒 nho nho giáo ju
