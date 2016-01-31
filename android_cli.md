@@ -1,6 +1,7 @@
 # ANDROID CLI CHEATSHEET
 ### Read log
 
+```
     adb logcat
     adb logcat -v time
 
@@ -9,32 +10,53 @@
 
     # Log by pid
     adb logcat | grep `adb shell ps | grep com.example.package | cut -c10-15`
+```
 
 ### List package
 
+```
     adb shell pm list package
     adb shell pm path com.example.someapp
     adb pull /data/app/com.example.someapp-2.apk
+```
 
 ### Run a particular intent
 
+```
     arun-us: # Launch the game for US on the Android device.
         adb shell 'am start -a $(MYPACKAGEID).RUN -e server http://$(MYIP):$(MYPORT) -e game $(game) -e nativeLog $(MYNATIVELOG)'
     astop-us: # Launch the game for US on the Android device.
         adb shell 'am broadcast -a $(MYPACKAGEID).STOP'
+```
 
 ### Install / Uninstall
 
+```
     adb install file.apk
     adb install -r file.apk # replace
 
     adb shell am start -a android.intent.action.DELETE -d package:<your app package>
+```
 
 ### Extracting APK file
 * [Use `apktool`](http://stackoverflow.com/questions/4191762/how-to-view-androidmanifest-xml-from-apk-file)
 
+```
     apk d /path/to/apk
     open res/values/strings.xml
+```
+
+### List certificate name and alias in keystore file
+
+```
+    keytool -v -list -keystore .keystore
+```
+
+Showing specific alias
+
+```
+    keytool -v -list -keystore .keystore -alias foo
+```
 
 ## References
 * [View android manifset from APK](http://stackoverflow.com/questions/4191762/how-to-view-androidmanifest-xml-from-apk-file)
