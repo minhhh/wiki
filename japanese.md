@@ -39,6 +39,8 @@
 すくすく = fast, quickly
 ねもと = the root, the base
 ~よう と する = to try to ~
+するする = smoothly, easily
+そんなら = それなら = if so, then
 
 
 # OTHER REFERENCES
