@@ -32,6 +32,9 @@
 むかし long ago
 さんぽして walk, troll
 すると thereupon
+そこえ then
+やってくる to come along, to turn up
+なく なる = disappear, cease to exist 
 
 
 # OTHER REFERENCES
