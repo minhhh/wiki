@@ -48,7 +48,6 @@
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
 
 地 địa thổ địa, địa đạo chi, ji |
-坊 phường phường , con trai boo, bo |
 増 tăng tăng gia, tăng tốc zoo | ふ.える
 
 人 nhân nhân vật jin, nin | ひと
@@ -1385,6 +1384,10 @@
 
 方 phương;direction; ホウ | かた
 妨 phương;disturb;A woman is the number one thing that can disturb your direction in life;  ボウ | さまた.げる
+坊 phường;boy;Little boys always head in the direction of mud and dirt; ボウ  ボッ
+芳 phương; perfume;She used a perfume so strong, that you can track her by following the direction of the smell of flowers; ホウ | かんば.しい
+
+
 
 
 
@@ -2057,7 +2060,6 @@
 噴 phún phun fun
 唯 duy duy nhất, duy tâm yui, I
 軒 hiên <đếm nhà> ken
-芳 phương thơm hoo
 屈 khuất khuất phục kutsu
 舗 phố phố xá ho
 俵 biểu <đếm túi> hyoo
