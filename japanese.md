@@ -34,7 +34,8 @@
 すると thereupon
 そこえ then
 やってくる to come along, to turn up
-なく なる = disappear, cease to exist 
+なく なる = disappear, cease to exist
+せっせと = hard, busily
 
 
 # OTHER REFERENCES
