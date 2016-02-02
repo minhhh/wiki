@@ -29,6 +29,9 @@
 # Readings
 * http://life.ou.edu/stories/momotarou.html
 * http://life.ou.edu/stories/sarukani.html
+むかし long ago
+
+
 
 # OTHER REFERENCES
 * [Real Japanese](http://www.youtube.com/watch?v=J1Wrsi2dGok)
