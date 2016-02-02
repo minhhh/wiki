@@ -36,6 +36,7 @@
 やってくる to come along, to turn up
 なく なる = disappear, cease to exist
 せっせと = hard, busily
+すくすく = fast, quickly 
 
 
 # OTHER REFERENCES
