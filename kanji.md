@@ -1386,6 +1386,8 @@
 妨 phương;disturb;A woman is the number one thing that can disturb your direction in life;  ボウ | さまた.げる
 坊 phường;boy;Little boys always head in the direction of mud and dirt; ボウ  ボッ
 芳 phương; perfume;She used a perfume so strong, that you can track her by following the direction of the smell of flowers; ホウ | かんば.しい
+肪 phương;obese;"Flesh in all directions" = obese; ボウ
+
 
 
 
@@ -2380,7 +2382,6 @@
 迭 điệt luân phiên tetsu
 擬 nghĩ bắt chước gi
 翁 ông ông già oo
-肪 phương béo, phương phi boo
 鋳 chú đúc chuu
 蚕 tằm con tằm san
 塀 hàng rào hei
