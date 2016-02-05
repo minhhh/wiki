@@ -1387,6 +1387,8 @@
 坊 phường;boy;Little boys always head in the direction of mud and dirt; ボウ  ボッ
 芳 phương; perfume;She used a perfume so strong, that you can track her by following the direction of the smell of flowers; ホウ | かんば.しい
 肪 phương;obese;"Flesh in all directions" = obese; ボウ
+訪 phóng;call on;When you call on someone, you point your words in their direction; ホウ | おとず.れる   たず.ねる   と.う
+
 
 
 
@@ -1532,7 +1534,6 @@
 閣 các nội các kaku
 港 cảng hải cảng, không cảng koo
 響 hưởng ảnh hưởng, âm hưởng kyoo
-訪 phóng, phỏng phóng sự; phỏng vấn hoo
 憲 hiến hiến pháp, hiến binh ken
 史 sử lịch sử, sử sách shi
 秒 miểu giây (1/60 phút) byoo
