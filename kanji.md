@@ -1389,7 +1389,6 @@
 肪 phương;obese;"Flesh in all directions" = obese; ボウ
 訪 phóng;call on;When you call on someone, you point your words in their direction; ホウ | おとず.れる   たず.ねる   と.う
 
-地 面
 
 
 
