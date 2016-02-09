@@ -41,6 +41,7 @@
 ~よう と する = to try to ~
 するする = smoothly, easily
 そんなら = それなら = if so, then
+ようす、様子 = situation
 
 
 # OTHER REFERENCES
