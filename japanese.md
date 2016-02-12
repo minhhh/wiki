@@ -43,6 +43,7 @@
 そんなら = それなら = if so, then
 ようす、様子 = situation
 急に = suddenly
+ゆうがた = early evening (5-7 pm)
 
 
 
