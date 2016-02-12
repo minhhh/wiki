@@ -1388,6 +1388,9 @@
 芳 phương; perfume;She used a perfume so strong, that you can track her by following the direction of the smell of flowers; ホウ | かんば.しい
 肪 phương;obese;"Flesh in all directions" = obese; ボウ
 訪 phóng;call on;When you call on someone, you point your words in their direction; ホウ | おとず.れる   たず.ねる   と.う
+放 phóng;set free;Go in any direction away from your taskmaster when you are set free. ホウ | はな.す  はな.つ  はな.れる  こ.く  ほう.る
+
+
 
 地  面
 
@@ -1457,7 +1460,6 @@
 基 cơ cơ sở, cơ bản ki
 費 phí học phí, lộ phí, chi phí hi
 演 diễn diễn viên, biểu diễn, diễn giả en
-放 phóng giải phóng, phóng hỏa, phóng lao hoo
 位 vị vị trí, tước vị, đơn vị I
 井 tỉnh giếng sei, shoo
 宮 cung cung điện kyuu, guu, ku
