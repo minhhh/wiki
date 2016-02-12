@@ -42,6 +42,8 @@
 するする = smoothly, easily
 そんなら = それなら = if so, then
 ようす、様子 = situation
+急に = suddenly
+
 
 
 # OTHER REFERENCES
