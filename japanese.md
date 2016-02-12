@@ -47,6 +47,7 @@
 
 
 
+
 # OTHER REFERENCES
 * [Real Japanese](http://www.youtube.com/watch?v=J1Wrsi2dGok)
 * [Hero](http://doramax264.com/703/hero/)
