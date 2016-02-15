@@ -39,7 +39,7 @@
 ```
 
 ### Extracting APK file
-* [Use `apktool`](http://stackoverflow.com/questions/4191762/how-to-view-androidmanifest-xml-from-apk-file)
+* [Use `apktool`](http://ibotpeaches.github.io/Apktool/)
 
 ```
     apk d /path/to/apk
