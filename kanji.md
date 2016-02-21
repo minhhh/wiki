@@ -43,7 +43,6 @@
 済 tế kinh tế, cứu tế sai | す.まない
 決 quyết quyết định ketsu | き.める
 汚 ô ô nhiễm o | けが.す
-激 kích kích động, kích thích, kích hoạt geki | はげ.しい
 
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
 
@@ -1389,7 +1388,7 @@
 肪 phương;obese;"Flesh in all directions" = obese; ボウ
 訪 phóng;call on;When you call on someone, you point your words in their direction; ホウ | おとず.れる   たず.ねる   と.う
 放 phóng;set free;Go in any direction away from your taskmaster when you are set free. ホウ | はな.す  はな.つ  はな.れる  こ.く  ほう.る
-
+激 kích kích động, kích thích, kích hoạt geki | はげ.しい
 
 
 地  面
