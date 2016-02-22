@@ -1388,7 +1388,7 @@
 肪 phương;obese;"Flesh in all directions" = obese; ボウ
 訪 phóng;call on;When you call on someone, you point your words in their direction; ホウ | おとず.れる   たず.ねる   と.う
 放 phóng;set free;Go in any direction away from your taskmaster when you are set free. ホウ | はな.す  はな.つ  はな.れる  こ.く  ほう.る
-激 kích kích động, kích thích, kích hoạt geki | はげ.しい
+激 kích; violent; When the taskmaster found his favorite white compas damaged by water, he became the most violent taskmaster there ever was; ゲキ | はげ.しい
 
 
 地  面
