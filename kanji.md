@@ -47,7 +47,6 @@
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
 
 地 địa thổ địa, địa đạo chi, ji |
-増 tăng tăng gia, tăng tốc zoo | ふ.える
 
 人 nhân nhân vật jin, nin | ひと
 夫 phu trượng phu, phu phụ fu, fuu | おっと
@@ -245,7 +244,6 @@
 舌 thiệt cái lưỡi; mouth say thousands things with tongue; zetsu | した
 
 
-東 đông phía đông too | ひがし
 南 nam phương nam nan, na | みなみ
 北 bắc phương bắc hoku | きた
 
@@ -1392,6 +1390,14 @@
 脱 thoát;undress;HORNY TEENAGERS love to UNDRESS FLESH. ダツ | ぬ.ぐ  ぬ.げる
 説 thuyết;explanation;The words of a horny teenager typically fall into one of two categories: either rumors or explanations; セツ  ゼイ | と.く
 鋭 nhuệ;pointed;Pointed is the metal devil's pitchfork; エイ | するど.い
+曽 formerly;Formerly, horned animals were used to plough the ricefield, and it took all day. Nowadays it's done by machine; ソウ  ソ  ゾウ | かつ   かつて   すなわち
+増 tăng;increase;Prices always INCREASE for LAND that was FORMERLY cheaper; ゾウ |ま.す   ま.し   ふ.える   ふ.やす
+贈 tặng;presents;SEA SHELLS were FORMALLY great PRESENTS; ゾウ  ソウ | おく.る
+
+東 đông;east;Traditionally seen as a pictograph of the sun rising behind a tree; トウ | ひがし
+
+
+
 
 
 
@@ -1786,7 +1792,6 @@
 縄 thằng sợi dây joo
 律 luật luật pháp ritsu, richi
 純 thuần đơn thuần, thuần khiết jun
-贈 tặng hiến tặng zoo, soo
 陽 dương thái dương yoo
 預 dự gửi yo
 燃 nhiên nhiên liệu nen
