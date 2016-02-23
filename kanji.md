@@ -1395,6 +1395,14 @@
 贈 tặng;presents;SEA SHELLS were FORMALLY great PRESENTS; ゾウ  ソウ | おく.る
 
 東 đông;east;Traditionally seen as a pictograph of the sun rising behind a tree; トウ | ひがし
+棟 ridgepole;Feng Shui states that the ridgepole of a house should be made of wood and face east; トウ | むね
+凍 đông;frozen;The ice will stay frozen until the sun is visible through the trees; トウ | こお.る  こご.える  こご.る   い.てる   し.みる
+
+妊 nhâm;pregnancy;A pregnant woman is a porter of her child; ニン  ジン | はら.む   みごも.る
+廷 đình;courts;A porter has run away from his master. His punishment is to be stretched out on the rack. So say the courts in this barbaric time; テイ
+
+
+
 
 
 
@@ -2024,7 +2032,6 @@
 簿 bộ danh bộ bo
 怖 bố khủng bố fu
 丘 khâu đồi kyuu
-廷 đình pháp đình, triều đình tei
 恋 luyến lưu luyến, luyến ái ren
 丹 đan màu đỏ tan
 擁 ủng ủng hộ yoo
@@ -2036,7 +2043,6 @@
 没 một trầm một botsu
 覧 lãm triển lãm ran
 慢 mạn ngạo mạn man
-凍 đông đông lạnh too
 滋 tư phồn thịnh ji
 阻 trở cản trở, trở ngại so
 往 vãng vãng lai, dĩ vãng oo
@@ -2079,7 +2085,6 @@
 岳 nhạc núi cao gaku
 涙 lệ nước mắt rui
 祥 tường cát tường shoo
-棟 đống tòa nhà too
 奨 tưởng tưởng thưởng shoo
 騰 đằng tăng cao too
 翻 phiên phiên dịch hon
@@ -2165,7 +2170,6 @@
 廊 lang hành lang roo
 疫 dịch dịch bệnh eki, yaku
 乏 phạp nghèo, ít boo
-妊 nhâm mang thai nin
 桑 tang cây dâu soo
 嫁 giá đi lấy chồng ka
 綿 miên lụa men
