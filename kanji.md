@@ -1389,19 +1389,13 @@
 訪 phóng;call on;When you call on someone, you point your words in their direction; ホウ | おとず.れる   たず.ねる   と.う
 放 phóng;set free;Go in any direction away from your taskmaster when you are set free. ホウ | はな.す  はな.つ  はな.れる  こ.く  ほう.る
 激 kích; violent; When the taskmaster found his favorite white compas damaged by water, he became the most violent taskmaster there ever was; ゲキ | はげ.しい
-脱 thoát;undress; ダツ | ぬ.ぐ  ぬ.げる
+脱 thoát;undress;HORNY TEENAGERS love to UNDRESS FLESH. ダツ | ぬ.ぐ  ぬ.げる
+説 thuyết;explanation;The words of a horny teenager typically fall into one of two categories: either rumors or explanations; セツ  ゼイ | と.く
+鋭 nhuệ;pointed;Pointed is the metal devil's pitchfork; エイ | するど.い
+
 
 
 地  面
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1469,7 +1463,6 @@
 再 tái lại, tái phát sai, sa
 容 dung dung mạo, hình dung, nội dung, dung nhận yoo
 規 quy quy tắc, quy luật ki
-説 thuyết tiểu thuyết, học thuyết, lí thuyết setsu, zei
 応 ứng đáp ứng, ứng đối, phản ứng oo
 争 tranh đấu tranh, chiến tranh, tranh luận, cạnh tranh soo
 護 hộ bảo hộ, phòng hộ, hộ vệ go
@@ -2095,7 +2088,6 @@
 溶 dung dung dịch yoo
 磨 ma mài ma
 猶 do do dự yuu
-鋭 nhuệ tinh nhuệ ei
 謀 mưu âm mưu boo, mu
 盾 thuẫn mâu thuẫn jun
 飼 tự nuôi shi
