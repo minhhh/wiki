@@ -1389,6 +1389,7 @@
 訪 phóng;call on;When you call on someone, you point your words in their direction; ホウ | おとず.れる   たず.ねる   と.う
 放 phóng;set free;Go in any direction away from your taskmaster when you are set free. ホウ | はな.す  はな.つ  はな.れる  こ.く  ほう.る
 激 kích; violent; When the taskmaster found his favorite white compas damaged by water, he became the most violent taskmaster there ever was; ゲキ | はげ.しい
+脱 thoát;undress; ダツ | ぬ.ぐ  ぬ.げる
 
 
 地  面
@@ -1661,7 +1662,6 @@
 聴 thính thính giả choo
 属 thuộc phụ thuộc zoku
 押 áp ấn oo
-脱 thoát giải thoát datsu
 尾 vĩ cái đuôi bi
 逮 đãi đuổi bắt tai
 囲 vi chu vi, bao vây I
