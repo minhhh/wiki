@@ -1401,17 +1401,13 @@
 妊 nhâm;pregnancy;A pregnant woman is a porter of her child; ニン  ジン | はら.む   みごも.る
 廷 đình;courts;A porter has run away from his master. His punishment is to be stretched out on the rack. So say the courts in this barbaric time; テイ
 
+染 nhiễm;dye;To make this dye, I used water and the barks of nine different trees; セン | そ.める  そ.まる  し.みる  し.み
 
+燃 nhiên;burn;Any sort of thing can burn in the fire; ネン | も.える  も.やす  も.す
 
-
-
-
-
-
+賓 tân;V.I.P;This house is reserved to V.I.P. only. If you are not one of the few with enough money to call you that way, keep out; ヒン
 
 地  面
-
-
 
 
 確 xác;assurance;To assure that no one will get into the Turkey coop, put a huge rock in the entrance! カク   コウ | たし.か   たし.かめる
@@ -1737,7 +1733,6 @@
 掲 yết yết thị kei
 緩 hoãn hòa hoãn kan
 招 chiêu chiêu đãi shoo
-染 nhiễm ô nhiễm sen
 葬 táng an táng soo
 養 dưỡng dưỡng dục yoo
 絡 lạc liên lạc raku
@@ -1802,7 +1797,6 @@
 純 thuần đơn thuần, thuần khiết jun
 陽 dương thái dương yoo
 預 dự gửi yo
-燃 nhiên nhiên liệu nen
 却 khước khước từ kyaku
 杉 sam cây sam -
 揮 huy phát huy, chỉ huy ki
@@ -2289,7 +2283,6 @@
 憎 tăng ghét zoo
 舶 bạc tàu haku
 酵 diếu lên men koo
-賓 tân tân khách, tiếp tân hin
 碁 kì cờ go
 扇 phiến quạt sen
 坪 bình 36 feet vuông -
