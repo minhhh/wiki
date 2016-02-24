@@ -1415,14 +1415,11 @@
 虫 trùng;insect;  チュウ  キ | むし
 蛍 huỳnh;lightning-bug;Bugs have to go to school to learn how to become lightning bugs. Only the brightest bugs graduate to become lightning bugs; ケイ | ほたる
 蛇 xà;snake;A snake eats insects and he does that outside, while we eat in the house and preferably with a spoon; ジャ  ダ  イ  ヤ | へび
-虹 rainbow; コウ | にじ
-
-
-
-
- 
-
-
+虹 rainbow;Little is it known that a rainbow is actually created by insects of different colours flying in formation, a craft they have perfected to create the rainbows we see today. コウ | にじ
+蝶 butterfly;A butterfly is an insect that appears after spending a generation on a tree as a cocoon; チョウ
+独 độc;single;A SINGLE guy is a WILD DOG who BUGS many women; ドク   トク | ひと.り
+蚕 tằm; silkworm;There are no insects in heaven - well, that is, except for silkworm; サン  テン | かいこ   こ
+風 phong;wind;They say that when an INSECT flaps its wings even the single DROP of WIND that it creates is sometimes enough to create a hurricane on the other side of the Earth. フウ  フ | かぜ
 
 
 
@@ -1539,7 +1536,6 @@
 追 truy truy lùng, truy nã, truy cầu tsui
 訴 tố tố cáo, tố tụng so
 低 đê thấp, đê hèn, đê tiện tei
-独 độc cô độc, đơn độc doku
 衛 vệ bảo vệ, vệ tinh, vệ sinh ei
 値 trị giá trị chi
 退 thoái triệt thoái, thoái lui tai
@@ -1563,7 +1559,6 @@
 憲 hiến hiến pháp, hiến binh ken
 史 sử lịch sử, sử sách shi
 秒 miểu giây (1/60 phút) byoo
-風 phong phong ba, phong cách, phong tục fuu, fu
 極 cực cực lực, cùng cực, địa cực kyoku, goku
 欧 âu châu âu oo
 賞 thưởng giải thưởng, tưởng thưởng shoo
@@ -2398,7 +2393,6 @@
 擬 nghĩ bắt chước gi
 翁 ông ông già oo
 鋳 chú đúc chuu
-蚕 tằm con tằm san
 塀 hàng rào hei
 愁 sầu buồn bã, sầu muộn shuu
 卑 ti thấp kém, ti tiện, tự ti hi
