@@ -46,7 +46,6 @@
 
 赤 xích đỏ, xích kì, xích đạo, xích thập tự seki, shaku | あか.い
 
-地 địa thổ địa, địa đạo chi, ji |
 
 人 nhân nhân vật jin, nin | ひと
 夫 phu trượng phu, phu phụ fu, fuu | おっと
@@ -1409,6 +1408,11 @@
 歳 tuế;year-end; At the year-end, everything seems to come to a stop. However, there's still enough prime time for one little party to celebrate; サイ  セイ | とし  とせ  よわい
 
 県 huyện;prefecture;Smaller administrative units, hooked together by a (Sauron's) central eye; ケン | か.ける
+栃 horse chestnut;Horse chestnut trees grows in tens of thousands under the cliff | とち
+地 địa;ground; チ ジ
+
+
+
 
 
 
