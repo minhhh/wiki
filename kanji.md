@@ -437,7 +437,6 @@
 強 cường, cưỡng cường quốc; miễn cưỡng kyoo, goo | つよ.い
 弟 đệ đệ tử tei, dai, de | おとうと
 
-虫 trùng côn trùng chuu | むし
 
 犬 khuyển con chó ken | いぬ
 狭 hiệp hẹp kyoo | せま.い
@@ -1409,7 +1408,19 @@
 
 県 huyện;prefecture;Smaller administrative units, hooked together by a (Sauron's) central eye; ケン | か.ける
 栃 horse chestnut;Horse chestnut trees grows in tens of thousands under the cliff | とち
+
 地 địa;ground; チ ジ
+池 trì;pond;Water scorpions loves to live in the pond; チ | いけ
+
+虫 trùng;insect;  チュウ  キ | むし
+蛍 huỳnh;lightning-bug;Bugs have to go to school to learn how to become lightning bugs. Only the brightest bugs graduate to become lightning bugs; ケイ | ほたる
+蛇 xà;snake;A snake eats insects and he does that outside, while we eat in the house and preferably with a spoon; ジャ  ダ  イ  ヤ | へび
+虹 rainbow; コウ | にじ
+
+
+
+
+ 
 
 
 
@@ -1680,7 +1691,6 @@
 倍 bội bội thu, bội số bai
 浦 phổ cửa biển ho
 闘 đấu đấu tranh, chiến đấu too
-池 trì cái ao chi
 像 tượng tưởng tượng, thần tượng zoo
 貨 hóa hàng hóa ka
 坂 phản cái dốc han
@@ -2297,7 +2307,6 @@
 坪 bình 36 feet vuông -
 墜 trụy rơi, trụy lạc tsui
 娯 ngu vui chơi, ngu lạc go
-蛇 xà con rắn ja, da
 酢 tạc dấm saku
 紳 thân đàn ông shin
 瓶 bình cái bình bin
@@ -2409,7 +2418,6 @@
 畔 bạn ruộng lúa han
 斥 xích bài xích seki
 泌 bí rỉ ra, tiết ra hitsu, hi
-蛍 huỳnh đom đóm, huỳnh quang kei
 侮 vũ sỉ nhục, vũ nhục bu
 棺 quan quan tài kan
 幽 u tối tăm, u tối yuu
