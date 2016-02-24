@@ -556,7 +556,6 @@
 鞄 bạc, bào, cái va li | かばん
 
 
-歳 tuế tuổi, năm, tuế nguyệt sai, sei | とし
 
 檎 cầm táo ゴ
 
@@ -1407,6 +1406,13 @@
 
 賓 tân;V.I.P;This house is reserved to V.I.P. only. If you are not one of the few with enough money to call you that way, keep out; ヒン
 
+歳 tuế;year-end; At the year-end, everything seems to come to a stop. However, there's still enough prime time for one little party to celebrate; サイ  セイ | とし  とせ  よわい
+
+県 huyện;prefecture;Smaller administrative units, hooked together by a (Sauron's) central eye; ケン | か.ける
+
+
+
+
 地  面
 
 
@@ -1426,7 +1432,6 @@
 務 vụ chức vụ, nhiệm vụ mu
 総 tổng tổng số, tổng cộng soo
 産 sản sản xuất, sinh sản, cộng sản san
-県 huyện huyện, tỉnh ken
 協 hiệp hiệp lực kyoo
 保 bảo bảo trì, bảo vệ, đảm bảo ho
 改 cải cải cách, cải chính kai
