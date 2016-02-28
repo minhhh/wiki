@@ -1425,6 +1425,7 @@
 改 cải;reformation; If you want to achieve the reformation of your inner self you have to control your desires and correct your flaws; in sum, be your own self taskmaster. カイ | あらた.める  あらた.まる
 記 kí; scribe; キ | しる.す
 包 bao;wrap;The snake bound up its prey by wrapping his body around it; ホウ | つつ.む  くる.む
+胞 bào; placenta;Placenta is flesh/part of the body wrapped around the foetus; ホウ
 
 
 
@@ -2033,7 +2034,6 @@
 欄 lan lan can ran
 陳 trần trần thuật chin
 糧 lương lương thực ryoo, roo
-胞 bào đồng bào, tế bào hoo
 卵 noãn trứng ran
 偽 ngụy ngụy trang, ngụy tạo gi
 干 can khô kan
