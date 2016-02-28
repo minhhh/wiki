@@ -1424,8 +1424,7 @@
 妃 phi;queen;Woman 女 of mine 己. Meaning Princess; ヒ | きさき
 改 cải;reformation; If you want to achieve the reformation of your inner self you have to control your desires and correct your flaws; in sum, be your own self taskmaster. カイ | あらた.める  あらた.まる
 記 kí; scribe; キ | しる.す
-
-包 bao;wrap; ホウ | つつ.む  くる.む
+包 bao;wrap;The snake bound up its prey by wrapping his body around it; ホウ | つつ.む  くる.む
 
 
 
