@@ -232,8 +232,6 @@
 設 thiết thiết lập, kiến thiết setsu | もう.ける
 許 hứa permit;  approve kyo | ゆる.す
 
-己 kỉ tự kỉ, vị kỉ ko, ki
-記 kí thư kí, kí sự, kí ức ki | しる.す
 誌 chí tạp chí shi |
 議 nghị nghị luận, nghị sự gi |
 
@@ -474,7 +472,6 @@
 
 呉 ngô triều Ngô, Trung quốc, cho ai, go | くれる
 
-起 khởi khởi động, khởi sự, khởi nghĩa ki | おこる
 
 馬 mã ngựa ba | うま
 駅 dịch ga eki |
@@ -1422,6 +1419,19 @@
 風 phong;wind;They say that when an INSECT flaps its wings even the single DROP of WIND that it creates is sometimes enough to create a hurricane on the other side of the Earth. フウ  フ | かぜ
 
 
+己 kỉ;self; コ  キ | おのれ  つちのと  な
+起 khởi;rouse; キ | お.きる  お.こる   お.こす   おこ.す   た.つ
+妃 phi;queen;Woman 女 of mine 己. Meaning Princess; ヒ | きさき
+改 cải;reformation; If you want to achieve the reformation of your inner self you have to control your desires and correct your flaws; in sum, be your own self taskmaster. カイ | あらた.める  あらた.まる
+記 kí; scribe; キ | しる.す
+
+包 bao;wrap; ホウ | つつ.む  くる.む
+
+
+
+ 
+
+
 
 地  面
 
@@ -1444,7 +1454,6 @@
 産 sản sản xuất, sinh sản, cộng sản san
 協 hiệp hiệp lực kyoo
 保 bảo bảo trì, bảo vệ, đảm bảo ho
-改 cải cải cách, cải chính kai
 以 dĩ dĩ tiền, dĩ vãng I
 平 bình hòa bình, bình đẳng, trung bình, bình thường hei, byoo
 支 chi chi nhánh, chi trì (ủng hộ) shi
@@ -1884,7 +1893,6 @@
 沿 duyên ven, dọc theo en
 御 ngự ngự uyển gyo, go
 邸 để trang trại tei
-包 bao bao bọc hoo
 侵 xâm xâm lược shin
 捨 xả vứt sha
 塩 diêm muối en
@@ -2140,7 +2148,6 @@
 棋 kì môn cờ ki
 麦 mạch lúa mạch baku
 筒 đồng cái ống too
-妃 phi phi tần hi
 徐 từ từ từ jo
 衰 suy suy thoái sui
 惨 thảm thảm thương, thảm sát san, zan
