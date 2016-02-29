@@ -1424,8 +1424,11 @@
 妃 phi;queen;Woman 女 of mine 己. Meaning Princess; ヒ | きさき
 改 cải;reformation; If you want to achieve the reformation of your inner self you have to control your desires and correct your flaws; in sum, be your own self taskmaster. カイ | あらた.める  あらた.まる
 記 kí; scribe; キ | しる.す
+
 包 bao;wrap;The snake bound up its prey by wrapping his body around it; ホウ | つつ.む  くる.む
 胞 bào; placenta;Placenta is flesh/part of the body wrapped around the foetus; ホウ
+砲 pháo;cannon; Primitive cannons fired stones wrapped with poisonous snakes.; ホウ
+
 
 
 
@@ -1970,7 +1973,6 @@
 炭 than than tan
 軸 trục trục jiku
 慰 úy úy lạo, an úy I
-砲 pháo khẩu pháo hoo
 剣 kiếm thanh kiếm ken
 寿 thọ trường thọ, tổi thọ ju
 序 tự trình tự jo
