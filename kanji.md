@@ -1428,6 +1428,8 @@
 包 bao;wrap;The snake bound up its prey by wrapping his body around it; ホウ | つつ.む  くる.む
 胞 bào; placenta;Placenta is flesh/part of the body wrapped around the foetus; ホウ
 砲 pháo;cannon; Primitive cannons fired stones wrapped with poisonous snakes.; ホウ
+泡 bào;bubbles;When water forms a bubble, it wraps a pocket of air; ホウ | あわ
+
 
 
 
@@ -2327,7 +2329,6 @@
 篤 đốc toku
 憤 phẫn phẫn uất fun
 恨 hận căm hận kon
-泡 bào bọt hoo
 叙 tự kể lại jo
 笛 địch ống sáo teki
 匿 nặc nặc danh toku
