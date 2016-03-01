@@ -196,7 +196,6 @@
 
 雪 tuyết tuyết setsu | ゆき
 震 chấn địa chấn shin | ふる.う
-電 điện phát điện, điện lực den
 
 
 左 tả bên trái, tả hữu, cánh tả sa | ひだり
@@ -1430,12 +1429,8 @@
 砲 pháo;cannon; Primitive cannons fired stones wrapped with poisonous snakes.; ホウ
 泡 bào;bubbles;When water forms a bubble, it wraps a pocket of air; ホウ | あわ
 
-
-
-
-
- 
-
+亀 tortoise; キ  キュウ  キ | かめ
+電 điện phát điện, điện lực den
 
 
 地  面
