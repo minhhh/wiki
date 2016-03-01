@@ -1430,7 +1430,8 @@
 泡 bào;bubbles;When water forms a bubble, it wraps a pocket of air; ホウ | あわ
 
 亀 tortoise; キ  キュウ  キ | かめ
-電 điện phát điện, điện lực den
+電 điện;electricity; When it RAINS , if you put an electric EEL in the swimming pool , you can generate ELECTRICITY.; デン
+
 
 
 地  面
