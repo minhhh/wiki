@@ -1431,6 +1431,10 @@
 
 亀 tortoise; キ  キュウ  キ | かめ
 電 điện;electricity; When it RAINS , if you put an electric EEL in the swimming pool , you can generate ELECTRICITY.; デン
+竜 long;dragon;A dragon is like a standing eel.; リュウ  リョウ  ロウ | たつ   いせ
+滝 lang;waterfall;A WATERFALL makes the WATER roar like a DRAGON.; ロウ  ソウ | たき
+
+
 
 
 
@@ -1986,7 +1990,6 @@
 膨 bành bành chướng boo
 桜 anh anh đào oo
 縦 tung tung hoành, tung độ juu
-竜 long con rồng ryuu
 稼 giá kiếm tiền ka
 腰 yêu eo yoo
 脅 hiếp uy hiếp kyoo
@@ -2177,7 +2180,6 @@
 擦 sát trà sát satsu
 漂 phiêu phiêu lưu hyoo
 鈍 độn ngu độn don
-滝 lang thác nước -
 潔 khiết thanh khiết ketsu
 廊 lang hành lang roo
 疫 dịch dịch bệnh eki, yaku
