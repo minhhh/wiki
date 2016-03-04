@@ -33,6 +33,7 @@ Memcached is simple yet powerful. Its simple design promotes quick deployment, e
 
 ## Print all items of a slab
 ```
+    stats cachedump <slabs_id> <limit>
     echo "stats cachedump 1 0" | nc localhost 11211
 ```
 
