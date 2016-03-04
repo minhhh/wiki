@@ -1433,6 +1433,7 @@
 電 điện;electricity; When it RAINS , if you put an electric EEL in the swimming pool , you can generate ELECTRICITY.; デン
 竜 long;dragon;A dragon is like a standing eel.; リュウ  リョウ  ロウ | たつ   いせ
 滝 lang;waterfall;A WATERFALL makes the WATER roar like a DRAGON.; ロウ  ソウ | たき
+豚 đồn;pork;Pork comes from the flesh of a sow. トン | ぶた
 
 
 
@@ -2317,7 +2318,6 @@
 鼓 cổ cái trống ko
 轄 hạt địa hạt katsu
 餓 ngạ đói ga
-豚 đồn con lợn ton
 飽 bão bão hòa hoo
 洪 hồng hồng thủy koo
 藩 phiên han
