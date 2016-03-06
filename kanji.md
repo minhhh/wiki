@@ -731,7 +731,6 @@
 
 豕
 家 gia gia đình, chuyên gia ka, ke | いえ, うち
-遂 toại toại nguyện sui | つい.に
 
 豆 đậu hạt đậu too, zu | まめ
 嬉 glad キ | うれ.しい
@@ -1434,6 +1433,10 @@
 竜 long;dragon;A dragon is like a standing eel.; リュウ  リョウ  ロウ | たつ   いせ
 滝 lang;waterfall;A WATERFALL makes the WATER roar like a DRAGON.; ロウ  ソウ | たき
 豚 đồn;pork;Pork comes from the flesh of a sow. トン | ぶた
+逐 trục;pursue;In association with 遂 (#540), our sow is on the road pursuing a mate; チク
+遂 toại;consummate; This is still Miss Piggy only she's gotten horny (as she often does) and now she's pursuing Kermit to help her consummate her desires. スイ|  と.げる  つい.に
+
+
 
 
 
@@ -2442,7 +2445,6 @@
 耗 hao tiêu hao, hao mòn moo, koo
 拷 khảo tra khảo, tra tấn goo
 堕 đọa rơi xuống, xa đọa da
-逐 trục đuổi theo, khu trục chiku
 附 phụ đính kèm, phụ lục fu
 厄 ách tai ách yaku
 侯 hầu tước hầu, hầu tước koo
