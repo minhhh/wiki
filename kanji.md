@@ -1436,8 +1436,7 @@
 遂 toại;consummate; This is still Miss Piggy only she's gotten horny (as she often does) and now she's pursuing Kermit to help her consummate her desires. スイ|  と.げる  つい.に
 家 gia;house; カ  ケ | いえ  や  うち
 嫁 giá;marry into;Since the Nihonjin man is hardly ever home, the woman feels more like she's married into the house than into a relationship; カ |よめ  とつ.ぐ  い.く  ゆ.く
-豪 hào;overpowering; ゴウ | えら.い
-
+豪 hào;overpowering;In Orwell's 'Animal Farm' the pigs overpowered every other animals. ゴウ | えら.い
 
 
 
