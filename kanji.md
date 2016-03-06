@@ -730,7 +730,6 @@
 僚 liêu đồng liêu, quan liêu ryoo
 
 豕
-家 gia gia đình, chuyên gia ka, ke | いえ, うち
 
 豆 đậu hạt đậu too, zu | まめ
 嬉 glad キ | うれ.しい
@@ -1435,6 +1434,12 @@
 豚 đồn;pork;Pork comes from the flesh of a sow. トン | ぶた
 逐 trục;pursue;In association with 遂 (#540), our sow is on the road pursuing a mate; チク
 遂 toại;consummate; This is still Miss Piggy only she's gotten horny (as she often does) and now she's pursuing Kermit to help her consummate her desires. スイ|  と.げる  つい.に
+家 gia;house; カ  ケ | いえ  や  うち
+嫁 giá;marry into;Since the Nihonjin man is hardly ever home, the woman feels more like she's married into the house than into a relationship; カ |よめ  とつ.ぐ  い.く  ゆ.く
+豪 hào;overpowering; ゴウ | えら.い
+
+
+
 
 
 
@@ -1841,7 +1846,6 @@
 宗 tôn tôn giáo shuu, soo
 殿 điện cung điện den, ten
 奪 đoạt chiếm đoạt datsu
-豪 hào hào kiệt, phú hào goo
 紹 thiệu giới thiệu shoo
 症 chứng chứng bệnh, triệu chứng shoo
 購 cấu mua koo
@@ -2189,7 +2193,6 @@
 疫 dịch dịch bệnh eki, yaku
 乏 phạp nghèo, ít boo
 桑 tang cây dâu soo
-嫁 giá đi lấy chồng ka
 綿 miên lụa men
 班 ban lớp han
 恥 sỉ sỉ nhục chi
