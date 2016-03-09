@@ -1437,6 +1437,8 @@
 家 gia;house; カ  ケ | いえ  や  うち
 嫁 giá;marry into;Since the Nihonjin man is hardly ever home, the woman feels more like she's married into the house than into a relationship; カ |よめ  とつ.ぐ  い.く  ゆ.く
 豪 hào;overpowering;In Orwell's 'Animal Farm' the pigs overpowered every other animals. ゴウ | えら.い
+腸 tràng;intestines; チョウ | はらわた   わた
+
 
 
 
@@ -2290,7 +2292,6 @@
 慈 từ từ bi, nhân từ ji
 縛 phược baku
 欺 khi lừa dối gi
-腸 tràng ruột choo
 濯 trạc rửa taku
 薫 huân thơm kun
 粋 túy tinh túy sui
