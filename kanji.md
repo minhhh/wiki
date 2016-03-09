@@ -414,7 +414,6 @@
 変 biến biến đổi, biến thiên hen | か.える か.わる
 
 勿 VẬT not;  must not;  do not;  be not モチ  ブツ   ボツ | なか.れ    なし
-場 trường hội trường, quảng trường joo | ば
 易 dị, dịch dễ, dịch chuyển i, eki | やさ.しい
 物 vật động vật butsu, motsu | もの
 
@@ -1437,9 +1436,9 @@
 家 gia;house; カ  ケ | いえ  や  うち
 嫁 giá;marry into;Since the Nihonjin man is hardly ever home, the woman feels more like she's married into the house than into a relationship; カ |よめ  とつ.ぐ  い.く  ゆ.く
 豪 hào;overpowering;In Orwell's 'Animal Farm' the pigs overpowered every other animals. ゴウ | えら.い
-腸 tràng;intestines; チョウ | はらわた   わた
 
-
+腸 tràng;intestines;Taking things too literally, you used a real piglet as a piggy bank. Now when you smash it open to get your coins out, you have to dig out your coins from its intestines. チョウ | はらわた   わた
+場 trường;location;You're looking for a good location to bury your piggy bank savings; ジョウ  チョウ | ば
 
 
 
