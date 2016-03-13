@@ -655,8 +655,6 @@
 
 夜 dạ ban đêm, dạ cảnh, dạ quang ya | よる
 
-羊 dương con dê, sheep ヨウ | ひつじ
-美 mĩ mĩ nhân; beautiful like a big sheep; bi | うつく.しい
 耒 LỖI come, cái cầy ライ ルイ | き く すき
 業 nghiệp nghề nghiệp; business; using plough is a business; gyoo, goo | わざ
 
@@ -1439,6 +1437,10 @@
 
 腸 tràng;intestines;Taking things too literally, you used a real piglet as a piggy bank. Now when you smash it open to get your coins out, you have to dig out your coins from its intestines. チョウ | はらわた   わた
 場 trường;location;You're looking for a good location to bury your piggy bank savings; ジョウ  チョウ | ば
+湯 thang;hot water;Hot water is the kind of water you don't have when your piggy bank is empty; トウ | ゆ
+
+羊 dương; sheep;Picture of a sheep run over by a steam roller. Must have been a ram, note the horns. ヨウ | ひつじ
+美 mĩ; beauty; I guess this kanji proves it's not just the Welsh whose idea of beauty is a large sheep.; ビ    ミ | うつく.しい
 
 
 
@@ -2001,7 +2003,6 @@
 稼 giá kiếm tiền ka
 腰 yêu eo yoo
 脅 hiếp uy hiếp kyoo
-湯 thang nước nóng too
 魅 mị mị lực, mộng mị mi
 浪 lãng sóng roo
 遇 ngộ tao ngộ, đãi ngộ guu
