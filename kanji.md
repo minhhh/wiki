@@ -1441,7 +1441,9 @@
 
 羊 dương; sheep;Picture of a sheep run over by a steam roller. Must have been a ram, note the horns. ヨウ | ひつじ
 美 mĩ; beauty; I guess this kanji proves it's not just the Welsh whose idea of beauty is a large sheep.; ビ    ミ | うつく.しい
-
+洋 dương; ocean; This kanji refers to the waters of the Pasheephic ocean; ヨウ
+詳 tường;detailed;The next time you can't sleep, instead of counting sheep, think of wordy sheep, boring you with details of their mundane lives ショウ | くわ.しい  つまび.らか
+鮮 tiên;fresh;The freshest fish is caught in the middle of the night while most people are "counting sheep. セン | あざ.やか
 
 
 
@@ -1566,7 +1568,6 @@
 含 hàm hàm ý, hàm nghĩa, hàm súc gan
 種 chủng chủng loại, chủng tộc shu
 返 phản trả lại hen
-洋 dương đại dương, tây dương yoo
 失 thất thất nghiệp, thất bại shitsu
 評 bình bình luận, phê bình hyoo
 影 ảnh hình ảnh; nhiếp ảnh ei
@@ -1599,7 +1600,6 @@
 撃 kích công kích, tập kích geki
 雄 hùng thư hùng, anh hùng, hùng tráng yuu
 録 lục kí lục, đăng lục roku
-鮮 tiên sáng, tươi, tiên minh (tươi đẹp), tân tiên sen
 効 hiệu hiệu quả, hiệu ứng, công hiệu koo
 被 bị bị, bị động, bị cáo hi
 融 dung tan chảy, dung hòa, dung hợp yuu
@@ -1988,7 +1988,6 @@
 剣 kiếm thanh kiếm ken
 寿 thọ trường thọ, tổi thọ ju
 序 tự trình tự jo
-詳 tường tường tế (chi tiết) shoo
 陥 hãm vây hãm kan
 鳴 minh hót mei
 踊 dũng nhảy múa yoo
