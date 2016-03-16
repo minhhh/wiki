@@ -585,7 +585,6 @@
 
 腕 oản cánh tay wan | うで
 
-達 đạt đạt tới, điều đạt, thành đạt tatsu | -たち
 
 艮 CẤN; good radical; コン
 良 lương tốt, lương tâm, lương tri ryoo | よ.い いい
@@ -1444,6 +1443,11 @@
 洋 dương; ocean; This kanji refers to the waters of the Pasheephic ocean; ヨウ
 詳 tường;detailed;The next time you can't sleep, instead of counting sheep, think of wordy sheep, boring you with details of their mundane lives ショウ | くわ.しい  つまび.らか
 鮮 tiên;fresh;The freshest fish is caught in the middle of the night while most people are "counting sheep. セン | あざ.やか
+
+達 đạt;accomplished;The dirty sheep had come far down this road and had accomplished many things. タツ  ダ | -たち-tachi
+羨 envious;A sheep that lacks water is envious of those who have it; セン  エン | うらや.む   あまり
+
+
 
 
 
