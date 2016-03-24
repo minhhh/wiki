@@ -1446,7 +1446,11 @@
 達 đạt;accomplished;The dirty sheep had come far down this road and had accomplished many things. タツ  ダ | -たち-tachi
 羨 envious;A sheep that lacks water is envious of those who have it; セン  エン | うらや.む   あまり
 差 sai;distinction;The distinction between fine and common wool, is the craftsmanship of the wool; サ | さ.す  さ.し
-着 trước;
+着 trước;don; Someone who is donning a disguise does that in order to pull the wool over your eyes; チャク   ジャク | き.る き.せる  つ.く つ.ける
+唯 duy;solely;Sadly my mouth gets to taste turkey solely on Christmas Day; ユイ  イ | ただ
+堆 piled high;After our pre-Thanksgiving massacre, we piled high all the turkey corpses atop the soil of the farmyard; タイ  ツイ | うずたか.い
+
+
 
 
 
@@ -2091,7 +2095,6 @@
 漫 mạn chịu đựng man
 喫 khiết uống, hút kitsu
 噴 phún phun fun
-唯 duy duy nhất, duy tâm yui, I
 軒 hiên <đếm nhà> ken
 屈 khuất khuất phục kutsu
 舗 phố phố xá ho
