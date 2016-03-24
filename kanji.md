@@ -424,7 +424,6 @@
 
 叩 strike, beat, hit tataku
 
-着 trước đến, đáo trước, mặc chaku, jaku | き.る
 
 剤 tễ dịch tễ zai
 
@@ -1446,10 +1445,8 @@
 
 達 đạt;accomplished;The dirty sheep had come far down this road and had accomplished many things. タツ  ダ | -たち-tachi
 羨 envious;A sheep that lacks water is envious of those who have it; セン  エン | うらや.む   あまり
-
-
-
-
+差 sai;distinction;The distinction between fine and common wool, is the craftsmanship of the wool; サ | さ.す  さ.し
+着 trước;
 
 
 
@@ -1561,7 +1558,6 @@
 渡 độ đi qua, truyền tay to
 念 niệm ý niệm, tưởng niệm nen
 述 thuật tường thuật. tự thuật jutsu
-差 sai sai khác, sai biệt sa
 追 truy truy lùng, truy nã, truy cầu tsui
 訴 tố tố cáo, tố tụng so
 低 đê thấp, đê hèn, đê tiện tei
