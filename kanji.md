@@ -1449,6 +1449,9 @@
 着 trước;don; Someone who is donning a disguise does that in order to pull the wool over your eyes; チャク   ジャク | き.る き.せる  つ.く つ.ける
 唯 duy;solely;Sadly my mouth gets to taste turkey solely on Christmas Day; ユイ  イ | ただ
 堆 piled high;After our pre-Thanksgiving massacre, we piled high all the turkey corpses atop the soil of the farmyard; タイ  ツイ | うずたか.い
+椎 sweet oak;it tastes just like turkey (with gravy and cranberry sauce!) Now that is sweet. ツイ  スイ | つち う.つu.tsu
+誰 who; Who let the turkeys out!? Gobble.. gobble.. gobble"? スイ | だれ  たれ  た
+
 
 
 
