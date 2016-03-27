@@ -1452,18 +1452,12 @@
 椎 sweet oak;it tastes just like turkey (with gravy and cranberry sauce!) Now that is sweet. ツイ  スイ | つち う.つu.tsu
 誰 who; Who let the turkeys out!? Gobble.. gobble.. gobble"? スイ | だれ  たれ  た
 
-焦 tiêu;char; ショウ  こ.げる  こ.がす  こ.がれる  あせ.る
-
-char
-
+焦 tiêu; char;When I put the turkey over the oven fire, it always ends up being charred beyond recognition. ショウ  こ.げる  こ.がす  こ.がれる  あせ.る
+礁 tiều;reef;Reefs are often formed from volcanic rock, or "rock that has been charred". ショウ
 
 
 
-
-
-
-
-地  面
+面
 
 
 確 xác;assurance;To assure that no one will get into the Turkey coop, put a huge rock in the entrance! カク   コウ | たし.か   たし.かめる
@@ -2365,7 +2359,6 @@ char
 掌 chưởng lòng bàn tay shoo
 朽 hủ bất hủ kyuu
 硫 lưu lưu huỳnh ryuu
-礁 tiều đá ngầm shoo
 陪 bồi bồi thẩm đoàn bai
 嘱 chúc dặn shoku
 醸 nhưỡng gây nên joo
