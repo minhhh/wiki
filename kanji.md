@@ -1456,7 +1456,6 @@
 礁 tiều;reef;Reefs are often formed from volcanic rock, or "rock that has been charred". ショウ
 
 
-
 面
 
 
