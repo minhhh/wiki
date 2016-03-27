@@ -1452,6 +1452,10 @@
 椎 sweet oak;it tastes just like turkey (with gravy and cranberry sauce!) Now that is sweet. ツイ  スイ | つち う.つu.tsu
 誰 who; Who let the turkeys out!? Gobble.. gobble.. gobble"? スイ | だれ  たれ  た
 
+焦 tiêu;char; ショウ  こ.げる  こ.がす  こ.がれる  あせ.る
+
+char
+
 
 
 
@@ -1931,7 +1935,6 @@
 括 quát tổng quát katsu
 駆 khu khu trục hạm ku
 抵 đề đề kháng tei
-焦 tiêu cháy shoo
 快 khoái khoái lạc kai
 柳 liễu cây liễu ryuu
 吸 hấp hô hấp, hấp thu kyuu
