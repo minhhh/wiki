@@ -437,7 +437,6 @@
 狭 hiệp hẹp kyoo | せま.い
 犯 phạm phạm nhân han | おか.す
 
-集 tập tập hợp, tụ tập shuu
 
 座 tọa chỗ ngồi, tọa đàm, tọa độ za
 
@@ -1454,6 +1453,9 @@
 
 焦 tiêu; char;When I put the turkey over the oven fire, it always ends up being charred beyond recognition. ショウ  こ.げる  こ.がす  こ.がれる  あせ.る
 礁 tiều;reef;Reefs are often formed from volcanic rock, or "rock that has been charred". ショウ
+集 tập; gather;Gather the turkeys for Thanksgiving. Gather the trees for Christmas. In that order.. シュウ | あつ.まる   あつ.める  つど.う
+准 chuẩn;quasi-;An iced turkey is only quasi-as-good-as fresh turkey; ジュン
+
 
 
 面
@@ -2136,7 +2138,6 @@
 陛 bệ bệ hạ hei
 鬼 quỷ ma quỷ ki
 掃 tảo quét soo
-准 chuẩn thứ nhì jun
 抽 trừu trừu tượng chuu
 披 phi mở ra hi
 癒 dũ chữa bệnh yu
