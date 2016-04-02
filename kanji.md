@@ -1453,8 +1453,8 @@
 礁 tiều;reef;Reefs are often formed from volcanic rock, or "rock that has been charred". ショウ
 集 tập; gather;Gather the turkeys for Thanksgiving. Gather the trees for Christmas. In that order.. シュウ | あつ.まる   あつ.める  つど.う
 准 chuẩn;quasi-;An iced turkey is only quasi-as-good-as fresh turkey; ジュン
-進 tiến;advance;Why did the turkey cross the road? To advance to the other side, of course; シン  すす.む  すす.める
-雑 tạp;miscellaneous; ザツ  ゾウ  まじ.える  まじ.る
+進 tiến;advance;Why did the turkey cross the road? To advance to the other side, of course; シン | すす.む  すす.める
+雑 tạp;miscellaneous;Nine wooden turkeys; ザツ  ゾウ| まじ.える  まじ.る
 
 
 
