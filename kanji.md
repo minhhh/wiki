@@ -459,7 +459,6 @@
 通 thông thông qua, thông hành, phổ thông tsuu, tsu | とお.り
 遊 du du hí, du lịch yuu, yu | あそ.び
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
-進 tiến thăng tiến, tiền tiến, tiến lên shin | すす.める
 遅 trì muộn chi | おそ.い おく.れる
 違 vi vi phạm, tương vi I | ちが.う
 送 tống tiễn, tống tiễn, tống đạt soo | おく.る
@@ -573,7 +572,6 @@
 
 皿 mãnh đĩa ベイ | さら
 
-雑 tạp tạp chí, tạp kĩ zatsu, zoo | まじ.る
 
 映 ánh phản ánh ei | うつ.る
 
@@ -1455,6 +1453,9 @@
 礁 tiều;reef;Reefs are often formed from volcanic rock, or "rock that has been charred". ショウ
 集 tập; gather;Gather the turkeys for Thanksgiving. Gather the trees for Christmas. In that order.. シュウ | あつ.まる   あつ.める  つど.う
 准 chuẩn;quasi-;An iced turkey is only quasi-as-good-as fresh turkey; ジュン
+進 tiến;advance;Why did the turkey cross the road? To advance to the other side, of course; シン  すす.む  すす.める
+雑 tạp;miscellaneous; ザツ  ゾウ  まじ.える  まじ.る
+
 
 
 
