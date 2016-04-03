@@ -1456,6 +1456,7 @@
 進 tiến;advance;Why did the turkey cross the road? To advance to the other side, of course; シン | すす.む  すす.める
 雑 tạp;miscellaneous;Nine wooden turkeys; ザツ  ゾウ| まじ.える  まじ.る
 雌 thư;female;To become feminine you must stop using a spoon to eat turkey and use a knife and fork like a proper lady; シ | め   めす   めん
+準 chuẩn;The anhinga, or water turkey, has a needle-like nose, so really it's only a semi-turkey; ジュ | じゅん.じる  じゅん.ずる  なぞら.える  のり  ひと.しい  みずもり
 
 
 
@@ -1542,7 +1543,6 @@
 補 bổ bổ sung, bổ túc ho
 限 hạn giới hạn, hữu hạn, hạn độ gen
 監 giam, giám giam cấm; giám đốc, giám sát kan
-準 chuẩn tiêu chuẩn, chuẩn bị jun
 張 trương chủ trương, khai trương choo
 英 anh anh hùng, anh tú, anh tuấn ei
 松 tùng cây tùng, tùng bách shoo
