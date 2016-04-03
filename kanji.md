@@ -1455,6 +1455,8 @@
 准 chuẩn;quasi-;An iced turkey is only quasi-as-good-as fresh turkey; ジュン
 進 tiến;advance;Why did the turkey cross the road? To advance to the other side, of course; シン | すす.む  すす.める
 雑 tạp;miscellaneous;Nine wooden turkeys; ザツ  ゾウ| まじ.える  まじ.る
+雌 thư;female;To become feminine you must stop using a spoon to eat turkey and use a knife and fork like a proper lady; シ | め   めす   めん
+
 
 
 
@@ -2453,7 +2455,6 @@
 附 phụ đính kèm, phụ lục fu
 厄 ách tai ách yaku
 侯 hầu tước hầu, hầu tước koo
-雌 thư con cái (<>con đực) shi
 爵 tước tước hiệu, quan tước shaku
 衷 trung ở giữa chuu
 倣 phỏng mô phỏng hoo
