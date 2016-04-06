@@ -1457,6 +1457,8 @@
 雑 tạp;miscellaneous;Nine wooden turkeys; ザツ  ゾウ| まじ.える  まじ.る
 雌 thư;female;To become feminine you must stop using a spoon to eat turkey and use a knife and fork like a proper lady; シ | め   めす   めん
 準 chuẩn; semi- ; The anhinga, or water turkey, has a needle-like nose, so really it's only a semi-turkey; ジュ | じゅん.じる  じゅん.ずる  なぞら.える  のり  ひと.しい  みずもり
+奮 phấn;stirred up;The St. Bernard dog pounces on a turkey in a rice field and stirs up all the other birds around;  フン |ふる.う
+奪 đoạt;rob;Don't let the neighbor's St.Bernard rob tonight's turkey....glue it to the table if you must; ダツ | うば.う
 
 
 
@@ -1856,7 +1858,6 @@
 妥 thỏa thỏa hiệp da
 宗 tôn tôn giáo shuu, soo
 殿 điện cung điện den, ten
-奪 đoạt chiếm đoạt datsu
 紹 thiệu giới thiệu shoo
 症 chứng chứng bệnh, triệu chứng shoo
 購 cấu mua koo
@@ -2172,7 +2173,6 @@
 塗 đồ sơn vẽ to
 詞 từ ca từ shi
 祈 kì cầu nguyện ki
-奮 phấn hưng phấn, phấn đấu fun
 斜 tà nghiêng sha
 霧 vụ sương mù mu
 潤 nhuận lợi nhuận, nhuận tràng jun
