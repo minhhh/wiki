@@ -3,6 +3,7 @@
 ## <a id="toc">TOC
 * [Basics](#user-content-basics)
 * [View Data](#user-content-view-data)
+* [Modify Data](#user-content-modify-data)
 * [Import/Export](#import-export)
 * [References](#user-content-references)
 
@@ -11,6 +12,12 @@
 #### Show help
 ```
     .help
+```
+
+#### List databases
+
+```
+    .database
 ```
 
 #### List schema and tables
@@ -27,6 +34,36 @@
 
 ### <a id="view-data"></a>View Data
 
+#### View table
+```
+    select * from <table name>;
+```
+
+#### Turn on/off column names on query results
+
+```
+    .explain on
+    .explain off
+
+    # See the current explain status
+    .show
+```
+
+### <a id="modify-data"></a>Modify Data
+#### Modify data
+```
+    update employee set deptid=3 where empid=101;
+```
+
+#### Add column
+```
+    alter table employee add column deptid integer;
+```
+
+#### Create an Index
+```
+    create unique index empidx on employee(empid);
+```
 
 ### <a id="import-export"></a>Import/Export
 #### Import
