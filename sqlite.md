@@ -11,12 +11,17 @@
     .help
 ```
 
-#### List schema
+#### List schema and tables
 
 ```
-SELECT name FROM sqlite_master;
+    .tables
+    .schema
 ```
 
+### Quit
+```
+    .quit
+```
 
 
 ### GUITool
