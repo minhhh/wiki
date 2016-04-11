@@ -2,6 +2,7 @@
 
 ## <a id="toc">TOC
 * [Basics](#user-content-basics)
+* [View Data](#user-content-view-data)
 * [Import/Export](#import-export)
 * [References](#user-content-references)
 
@@ -24,8 +25,15 @@
     .quit
 ```
 
+### <a id="view-data"></a>View Data
+
 
 ### <a id="import-export"></a>Import/Export
+#### Import
+```
+    sqlite3 <database file> < insert-data.sql
+```
+
 #### Dump database as SQL
 ```
     sqlite3 <database file> .dump > output.sql
