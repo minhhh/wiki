@@ -55,6 +55,11 @@
     update employee set deptid=3 where empid=101;
 ```
 
+#### Delete row
+```
+    delete from company where id = 7;
+```
+
 #### Add column
 ```
     alter table employee add column deptid integer;
@@ -63,6 +68,11 @@
 #### Create an Index
 ```
     create unique index empidx on employee(empid);
+```
+
+#### Drop table
+```
+    drop table employees;
 ```
 
 ### <a id="import-export"></a>Import/Export
