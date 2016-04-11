@@ -36,11 +36,6 @@
     sqlite3 <database file> ".dump <table name>" > output.sql
 ```
 
-#### Dump table as SQL
-```
-    echo ".mode csv select * from <table name>;" | sqlite3 > output.sql
-```
-
 ### GUITool
 * [sqlitebrowser](http://sqlitebrowser.org/)
 
