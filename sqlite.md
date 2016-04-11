@@ -6,8 +6,16 @@
 
 ### <a id="basics"></a>Basics
 
+#### Show help
+```
+    .help
+```
+
 #### List schema
 
+```
+SELECT name FROM sqlite_master;
+```
 
 
 
