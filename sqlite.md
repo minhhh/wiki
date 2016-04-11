@@ -2,6 +2,7 @@
 
 ## <a id="toc">TOC
 * [Basics](#user-content-basics)
+* [Import/Export](#import-export)
 * [References](#user-content-references)
 
 ### <a id="basics"></a>Basics
@@ -18,11 +19,27 @@
     .schema
 ```
 
-### Quit
+#### Quit
 ```
     .quit
 ```
 
+
+### <a id="import-export"></a>Import/Export
+#### Dump database as SQL
+```
+    sqlite3 <database file> .dump > output.sql
+```
+
+#### Dump table as SQL
+```
+    sqlite3 <database file> ".dump <table name>" > output.sql
+```
+
+#### Dump table as SQL
+```
+    echo ".mode csv select * from <table name>;" | sqlite3 > output.sql
+```
 
 ### GUITool
 * [sqlitebrowser](http://sqlitebrowser.org/)
