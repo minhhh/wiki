@@ -248,7 +248,6 @@
 生 sinh sinh sống, sinh sản sei, shoo
 星 tinh hành tinh, tinh tú sei, shoo
 
-午 ngọ chính ngọ go | ひる, うま
 件 kiện điều kiện, sự kiện, bưu kiện ken | くだん
 
 用 dụng sử dụng, dụng cụ, công dụng yoo
@@ -1459,7 +1458,9 @@
 準 chuẩn; semi- ; The anhinga, or water turkey, has a needle-like nose, so really it's only a semi-turkey; ジュ | じゅん.じる  じゅん.ずる  なぞら.える  のり  ひと.しい  みずもり
 奮 phấn;stirred up;The St. Bernard dog pounces on a turkey in a rice field and stirs up all the other birds around;  フン |ふる.う
 奪 đoạt;rob;Don't let the neighbor's St.Bernard rob tonight's turkey....glue it to the table if you must; ダツ | うば.う
+確 xác;assurance;To assure that no one will get into the Turkey coop, put a huge rock in the entrance! カク   コウ | たし.か   たし.かめる
 
+午 ngọ; ゴ | うま
 
 
 
@@ -1467,7 +1468,6 @@
 面
 
 
-確 xác;assurance;To assure that no one will get into the Turkey coop, put a huge rock in the entrance! カク   コウ | たし.か   たし.かめる
 
 
 認 nhận;acknowledge;Imagine a salaryman forced to acknowledge some unfortunate news. His stoic face means he is unable to respond to the words, and endures them, for now at least; ニン|  みと.める   したた.める
