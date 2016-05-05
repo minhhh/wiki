@@ -90,7 +90,6 @@
 材 tài tài liệu lumber, wood, talent zai
 杯 bôi chén hai | さかずき
 構 cấu cấu tạo, cấu thành, cơ cấu koo | かま.う
-権 quyền chính quyền, quyền uy, quyền lợi ken, gon | おもり
 
 幾 kỉ how many;  how much;  how far;  how long;  some;  several ki | いく.つ
 機 cơ cơ khí, machine made of some wood ki | はた
@@ -229,7 +228,6 @@
 
 口 khẩu miệng, nhân khẩu, khẩu ngữ koo, ku
 設 thiết thiết lập, kiến thiết setsu | もう.ける
-許 hứa permit;  approve kyo | ゆる.す
 
 誌 chí tạp chí shi |
 議 nghị nghị luận, nghị sự gi |
@@ -1461,6 +1459,9 @@
 確 xác;assurance;To assure that no one will get into the Turkey coop, put a huge rock in the entrance! カク   コウ | たし.か   たし.かめる
 
 午 ngọ; ゴ | うま
+許 hứa; permit; キョ | ゆる.す もと
+歓 hoan; delight; カン | よろこ.ぶ
+権 quyền; authority; No one has the authority to tie up a pegasus to a tree!; ケン  ゴン | おもり  かり  はか.る
 
 
 
@@ -1945,7 +1946,6 @@
 微 vi hiển vi, vi sinh vật bi
 翌 dực <tiếp sau> yoku
 硬 ngạnh cứng, ngang ngạnh koo
-歓 hoan hoan nghênh kan
 仁 nhân nhân nghĩa jin, ni
 柄 bính cái cán hei
 臣 thần trung thần shin, jin
