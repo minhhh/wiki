@@ -85,7 +85,6 @@
 体 thể hình thể, thân thể, thể thao tai, tei | からだ
 楽 lạc, nhạc an lạc, lạc thú, âm nhạc gaku, raku | たの.しい
 果 quả hoa quả, thành quả, kết quả ka | くだ.もの
-困 khốn khốn cùng kon | こま.る
 
 材 tài tài liệu lumber, wood, talent zai
 杯 bôi chén hai | さかずき
@@ -1462,6 +1461,19 @@
 許 hứa; permit; キョ | ゆる.す もと
 歓 hoan; delight; カン | よろこ.ぶ
 権 quyền; authority; No one has the authority to tie up a pegasus to a tree!; ケン  ゴン | おもり  かり  はか.る
+観 quan; outlook; Microsoft Outlook works about as well as a pegasus that can't see: they both crash all the time; カン | み.る  しめ.す
+
+羽 vũ; feather; Two wings full of feathers; ウ | は  わ  はね
+習 tập; learn; シュウ  ジュ | なら.う  なら.い
+翌 dực; the following;Your feathers would also stand up if you were a hen in a slaughter house and you heard: "The following!"; ヨク
+曜 diệu; weekday; ヨウ
+濯 trạc;laundry;When turkeys do the laundry, they put their feathers in water; タク | すす.ぐ   ゆす.ぐ
+
+曰 sayeth; エツ | いわ.く   のたま.う   のたま.わく   ここに
+困 khốn;quandary;Trees need space to grow. If you pent in a tree, it will be in quite a quandary!; コン | こま.る
+固 cố; fossils are old things pent in that have hardened.; コ | かた.める   かた.まる   かた.まり  かた.い
+
+
 
 
 
@@ -1600,7 +1612,6 @@
 賞 thưởng giải thưởng, tưởng thưởng shoo
 振 chấn chấn động shin
 察 sát quan sát, giám sát, cảnh sát satsu
-観 quan quan sát, tham quan kan
 推 thôi giới thiệu, thôi tiến sui
 移 di di chuyển, di động I
 衆 chúng quần chúng, chúng sinh shuu, shu
@@ -1679,10 +1690,8 @@
 維 duy sợi dây I
 油 du dầu yu
 喜 hỉ vui ki
-習 tập học tập shuu
 標 tiêu mục tiêu, tiêu chuẩn hyoo
 興 hưng, hứng hưng thịnh, phục hưng; hứng thú koo, kyoo
-羽 vũ lông vũ u
 迎 nghênh hoan nghênh, nghênh tiếp gei
 禁 cấm cấm đoán, nghiêm cấm kin
 彼 bỉ anh ta hi
@@ -1704,7 +1713,6 @@
 湾 loan vịnh wan
 踏 đạp dẫm lên too
 幸 hạnh hạnh phúc, hạnh vận koo
-固 cố ngoan cố, cố thủ ko
 賛 tán tán đồng, tán thành san
 執 chấp cố chấp shitsu, shuu
 善 thiện thiện ác, từ thiện zen
@@ -1855,7 +1863,6 @@
 暫 tạm tạm thời zan
 誘 dụ dụ dỗ yuu
 依 ỷ ỷ lại i, e
-曜 diệu ngày trong tuần yoo
 妥 thỏa thỏa hiệp da
 宗 tôn tôn giáo shuu, soo
 殿 điện cung điện den, ten
@@ -1944,7 +1951,6 @@
 隣 lân lân bang, lân cận rin
 到 đáo đến too
 微 vi hiển vi, vi sinh vật bi
-翌 dực <tiếp sau> yoku
 硬 ngạnh cứng, ngang ngạnh koo
 仁 nhân nhân nghĩa jin, ni
 柄 bính cái cán hei
@@ -2297,7 +2303,6 @@
 慈 từ từ bi, nhân từ ji
 縛 phược baku
 欺 khi lừa dối gi
-濯 trạc rửa taku
 薫 huân thơm kun
 粋 túy tinh túy sui
 搭 đáp chất lên xe too
