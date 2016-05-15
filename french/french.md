@@ -7,5 +7,3 @@
 * Verbes [http://www.les-verbes.com/index.html]
 
 * Free online books [http://www.ebooksgratuits.com/ebooks.php]
-
-* Most frequent words [http://en.wiktionary.org/wiki/Wiktionary:List_of_the_1750_most_frequently_used_French_words]
