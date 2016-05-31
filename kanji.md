@@ -111,7 +111,6 @@
 査 tra điều tra sa
 眠 miên thôi miên min | ねむ.い
 
-門 môn cửa, nhập môn, môn đồ, bộ môn mon | かど
 聞 văn nghe, tân văn (báo) bun, mon | きく
 開 khai khai mạc, khai giảng kai | ひら.く
 関 quan hải quan, quan hệ kan | せき
@@ -721,7 +720,6 @@
 豆 đậu hạt đậu too, zu | まめ
 嬉 glad キ | うれ.しい
 
-簡 giản đơn giản simplicity;  brevity kan
 
 単 đơn cô đơn, đơn độc, đơn chiếc tan | ひとえ
 
@@ -1472,11 +1470,13 @@
 固 cố; fossils are old things pent in that have hardened.; コ | かた.める   かた.まる   かた.まり  かた.い
 
 
-
+門 môn; gate; モン | かど  と
 問 vấn;question;The mouth is the gate from which questions are asked.; モン | と.う  と.い   とん
 閲 duyệt;review;A little devil at the gates of hell reviews your record to see if you're evil enough to get in; エツ | けみ.する
 閥 phiệt; clique;You set a guard at the gate to fell intruders not of your clique; バツ
 間 gian; interval; The interval between star systems (suns) was too large, so the stargates were created to travel between them; カン  ケン | あいだ  ま  あい
+闇 pitch dark;Through the gates of hell there is no sound, no light, its all pitch dark; アン オン | やみ   くら.い
+簡 giản; simplicity;The simplicity of bamboo plant is in all its joints being at equal intervals; カン
 
 
 円 circle; エン | まる.い   まる   まど   まど.か   まろ.やか
