@@ -722,7 +722,6 @@
 豆 đậu hạt đậu too, zu | まめ
 嬉 glad キ | うれ.しい
 
-間 gian trung gian, không gian kan, ken | あいだ
 簡 giản đơn giản simplicity;  brevity kan
 
 単 đơn cô đơn, đơn độc, đơn chiếc tan | ひとえ
@@ -1475,6 +1474,12 @@
 
 
 
+閥 phiệt; clique; バツ
+間 gian; interval; The interval between star systems (suns) was too large, so the stargates were created to travel between them; カン  ケン | あいだ  ま  あい
+
+
+円 circle; エン | まる.い   まる   まど   まど.か   まろ.やか
+  yen;  round
 
 
 
@@ -1945,7 +1950,6 @@
 快 khoái khoái lạc kai
 柳 liễu cây liễu ryuu
 吸 hấp hô hấp, hấp thu kyuu
-閥 phiệt tài phiệt batsu
 慣 quán tập quán kan
 械 giới cơ giới kai
 隣 lân lân bang, lân cận rin
