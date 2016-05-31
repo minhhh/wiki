@@ -113,7 +113,6 @@
 
 門 môn cửa, nhập môn, môn đồ, bộ môn mon | かど
 聞 văn nghe, tân văn (báo) bun, mon | きく
-問 vấn vấn đáp, chất vấn, vấn đề mon | と.う
 開 khai khai mạc, khai giảng kai | ひら.く
 関 quan hải quan, quan hệ kan | せき
 閑 nhàn an nhàn, nhàn rỗi kan
@@ -1474,7 +1473,9 @@
 
 
 
-閥 phiệt; clique; バツ
+問 vấn;question;The mouth is the gate from which questions are asked.; モン | と.う  と.い   とん
+閲 duyệt;review;A little devil at the gates of hell reviews your record to see if you're evil enough to get in; エツ | けみ.する
+閥 phiệt; clique;You set a guard at the gate to fell intruders not of your clique; バツ
 間 gian; interval; The interval between star systems (suns) was too large, so the stargates were created to travel between them; カン  ケン | あいだ  ま  あい
 
 
@@ -2276,7 +2277,6 @@
 膚 phu da fu
 飢 cơ đói, cơ ngạ ki
 寧 ninh an ninh nei
-閲 duyệt kiểm duyệt etsu
 寮 liêu kí túc xá ryoo
 赦 xá tha thứ, dung xá, xá tội sha
 宰 tể chúa tể, tể tướng sai
