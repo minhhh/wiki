@@ -614,8 +614,6 @@
 不 bất bất công, bất bình đẳng, bất tài fu, bu
 
 
-角 giác; angle; カク | かど つの
-触 xúc tiếp xúc; touch; insects use horns to touch; shoku | さわ.る
 蟹 GIẢI con cua; the crab looks like an insect with horns or a cow with knife カイ | かに
 
 
@@ -1483,7 +1481,9 @@
 
 
 
-角
+角 giác; angle; カク | かど つの
+触 xúc; contact; ショク | ふ.れる   さわ.る   さわ
+
 
 円 circle; エン | まる.い   まる   まど   まど.か   まろ.やか
   yen;  round
