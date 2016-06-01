@@ -112,7 +112,6 @@
 眠 miên thôi miên min | ねむ.い
 
 聞 văn nghe, tân văn (báo) bun, mon | きく
-開 khai khai mạc, khai giảng kai | ひら.く
 関 quan hải quan, quan hệ kan | せき
 閑 nhàn an nhàn, nhàn rỗi kan
 閉 bế bế mạc, bế quan hei | し.める, と.じる
@@ -1477,7 +1476,7 @@
 間 gian; interval; The interval between star systems (suns) was too large, so the stargates were created to travel between them; カン  ケン | あいだ  ま  あい
 闇 pitch dark;Through the gates of hell there is no sound, no light, its all pitch dark; アン オン | やみ   くら.い
 簡 giản; simplicity;The simplicity of bamboo plant is in all its joints being at equal intervals; カン
-
+開 khai; open;To open the gate, use your both hands; カイ | ひら.く   ひら.き    ひら.ける   あ.く   あ.ける
 
 円 circle; エン | まる.い   まる   まど   まど.か   まろ.やか
   yen;  round
