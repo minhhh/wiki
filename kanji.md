@@ -1479,10 +1479,9 @@
 潤 nhuận;wet;Forgetting about the moat, the king stepped out of his gate and landed in the water. Needless to say he got wet; lợi nhuận, nhuận tràng jun
 
 
-
-
 角 giác; angle; カク | かど つの
-触 xúc; contact; ショク | ふ.れる   さわ.る   さわ
+触 xúc; contact;For insects to get in contact with each other, they need to place their antennae at just the right angle; ショク | ふ.れる   さわ.る   さわ
+
 
 
 円 circle; エン | まる.い   まる   まど   まど.か   まろ.やか
