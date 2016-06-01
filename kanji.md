@@ -113,7 +113,6 @@
 
 聞 văn nghe, tân văn (báo) bun, mon | きく
 関 quan hải quan, quan hệ kan | せき
-閑 nhàn an nhàn, nhàn rỗi kan
 
 耳 nhĩ tai ji | みみ
 職 chức chức vụ, employment; when soldier has job, they hear the sound of halberd shoku |
@@ -1478,6 +1477,7 @@
 開 khai; open;To open the gate, use your both hands; カイ | ひら.く   ひら.き    ひら.ける   あ.く   あ.ける
 閉 bế;closed;The gates are too big to be closed by man. Only a genie can. "Close sesame!"; ヘイ | と.じる   と.ざす   し.める   し.まる   た.てるta.teru
 閣 các; tower; Remember the two towers from lord of the rings... each has it's own - very difficult to master - entrance gate; カク
+閑 nhàn; leisure;Imagine the gates the Garden of Eden, the ultimate land of leisure. You're not allowed in, but if you peek through you can see trees; カン
 
 
 
