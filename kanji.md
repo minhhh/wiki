@@ -111,7 +111,6 @@
 査 tra điều tra sa
 眠 miên thôi miên min | ねむ.い
 
-聞 văn nghe, tân văn (báo) bun, mon | きく
 関 quan hải quan, quan hệ kan | せき
 
 耳 nhĩ tai ji | みみ
@@ -1478,6 +1477,9 @@
 閉 bế;closed;The gates are too big to be closed by man. Only a genie can. "Close sesame!"; ヘイ | と.じる   と.ざす   し.める   し.まる   た.てるta.teru
 閣 các; tower; Remember the two towers from lord of the rings... each has it's own - very difficult to master - entrance gate; カク
 閑 nhàn; leisure;Imagine the gates the Garden of Eden, the ultimate land of leisure. You're not allowed in, but if you peek through you can see trees; カン
+聞 văn;hear;Press your ear to the gates and see if you can hear what is going on inside; ブン  モン | き.く   き.こえる
+潤 nhuận;wet;Forgetting about the moat, the king stepped out of his gate and landed in the water. Needless to say he got wet; lợi nhuận, nhuận tràng jun
+
 
 
 
@@ -2188,7 +2190,6 @@
 祈 kì cầu nguyện ki
 斜 tà nghiêng sha
 霧 vụ sương mù mu
-潤 nhuận lợi nhuận, nhuận tràng jun
 俗 tục thông tục, tục lệ zoku
 穏 ổn yên ổn on
 姓 tính họ sei, shoo
