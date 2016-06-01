@@ -114,7 +114,6 @@
 聞 văn nghe, tân văn (báo) bun, mon | きく
 関 quan hải quan, quan hệ kan | せき
 閑 nhàn an nhàn, nhàn rỗi kan
-閉 bế bế mạc, bế quan hei | し.める, と.じる
 
 耳 nhĩ tai ji | みみ
 職 chức chức vụ, employment; when soldier has job, they hear the sound of halberd shoku |
@@ -1477,6 +1476,11 @@
 闇 pitch dark;Through the gates of hell there is no sound, no light, its all pitch dark; アン オン | やみ   くら.い
 簡 giản; simplicity;The simplicity of bamboo plant is in all its joints being at equal intervals; カン
 開 khai; open;To open the gate, use your both hands; カイ | ひら.く   ひら.き    ひら.ける   あ.く   あ.ける
+閉 bế;closed;The gates are too big to be closed by man. Only a genie can. "Close sesame!"; ヘイ | と.じる   と.ざす   し.める   し.まる   た.てるta.teru
+閣 các; tower; Remember the two towers from lord of the rings... each has it's own - very difficult to master - entrance gate; カク
+
+
+
 
 円 circle; エン | まる.い   まる   まど   まど.か   まろ.やか
   yen;  round
@@ -1606,7 +1610,6 @@
 復 phục phục thù, hồi phục fuku
 課 khóa khóa học, chính khóa ka
 環 hoàn hoàn cảnh, tuần hoàn kan
-閣 các nội các kaku
 港 cảng hải cảng, không cảng koo
 響 hưởng ảnh hưởng, âm hưởng kyoo
 憲 hiến hiến pháp, hiến binh ken
