@@ -65,15 +65,38 @@ Gradle is an open source build automation system that builds upon the concepts o
     > Other tasks
     > -----------
     > ... other project specific tasks
+
+    gradle tasks --all
 ```
 
 * Run a task
 ```
     # -q for running it quietly
-    gradle -q <task>
+    ./gradlew -q <task>
 ```
 
 ## Common Tasks
+* Build
+```
+    ./gradlew build
+```
+
+* Run
+```
+    ./gradlew run
+```
+
+* Others
+```
+    gradle properties
+    gradle projects
+    gradle -q check
+    gradle check --debug
+    gradle eclipse
+    gradle compileJava
+    gradle testCompileJava
+    gradle --gui
+```
 
 
 
