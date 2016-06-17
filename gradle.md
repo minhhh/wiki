@@ -30,7 +30,6 @@ Gradle is an open source build automation system that builds upon the concepts o
 * Then you can run gradle wrapper to setup approriate gradle binary
 ```
     gradle wrapper
-    ./gradlew build
 ```
 
 * Note that you can also run gradle wrapper without creating `wrapper` tasks in the `build.gradle` file
@@ -40,7 +39,7 @@ Gradle is an open source build automation system that builds upon the concepts o
 
 * After that you should use `./gradlew` instead of the system gradle
 ```
-    ./gradlew run
+    ./gradlew build
 ```
 
 ## Run tasks
@@ -73,6 +72,8 @@ Gradle is an open source build automation system that builds upon the concepts o
     # -q for running it quietly
     gradle -q <task>
 ```
+
+## Common Tasks
 
 
 
