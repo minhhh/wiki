@@ -378,7 +378,6 @@
 
 隅 ngung góc guu | すみ
 
-都 đô đô thị, đô thành to, tsu | みやこ
 部 bộ bộ môn, bộ phận bu |
 
 
@@ -852,7 +851,7 @@
 克 khắc;overcome; Ten elder brothers can overcome anything; コク | か.つ
 
 夕 tịch; evening; セキ |  ゆう
-多 đa đa số ta | おお.い
+多 đa;many; Two evenings too many! タ |  おお.い   まさ.に  まさ.る
 汐 eventide; Eventide is just another word for evening, and it has the word tide in it which we associate with water.; セキ   しお   | うしお   せい
 
 外 ngoại ngoài; in the evening fortune-teller sit outside gai, ge | ほか
@@ -1487,6 +1486,10 @@
 始 thủy;commence;Many men, before they commence their relationship with the woman of their desires, place her on something of a pedestal, which often leads to disappointment later on; シ | はじ.める   -はじ.める-   はじ.まる
 
 絵 hội;picture;many threads meet together to make a picture; カイ  エ
+
+都 đô;metropolis;In a huge metropolis, it's hard not to feel like just someone within the city walls; ト ツ |  みやこ
+
+
 
 
 
