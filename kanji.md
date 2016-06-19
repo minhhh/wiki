@@ -168,7 +168,6 @@
 
 刻 khắc thời khắc, engrave, time koku | きざ.む
 
-始 thủy ban đầu, khai thủy, nguyên thủy shi | はじまり, かいし (開始)
 婦 phụ phụ nữ, dâm phụ fu | よめ
 婚 hôn kết hôn; marriage is like a woman move to another clan; kon
 
@@ -358,7 +357,6 @@
 糸 mịch sợ chỉ shi
 紙 chỉ giấy shi | かみ
 紀 kỉ thế kỉ, kỉ nguyên ki
-絵 hội hội họa; many threads meet together to make a picture kai, e
 緒 tự tình tự sho, cho | いとぐち beginning
 細 tế tinh tế, tường tế, tế bào, mỏng sai | ほそ.い
 綺 khỉ beautiful キ | あや
@@ -431,7 +429,6 @@
 参 tham tham chiếu, tham quan, tham khảo san
 
 
-忙 mang đa mang boo | いそが.しい
 
 科 khoa khoa học, chuyên khoa ka |
 
@@ -1485,6 +1482,12 @@
 描 miêu;sketch; A sketch is a 苗 (#249) of things to come; ビョウ | えが.く   か.く
 
 仕 sĩ; attend;Back in the day, a person who stands beside a samurai is usually attending to them or working for them; シ  ジ |  つか.える
+忙 mang; busy;Busy (as in "occupied") means a state of mind where all other thoughts are perished; ボウ   モウ |  いそが.しい   せわ.しい   おそ.れる   うれえるさま
+
+始 thủy;commence;Many men, before they commence their relationship with the woman of their desires, place her on something of a pedestal, which often leads to disappointment later on; シ | はじ.める   -はじ.める-   はじ.まる
+
+絵 hội;picture;many threads meet together to make a picture; カイ  エ
+
 
 
 
