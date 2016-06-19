@@ -271,7 +271,6 @@
 工 công; công tác; craft;  コウ ク
 功 công công lao achievement koo, ku | いさお
 
-仕 sĩ làm việc; attend; shi, ji
 続 tục tiếp tục; one continues to sell like a thread; zoku | つづ.く
 
 貝 bối vỏ sò - | かい
@@ -331,7 +330,6 @@
 拾 thập nhặt shuu, juu | ひろ.う
 探 thám do thám, thám hiểm tan | さが.す
 持 trì cầm, duy trì ji | も.つ も.てる
-描 miêu miêu tả byoo | か.く
 授 thụ đưa cho, truyền thụ, giáo thụ ju | さず.かる
 携 huề mang theo kei | たずさ.える
 技 kĩ kĩ thuật, kĩ nghệ gi | わざ
@@ -1482,7 +1480,11 @@
 角 giác; angle; カク | かど つの
 触 xúc; contact;For insects to get in contact with each other, they need to place their antennae at just the right angle; ショク | ふ.れる   さわ.る   さわ
 
-遊 du;play; ユウ  ユ | あそ.ぶ  あそ.ばす
+遊 du;play;The BANNER warns that CHILDREN PLAY on the ROAD; ユウ  ユ | あそ.ぶ  あそ.ばす
+
+描 miêu;sketch; A sketch is a 苗 (#249) of things to come; ビョウ | えが.く   か.く
+
+仕 sĩ; attend;Back in the day, a person who stands beside a samurai is usually attending to them or working for them; シ  ジ |  つか.える
 
 
 
