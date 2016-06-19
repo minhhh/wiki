@@ -447,7 +447,6 @@
 愛 ái yêu, ái tình, ái mộ ai | かな.しい
 
 通 thông thông qua, thông hành, phổ thông tsuu, tsu | とお.り
-遊 du du hí, du lịch yuu, yu | あそ.び
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
 遅 trì muộn chi | おそ.い おく.れる
 違 vi vi phạm, tương vi I | ちが.う
@@ -1477,10 +1476,13 @@
 閑 nhàn; leisure;Imagine the gates the Garden of Eden, the ultimate land of leisure. You're not allowed in, but if you peek through you can see trees; カン
 聞 văn;hear;Press your ear to the gates and see if you can hear what is going on inside; ブン  モン | き.く   き.こえる
 潤 nhuận;wet;Forgetting about the moat, the king stepped out of his gate and landed in the water. Needless to say he got wet; lợi nhuận, nhuận tràng jun
+欄 lan; column;Ancient morning newspaper column, posted daily on a tree at the east gate; ラン |  てすり
 
 
 角 giác; angle; カク | かど つの
 触 xúc; contact;For insects to get in contact with each other, they need to place their antennae at just the right angle; ショク | ふ.れる   さわ.る   さわ
+
+遊 du;play; ユウ  ユ | あそ.ぶ  あそ.ばす
 
 
 
@@ -2066,7 +2068,6 @@
 亜 á thứ 2, châu á a
 拓 thác khai thác taku
 僕 bộc nô bộc boku
-欄 lan lan can ran
 陳 trần trần thuật chin
 糧 lương lương thực ryoo, roo
 卵 noãn trứng ran
