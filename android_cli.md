@@ -46,19 +46,6 @@
     open res/values/strings.xml
 ```
 
-##
-
-```
-    # List certificate name and alias in keystore file
-    keytool -v -list -keystore .keystore
-```
-
-Showing specific alias
-
-```
-    keytool -v -list -keystore .keystore -alias foo
-```
-
 ## References
 * [View android manifset from APK](http://stackoverflow.com/questions/4191762/how-to-view-androidmanifest-xml-from-apk-file)
 * [Get apk from Android device](http://stackoverflow.com/questions/4032960/how-do-i-get-an-apk-file-from-an-android-device)
