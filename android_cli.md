@@ -46,9 +46,10 @@
     open res/values/strings.xml
 ```
 
-### List certificate name and alias in keystore file
+##
 
 ```
+    # List certificate name and alias in keystore file
     keytool -v -list -keystore .keystore
 ```
 
