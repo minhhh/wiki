@@ -1490,6 +1490,7 @@
 
 旅 lữ;trip; リョ | たび
 
+知 tri;know; チ | し.る し.らせる
 
 
 
@@ -1533,7 +1534,6 @@
 投 đầu đầu tư, đầu cơ too
 派 phái trường phái ha
 税 thuế thuế vụ zei
-知 tri tri thức, tri giác chi
 打 đả đả kích, ẩu đả da
 解 giải giải quyết, giải thể, giải thích kai, ge
 任 nhiệm trách nhiệm, nhiệm vụ nin
