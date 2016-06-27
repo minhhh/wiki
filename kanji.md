@@ -12,7 +12,6 @@
 千 thiên nghìn, nhiều, thiên lí sen
 万 vạn vạn, nhiều, vạn vật man, ban
 
-旅 lữ lữ hành, lữ khách ryo | たび
 施 thi thực thi, thi hành shi, se | ほどこ.す
 
 月 nguyệt mặt trăng, tháng, nguyệt san, nguyệt thực getsu, gatsu | つき
@@ -1489,7 +1488,7 @@
 
 都 đô;metropolis;In a huge metropolis, it's hard not to feel like just someone within the city walls; ト ツ |  みやこ
 
-
+旅 lữ;trip; リョ | たび
 
 
 
