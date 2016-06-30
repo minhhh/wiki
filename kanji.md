@@ -1488,7 +1488,7 @@
 
 都 đô;metropolis;In a huge metropolis, it's hard not to feel like just someone within the city walls; ト ツ |  みやこ
 
-旅 lữ;trip; リョ | たび
+旅 lữ;trip;After a long long trip, what once was a proud beautiful banner, we had nothing more than a simple rag remaining; リョ | たび
 
 知 tri;know; チ | し.る し.らせる
 
