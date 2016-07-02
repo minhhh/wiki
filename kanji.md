@@ -202,7 +202,6 @@
 円 viên viên mãn, tiền Yên en
 
 
-回 hồi vu hồi, chương hồi kai, e | まわ.る
 
 心 tâm tâm lí, nội tâm shin | こころ
 思 tư nghĩ, suy tư, tư tưởng, tư duy shi | おも。い
@@ -625,7 +624,6 @@
 空 không không khí, hư không, hàng không kuu | そら , す.く
 
 
-園 viên vườn, điền viên, hoa viên, công viên en | その
 表 biểu biểu hiện, bảng biểu, biểu diễn hyoo | おもて
 
 夜 dạ ban đêm, dạ cảnh, dạ quang ya | よる
@@ -1492,6 +1490,8 @@
 
 知 tri;know; チ | し.る し.らせる
 
+園 viên; park; エン | その
+回 hồi; times; write mouth 2 times; カイ  エ | まわ.る -まわ.る -まわ.り  まわ.す  -まわ.す まわ.し  -まわ.し  もとお.る  か.える
 
 円 circle; エン | まる.い   まる   まど   まど.か   まろ.やか
   yen;  round
