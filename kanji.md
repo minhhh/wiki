@@ -146,7 +146,6 @@
 
 寸 thốn thước đo; measurement sun
 寺 tự chùa ji
-団 đoàn đoàn kết, đoàn đội dan, ton
 時 thời thời gian ji | とき
 付 phụ phụ thuộc, phụ lục fu | つく
 府 phủ chính phủ; the government depends on people like the house depends on cliff fu
@@ -1029,7 +1028,6 @@
 
 王 vương vương giả oo
 玉 ngọc ngọc gyoku | たま
-国 quốc nước, quốc gia, quốc ca koku | くに
 主 chủ;lord; シュ  ス  シュウ | ぬし   おも   あるじ
 宝 bảo; treasure;On treasure island is a single house - where all the jewels are stored; ホウ | たからtakara
 珠 châu; シュ;The king of the Oysters produces special Vermillion pearls; | たま
@@ -1450,7 +1448,8 @@
 
 曰 sayeth; エツ | いわ.く   のたま.う   のたま.わく   ここに
 困 khốn;quandary;Trees need space to grow. If you pent in a tree, it will be in quite a quandary!; コン | こま.る
-固 cố; fossils are old things pent in that have hardened.; コ | かた.める   かた.まる   かた.まり  かた.い
+固 cố; harden; fossils are old things pent in that have hardened.; コ | かた.める   かた.まる   かた.まり  かた.い
+錮 weld;You weld metal in the knowledge that it will harden again. コ | ふさ.ぐ
 
 
 門 môn; gate; モン | かど  と
@@ -1489,7 +1488,13 @@
 
 知 tri;know; チ | し.る し.らせる
 
-因 nhân;cause; イン | よ.る  ちな.む
+
+国 quốc;country; コク | くに
+
+団 đoàn;group;A pent-in group will naturally be more cohesive, or "glued together.; ダン  トン | かたまり   まる.い
+
+
+因 nhân;cause;We once had a dog with big paws // and oh what great trouble he'd cause; イン | よ.る  ちな.む
 姻 nhân;matrimony;Women cause matrimony; イン
 咽 windpipe;The windpipe in your mouth is what causes you to breath; イン エン エツ | むせ.ぶ   むせ.る のど   の.む
 園 viên; park; In the park, I discovered a lidded crock wrapped with a scarf.; エン | その
