@@ -51,7 +51,6 @@
 
 大 đại to lớn, đại dương, đại lục dai, tai | おお.きい
 実 thực sự thực; under the roof, great scholar tell the truth ; jitsu | み
-因 nhân nguyên nhân; cause; if something big is enclosed, there must be a reason; in | よ.る
 
 個 cá cá nhân, cá thể ko | か
 伸 thân dãn ra shin | の.びる
@@ -1490,7 +1489,10 @@
 
 知 tri;know; チ | し.る し.らせる
 
-園 viên; park; エン | その
+因 nhân;cause; イン | よ.る  ちな.む
+姻 nhân;matrimony;Women cause matrimony; イン
+咽 windpipe;The windpipe in your mouth is what causes you to breath; イン エン エツ | むせ.ぶ   むせ.る のど   の.む
+園 viên; park; In the park, I discovered a lidded crock wrapped with a scarf.; エン | その
 回 hồi; times; write mouth 2 times; カイ  エ | まわ.る -まわ.る -まわ.り  まわ.す  -まわ.す まわ.し  -まわ.し  もとお.る  か.える
 
 円 circle; エン | まる.い   まる   まど   まど.か   まろ.やか
@@ -2451,7 +2453,6 @@
 幽 u tối tăm, u tối yuu
 謹 cẩn kính cẩn kin
 醜 xú xấu xí shuu
-姻 nhân hôn nhân in
 租 tô thuế, tô thuế so
 褒 bao khen ngợi hoo
 堪 kham chịu đựng được kan
