@@ -1453,6 +1453,10 @@
 国 quốc;country; コク | くに
 団 đoàn;group;A pent-in group will naturally be more cohesive, or "glued together.; ダン  トン | かたまり   まる.い
 因 nhân;cause;We once had a dog with big paws // and oh what great trouble he'd cause; イン | よ.る  ちな.む
+姻 nhân;matrimony;Women cause matrimony; イン
+咽 windpipe;The windpipe in your mouth is what causes you to breath; イン エン エツ | むせ.ぶ   むせ.る のど   の.む
+園 viên; park; In the park, I discovered a lidded crock wrapped with a scarf.; エン | その
+回 hồi; times; write mouth 2 times; カイ  エ | まわ.る -まわ.る -まわ.り  まわ.す  -まわ.す まわ.し  -まわ.し  もとお.る  か.える
 
 
 
@@ -1493,10 +1497,6 @@
 知 tri;know; チ | し.る し.らせる
 
 
-姻 nhân;matrimony;Women cause matrimony; イン
-咽 windpipe;The windpipe in your mouth is what causes you to breath; イン エン エツ | むせ.ぶ   むせ.る のど   の.む
-園 viên; park; In the park, I discovered a lidded crock wrapped with a scarf.; エン | その
-回 hồi; times; write mouth 2 times; カイ  エ | まわ.る -まわ.る -まわ.り  まわ.す  -まわ.す まわ.し  -まわ.し  もとお.る  か.える
 
 円 circle; エン | まる.い   まる   まど   まど.か   まろ.やか
   yen;  round
