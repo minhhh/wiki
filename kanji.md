@@ -1458,6 +1458,7 @@
 園 viên; park; In the park, I discovered a lidded crock wrapped with a scarf.; エン | その
 回 hồi; times; write mouth 2 times; カイ  エ | まわ.る -まわ.る -まわ.り  まわ.す  -まわ.す まわ.し  -まわ.し  もとお.る  か.える
 
+壇 đàn; podium; A man on the podium announce the rules for the contest: You must fill a top hat with dirt as many times as you can by nightbreak. ダン  タン
 
 
 門 môn; gate; モン | かど  と
@@ -2151,7 +2152,6 @@
 随 tùy tùy tùng zui
 粘 niêm niêm mạc nen
 浸 tẩm ngâm tẩm shin
-壇 đàn diễn đàn dan, tan
 糖 đường đường too
 覆 phúc đậy fuku
 溶 dung dung dịch yoo
