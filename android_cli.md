@@ -35,6 +35,9 @@
     adb install file.apk
     adb install -r file.apk # replace
 
+    # Install to a specific device
+    adb -s "deviceIDfromlist" install file.apk
+
     adb shell am start -a android.intent.action.DELETE -d package:<your app package>
 ```
 
