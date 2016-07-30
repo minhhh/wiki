@@ -289,7 +289,6 @@
 
 台 đài lâu đài, đài dai, tai
 
-店 điếm cửa hàng, tửu điếm ten | みせ
 
 声 thanh âm thanh, thanh điệu sei, shoo | こえ
 
@@ -1460,6 +1459,9 @@
 
 壇 đàn; podium; A man on the podium announce the rules for the contest: You must fill a top hat with dirt as many times as you can by nightbreak. ダン  タン
 
+店 điếm; store; The fortuneteller has a store in a cave; テン | みせ  たな
+庫 khố; warehouse; GM chose to use a cave as a warehouse for their unsold cars. コ  ク | くら
+
 
 門 môn; gate; モン | かど  と
 問 vấn;question;The mouth is the gate from which questions are asked.; モン | と.う  と.い   とん
@@ -1700,7 +1702,6 @@
 航 hàng hàng không, hàng hải koo
 廃 phế tàn phế, hoang phế hai
 盟 minh đồng minh, gia minh mei
-庫 khố kho, xa khố, kim khố ko, ku
 将 tướng tướng quân shoo
 捜 sưu sưu tầm, sưu tập soo
 厳 nghiêm tôn nghiêm, nghiêm khắc, nghiêm trọng gen, gon
