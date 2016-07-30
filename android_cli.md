@@ -42,7 +42,7 @@
 * [Use `apktool`](http://ibotpeaches.github.io/Apktool/)
 
 ```
-    apk d /path/to/apk
+    apktool d /path/to/apk
     open res/values/strings.xml
 ```
 
