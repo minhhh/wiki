@@ -167,6 +167,9 @@ Docker images are read-only templates from which Docker containers are launched.
 
 * SSH into your docker (https://geraldkaszuba.com/quickly-ssh-into-a-docker-container/)
 
+## Vagrant box
+* Quickly setup docker on `trusty64` with this (https://atlas.hashicorp.com/williamyeh/boxes/ubuntu-trusty64-docker)
+
 ## Misc
 * [Forward host port to docker container](http://stackoverflow.com/questions/17770902/forward-host-port-to-docker-container)
 
