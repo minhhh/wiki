@@ -127,7 +127,6 @@ Docker images are read-only templates from which Docker containers are launched.
     * [If you run SSHD in your Docker containers, you're doing it wrong!](https://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/)
 
 ## Inspecting container
-
 * Inspect container
 ```
     docker inspect fe5f199c07ed
@@ -157,14 +156,16 @@ Docker images are read-only templates from which Docker containers are launched.
 ```
 
 ## Loggin into container
-* detach from docker http://stackoverflow.com/questions/19688314/how-do-you-attach-and-detach-from-dockers-process
+* Detach from docker (http://stackoverflow.com/questions/19688314/how-do-you-attach-and-detach-from-dockers-process)
 ```
+    # To detach the tty without exiting the shell, use the escape sequence
     Ctrl+p + Ctrl+q
+
+    # You could run the following command to execute a new process from the existing container
     sudo docker exec -ti [CONTAINER-ID] bash
 ```
 
-* SSH into your docker
-    * https://geraldkaszuba.com/quickly-ssh-into-a-docker-container/
+* SSH into your docker (https://geraldkaszuba.com/quickly-ssh-into-a-docker-container/)
 
 ## Misc
 * [Forward host port to docker container](http://stackoverflow.com/questions/17770902/forward-host-port-to-docker-container)
