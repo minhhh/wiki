@@ -1353,7 +1353,8 @@
 棟 ridgepole;Feng Shui states that the ridgepole of a house should be made of wood and face east; トウ | むね
 凍 đông;frozen;The ice will stay frozen until the sun is visible through the trees; トウ | こお.る  こご.える  こご.る   い.てる   し.みる
 
-妊 nhâm;pregnancy;A pregnant woman is a porter of her child; ニン  ジン | はら.む   みごも.る
+壬 9th calendar sign / porter
+妊 nhâm; pregnancy; A pregnant woman is pregnant for 9 months; ニン  ジン | はら.む   みごも.る
 廷 đình;courts;A porter has run away from his master. His punishment is to be stretched out on the rack. So say the courts in this barbaric time; テイ
 
 染 nhiễm;dye;To make this dye, I used water and the barks of nine different trees; セン | そ.める  そ.まる  し.みる  し.み
@@ -1462,6 +1463,7 @@
 店 điếm; store; The fortuneteller has a store in a cave; テン | みせ  たな
 庫 khố; warehouse; use a cave as a warehouse for their unsold cars. コ  ク | くら
 
+廷
 庭 courtyard;
 
 門 môn; gate; モン | かど  と
