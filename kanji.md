@@ -1464,7 +1464,11 @@
 磨 ma; grind; In ancient time, you can grind hemp with stone; マ | みが.く   す.る
 
 心 tâm; heart; シン | こころ
-忘 vong; forget; quên; ボウ | わすれる
+忘 vong; forget; You only truly forget her when she has perished in your heart; ボウ | わすれる
+恣 selfish; A selfish person doesn't care about the next person's heart, only their own; シ | ほしいまま
+忍 nhẫn; endure; To endure love is like living with a blade in your heart;  ニン | しの.ぶ   しの.ばせる
+
+
 
 
 門 môn; gate; モン | かど  と
@@ -2274,7 +2278,6 @@
 肢 chi tay chân, tứ chi shi
 尿 niệu niệu đạo nyoo
 酷 khốc tàn khốc koku
-忍 nhẫn tàn nhẫn, nhẫn nại nin
 錯 thác thác giác, thác loạn saku
 寂 tịch cô tịch, tịch mịch jaku, seki
 恭 cung cung kính kyoo
