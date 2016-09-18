@@ -1460,8 +1460,9 @@
 壇 đàn; podium; A man on the podium announce the rules for the contest: You must fill a top hat with dirt as many times as you can by nightbreak. ダン  タン
 
 店 điếm; store; The fortuneteller has a store in a cave; テン | みせ  たな
-庫 khố; warehouse; GM chose to use a cave as a warehouse for their unsold cars. コ  ク | くら
+庫 khố; warehouse; use a cave as a warehouse for their unsold cars. コ  ク | くら
 
+庭 courtyard;
 
 門 môn; gate; モン | かど  と
 問 vấn;question;The mouth is the gate from which questions are asked.; モン | と.う  と.い   とん
@@ -1794,7 +1795,6 @@
 刊 san tuần san, chuyên san kan
 繰 sào
 貴 quý cao quý ki
-庭 đình triều đình, gia đình tei
 老 lão già, lão luyện roo
 患 hoạn bệnh hoạn kan
 底 để đáy tei
