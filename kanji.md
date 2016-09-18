@@ -1462,9 +1462,10 @@
 
 店 điếm; store; The fortuneteller has a store in a cave; テン | みせ  たな
 庫 khố; warehouse; use a cave as a warehouse for their unsold cars. コ  ク | くら
-
-廷
-庭 courtyard;
+庭 courtyard; In ancient time you don't have courtyard, you have court cave テイ  | にわ
+庁 sảnh; government office; In ancient time, government office is in a cave with street sign; チョウ  テイ | やくしょ
+床 sàng; bed; In ancient time, bed is a log in a cave; ショウ | とこ  ゆか
+麻 ma; hemp; マ   マア | あさ
 
 門 môn; gate; モン | かど  と
 問 vấn;question;The mouth is the gate from which questions are asked.; モン | と.う  と.い   とん
@@ -1580,7 +1581,6 @@
 収 thu thu nhập, thu nhận, thu hoạch shuu
 農 nông nông nghiệp, nông thôn, nông dân noo
 疑 nghi nghi ngờ, nghi vấn, tình nghi gi
-庁 sảnh đại sảnh choo
 害 hại có hại, độc hại, lợi hại gai
 援 viện viện trợ en
 視 thị thị sát, thị lực, giám thị shi
@@ -1989,7 +1989,6 @@
 喚 hoán hô hoán kan
 既 kí đã ki
 液 dịch dung dịch eki
-床 sàng giường shoo
 斎 trai trai giới sai
 索 sách tìm kiếm saku
 宙 trụ vũ trụ chuu
@@ -2017,7 +2016,6 @@
 翼 dực cánh yoku
 懇 khẩn khẩn khoản, khẩn đãi kon
 昔 tích ngày xưa seki, shaku
-麻 ma cây tầm ma ma
 緑 lục xanh lục ryoku, roku
 俳 bài diễn viên hai
 泰 thái thái bình tai
