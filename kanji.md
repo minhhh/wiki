@@ -194,16 +194,11 @@
 碌 lục satisfactory ROKU | ろく.な
 研 nghiên mài, nghiên cứu ken | と.ぐ
 
-
 辛 tân cay shin | から.い
 
 円 viên viên mãn, tiền Yên en
 
-
-
-心 tâm tâm lí, nội tâm shin | こころ
 思 tư nghĩ, suy tư, tư tưởng, tư duy shi | おも。い
-忘 vong quên boo | わすれる
 必 tất tất nhiên, tất yếu hitsu | かなら。ず
 悪 ác ố hung ác, độc ác; tăng ố aku, o | わる.い
 悲 bi sầu bi, bi quan hi | かな.しい
@@ -1328,8 +1323,8 @@
 鏡 kính;mirror; キョウ  ケイ | かがみ
 境 cảnh;boundary;the owner has put mirrors on the boundary of his land so it feels much bigger; キョウ  ケイ | さかい
 
-亡 vong;deceased;The recently DECEASED are said to hang their hats on a hook; BŌ  モウ | な.い   ほろ.びる   ほろ.ぶ   ほろ.ぼす
-盲 manh;blind;Deceased eyes! Easy ;). モウ | めくら
+亡 vong;deceased;The recently DECEASED are said to hang their hats on a hook; ボウ モウ | な.い   ほろ.びる   ほろ.ぶ   ほろ.ぼす
+盲 manh; blind; Deceased eyes! Easy ;). モウ | めくら
 妄 vọng;delusion;If you think you should perish for that woman, you have a major delusion; モウ  ボウ | みだ.りに
 荒 hoang;laid waste;After Godzilla laid waste to the city, the survivors put some flowers on the bodies of the deceased and floated their bodies down the stream; コウ | あら.い   あ.れる  あ.らす   すさ.む
 望 vọng;ambition;You're dead meat, buddy, my ambition is to be king. ボウ  モウ | のぞ.む   もち
@@ -1465,7 +1460,12 @@
 庭 courtyard; In ancient time you don't have courtyard, you have court cave テイ  | にわ
 庁 sảnh; government office; In ancient time, government office is in a cave with street sign; チョウ  テイ | やくしょ
 床 sàng; bed; In ancient time, bed is a log in a cave; ショウ | とこ  ゆか
-麻 ma; hemp; マ   マア | あさ
+麻 ma; hemp; when you see 2 trees in a cave, they must be hemp; マ   マア | あさ
+磨 ma; grind; In ancient time, you can grind hemp with stone; マ | みが.く   す.る
+
+心 tâm; heart; シン | こころ
+忘 vong; forget; quên; ボウ | わすれる
+
 
 門 môn; gate; モン | かど  と
 問 vấn;question;The mouth is the gate from which questions are asked.; モン | と.う  と.い   とん
@@ -2156,7 +2156,6 @@
 糖 đường đường too
 覆 phúc đậy fuku
 溶 dung dung dịch yoo
-磨 ma mài ma
 猶 do do dự yuu
 謀 mưu âm mưu boo, mu
 盾 thuẫn mâu thuẫn jun
