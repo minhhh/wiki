@@ -1467,7 +1467,9 @@
 忘 vong; forget; You only truly forget her when she has perished in your heart; ボウ | わすれる
 恣 selfish; A selfish person doesn't care about the next person's heart, only their own; シ | ほしいまま
 忍 nhẫn; endure; To endure love is like living with a blade in your heart;  ニン | しの.ぶ   しの.ばせる
-認 nhận; acknowledge; ; ニン|  みと.める   したた.める
+認 nhận; acknowledge; you acknowledge someone by saying words about their endure; ニン|  みと.める   したた.める
+忌 mourning; mourning is like a snake-bitten heart キ | い.む   い.み   い.まわしい
+
 
 
 
@@ -2416,7 +2418,6 @@
 奴 nô nô lệ, nô dịch do
 糾 củ buộc dây kyuu
 茎 hành thân cây cỏ kei
-忌 kị ghét, kiêng kị, cấm kị ki
 抗 kháng chống lại, đề kháng, kháng chiến koo
 禅 thiền thiền tọa zen
 逓 đệ đệ trình, gửi đi tei
