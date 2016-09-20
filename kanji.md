@@ -1127,7 +1127,7 @@
 故 cố; cố tổng thống; happenstance; old person who was hit and die コ | ふる.い
 敬 kính;awe; you have to show awe to your master with flowery phrases, or you will be hit; ケイ  キョウ | うやま.う
 
-言 ngôn ngôn ngữ, ngôn luận, phát ngôn gen, gon | い.う
+言 say; ゲン  ゴン | い.う  こと
 警 cảnh;admonish;To admonish is to enforce awe by means of words; ケイ | いまし.める
 計 kê; plot; ケイ | はか.る  はか.らう
 詮 elucidate;Words that tell you the results of the whole story really elucidate; セン | せん.ずる   かい   あき.らか
@@ -1467,6 +1467,7 @@
 忘 vong; forget; You only truly forget her when she has perished in your heart; ボウ | わすれる
 恣 selfish; A selfish person doesn't care about the next person's heart, only their own; シ | ほしいまま
 忍 nhẫn; endure; To endure love is like living with a blade in your heart;  ニン | しの.ぶ   しの.ばせる
+認 nhận; acknowledge; ; ニン|  みと.める   したた.める
 
 
 
@@ -1519,7 +1520,6 @@
 
 
 
-認 nhận;acknowledge;Imagine a salaryman forced to acknowledge some unfortunate news. His stoic face means he is unable to respond to the words, and endures them, for now at least; ニン|  みと.める   したた.める
 
 
 
