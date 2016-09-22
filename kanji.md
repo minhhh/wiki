@@ -1469,6 +1469,7 @@
 忍 nhẫn; endure; To endure love is like living with a blade in your heart;  ニン | しの.ぶ   しの.ばせる
 認 nhận; acknowledge; you acknowledge someone by saying words about their endure; ニン|  みと.める   したた.める
 忌 mourning; mourning is like a snake-bitten heart キ | い.む   い.み   い.まわしい
+志 intention; A samurai's intentions always come from the heart; シ  シリング | こころざ.す  こころざし
 
 
 
@@ -1517,7 +1518,6 @@
 
 
 
-面
 
 
 
@@ -1743,7 +1743,6 @@
 途 đồ tiền đồ to
 罪 tội tội phạm, tội ác zai
 諸 chư chư hầu sho
-志 chí ý chí, chí nguyện shi
 湾 loan vịnh wan
 踏 đạp dẫm lên too
 幸 hạnh hạnh phúc, hạnh vận koo
