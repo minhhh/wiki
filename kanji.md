@@ -212,7 +212,6 @@
 口 khẩu miệng, nhân khẩu, khẩu ngữ koo, ku
 設 thiết thiết lập, kiến thiết setsu | もう.ける
 
-誌 chí tạp chí shi |
 議 nghị nghị luận, nghị sự gi |
 
 咲 tiếu nở hoa - | さ.く
@@ -1470,6 +1469,7 @@
 認 nhận; acknowledge; you acknowledge someone by saying words about their endure; ニン|  みと.める   したた.める
 忌 mourning; mourning is like a snake-bitten heart キ | い.む   い.み   い.まわしい
 志 intention; A samurai's intentions always come from the heart; シ  シリング | こころざ.す  こころざし
+誌 chí; document;This is quite simple: a document is a set of words describing your intentions. シ
 
 
 
