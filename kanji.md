@@ -1445,7 +1445,7 @@
 錮 weld;You weld metal in the knowledge that it will harden again. コ | ふさ.ぐ
 国 quốc;country; コク | くに
 団 đoàn;group;A pent-in group will naturally be more cohesive, or "glued together.; ダン  トン | かたまり   まる.い
-因 nhân;cause;We once had a dog with big paws // and oh what great trouble he'd cause; イン | よ.る  ちな.む
+因 nhân;cause; the cause of the big bang is a lot of thing packed inside a square ; イン | よ.る  ちな.む
 姻 nhân;matrimony;Women cause matrimony; イン
 咽 windpipe;The windpipe in your mouth is what causes you to breath; イン エン エツ | むせ.ぶ   むせ.る のど   の.む
 園 viên; park; In the park, I discovered a lidded crock wrapped with a scarf.; エン | その
@@ -1475,7 +1475,7 @@
 串 skewer; two chunks of meat on a skewer; カン ケン セン | くし   つらぬ.く
 患 hoạn; afflicted; a skewered heart is afflicted with pain; カン | わずら.う
 思 tư; think; think with your brain not your heart; シ | おも.う  おもえら.く  おぼ.す
-恩 ân;grace; オン
+恩 ân;grace; grace is when you give from your heart to serve a higher cause; オン
 
 
 
