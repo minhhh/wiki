@@ -1471,8 +1471,10 @@
 志 intention; A samurai's intentions always come from the heart; シ  シリング | こころざ.す  こころざし
 誌 chí; document;This is quite simple: a document is a set of words describing your intentions. シ
 芯 wick; giving a girl flower is like lighting the wick of her heart; シン
+忠 trung; loyalty; true loyalty in the middle of the heart; チュウ
 
-
+串 skewer; two chunks of meat on a skewer; カン ケン セン | くし   つらぬ.く
+患 hoạn; afflicted; a skewered heart is afflicted with pain; カン | わずら.う
 
 
 
@@ -1805,7 +1807,6 @@
 繰 sào
 貴 quý cao quý ki
 老 lão già, lão luyện roo
-患 hoạn bệnh hoạn kan
 底 để đáy tei
 損 tổn tổn hại, tổn thương son
 徒 đồ môn đồ, đồ đệ to
@@ -1935,7 +1936,6 @@
 稲 đạo cây lúa too
 衝 xung xung đột, xung kích shoo
 操 thao thao tác soo
-忠 trung trung thành, trung thực chuu
 綱 cương kỉ cương koo
 紛 phân phân vân fun
 駐 trú đồn trú chuu
