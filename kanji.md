@@ -198,7 +198,6 @@
 
 円 viên viên mãn, tiền Yên en
 
-思 tư nghĩ, suy tư, tư tưởng, tư duy shi | おも。い
 必 tất tất nhiên, tất yếu hitsu | かなら。ず
 悪 ác ố hung ác, độc ác; tăng ố aku, o | わる.い
 悲 bi sầu bi, bi quan hi | かな.しい
@@ -1475,6 +1474,9 @@
 
 串 skewer; two chunks of meat on a skewer; カン ケン セン | くし   つらぬ.く
 患 hoạn; afflicted; a skewered heart is afflicted with pain; カン | わずら.う
+思 tư; think; think with your brain not your heart; シ | おも.う  おもえら.く  おぼ.す
+恩 ân;grace; オン
+
 
 
 
@@ -2097,7 +2099,6 @@
 憶 ức kí ức oku
 粉 phấn bột fun
 誇 khoa khoa trương ko
-恩 ân ân huệ on
 簿 bộ danh bộ bo
 怖 bố khủng bố fu
 丘 khâu đồi kyuu
