@@ -1470,6 +1470,8 @@
 忌 mourning; mourning is like a snake-bitten heart キ | い.む   い.み   い.まわしい
 志 intention; A samurai's intentions always come from the heart; シ  シリング | こころざ.す  こころざし
 誌 chí; document;This is quite simple: a document is a set of words describing your intentions. シ
+芯 wick; giving a girl flower is like lighting the wick of her heart; シン
+
 
 
 
