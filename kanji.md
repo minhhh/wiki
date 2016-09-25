@@ -1476,6 +1476,8 @@
 患 hoạn; afflicted; a skewered heart is afflicted with pain; カン | わずら.う
 思 tư; think; think with your brain not your heart; シ | おも.う  おもえら.く  おぼ.す
 恩 ân;grace; grace is when you give from your heart to serve a higher cause; オン
+応 apply; the heart will cave in if you apply too much force; オウ ヨウ | あた.る  まさに こた.える
+
 
 
 
@@ -1584,7 +1586,6 @@
 再 tái lại, tái phát sai, sa
 容 dung dung mạo, hình dung, nội dung, dung nhận yoo
 規 quy quy tắc, quy luật ki
-応 ứng đáp ứng, ứng đối, phản ứng oo
 争 tranh đấu tranh, chiến tranh, tranh luận, cạnh tranh soo
 護 hộ bảo hộ, phòng hộ, hộ vệ go
 率 suất thống suất, xác suất, tỉ lệ suất sotsu, ritsu
