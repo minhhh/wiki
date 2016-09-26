@@ -202,7 +202,6 @@
 悪 ác ố hung ác, độc ác; tăng ố aku, o | わる.い
 悲 bi sầu bi, bi quan hi | かな.しい
 
-意 ý ý nghĩa, ý thức, ý kiến, chú ý | い
 
 私 tư tư nhân, công tư, tư lợi shi
 公 công công cộng, công thức, công tước koo | おおやけ
@@ -1477,6 +1476,7 @@
 思 tư; think; think with your brain not your heart; シ | おも.う  おもえら.く  おぼ.す
 恩 ân;grace; grace is when you give from your heart to serve a higher cause; オン
 応 apply; the heart will cave in if you apply too much force; オウ ヨウ | あた.る  まさに こた.える
+意 ý; idea;
 
 
 
