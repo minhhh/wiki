@@ -1476,7 +1476,7 @@
 思 tư; think; think with your brain not your heart; シ | おも.う  おもえら.く  おぼ.す
 恩 ân;grace; grace is when you give from your heart to serve a higher cause; オン
 応 apply; the heart will cave in if you apply too much force; オウ ヨウ | あた.る  まさに こた.える
-意 ý; idea;
+意 ý; idea; When you get a good IDEA you get excited and you can hear the SOUND of your HEART, it's pounding so hard. イ
 
 
 
