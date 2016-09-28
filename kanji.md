@@ -1478,6 +1478,8 @@
 応 apply; the heart will cave in if you apply too much force; オウ ヨウ | あた.る  まさに こた.える
 意 ý; idea; When you get a good IDEA you get excited and you can hear the SOUND of your HEART, it's pounding so hard. イ
 臆 cowardice; Cowardice is when you are not willing to sacrifice your flesh for your ideas; オク ヨク | むね  おくする
+想 tưởng; concept; The concept of love is basically two hearts inter-acting as one; ソウ ソ | おも.う
+
 
 
 
@@ -1622,7 +1624,6 @@
 票 phiếu lá phiếu, đầu phiếu hyoo
 福 phúc phúc, hạnh phúc, phúc lợi fuku
 審 thẩm thẩm tra, thẩm phán, thẩm định shin
-想 tưởng tư tưởng, tưởng tượng soo, so
 渡 độ đi qua, truyền tay to
 念 niệm ý niệm, tưởng niệm nen
 述 thuật tường thuật. tự thuật jutsu
