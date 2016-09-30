@@ -380,7 +380,6 @@
 
 足 túc chân, bổ túc, sung túc soku
 
-息 tức con trai, tử tức soku | いき
 
 終 chung chung kết, chung liễu shuu | お.わり
 変 biến biến đổi, biến thiên hen | か.える か.わる
@@ -1479,6 +1478,7 @@
 意 ý; idea; When you get a good IDEA you get excited and you can hear the SOUND of your HEART, it's pounding so hard. イ
 臆 cowardice; Cowardice is when you are not willing to sacrifice your flesh for your ideas; オク ヨク | むね  おくする
 想 tưởng; concept; The concept of love is basically two hearts inter-acting as one; ソウ ソ | おも.う
+息 breath; BREATH brings oxygen from your nose to your heart.; ソク | いき
 
 
 
