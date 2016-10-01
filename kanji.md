@@ -1479,7 +1479,7 @@
 臆 cowardice; Cowardice is when you are not willing to sacrifice your flesh for your ideas; オク ヨク | むね  おくする
 想 tưởng; concept; The concept of love is basically two hearts inter-acting as one; ソウ ソ | おも.う
 息 breath; BREATH brings oxygen from your nose to your heart.; ソク | いき
-憩 recess;
+憩 recess; tongues slandering, noses being turned up, and beneath it all, young hearts being broken
 
 
 
