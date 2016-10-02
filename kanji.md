@@ -1480,6 +1480,8 @@
 想 tưởng; concept; The concept of love is basically two hearts inter-acting as one; ソウ ソ | おも.う
 息 breath; BREATH brings oxygen from your nose to your heart.; ソク | いき
 憩 recess; tongues slandering, noses being turned up, and beneath it all, young hearts being broken
+恵 huệ; favor; If you would give someone 10 fields as a favor then you truly have a big heart; ケイ エ | めぐ.む めぐ.み
+恐 fear; If your heart surgeon is mediocre in his craft, you have plenty of reason to fear;
 
 
 
@@ -1801,7 +1803,6 @@
 密 mật bí mật, mật độ mitsu
 浮 phù nổi, phù du fu
 樹 thụ cây, cổ thụ ju
-恵 huệ ân huệ kei, e
 儀 nghi nghi thức gi
 邦 bang liên bang hoo
 償 thường bồi thường shoo
@@ -1817,7 +1818,6 @@
 損 tổn tổn hại, tổn thương son
 徒 đồ môn đồ, đồ đệ to
 承 thừa thừa nhận shoo
-恐 khủng khủng bố, khủng hoảng kyoo
 齢 linh tuổi rei
 隆 long cao quý ryuu
 択 trạch tuyển trạch taku
