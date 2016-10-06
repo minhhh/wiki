@@ -1482,6 +1482,7 @@
 憩 recess; tongues slandering, noses being turned up, and beneath it all, young hearts being broken
 恵 huệ; favor; If you would give someone 10 fields as a favor then you truly have a big heart; ケイ エ | めぐ.む めぐ.み
 恐 fear; If your heart surgeon is mediocre in his craft, you have plenty of reason to fear;
+惑 beguile; mouth, halberd;heart; ワク | まど.う
 
 
 
@@ -1789,7 +1790,6 @@
 房 phòng phòng ở boo
 塚 trủng đống đất -
 臨 lâm lâm thời rin
-惑 hoặc nghi hoặc waku
 巨 cự to lớn, cự đại, cự phách kyo
 為 vi, vị hành vi; vị kỉ I
 賀 hạ chúc mừng ga
