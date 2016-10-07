@@ -1488,8 +1488,6 @@
 
 
 
-
-
 門 môn; gate; モン | かど  と
 問 vấn;question;The mouth is the gate from which questions are asked.; モン | と.う  と.い   とん
 閲 duyệt;review;A little devil at the gates of hell reviews your record to see if you're evil enough to get in; エツ | けみ.する
