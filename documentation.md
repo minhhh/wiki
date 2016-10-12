@@ -1,6 +1,6 @@
 # DOCUMENTATION GUIDE
 
-**[Teach don't tell](http://stevelosh.com/blog/2013/09/teach-dont-tell/)**
+**[Teach don't tell](http://stevelosh.com/blog/2013/09/teach-dont-tell/)** How to write document for programming languages and libraries. You will surely learn something new even if you have already done so.
 
 **[Top 10 usecase mistakes]([http://www.cs.clemson.edu/~steve/CW/472/TopTenUseCaseMistakes.pdf)**
 
