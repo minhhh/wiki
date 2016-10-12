@@ -8,5 +8,5 @@
 
 **[The fine art of commenting](http://www.icsharpcode.net/technotes/commenting20020413.pdf)**
 
-**[The art of readme](https://github.com/noffle/art-of-readme)**
+**[The art of readme](https://github.com/noffle/art-of-readme)** with examples from the Node community but are applicable to other programming ecosystems as well.
 
