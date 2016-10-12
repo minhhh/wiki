@@ -1483,6 +1483,7 @@
 恵 huệ; favor; If you would give someone 10 fields as a favor then you truly have a big heart; ケイ エ | めぐ.む めぐ.み
 恐 fear; If your heart surgeon is mediocre in his craft, you have plenty of reason to fear;
 惑 beguile; mouth, halberd;heart; ワク | まど.う
+感 cảm; emotion; カン
 
 
 
@@ -1574,7 +1575,6 @@
 革 cách da thuộc, cách mạng kaku
 論 luận lí luận, ngôn luận, thảo luận ron
 億 ức trăm triệu oku
-感 cảm cảm giác, cảm xúc, cảm tình kan
 示 thị biểu thị ji, shi
 価 giá giá cả, vô giá, giá trị ka
 勢 thế tư thế, thế lực sei
