@@ -1483,7 +1483,7 @@
 恵 huệ; favor; If you would give someone 10 fields as a favor then you truly have a big heart; ケイ エ | めぐ.む めぐ.み
 恐 fear; If your heart surgeon is mediocre in his craft, you have plenty of reason to fear;
 惑 beguile; mouth, halberd;heart; ワク | まど.う
-感 cảm; emotion; カン
+感 cảm; emotion; mouth, halberd, heart;カン
 
 
 
