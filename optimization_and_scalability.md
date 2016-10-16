@@ -1,6 +1,8 @@
 # SCALABILITY
 * [Web application performance and scalability](http://www.webforefront.com/performance/) INCREDIBLE articles about all the fundamental concepts and practical solutions for web application performance and scalability.
 
+**[Scalable Web Architecture and Distributed Systems](http://aosabook.org/en/distsys.html)**
+
 * [The performance of opensource application](http://aosabook.org/en/index.html)
 
 * [Scaling a High Traffic Web Application: Our Journey from Java to PHP](https://www.youtube.com/watch?v=oS1D1W6eTwg)
@@ -41,13 +43,28 @@
 
 * [Comparison between framework](http://www.techempower.com/benchmarks/#section=data-r6&hw=i7&test=json) - Interesting benchmark of different web technology.
 
-## Load balancing
-* [1000000 daily users and no cache](http://www.infoq.com/presentations/1000000-Daily-Users-and-No-Cache) provides great insides into a real development environment of several games at Wooga. Through their experiences struggling to achieve a large number of users, we learn how to optimize app server, database, using new/faster technology to scale our game up.
-* [C10K](http://www.kegel.com/c10k.html#strategies)
 * [The Secret to 10 Million Concurrent Connections](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html)
 * [12 Million Concurrent Connections with MigratoryData WebSocket Server](http://mrotaru.wordpress.com/2013/06/20/12-million-concurrent-connections-with-migratorydata-websocket-server/)
 * [A Million Connections...and Beyond! - Node.js at Scale](https://www.youtube.com/watch?v=AH7kw8sKefg)
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
+
+* [1000000 daily users and no cache](http://www.infoq.com/presentations/1000000-Daily-Users-and-No-Cache) provides great insides into a real development environment of several games at Wooga. Through their experiences struggling to achieve a large number of users, we learn how to optimize app server, database, using new/faster technology to scale our game up.
+
+* [C10K](http://www.kegel.com/c10k.html#strategies)
+
+
+
+
+# PERFORMANCE OPTIMIZATION
+* [How to Speed up a Python Program](https://www.youtube.com/watch?v=e08kOj2kISU)
+
+* [cpu caches and why you care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
+
+* [Understanding CPU caching and performance](http://arstechnica.com/gadgets/2002/07/caching/1/)
+
+* [How to write performance benchmark code](https://github.com/spion/async-compare/tree/blog)
+
+* [Optimizing optimizing: some insights that led to a 400% speedup of PowerDNS](https://hackernoon.com/optimizing-optimizing-some-insights-that-led-to-a-400-speedup-of-powerdns-5e1a44b58f1c#.rx648ea3z)
 
 
 
