@@ -1,5 +1,8 @@
 # SCALABILITY
 * [Web application performance and scalability](http://www.webforefront.com/performance/) INCREDIBLE articles about all the fundamental concepts and practical solutions for web application performance and scalability.
+
+* [The performance of opensource application](http://aosabook.org/en/index.html)
+
 * [Scaling a High Traffic Web Application: Our Journey from Java to PHP](https://www.youtube.com/watch?v=oS1D1W6eTwg)
     * Think about scaling before
     * Devil is in the detail
@@ -27,10 +30,13 @@
         * Error detection and reporting is a must
         * Coding standards are a must
             * Naming is super important
+
 * TODO [Best Practices for Scaling Web Apps](https://www.youtube.com/watch?v=tQ2V9QSv48M)
     * load balancer
     * db cluster
+
 * TODO [Building and scaling web applications](http://www.youtube.com/watch?v=2Lq3ACxfLGc)
+
 * TODO [One Million Clicks per Minute with Kafka and Clojure - Devon Peticolas](https://www.youtube.com/watch?v=VC_MTD68erY)
 
 * [Comparison between framework](http://www.techempower.com/benchmarks/#section=data-r6&hw=i7&test=json) - Interesting benchmark of different web technology.
