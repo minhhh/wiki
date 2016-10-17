@@ -197,7 +197,7 @@
 
 ## Statistics
 * [Python for Data Analysis Data Wrangling with Pandas, NumPy, and IPython](http://shop.oreilly.com/product/0636920023784.do)
-* [Introduction to python for statistical learning](http://www.datarobot.com/blog/introduction-to-python-for-statistical-learning/)
 * [Thinkstats](http://greenteapress.com/thinkstats/thinkstats.pdf) Learn statistics with Python
 * [Introduction to statistical thought](http://www.math.umass.edu/~lavine/Book/book.html)
     * Good introduction book with examples in R so you get to learn statistics and R at the same time.
+* [Introduction to python for statistical learning](http://www.datarobot.com/blog/introduction-to-python-for-statistical-learning/)
