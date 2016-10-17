@@ -1484,6 +1484,8 @@
 恐 fear; If your heart surgeon is mediocre in his craft, you have plenty of reason to fear;
 惑 beguile; mouth, halberd;heart; ワク | まど.う
 感 cảm; emotion; mouth, halberd, heart;カン
+憂 ưu;melancholy; ユウ | うれ.える うれ.い う.い う.き
+
 
 
 
@@ -2273,7 +2275,6 @@
 把 bả cầm ha
 架 giá cái giá ka
 艇 đĩnh thuyền nhỏ tei
-憂 ưu ưu phiền yuu
 壌 nhưỡng thổ nhưỡng joo
 拐 quải bắt cóc kai
 累 lũy thành lũy, tích lũy rui
