@@ -1484,7 +1484,7 @@
 恐 fear; If your heart surgeon is mediocre in his craft, you have plenty of reason to fear;
 惑 beguile; mouth, halberd;heart; ワク | まど.う
 感 cảm; emotion; mouth, halberd, heart;カン
-憂 ưu;melancholy; ユウ | うれ.える うれ.い う.い う.き
+憂 ưu;melancholy; In the middle of summer you lose both your crown and your heart. No wonder you feel melancholy; ユウ | うれ.える うれ.い う.い う.き
 
 
 
