@@ -118,6 +118,7 @@ Docker images are read-only templates from which Docker containers are launched.
 
 ## Volumes
 ```
+    # Mount host /home/core/share to the container at /var/www
     docker run -v /home/core/share:/var/www:rw -p 80:80 -d nginx-example
 ```
 
