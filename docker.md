@@ -162,6 +162,9 @@ Docker images are read-only templates from which Docker containers are launched.
     # To detach the tty without exiting the shell, use the escape sequence
     Ctrl+p + Ctrl+q
 
+    # Then use `docker attach` to attach to the container
+    docker attach 91262536f7c9
+
     # You could run the following command to execute a new process from the existing container
     sudo docker exec -ti [CONTAINER-ID] bash
 ```
