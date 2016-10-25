@@ -77,6 +77,8 @@
 
 * [Web Site Acceleration](http://www.seoconsultants.com/articles/1000/server-performance) Study how to optimize web server performance with affordable, easy, unobtrusive software. 3 strategies: Code Optimization, Cache Control, and HTTP Compression
 
+* [14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
+
 ## Web cache
 * [Caching Tutorial](https://www.mnot.net/cache_docs/), [other link](http://www.web-caching.com/mnot_tutorial/how.html)
 * [Web cache in mobile](http://www2.research.att.com/~sen/pub/Caching_mobisys12.pdf)
