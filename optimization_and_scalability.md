@@ -44,8 +44,11 @@
 * [Comparison between framework](http://www.techempower.com/benchmarks/#section=data-r6&hw=i7&test=json) - Interesting benchmark of different web technology.
 
 * [The Secret to 10 Million Concurrent Connections](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html)
+
 * [12 Million Concurrent Connections with MigratoryData WebSocket Server](http://mrotaru.wordpress.com/2013/06/20/12-million-concurrent-connections-with-migratorydata-websocket-server/)
+
 * [A Million Connections...and Beyond! - Node.js at Scale](https://www.youtube.com/watch?v=AH7kw8sKefg)
+
 * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
 
 * [1000000 daily users and no cache](http://www.infoq.com/presentations/1000000-Daily-Users-and-No-Cache) provides great insides into a real development environment of several games at Wooga. Through their experiences struggling to achieve a large number of users, we learn how to optimize app server, database, using new/faster technology to scale our game up.
