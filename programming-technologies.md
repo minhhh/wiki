@@ -26,4 +26,4 @@
 
 ## Technology Trends
 
-**[Startups Are Creating A New System Of The World For IT](http://highscalability.com/blog/2012/5/7/startups-are-creating-a-new-system-of-the-world-for-it.html)**
+**[Startups Are Creating A New System Of The World For IT](http://highscalability.com/blog/2012/5/7/startups-are-creating-a-new-system-of-the-world-for-it.html)** The practices of IT world have been changed fundamentally by startups.
