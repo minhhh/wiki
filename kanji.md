@@ -1359,7 +1359,7 @@
 県 huyện;prefecture;Smaller administrative units, hooked together by a (Sauron's) central eye; ケン | か.ける
 栃 horse chestnut;Horse chestnut trees grows in tens of thousands under the cliff | とち
 
-地 địa;ground; チ ジ
+地 ground; The soil is littered with scorpions everywhere and no ones dares put their foot on the ground; チ ジ
 池 trì;pond;Water scorpions loves to live in the pond; チ | いけ
 
 虫 trùng;insect;  チュウ  キ | むし
@@ -1439,7 +1439,7 @@
 
 曰 sayeth; エツ | いわ.く   のたま.う   のたま.わく   ここに
 困 khốn;quandary;Trees need space to grow. If you pent in a tree, it will be in quite a quandary!; コン | こま.る
-固 cố; harden; fossils are old things pent in that have hardened.; コ | かた.める   かた.まる   かた.まり  かた.い
+固 harden; fossils are old things pent in that have hardened.; コ | かた.める   かた.まる   かた.まり  かた.い
 錮 weld;You weld metal in the knowledge that it will harden again. コ | ふさ.ぐ
 国 quốc;country; コク | くに
 団 đoàn;group;A pent-in group will naturally be more cohesive, or "glued together.; ダン  トン | かたまり   まる.い
@@ -1540,7 +1540,7 @@
 
 
 
-
+地
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
