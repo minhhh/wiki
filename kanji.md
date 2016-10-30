@@ -1483,7 +1483,7 @@
 恵 huệ; favor; If you would give someone 10 fields as a favor then you truly have a big heart; ケイ エ | めぐ.む めぐ.み
 恐 fear; If your heart surgeon is mediocre in his craft, you have plenty of reason to fear;
 惑 beguile; mouth, halberd;heart; ワク | まど.う
-感 cảm; emotion; mouth, halberd, heart;カン
+感 emotion; mouth, halberd, heart;カン
 憂 ưu;melancholy; In the middle of summer you lose both your crown and your heart. No wonder you feel melancholy; ユウ | うれ.える うれ.い う.い う.き
 
 
@@ -1508,7 +1508,7 @@
 
 
 角 giác; angle; カク | かど つの
-触 xúc; contact;For insects to get in contact with each other, they need to place their antennae at just the right angle; ショク | ふ.れる   さわ.る   さわ
+触 contact;For insects to get in contact with each other, they need to place their antennae at just the right angle; ショク | ふ.れる   さわ.る   さわ
 
 遊 du;play;The BANNER warns that CHILDREN PLAY on the ROAD; ユウ  ユ | あそ.ぶ  あそ.ばす
 
@@ -1537,10 +1537,9 @@
 
 
 
+触
 
 
-
-地
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
