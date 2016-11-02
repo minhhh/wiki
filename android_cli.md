@@ -26,9 +26,6 @@
     # Start by activity name
     adb shell 'am start -n com.qooapp.qoohelper/.activity.WelcomeActivity'
 
-    # Start by action
-    adb shell 'am start -a com.qooapp.qoohelper/.activity.WelcomeActivity'
-
     # add environment variable
     adb shell 'am start -a $(MYPACKAGEID).RUN -e server http://$(MYIP):$(MYPORT) -e game $(game) -e nativeLog $(MYNATIVELOG)'
 ```
