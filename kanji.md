@@ -1540,7 +1540,6 @@
 
 
 
-
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
 勝 thắng thắng lợi, thắng cảnh shoo
