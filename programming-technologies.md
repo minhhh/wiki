@@ -24,6 +24,16 @@
 
 **[The Unofficial Guide to Rich Hickey's Brain](http://www.flyingmachinestudios.com/programming/the-unofficial-guide-to-rich-hickeys-brain/)**
 
+## Programming Language discussion
+**[The blub paradox](http://paulgraham.com/avg.html)** Great article about how powerful languages really are compared to each other and how you can work this to your advantage in a startup company.
+
+**[Language trickery and EJB](http://sites.google.com/site/steveyegge2/language-trickery-and-ejb)** Inspirational article about the nature of language and syntax. The author argues that eventually every language must have some sort of magic or trickery syntax. How much syntax depends on what syntax the language designers consider useful, which depends on how much they are used and how much code we can save with the new syntax.
+
+**[The rule of the least power](http://www.w3.org/2001/tag/doc/leastPower.html)** When designing computer systems, one is often faced with a choice between using a more or less powerful language for publishing information, for expressing constraints, or for solving some problem. This finding explores tradeoffs relating the choice of language to reusability of information. The "Rule of Least Power" suggests choosing the least powerful language suitable for a given purpose.
+
+**[Language design](http://talks.golang.org/2012/splash.article)**
+
+
 ## Technology Trends
 
 **[Startups Are Creating A New System Of The World For IT](http://highscalability.com/blog/2012/5/7/startups-are-creating-a-new-system-of-the-world-for-it.html)** The practices of IT world have been changed fundamentally by startups.
