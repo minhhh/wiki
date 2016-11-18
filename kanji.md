@@ -664,7 +664,6 @@
 
 塵 TRẦN dust;  trash; チン| ごみ
 
-与 dữ, dự cấp dữ, tham dự yo | あた.える to give
 写 tả miêu tả sha | うつ.す
 
 殳
@@ -1532,8 +1531,7 @@
 円 circle; エン | まる.い   まる   まど   まど.か   まろ.やか
   yen;  round
 
-
-
+与 dữ; High 5! And bestow me one low! ヨ | あた.える  あずか.る  くみ.する   ともに
 
 
 
