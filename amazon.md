@@ -30,3 +30,4 @@
 # AMAZONE DRIVE
 * [Experienced Amazon Cloud Drive users - Tips? Useful utilities?](https://www.reddit.com/r/DataHoarder/comments/3uj5v4/experienced_amazon_cloud_drive_users_tips_useful/)
     * [rclone](https://github.com/ncw/rclone)
+    * [acd_cli](https://acd-cli.readthedocs.io/en/latest/index.html)
