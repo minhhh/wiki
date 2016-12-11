@@ -188,6 +188,7 @@
 # BOOKS
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 * [Introduction to programming paradigm](http://www.studytonight.com/courses/programming-paradigm/)
+* [Data Structures course](http://www.studytonight.com/courses/data-structures/)
 
 ## Mathematical sciences
 * [Recommended Books in the Mathematical Sciences](http://www.cargalmathbooks.com/)
