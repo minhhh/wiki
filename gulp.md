@@ -193,7 +193,6 @@ Then run `yo`. We can go with all the default stuff and see how it goes. Remove 
 
 ### Watch files for change & live-reload
 * Use `gulp-load-plugins`, `connect`, `connect-livereload`, `gulp-livereload`, `opn`
-* TODO
 
 ### Get the size of your project files
 * Use `gulp-size`
