@@ -1,6 +1,8 @@
 # SCALABILITY
 * [Web application performance and scalability](http://www.webforefront.com/performance/) INCREDIBLE articles about all the fundamental concepts and practical solutions for web application performance and scalability.
 
+* [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) The Exceptional Performance team has identified a number of best practices for making web pages fast. The list includes 35 best practices divided into 7 categories.
+
 **[Scalable Web Architecture and Distributed Systems](http://aosabook.org/en/distsys.html)**
 
 * [The performance of opensource application](http://aosabook.org/en/index.html)
