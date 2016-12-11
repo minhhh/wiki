@@ -42,7 +42,7 @@
 
 * TODO [Building and scaling web applications](http://www.youtube.com/watch?v=2Lq3ACxfLGc)
 
-* TODO [One Million Clicks per Minute with Kafka and Clojure - Devon Peticolas](https://www.youtube.com/watch?v=VC_MTD68erY)
+* [One Million Clicks per Minute with Kafka and Clojure - Devon Peticolas](https://www.youtube.com/watch?v=VC_MTD68erY)
 
 * [Comparison between framework](http://www.techempower.com/benchmarks/#section=data-r6&hw=i7&test=json) - Interesting benchmark of different web technology.
 
