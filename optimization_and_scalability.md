@@ -34,6 +34,7 @@
             * Naming is super important
 
 * TODO [Best Practices for Scaling Web Apps](https://www.youtube.com/watch?v=tQ2V9QSv48M)
+    * [Slides](https://dl.dropboxusercontent.com/u/73402227/shared_pics/DEV-B318.pptx)
     * load balancer
     * db cluster
 
