@@ -375,9 +375,21 @@ or
 #### Migrate from bitbucket to github
 
 ```
-    cd $HOME/dev/Pipelines
+    cd <path_to_repo>
     git remote rename origin bitbucket
-    git remote add origin https://github.com/edwardaux/Pipelines.git
+    git remote add origin <new_repo_url> # add the new origin
+    git push -u origin --all # pushes up the repo and its refs for the first time
+    git push -u origin --tags # pushes up any tags
+```
+<br/>
+
+#### Rename github repo
+Create a new git repo with the new name
+
+```
+    cd <path_to_repo>
+    git remote rename origin old
+    git remote add origin <new_repo_url>
     git push -u origin --all # pushes up the repo and its refs for the first time
     git push -u origin --tags # pushes up any tags
 ```
