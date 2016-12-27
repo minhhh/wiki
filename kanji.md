@@ -1535,8 +1535,8 @@
 
 身 somebody;  person; シン | み
 
+熱 heat; ネツ | あつ.い
 
-喉
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
@@ -1745,7 +1745,6 @@
 逆 nghịch phản nghịch gyaku
 陸 lục lục địa, lục quân riku
 印 ấn in ấn, ấn tượng in
-熱 nhiệt nhiệt độ, nhiệt tình netsu
 香 hương mùi hương, hương thơm koo, kyoo
 豊 phong phong phú hoo
 辞 từ từ vựng, từ chức ji
