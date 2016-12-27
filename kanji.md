@@ -1548,7 +1548,9 @@
 端 edge; When you stand a comb on its edge, it looks like the 山 (#768) kanji; タン | はし   は   はた   -ばた   はな
 俺 I; myself; Myself as used by men – a person who prides himself on how big his “eel” is; エン   おれ   われ
 倒 overthrow; The arrival of the person (e.g., Castro) marked the overthrow of the government; トウ | たお.れる   -だお.れ   たお.す   さかさま   さかさ   さかしま
-付
+
+
+
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
