@@ -1543,7 +1543,9 @@
 叫 shout; キョウ | さけ.ぶ
 
 込 crowded; -こ.む | こ.む   こ.み   -こ.み   こ.める
+浮 floating; Floating rubber ducky!!!; フ | う.く   う.かれる   う.かぶ   む   う.かべる
 
+端 edge; When you stand a comb on its edge, it looks like the 山 (#768) kanji; タン | はし   は   はた   -ばた   はな
 
 
 
@@ -1801,7 +1803,6 @@
 徳 đức đạo đức toku
 季 quý mùa ki
 密 mật bí mật, mật độ mitsu
-浮 phù nổi, phù du fu
 樹 thụ cây, cổ thụ ju
 儀 nghi nghi thức gi
 邦 bang liên bang hoo
@@ -1874,7 +1875,6 @@
 慎 thận thận trọng shin
 慮 lự tư lự, khảo lự ryo
 徴 trưng đặc trưng, tượng trưng choo
-端 đoan đầu đoạn tan
 肉 nhục thịt niku
 借 tá mượn, tá điền shaku
 骨 cốt xương, cốt nhục kotsu
