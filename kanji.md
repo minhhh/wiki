@@ -291,7 +291,6 @@
 校 hiệu trường học; correction; under the tree people interact and learn is the school; キョウ
 
 
-身 thân thân thể, thân phận shin
 
 ⺾
 花 hoa hoa, bông hoa ka | はな
@@ -357,7 +356,7 @@
 矢 thỉ mũi tên shi
 医 y y học, y viện I
 短 đoản đoản mệnh, sở đoản tan | みじか.い
-喉 HẦU Cổ họng コウ | のど
+喉 throat; コウ | のど
 
 役 dịch chức vụ, nô dịch eki, yaku
 
@@ -1108,8 +1107,8 @@
 荘 trang;villa;A villa is fancier (decorated with flowers) and more robust than the average; ソウ   ショウ   チャン | ほうき   おごそ.か
 売 mại; sell; the scholar goes around to sell; bai | う.る
 
-学 học học sinh, học thuyết gaku
-覚 giác;memorize;When you are in the schoolhouse you must memorise what you see; カク | おぼ.える   さ.ます   さ.める   さと.る
+学 study; ガク | まな.ぶ
+覚 giác; memorize;When you are in the schoolhouse you must memorise what you see; カク | おぼ.える   さ.ます   さ.める   さと.る
 栄 vinh;flourish;Within the schoolhouse, the tree of knowledge does flourish; エイ   ヨウ | さか.える   は.え
 
 書 thư thư đạo, thư tịch, thư kí sho | か.く
@@ -1534,8 +1533,10 @@
 与 dữ; High 5! And bestow me one low! ヨ | あた.える  あずか.る  くみ.する   ともに
 
 
+身 somebody;  person; シン | み
 
 
+喉
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
