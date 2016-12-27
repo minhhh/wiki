@@ -1539,6 +1539,7 @@
 支 branch; 10 inch branch; シ | ささ.える  つか.える  か.う
 
 配 distribute;In Japan, it's rude to distribute the sake to your self before anybody else; ハイ | くば.る
+瞬 wink; シュン | またた.く まじろ.ぐ
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
@@ -2081,7 +2082,6 @@
 恒 hằng luôn luôn, hằng đẳng thức koo
 郊 giao ngoại ô, giao ngoại koo
 耐 nại nhẫn nại tai
-瞬 thuấn trong nháy mắt shun
 箱 tương cái hộp -
 絞 giảo buộc, xử giảo koo
 彩 thái sắc thái sai
