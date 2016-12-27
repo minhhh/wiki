@@ -1540,6 +1540,11 @@
 
 配 distribute;In Japan, it's rude to distribute the sake to your self before anybody else; ハイ | くば.る
 瞬 wink; シュン | またた.く まじろ.ぐ
+叫 shout; キョウ | さけ.ぶ
+
+込 crowded; -こ.む | こ.む   こ.み   -こ.み   こ.める
+
+
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
@@ -1569,7 +1574,6 @@
 解 giải giải quyết, giải thể, giải thích kai, ge
 任 nhiệm trách nhiệm, nhiệm vụ nin
 策 sách đối sách saku
-込 <vào>
 領 lĩnh, lãnh thống lĩnh, lãnh thổ, lĩnh vực ryoo
 際 tế quốc tế sai
 革 cách da thuộc, cách mạng kaku
@@ -2156,7 +2160,6 @@
 奨 tưởng tưởng thưởng shoo
 騰 đằng tăng cao too
 翻 phiên phiên dịch hon
-叫 khiếu kêu kyoo
 随 tùy tùy tùng zui
 粘 niêm niêm mạc nen
 浸 tẩm ngâm tẩm shin
