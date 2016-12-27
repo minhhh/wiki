@@ -1536,7 +1536,9 @@
 身 somebody;  person; シン | み
 
 熱 heat; ネツ | あつ.い
+支 branch; 10 inch branch; シ | ささ.える  つか.える  か.う
 
+配 distribute;In Japan, it's rude to distribute the sake to your self before anybody else; ハイ | くば.る
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
@@ -1550,7 +1552,6 @@
 保 bảo bảo trì, bảo vệ, đảm bảo ho
 以 dĩ dĩ tiền, dĩ vãng I
 平 bình hòa bình, bình đẳng, trung bình, bình thường hei, byoo
-支 chi chi nhánh, chi trì (ủng hộ) shi
 組 tổ tổ hợp, tổ chức so
 報 báo báo cáo, báo thù, báo đáp hoo
 委 ủy ủy viên, ủy ban, ủy thác I
@@ -1593,7 +1594,6 @@
 護 hộ bảo hộ, phòng hộ, hộ vệ go
 率 suất thống suất, xác suất, tỉ lệ suất sotsu, ritsu
 算 toán tính toán, kế toán, toán học san
-配 phối phân phối, chi phối, phối ngẫu hai
 収 thu thu nhập, thu nhận, thu hoạch shuu
 農 nông nông nghiệp, nông thôn, nông dân noo
 疑 nghi nghi ngờ, nghi vấn, tình nghi gi
