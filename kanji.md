@@ -147,8 +147,8 @@
 寸 thốn thước đo; measurement sun
 寺 tự chùa ji
 時 thời thời gian ji | とき
-付 phụ phụ thuộc, phụ lục fu | つく
-府 phủ chính phủ; the government depends on people like the house depends on cliff fu
+付 adhere; If a PERSON ADHERES to something, they stick to it like GLUE.; フ | つ.ける  つ.け  つ.く  つ.き
+府 municipality; Even if a municipality is in a cave, you have to adhere to its policies.; フ
 対 đối đối diện, phản đối, đối với tai, tsui | こた.える
 
 
@@ -1547,8 +1547,8 @@
 
 端 edge; When you stand a comb on its edge, it looks like the 山 (#768) kanji; タン | はし   は   はた   -ばた   はな
 俺 I; myself; Myself as used by men – a person who prides himself on how big his “eel” is; エン   おれ   われ
-
-
+倒 overthrow; The arrival of the person (e.g., Castro) marked the overthrow of the government; トウ | たお.れる   -だお.れ   たお.す   さかさま   さかさ   さかしま
+付
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
@@ -1799,7 +1799,6 @@
 創 sáng sáng tạo soo
 陣 trận trận mạc jin
 暴 bạo, bộc bạo lực, bộc lộ boo, baku
-倒 đảo đảo lộn too
 築 trúc kiến trúc chiku
 徳 đức đạo đức toku
 季 quý mùa ki
