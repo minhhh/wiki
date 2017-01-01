@@ -74,7 +74,7 @@
 丈 trượng trượng joo | たけ だけ
 才 tài tài năng sai |
 
-得 đắc đắc lợi, cầu bất đắc toku | え.る
+得 đắc;
 
 小 tiểu nhỏ, ít shoo | ちい.さい
 少 thiếu, thiểu thiếu niên; thiểu số shoo | すく.ない, すこ.し
@@ -364,8 +364,7 @@
 
 隅 ngung góc guu | すみ
 
-部 bộ bộ môn, bộ phận bu |
-
+部 bộ; section; ブ
 
 番 phiên thứ tự, phiên hiệu ban | つが.い
 
@@ -1292,7 +1291,7 @@
 海 hải hải cảng, hải phận kai | うみ
 乞 beg;Lying down, Captain Hook is begging to be spared from the ticking crocodile. コツ  キツ キ  キケ  コチ | こ.う
 乾 can;drought;During a drought, everything begs for even a mist for relief; カン  ケン | かわ.く   かわ.かす   ほ.す   ひ.る   いぬい
-腹 phục;abdomen; The part of the body (flesh) that is exercised when we lie down and bring our walking legs toward the sun (aka: leglifts) is the abdomen; フク | はら
+腹 phục; abdomen; The part of the body (flesh) that is exercised when we lie down and bring our walking legs toward the sun (aka: leglifts) is the abdomen; フク | はら
 複 phức;duplicate;The magician took his CLOAK, FOLDED IT (DOUBLE BACKED IT) and DUPLICATED it フク
  
 欠 khiếm;lack; ケツ ケン | か.ける   か.く
@@ -1553,6 +1552,7 @@
 
 焼 thiêu; bake; ショウ | や.く  や.き  や.ける
 尽 tận; exhaust; ジン  サン | つ.くす つ.きる  つ.かす  さかづき   ことごと.く  つか  つき
+得
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
