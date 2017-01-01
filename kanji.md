@@ -1552,7 +1552,7 @@
 焼 thiêu; bake; ショウ | や.く  や.き  や.ける
 尽 tận; exhaust; ジン  サン | つ.くす つ.きる  つ.かす  さかづき   ことごと.く  つか  つき
 得 đắc; gain; to gain knowledge you need to glue to reading till nightbreak; トク | え.る  う.る
-納得がいく
+納 settlement; ノウ  ナNA  ナン  トウ | おさ.める
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
@@ -1856,7 +1856,6 @@
 秀 tú ưu tú, tuấn tú shuu
 懸 huyền treo ken, ke
 撤 triệt triệt thoái tetsu
-納 nạp nộp noo, naQ, na, nan, too
 街 nhai phố xá gai, kai
 救 cứu cấp cứu, cứu trợ kyuu
 仲 trọng trọng tài chuu
