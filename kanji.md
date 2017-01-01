@@ -692,7 +692,6 @@
 単 đơn cô đơn, đơn độc, đơn chiếc tan | ひとえ
 
 西 tây phương tây sei, sai | にし
-要 yêu, yếu yêu cầu; chủ yếu yoo | かなめ い.る
 酉 west, bird ユウ | とり
 酒 tửu rượu shu | さけ
 酸 toan axit san, chua | す.い
@@ -1115,7 +1114,7 @@
 牧 mục;pasture; cow are strike/hit a bit so that they all go to the pasture; ボク | まきmaki
 攻 công; aggression; aggression is the craft of strike/hit; コウ | せ.める
 敗 bại;failure; when you fail you lose money and is struck ハイ | やぶ.れる
-枚 mai;sheet of; a tree is truck until it becomes a sheet of paper; マイ  バイ
+枚 mai; sheet of; a tree is truck until it becomes a sheet of paper; マイ  バイ
 故 cố; cố tổng thống; happenstance; old person who was hit and die コ | ふる.い
 敬 kính;awe; you have to show awe to your master with flowery phrases, or you will be hit; ケイ  キョウ | うやま.う
 
@@ -1560,9 +1559,11 @@
 裂 split; Someone takes a sword made of bone to split the garment right down the middle; レツ | さ.く さ.ける
 傷 thương; wound;Mr. T gets wounded by reclining on his piggy bank;  ショウ | きず   いた.む  いた.める
 抜 slip out; Don't let good friends slip out between your fingers.; バツ ハツ ハイ | ぬ.く  ぬ.き ぬ.ける  ぬ.かす  ぬ.かる
-腰 loins; My loins ache! They need some flesh!; ヨウ | こし
-皮 bì; skin;
 
+要 need; In the Old West, women were needed because nobody knew how to cook or clean ヨウ | い.る かなめ
+腰 loins; My loins ache! They need some flesh!; ヨウ | こし
+皮 bì; pelt; ヒ | かわ
+繋 link up; ケイ | つな.ぐ  かか.る  か.ける
 
 
 
