@@ -423,7 +423,7 @@
 
 愛 ái yêu, ái tình, ái mộ ai | かな.しい
 
-通 thông thông qua, thông hành, phổ thông tsuu, tsu | とお.り
+通 thông; traffic; ツウ  ツ | とお.る   とお.り  とお.すtō.su  とお.し  かよ.う
 過 qua, quá thông qua; quá khứ, quá độ ka | す.ぎ
 遅 trì muộn chi | おそ.い おく.れる
 違 vi vi phạm, tương vi I | ちが.う
@@ -1560,6 +1560,7 @@
 裂 split; Someone takes a sword made of bone to split the garment right down the middle; レツ | さ.く さ.ける
 傷 thương; wound;Mr. T gets wounded by reclining on his piggy bank;  ショウ | きず   いた.む  いた.める
 
+通 り抜けて
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
