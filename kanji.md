@@ -1331,7 +1331,7 @@
 激 kích; violent; When the taskmaster found his favorite white compas damaged by water, he became the most violent taskmaster there ever was; ゲキ | はげ.しい
 脱 thoát;undress;HORNY TEENAGERS love to UNDRESS FLESH. ダツ | ぬ.ぐ  ぬ.げる
 説 thuyết;explanation;The words of a horny teenager typically fall into one of two categories: either rumors or explanations; セツ  ゼイ | と.く
-鋭 nhuệ;pointed;Pointed is the metal devil's pitchfork; エイ | するど.い
+鋭 nhuệ; pointed; Pointed is the metal devil's pitchfork; エイ | するど.い
 曽 formerly;Formerly, horned animals were used to plough the ricefield, and it took all day. Nowadays it's done by machine; ソウ  ソ  ゾウ | かつ   かつて   すなわち
 増 tăng;increase;Prices always INCREASE for LAND that was FORMERLY cheaper; ゾウ |ま.す   ま.し   ふ.える   ふ.やす
 贈 tặng;presents;SEA SHELLS were FORMALLY great PRESENTS; ゾウ  ソウ | おく.る
@@ -1555,6 +1555,12 @@
 納 settlement; ノウ  ナNA  ナン  トウ | おさ.める
 
 破 phá; rend; Before the invention of scissors or knives, sharp STONES were used to REND PELTs; ハ | やぶ.る  やぶ.れる  わ.れる
+錯 confused; Once upon a time there were some very confused alchemists. They couldn't understand why they couldn't turn other metals (i.e. lead) into gold; サク  シャク
+
+裂 split; Someone takes a sword made of bone to split the garment right down the middle; レツ | さ.く さ.ける
+傷 thương; wound;Mr. T gets wounded by reclining on his piggy bank;  ショウ | きず   いた.む  いた.める
+
+
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
@@ -1828,7 +1834,6 @@
 択 trạch tuyển trạch taku
 居 cư cư trú kyo
 卒 tốt tốt nghiệp sotsu
-傷 thương tổn thương, thương tật shoo
 雇 cố thuê, cố nông ko
 併 tính thôn tính hei
 需 nhu nhu yếu ju
@@ -1972,7 +1977,6 @@
 捨 xả vứt sha
 塩 diêm muối en
 哲 triết triết học tetsu
-裂 liệt rách retsu
 至 chí đến shi
 皮 bì da hi
 堅 kiên kiên cố ken
@@ -2284,7 +2288,6 @@
 肢 chi tay chân, tứ chi shi
 尿 niệu niệu đạo nyoo
 酷 khốc tàn khốc koku
-錯 thác thác giác, thác loạn saku
 寂 tịch cô tịch, tịch mịch jaku, seki
 恭 cung cung kính kyoo
 唐 đường nhà Đường, Trung quốc too
