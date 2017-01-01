@@ -74,7 +74,6 @@
 丈 trượng trượng joo | たけ だけ
 才 tài tài năng sai |
 
-得 đắc;
 
 小 tiểu nhỏ, ít shoo | ちい.さい
 少 thiếu, thiểu thiếu niên; thiểu số shoo | すく.ない, すこ.し
@@ -1552,7 +1551,7 @@
 
 焼 thiêu; bake; ショウ | や.く  や.き  や.ける
 尽 tận; exhaust; ジン  サン | つ.くす つ.きる  つ.かす  さかづき   ことごと.く  つか  つき
-得
+得 đắc; gain;
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
