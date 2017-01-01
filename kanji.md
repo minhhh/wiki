@@ -1551,7 +1551,8 @@
 
 焼 thiêu; bake; ショウ | や.く  や.き  や.ける
 尽 tận; exhaust; ジン  サン | つ.くす つ.きる  つ.かす  さかづき   ことごと.く  つか  つき
-得 đắc; gain;
+得 đắc; gain; to gain knowledge you need to glue to reading till nightbreak; トク | え.る  う.る
+納得がいく
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
