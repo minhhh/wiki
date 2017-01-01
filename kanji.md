@@ -114,7 +114,6 @@
 取 thủ lấy, nhận shu | と.る
 最 tối nhất (tối cao, tối đa) sai | つま
 
-面 diện phản diện, chính diện men | おもて
 
 山 sơn núi, sơn hà san | やま
 岩 nham đá tảng, nham thạch gan | いわ
@@ -1565,6 +1564,9 @@
 繋 link up; ケイ | つな.ぐ  かか.る  か.ける
 能 năng; ability; I have the ability to use my elbow flesh to juggle two spoons.; ノウ | よ.く
 態 thái; attitude; This guy has an attitude problem – lots of ability, but his heart's not in it.; タイ | わざ.と
+面 diện; mask; メン  ベン | おも  おもて  つら
+
+
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
