@@ -1566,6 +1566,7 @@
 態 thái; attitude; This guy has an attitude problem – lots of ability, but his heart's not in it.; タイ | わざ.と
 面 diện; mask; メン  ベン | おも  おもて  つら
 
+解 unravel ; カイ  ゲ | と.く   と.かす   と.ける   ほど.く   ほど.ける   わか.る   さと.る
 
 
 
@@ -1592,7 +1593,6 @@
 投 đầu đầu tư, đầu cơ too
 派 phái trường phái ha
 税 thuế thuế vụ zei
-解 giải giải quyết, giải thể, giải thích kai, ge
 任 nhiệm trách nhiệm, nhiệm vụ nin
 策 sách đối sách saku
 領 lĩnh, lãnh thống lĩnh, lãnh thổ, lĩnh vực ryoo
