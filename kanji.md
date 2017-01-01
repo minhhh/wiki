@@ -17,7 +17,6 @@
 月 nguyệt mặt trăng, tháng, nguyệt san, nguyệt thực getsu, gatsu | つき
 明 minh quang minh, minh tinh mei, myoo |  あか.るい
 育 dục giáo dục, dưỡng dục iku |  そだ.てる
-能 năng năng lực, tài năng noo | よ.く
 服 phục y phục, cảm phục, phục vụ fuku |
 
 尸 thi corpse シ |  かたしろ
@@ -990,7 +989,7 @@
 兆 triệu;portent;A bad portent makes the hairs on your legs stand; チョウ | きざ.す   きざ.し
 桃 đào;peach tree; トウ| もも
 眺 thiếu;Sauron's One fiery eye stare at Frodo and it is a sign of portent. Evil will become whomever the eye is staring upon; チョウ | なが.める
-状 trạng;status quo; It was left to the turtle to make right with the dog and thus maintain the status quo; ジョウ
+状 trạng; status quo; It was left to the turtle to make right with the dog and thus maintain the status quo; ジョウ
 黙 mặc;silence;Silence is a paramount for any black ninja dog; モク   ボク | だま.る    もだ.す
 狩 thú; hunt;Actually when hunting it may be a good idea to use a pack of dogs as your personal guard; シュ | か.る   か.り
 荻 テキ;reed; Reeds: the only flowers that can survive fire and dogs |  おぎ
@@ -1564,7 +1563,8 @@
 腰 loins; My loins ache! They need some flesh!; ヨウ | こし
 皮 bì; pelt; ヒ | かわ
 繋 link up; ケイ | つな.ぐ  かか.る  か.ける
-
+能 năng; ability; I have the ability to use my elbow flesh to juggle two spoons.; ノウ | よ.く
+態 thái; attitude; This guy has an attitude problem – lots of ability, but his heart's not in it.; タイ | わざ.と
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
@@ -1635,7 +1635,6 @@
 備 bị trang bị, phòng bị, thiết bị bi
 防 phòng phòng vệ, phòng bị, đề phòng boo
 労 lao lao động, lao lực, công lao roo
-態 thái trạng thái, hình thái, thái độ tai
 崎 khi mũi đất -
 横 hoành tung hoành, hoành độ, hoành hành oo
 形 hình hình thức, hình hài, định hình kei,gyoo
