@@ -1552,6 +1552,7 @@
 打 đả; strike;My teacher used to strike my fingers with a street sign; ダ  ダアス | う.つ  ぶ.つ
 
 焼 thiêu; bake; ショウ | や.く  や.き  や.ける
+尽 tận; exhaust; ジン  サン | つ.くす つ.きる  つ.かす  さかづき   ことごと.く  つか  つき
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
@@ -2061,7 +2062,6 @@
 遇 ngộ tao ngộ, đãi ngộ guu
 聖 thánh thánh ca sei
 菜 thái rau sai
-尽 tận tận lực jin
 繁 phồn phồn vinh han
 枝 chi chi nhánh shi
 罰 phạt trừng phạt batsu, bachi
