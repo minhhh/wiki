@@ -1549,7 +1549,7 @@
 俺 I; myself; Myself as used by men – a person who prides himself on how big his “eel” is; エン   おれ   われ
 倒 overthrow; The arrival of the person (e.g., Castro) marked the overthrow of the government; トウ | たお.れる   -だお.れ   たお.す   さかさま   さかさ   さかしま
 
-
+打 đả; strike;My teacher used to strike my fingers with a street sign; ダ  ダアス | う.つ  ぶ.つ
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
@@ -1575,7 +1575,6 @@
 投 đầu đầu tư, đầu cơ too
 派 phái trường phái ha
 税 thuế thuế vụ zei
-打 đả đả kích, ẩu đả da
 解 giải giải quyết, giải thể, giải thích kai, ge
 任 nhiệm trách nhiệm, nhiệm vụ nin
 策 sách đối sách saku
