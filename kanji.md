@@ -1559,8 +1559,11 @@
 
 裂 split; Someone takes a sword made of bone to split the garment right down the middle; レツ | さ.く さ.ける
 傷 thương; wound;Mr. T gets wounded by reclining on his piggy bank;  ショウ | きず   いた.む  いた.める
+抜 slip out; Don't let good friends slip out between your fingers.; バツ ハツ ハイ | ぬ.く  ぬ.き ぬ.ける  ぬ.かす  ぬ.かる
+腰 loins; My loins ache! They need some flesh!; ヨウ | こし
+皮 bì; skin;
 
-通 り抜けて
+
 
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
@@ -1729,7 +1732,6 @@
 否 phủ phủ định, phủ quyết hi
 織 chức dệt shoku, shiki
 舞 vũ vũ điệu, khiêu vũ bu
-抜 bạt rút ra batsu
 療 liệu trị liệu ryoo
 突 đột đột phá, đột nhiên totsu
 余 dư thặng dư, dư dật yo
@@ -1979,7 +1981,6 @@
 塩 diêm muối en
 哲 triết triết học tetsu
 至 chí đến shi
-皮 bì da hi
 堅 kiên kiên cố ken
 袋 đại cái túi tai
 琴 cầm đàn, độc huyền cầm kin
@@ -2059,7 +2060,6 @@
 桜 anh anh đào oo
 縦 tung tung hoành, tung độ juu
 稼 giá kiếm tiền ka
-腰 yêu eo yoo
 脅 hiếp uy hiếp kyoo
 魅 mị mị lực, mộng mị mi
 浪 lãng sóng roo
