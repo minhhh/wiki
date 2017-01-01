@@ -1554,6 +1554,7 @@
 得 đắc; gain; to gain knowledge you need to glue to reading till nightbreak; トク | え.る  う.る
 納 settlement; ノウ  ナNA  ナン  トウ | おさ.める
 
+破 phá; rend; Before the invention of scissors or knives, sharp STONES were used to REND PELTs; ハ | やぶ.る  やぶ.れる  わ.れる
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
@@ -1725,7 +1726,6 @@
 療 liệu trị liệu ryoo
 突 đột đột phá, đột nhiên totsu
 余 dư thặng dư, dư dật yo
-破 phá phá hoại, tàn phá ha
 船 thuyền thuyền sen
 危 nguy nguy hiểm, nguy cơ ki
 債 trái nợ, quốc trái, công trái sai
