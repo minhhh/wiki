@@ -547,8 +547,8 @@
 
 
 艮 CẤN; good radical; コン
-良 lương tốt, lương tâm, lương tri ryoo | よ.い いい
-眼 nhãn nhãn khoa; eyeball; eyeball is the good part of eye gan, gen | まなこ
+良 good; リョウ | よ.い いい
+眼 nhãn; eyeball; eyeball is the good part of eye gan, gen | まなこ
 
 蔭 shade;  shadow;  backing assistance イン  オン | かげ
 
@@ -1567,6 +1567,7 @@
 面 diện; mask; メン  ベン | おも  おもて  つら
 
 解 unravel ; カイ  ゲ | と.く   と.かす   と.ける   ほど.く   ほど.ける   わか.る   さと.る
+
 
 
 
