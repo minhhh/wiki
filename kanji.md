@@ -1551,6 +1551,8 @@
 
 打 đả; strike;My teacher used to strike my fingers with a street sign; ダ  ダアス | う.つ  ぶ.つ
 
+焼 thiêu; bake; ショウ | や.く  や.き  や.ける
+
 
 法 pháp pháp luật, phương pháp hoo, haQ, hoQ
 戦 chiến chiến tranh, chiến đấu sen
@@ -1886,7 +1888,6 @@
 君 quân quân chủ, quân vương kun
 奥 áo trong cùng oo
 躍 dược nhảy lên yaku
-焼 thiêu thiêu đốt shoo
 促 xúc xúc tiến soku
 群 quần quần chúng, quần thể gun
 瀬 lại thác nước -
