@@ -70,6 +70,14 @@
 ```
 <br/>
 
+#### Search for a file in project commit history
+
+```
+    git log --all --full-history -- **/<filename>.*
+```
+<br/>
+
+
 #### Only show the content of a file from a specific revision
 
 ```
