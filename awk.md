@@ -168,9 +168,9 @@ Once nice way is to use octal escape:  `\42` is double quote and `\47` is single
 
 * `command | getline var`, the output of `commands` is sent through a pipe to getline and into variable `var`.
 * `print "some query" |& "db_server" ` sends a query to a process. (This maybe useful but we don't use it yet)
-* Mathematical functions such as: sqrt(), atan2(), rand(). TODO
+* Mathematical functions such as: sqrt(), atan2(), rand().
     * DO NOT put a space between the function name and the parentheses. It can be confused with string concatenation
-    * Operator precedence. TODO
+    * Operator precedence.
 
 ### Printing and output
 * print something, something, ...
@@ -198,10 +198,10 @@ Once nice way is to use octal escape:  `\42` is double quote and `\47` is single
 
 
 ### Special files for process-related information
-* Gwak supports special file for accessing information about the running gawk process. TODO
+* Gwak supports special file for accessing information about the running gawk process.
 
 ### Special files for network communication
-* Gawk, awk can open two-way TCP-IP connection. TODO
+* Gawk, awk can open two-way TCP-IP connection.
 
 ### Close input and output redirection
 * `close(filename)` or `close(command)` close the input or output redirection pipe
@@ -236,9 +236,9 @@ A good way to build command line and execute them in the shell is to pipe them t
 ```
 <br/>
 
-* Variables can be assigned in the command line. TODO:
-* Strings and number conversions. TODO
-* Arithmetic Operators. TODO
+* Variables can be assigned in the command line.
+* Strings and number conversions.
+* Arithmetic Operators.
 * String concatenation is done by placing the operands next to each other
     * `()` should be used around concatenation in all but the most common context
 * True and false in awk. Zero and null string is false, other values are true.
