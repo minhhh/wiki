@@ -34,6 +34,9 @@
 **[Language design](http://talks.golang.org/2012/splash.article)** How Go was designed to solve specific engineering issue for large software systems instead of academic language research.
 
 ## Technology Discussion
+**[One-line node modules](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)** explains why small modules
+
+**[The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)** examines the cost of small modules
 
 ## Technology Trends
 
