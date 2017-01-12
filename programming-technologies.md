@@ -38,6 +38,8 @@
 
 **[The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)** examines the cost of small modules
 
+**[How I write module](https://gist.github.com/minhhh/dde1dbd198e499b770d8b5069069d72f)**
+
 ## Technology Trends
 
 **[Startups Are Creating A New System Of The World For IT](http://highscalability.com/blog/2012/5/7/startups-are-creating-a-new-system-of-the-world-for-it.html)** The practices of IT world have been changed fundamentally by startups.
