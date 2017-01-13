@@ -40,6 +40,8 @@
 
 **[How I write module](https://gist.github.com/minhhh/dde1dbd198e499b770d8b5069069d72f)**
 
+**[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)** A curated list of awesome falsehoods programmers believe in.
+
 ## Technology Trends
 
 **[Startups Are Creating A New System Of The World For IT](http://highscalability.com/blog/2012/5/7/startups-are-creating-a-new-system-of-the-world-for-it.html)** The practices of IT world have been changed fundamentally by startups.
