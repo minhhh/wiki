@@ -14,6 +14,8 @@
 * [Interpreter, Compiler, JIT](http://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
 
 ## Bin packing
+* [Even More Rectangle Bin Packing](http://clb.demon.fi/projects/even-more-rectangle-bin-packing)
+    * https://github.com/juj/RectangleBinPack
 * [Bin_packing_problem](http://en.wikipedia.org/wiki/Bin_packing_problem)
 * [RectangleBinPack.pdf](http://clb.demon.fi/files/RectangleBinPack.pdf)
 
