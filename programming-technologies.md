@@ -24,6 +24,13 @@
 
 **[The Unofficial Guide to Rich Hickey's Brain](http://www.flyingmachinestudios.com/programming/the-unofficial-guide-to-rich-hickeys-brain/)**
 
+## Feedback loop
+**[Fast Feedback Is Everything](https://medium.com/production-ready/fast-feedback-is-everything-14bd42192675#.7vgqjzgbw)**
+
+**[Feedback Loops in Software Development](http://lethain.com/feedback-loops-in-software-development/)**
+
+**[The power of feedback loops](https://lucamezzalira.com/2015/06/14/the-power-of-feedback-loops/)**
+
 ## Programming Language discussion
 **[The blub paradox](http://paulgraham.com/avg.html)** Great article about how powerful languages really are compared to each other and how you can work this to your advantage in a startup company.
 
