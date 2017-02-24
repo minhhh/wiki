@@ -49,7 +49,7 @@
 
 **[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)** A curated list of awesome falsehoods programmers believe in.
 
-**[ON GETTING OLD(ER) IN TECH](http://corgibytes.com/blog/2016/12/06/getting-old-er-in-tech/)** a great article about older tech people
+**[ON GETTING OLD(ER) IN TECH](http://corgibytes.com/blog/2016/12/06/getting-old-er-in-tech/)** a great article about being older tech people
 
 ## Technology Trends
 
