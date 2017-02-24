@@ -49,6 +49,8 @@
 
 **[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)** A curated list of awesome falsehoods programmers believe in.
 
+**[ON GETTING OLD(ER) IN TECH](http://corgibytes.com/blog/2016/12/06/getting-old-er-in-tech/)** a great article about older tech people
+
 ## Technology Trends
 
 **[Startups Are Creating A New System Of The World For IT](http://highscalability.com/blog/2012/5/7/startups-are-creating-a-new-system-of-the-world-for-it.html)** The practices of IT world have been changed fundamentally by startups.
