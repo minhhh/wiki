@@ -177,13 +177,12 @@
 
 
 # INTRODUCTION TO ALGORITHMS
-* [introduction to algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
+* [introduction to algorithms](https://mitpress.mit.edu/books/introduction-algorithms) THE CLASSICS
 * [introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     * [19. Dynamic programming](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+* Algorithmic Thinking, Peak Finding
 
 
-
-# [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 
 
 
