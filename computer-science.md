@@ -181,6 +181,7 @@
 * [introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     * [19. Dynamic programming](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
 * Algorithmic Thinking, Peak Finding
+    * Peak Finding algorithm
 
 
 
