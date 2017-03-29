@@ -170,7 +170,6 @@
 
 
 
-
 # INTRODUCTION TO BIGDATA WITH APACHE SPARK
 * [Introduction to Big Data with Apache Spark](https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/info)
 
@@ -183,6 +182,8 @@
     * [19. Dynamic programming](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
 
 
+
+# [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 
 
 
