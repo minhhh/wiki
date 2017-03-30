@@ -179,9 +179,9 @@
 # INTRODUCTION TO ALGORITHMS
 * [introduction to algorithms](https://mitpress.mit.edu/books/introduction-algorithms) THE CLASSICS
 * [introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-    * [19. Dynamic programming](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
-* Algorithmic Thinking, Peak Finding
+* Algorithmic Thinking, Peak Finding (https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     * Peak Finding algorithm in 1D and 2D
+* [Models of Computation, Document Distance](https://www.youtube.com/watch?v=Zc54gFhdpLA&index=2&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
 
 
