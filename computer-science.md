@@ -184,8 +184,11 @@
     * Random Access Mamachine: RAM and Words
     * Pointer Machine: Dynamically allocated objects
 
+
+
+
 # INTRODUCTION TO ALGORITHMS BOOK
-* [introduction to algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
+* [Introduction to algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
 
 
 
