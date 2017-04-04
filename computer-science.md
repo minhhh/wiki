@@ -176,8 +176,7 @@
 
 
 
-# INTRODUCTION TO ALGORITHMS
-* [introduction to algorithms](https://mitpress.mit.edu/books/introduction-algorithms) THE CLASSICS
+# INTRODUCTION TO ALGORITHMS VIDEOS
 * [introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 * Algorithmic Thinking, Peak Finding (https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     * Peak Finding algorithm in 1D and 2D
@@ -185,6 +184,8 @@
     * Random Access Mamachine: RAM and Words
     * Pointer Machine: Dynamically allocated objects
 
+# INTRODUCTION TO ALGORITHMS BOOK
+* [introduction to algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
 
 
 
