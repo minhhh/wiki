@@ -15,8 +15,9 @@
 ## Verb conjugation dictionary
 * [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/VerbDetails.asp?txtVerb=uru&Go=Conjugate)
 
-## News for children
+## News for children, anime
 * [News for children](http://kids.goo.ne.jp/teacher/news/index.html)
+* [anime for beginners](http://www.fluentu.com/japanese/blog/anime-for-beginners/)
 
 ## Learn Japanese website
 * Memrise
@@ -26,6 +27,7 @@
 
 ## Grammar
 * [jgram](http://www.jgram.org/): Explaination of Japanese grammar
+* [japanesetest4you](http://japanesetest4you.com/jlpt-n5-grammar-list/)
 
 # Readings
 * http://life.ou.edu/stories/momotarou.html
