@@ -16,7 +16,8 @@
 * [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/VerbDetails.asp?txtVerb=uru&Go=Conjugate)
 
 ## News for children, anime
-* [News for children](http://kids.goo.ne.jp/teacher/news/index.html)
+* [Yomiuri kodomo](http://www.yomiuri.co.jp/kodomo/?from=ygnav)
+* [NHK News Web Easy](http://www3.nhk.or.jp/news/easy/)
 * [anime for beginners](http://www.fluentu.com/japanese/blog/anime-for-beginners/)
 
 ## Learn Japanese website
