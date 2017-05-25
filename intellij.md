@@ -4,6 +4,9 @@ Guide to using IntelliJ for everyday work.
 
 ## Install
 * IdeaVim
+* Change max heap http://stackoverflow.com/questions/20545435/why-is-the-new-version-of-intellij-idea-so-slow
+    * Find `/Applications/IntelliJ IDEA.app/Contents/bin/idea.vmoptions`
+    * Set the max heap to 8 GB (was 512 MB) and the Max PermGen to at least 1GB (was 300MB).
 
 
 
