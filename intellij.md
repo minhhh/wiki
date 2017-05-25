@@ -8,6 +8,7 @@ Guide to using IntelliJ for everyday work.
     * Find `/Applications/IntelliJ IDEA.app/Contents/bin/idea.vmoptions`
     * Set the max heap to 8 GB (was 512 MB) and the Max PermGen to at least 1GB (was 300MB).
 * Preferences > Editor > General > Appearance
+* Preferences > Editor > General > Auto Import
 
 
 
