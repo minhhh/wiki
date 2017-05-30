@@ -71,3 +71,4 @@
 * [mitai](http://www.jgram.org/pages/viewOne.php?tagE=mitai)
 * [kuzu](http://ejje.weblio.jp/content/%E5%B1%91)
 * [いっぺんに](http://tangorin.com/general/ippen)
+* [ku/ni naru] (https://web.archive.org/web/20161016214513/http://yesjapan.com/YJ6/question/1073/can-you-use-a-positive-verb-with-naru)
