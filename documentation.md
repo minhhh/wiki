@@ -7,6 +7,6 @@
 **[The art of readme](https://github.com/noffle/art-of-readme)** with examples from the Node community but are applicable to other programming ecosystems as well.
 
 **[Microsoft Manual of Style for technical publications](http://cody.inlandgps.com/pub/MARLS/MSTP-V3.pdf)** A very length and detailed document to read if you have a lot of time.
-
 **[Top 10 usecase mistakes](http://www.cs.clemson.edu/~steve/CW/472/TopTenUseCaseMistakes.pdf)** For those who need to write a lot of them.
 
+**[Beatiful docs](https://github.com/PharkMillups/beautiful-docs)** Pointers to useful, well-written, and otherwise beautiful documentation.
