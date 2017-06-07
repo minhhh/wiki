@@ -17,7 +17,7 @@ Guide to using IntelliJ for everyday work.
 ```
     C - - Collapse all nodes in a tree view.
     C + - Expand all nodes in a tree view.
-    C B - Go to declaration
+    C B - Go to declaration. Search Usages in project.
     C F12 - Open current file structure
     C / - Line Comment
     C S / - Line Comment
@@ -43,6 +43,7 @@ Guide to using IntelliJ for everyday work.
 ### Windows
 
 ```
+    Esc - Go back to Editor Window
     C S A - Find action by name
     C 1 - Toggle project window
     C 3 - Toggle Find window
