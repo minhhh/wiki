@@ -44,6 +44,7 @@ Guide to using IntelliJ for everyday work.
 
 ```
     Esc - Go back to Editor Window
+    C S F12 - Maximize Editor window. Hide all Tool windows
     C S A - Find action by name
     C 1 - Toggle project window
     C 3 - Toggle Find window
