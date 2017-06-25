@@ -1,6 +1,7 @@
 # XCODE
 
 ## Recommended Setups
+* Install [xcode-themes](https://github.com/tursunovic/xcode-themes)
 
 ## Most common keys
 
