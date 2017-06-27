@@ -10,3 +10,5 @@
 **[Top 10 usecase mistakes](http://www.cs.clemson.edu/~steve/CW/472/TopTenUseCaseMistakes.pdf)** For those who need to write a lot of them.
 
 **[Beatiful docs](https://github.com/PharkMillups/beautiful-docs)** Pointers to useful, well-written, and otherwise beautiful documentation.
+
+**[Five tips for improving your technical writing and documentation](https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7#.b27zkg7wx)**
