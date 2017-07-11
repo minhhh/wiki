@@ -12,3 +12,5 @@
 **[Beatiful docs](https://github.com/PharkMillups/beautiful-docs)** Pointers to useful, well-written, and otherwise beautiful documentation.
 
 **[Five tips for improving your technical writing and documentation](https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7#.b27zkg7wx)**
+
+**[What are some examples of great documentation?](https://dev.to/ben/what-are-some-examples-of-great-documentation)**
