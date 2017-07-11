@@ -51,7 +51,7 @@
 
 **[ON GETTING OLD(ER) IN TECH](http://corgibytes.com/blog/2016/12/06/getting-old-er-in-tech/)** a great article about being older tech people
 
-**[No swan song for Java: 9 influencers weigh in on its reputation, rivals and adoption](https://jaxenter.com/java-influencers-interview-1-135570.html)**
+**[No swan song for Java: 9 influencers weigh in on its reputation, rivals and adoption](https://jaxenter.com/java-influencers-interview-1-135570.html)** offers us some valuable insight into the future of this programming languages
 
 ## Technology Trends
 
