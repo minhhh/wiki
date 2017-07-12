@@ -32,6 +32,12 @@ Docker images are read-only templates from which Docker containers are launched.
     docker tag 94535f57d8b2 minhhh/dev:0.1
 ```
 
+### Pull latest image
+
+```
+    docker pull repo/image:latest
+```
+
 ### Saving and loading images to/from tar
 ```
     # Export the contents of a container's filesystem as a tar archive
