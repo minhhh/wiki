@@ -5,6 +5,8 @@
 * `Preference > Source Code > Code Formatting > Text file > Convert tabs to spaces`
 * Install Nuget: Add-in Manager > Gallery > Repository > Manage Repositories > Add `http://mrward.github.com/monodevelop-nuget-addin-repository/4.0/main.mrep`
 * Install `Paket`: [monodevelop-paket-addin](https://github.com/mrward/monodevelop-paket-addin)
+* Edit shortcuts: `Preference > Key Bindings`
+    * Change `Go to Matching Brace` to `^B`
 
 ## Shortcuts
 
