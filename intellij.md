@@ -21,6 +21,7 @@ Guide to using IntelliJ for everyday work.
     C F12 - Open current file structure
     C / - Line Comment
     C S / - Line Comment
+    C Option L - Format code
 ```
 
 ### Search and replace
