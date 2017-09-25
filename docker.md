@@ -54,7 +54,16 @@ Docker images are read-only templates from which Docker containers are launched.
 
 ### Create and start a container from an image
 ```
+    docker run <container_name> <command>
+
+    # For instance, run a bash session. This will quit immediately though
     docker run ubuntu /bin/bash
+
+    # To run the container interactively
+    docker run -it ubuntu /bin/bash
+
+    # Run interactively and detach immediately
+    docker run -itd ubuntu /bin/bash
 ```
 
 ### Start and stop container
@@ -69,8 +78,12 @@ Docker images are read-only templates from which Docker containers are launched.
 ### Show running container
 ```
     docker ps
+
     # show all running and stopping containers
     docker ps -a
+
+    # Show all running and stopping container with full command information
+    docker ps -a --no-trunc
 ```
 
 ### Remove old containers
@@ -90,7 +103,7 @@ Docker images are read-only templates from which Docker containers are launched.
 * To enter running containter
 ```
     # This will create a new Bash session in the container ubuntu_bash
-    docker exec -it ubuntu_bash bash
+    docker exec -it <container_name_or_id> bash
 ```
 
 ### View logs from running container
@@ -119,8 +132,11 @@ Docker images are read-only templates from which Docker containers are launched.
 ### Copy files between container and host
 * docker cp - copies files or folders between a container and the local filesystem..
 
+### Exposing Port
 
-
+```
+docker run -p 127.0.0.1:$HOSTPORT:$CONTAINERPORT --name <container_name> -t <image>
+```
 
 ## Volumes
 ```
@@ -186,9 +202,9 @@ Docker images are read-only templates from which Docker containers are launched.
 
 
 # REFERENCES
-* [The Tale of a Docker-based Continuous Delivery Pipeline](https://www.youtube.com/watch?v=xNfCEie5_RA)
-* [Getting Started with Docker](https://serversforhackers.com/getting-started-with-docker/)
+* [Getting Started with Docker](https://web.archive.org/web/20170925094650/https://serversforhackers.com/c/getting-started-with-docker)
 * [Docker Tutorial Series](http://rominirani.com/2015/07/19/docker-tutorial-series/)
 * [Docker Tutorial Series](http://blog.flux7.com/blogs/docker/docker-tutorial-series-part-1-an-introduction)
-* [The Docker Ecosystem](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
 * [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
+* [The Docker Ecosystem](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
+* [The Tale of a Docker-based Continuous Delivery Pipeline](https://www.youtube.com/watch?v=xNfCEie5_RA)
