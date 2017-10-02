@@ -37,13 +37,6 @@ For more awesome osx command lines, see [Awesome OS X Command Line][awesome_osx_
 ## Diff tools
 * [Meld](http://scoobygalletas.blogspot.com/2011/09/how-to-install-meld-in-mac-os-x-lion.html)
 
-## Mount SSH
-Install sshfs. Then run
-
-```
-    sshfs <username>@<ip>:<folder> /Users/<username>/<folder>
-```
-<br/>
 
 
 
