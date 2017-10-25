@@ -3,9 +3,10 @@
 http://www.infoq.com/research/api-management?utm_source=infoqresearch&utm_campaign=rr-content
 http://www.programmableweb.com/news/how-to-maximize-developer-adoption/analysis/2014/11/17
 
-* Credibility: “If a developer doesn’t believe you, then good luck getting them to use your product.”
-* Support: “Developers are looking for signs of support. Something at some point is going to go wrong, so developers want to know they can solve their problems quickly.”
-* Success: “Look to share details about how your API can help them achieve something. A lot of companies don’t have that understanding that providing an API is going to create a win for both of you.”
+* Three fundamentals for API providers seeking to appeal to developers
+    * Credibility: “If a developer doesn’t believe you, then good luck getting them to use your product.”
+    * Support: “Developers are looking for signs of support. Something at some point is going to go wrong, so developers want to know they can solve their problems quickly.”
+    * Success: “Look to share details about how your API can help them achieve something. A lot of companies don’t have that understanding that providing an API is going to create a win for both of you.”
 
 ### Best practices
 
