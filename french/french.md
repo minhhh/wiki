@@ -1,3 +1,5 @@
+* Dictionary with translation: https://www.linguee.fr/francais-anglais/traduction/
+
 * dictionary [http://www.cnrtl.fr/definition/]
 
 * synonyms [http://www.synonymes.com/]
