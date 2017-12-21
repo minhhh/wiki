@@ -1,6 +1,6 @@
 # PROGRAMMING AND TECHNOLOGIES
 
-## Techinical debt
+## Technical debt
 **[Technical Debt a Perspective for Managers]([http://www.infoq.com/articles/technical-debt-levison)**
 
 **[Bad code isn’t Technical Debt, it’s an unhedged Call Option](http://www.m3p.co.uk/blog/2010/07/23/bad-code-isnt-technical-debt-its-an-unhedged-call-option/)**
