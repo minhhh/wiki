@@ -1,7 +1,8 @@
 # BRACKETS
 
 ## Install
-
+* Plugins
+    * `Beautify`
 
 ## Shortcuts
 
