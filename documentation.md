@@ -15,11 +15,28 @@
 **[awesome-readme](https://github.com/matiassingers/awesome-readme)**
 
 
+## RELEASE NOTES
+**[Maven Release Notes](https://maven.apache.org/docs/3.5.2/release-notes.html)**
+    * Grouped by Bugs, Improvements, Tasks, New Features
+
+**[Meteor History](https://github.com/meteor/meteor/blob/devel/History.md)**
+**[Atom Release notes](https://atom.io/releases)**
+    * Adhoc list of changes to the build
+
+**[Google APIs for Android Release notes](https://developers.google.com/android/guides/releases)**
+    * Grouped by components such as `Auth`, `Cast`, etc.
+
+**[nginx release notes](https://github.com/nginx/nginx-releases/blob/master/CHANGES)**
+    * Grouped by Features, Bugfixes
+
+**[github tool release notes](https://github.com/github-tools/github-release-notes/blob/master/CHANGELOG.md)**
+    * Grouped by Enhancements, Bug Fixes
+
 ## GENERAL
 
 **[What are some examples of great documentation?](https://dev.to/ben/what-are-some-examples-of-great-documentation)**
 
-**[Teach don't tell](http://stevelosh.com/blog/2013/09/teach-dont-tell/)** How to write document for programming languages and libraries. You will surely learn something new even if you have already done so.
+**[Teach, Don't Tell](http://stevelosh.com/blog/2013/09/teach-dont-tell/)** How to write document for programming languages and libraries. You will surely learn something new even if you have already done so.
 
 **[WRITING GREAT DOCUMENTATION](https://web.archive.org/web/20170115154853/https://jacobian.org/writing/great-documentation/)**
 
