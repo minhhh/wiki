@@ -3,13 +3,15 @@
 ## Install
 * Plugins
     * `Beautify`
+    * `Brackets File Tabs`
 
 ## Shortcuts
 
 
 ### Moving around
 ```
-
+    C-Shift-H - Toggle side bar
+    C-Option-Arrow key - Switch tabs
 ```
 
 
