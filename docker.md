@@ -1,4 +1,4 @@
-# DOCKER
+# BASIC DOCKER GUIDE FOR PERSONAL USE
 Docker allows you to package an application with all of its dependencies into a standardized unit for software development.
 
 Docker containers wrap up a piece of software in a complete filesystem that contains everything it needs to run: code, runtime, system tools, system libraries – anything you can install on a server. This guarantees that it will always run the same, regardless of the environment it is running in.
@@ -36,6 +36,12 @@ Docker images are read-only templates from which Docker containers are launched.
 
 ```
     docker pull repo/image:latest
+```
+
+### Commit modified container to image
+```
+    docker commit 5d4bdae290a4 minhhh/test:0.1
+    docker tag 5d4bdae290a4 minhhh/test
 ```
 
 ### Saving and loading images to/from tar
@@ -123,12 +129,6 @@ Docker images are read-only templates from which Docker containers are launched.
 * docker stats - shows containers' resource usage statistics.
 * docker diff - shows changed files in the container's FS.
 
-### Commit modified container to image
-```
-    docker commit 5d4bdae290a4 minhhh/test:0.1
-    docker tag 5d4bdae290a4 minhhh/test
-```
-
 ### Copy files between container and host
 * docker cp - copies files or folders between a container and the local filesystem..
 
@@ -199,8 +199,6 @@ docker run -p 127.0.0.1:$HOSTPORT:$CONTAINERPORT --name <container_name> -t <ima
 ## Misc
 * [Forward host port to docker container](http://stackoverflow.com/questions/17770902/forward-host-port-to-docker-container)
 
-
-
 # REFERENCES
 * [Getting Started with Docker](https://web.archive.org/web/20170925094650/https://serversforhackers.com/c/getting-started-with-docker)
 * [Docker Tutorial Series](http://rominirani.com/2015/07/19/docker-tutorial-series/)
@@ -208,3 +206,6 @@ docker run -p 127.0.0.1:$HOSTPORT:$CONTAINERPORT --name <container_name> -t <ima
 * [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
 * [The Docker Ecosystem](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem)
 * [The Tale of a Docker-based Continuous Delivery Pipeline](https://www.youtube.com/watch?v=xNfCEie5_RA)
+
+
+# TODO: DOCKER COMPOSE

@@ -27,7 +27,7 @@
     * Grouped by components such as `Auth`, `Cast`, etc.
 
 **[nginx release notes](https://github.com/nginx/nginx-releases/blob/master/CHANGES)**
-    * Grouped by Features, Bugfixes
+    * Grouped by Feature, Change, Workaround, Bugfix
 
 **[github tool release notes](https://github.com/github-tools/github-release-notes/blob/master/CHANGELOG.md)**
     * Grouped by Enhancements, Bug Fixes
