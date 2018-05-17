@@ -6,8 +6,9 @@
 ## Most common keys
 
 ```
-    C-I - Reindent
-    C-Ctrl-S-? - Quick help
-    C-Ctrl-J - Jump to Definition
+    Ctrl-I - Reindent
+    Ctrl-C-? - Quick help
+    Ctrl-C-J - Jump to Definition
+    Ctrl-C-← - Go back
     C-S-O - Open quickly
 ```
