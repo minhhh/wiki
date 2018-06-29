@@ -27,10 +27,12 @@ To create custom key mapping go to `Preference > Environment > Key Bindings`
 ### Search and replace
 
 ```
-    C Y   - Go to declaration
-    S C Y - Find references
-    C S F - Find in files
-    C S T - Go to type
+    C D   - Go to declaration
+    Shift C R - Find references
+    Shift C F - Find in files
+    Shift C T - Go to type
+    Shift C D - Go to file
+    C . - Navigate to
 ```
 
 ### Compile and Run
