@@ -11,7 +11,7 @@
 
 **[A Data Science Approach to Writing a Good GitHub README](http://www.kdnuggets.com/2016/05/algorithmia-data-science-approach-good-github-readme.html)**
 
-    * http://demos.algorithmia.com/github-readme-analyzer/
+* http://demos.algorithmia.com/github-readme-analyzer/
 
 <br/>
 
@@ -30,32 +30,34 @@
 ## RELEASE NOTES
 **[Maven Release Notes](https://maven.apache.org/docs/3.5.2/release-notes.html)**
 
-    * Grouped by Bugs, Improvements, Tasks, New Features
+* Grouped by Bugs, Improvements, Tasks, New Features
 
 <br/>
+
 **[Meteor History](https://github.com/meteor/meteor/blob/devel/History.md)**
 
 <br/>
 
 **[Atom Release notes](https://atom.io/releases)**
 
-    * Adhoc list of changes to the build
+* Adhoc list of changes to the build
 
 <br/>
+
 **[Google APIs for Android Release notes](https://developers.google.com/android/guides/releases)**
 
-    * Grouped by components such as `Auth`, `Cast`, etc.
+* Grouped by components such as `Auth`, `Cast`, etc.
 
 <br/>
 **[nginx release notes](https://github.com/nginx/nginx-releases/blob/master/CHANGES)**
 
-    * Grouped by Feature, Change, Workaround, Bugfix
+* Grouped by Feature, Change, Workaround, Bugfix
 
 <br/>
 
 **[github tool release notes](https://github.com/github-tools/github-release-notes/blob/master/CHANGELOG.md)**
 
-    * Grouped by Enhancements, Bug Fixes
+* Grouped by Enhancements, Bug Fixes
 
 <br/>
 
