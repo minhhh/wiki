@@ -118,6 +118,10 @@
 
 <br/>
 
+**[Five tips for improving your technical writing and documentation](https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7#.b27zkg7wx)**
+
+<br/>
+
 
 ## COMMENT
 **[The fine art of commenting](http://www.icsharpcode.net/technotes/commenting20020413.pdf)** Because it's not always straightforward what to comment.
