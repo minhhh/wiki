@@ -21,10 +21,21 @@ Medium is good for you if:
 * You like the Medium environment.
 * You aren’t in it for the money. Medium does have some paid contributors, but not for everyone.
 
-
 # REFERENCES
 * http://www.theatlantic.com/technology/archive/2013/08/what-is-medium/278965/
 * http://time.com/37586/what-is-medium-medium-is-pretty-cool-thats-what/
 * https://thenextweb.com/opinion/2015/10/09/why-im-shifting-my-entire-personal-blog-to-medium/
 * https://medium.freecodecamp.org/what-i-learned-from-analyzing-the-top-253-medium-stories-of-2016-9f5f1d0a2d1c
 
+
+
+# Why people leave Medium
+* It's bloated
+* Lack of control
+* Centralized
+* Lack of personal brand feel
+
+* References
+    * https://github.com/mathieudutour/medium-to-own-blog
+    * https://m.signalvnoise.com/signal-v-noise-exits-medium/
+    * https://baremetrics.com/blog/medium-back-to-blog
