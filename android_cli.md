@@ -43,6 +43,7 @@
 ```
 
 ### Extracting APK file
+
 * [Use `apktool`](http://ibotpeaches.github.io/Apktool/)
 
 ```

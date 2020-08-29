@@ -29,8 +29,10 @@ Guide to using IntelliJ for everyday work.
 ```
     C O - Find classname
     Double S - Search everywhere
-    C S F - Search in project
-    C S R - Replace in project
+    C F - Search in file
+    C R - Search and replace in file
+    C Shift F - Search in project
+    C Shift R - Replace in project
     Option F7 - Search all occurences
 ```
 
@@ -45,8 +47,10 @@ Guide to using IntelliJ for everyday work.
 
 ```
     Esc - Go back to Editor Window
-    C S F12 - Maximize Editor window. Hide all Tool windows
-    C S A - Find action by name
+    C Shift F12 - Maximize Editor window. Hide all Tool windows
+    C Shift O - Find class
+    C Option O - Find symbol
+    C Shift A - Find action by name
     C 1 - Toggle project window
     C 3 - Toggle Find window
     C 7 - Toggle structure window
