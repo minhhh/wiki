@@ -1,4 +1,5 @@
-# AWK CHEATSHEET
+AWK CHEATSHEET
+==============
 ## Run
 Call from command line
 
@@ -349,7 +350,8 @@ switch: continue
 
 
 
-# HOWTOS
+HOWTOS
+======
 ## How to remove special characters from files
 * Suppose you have a list of files starting with a certain number of special character that you want to remove
 * The idea is to generate the new file name for each of the files then use the `mv` or `rename` command to change the orginal file name

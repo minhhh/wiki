@@ -1,6 +1,8 @@
-# BASH
+BASH
+====
 
-## REFERENCES
+References
+----------
 ### General Documents, Books, Tutorials
 * [Advanced Bash Scripting Guide][advanced_bash_scripting_guide]
 * [Sample Bash files][sample_bash_files]
@@ -26,7 +28,13 @@
 
 
 
-## BASICS
+Basics
+------
+
+### Shell variables
+
+* PS1 stands for "Prompt String One" or "Prompt Statement One", the first prompt string (that you see at a command line).
+* PS2 The secondary prompt string. ie for continued commands (those taking more than one line). The default value is ‘> ’.
 
 ### Run a bash script
 Forking a new shell

@@ -1,30 +1,59 @@
-# INTELLIJ GUIDE
+INTELLIJ GUIDE
+==============
 
 Guide to using IntelliJ for everyday work.
 
-## Install
-* IdeaVim
+## Settings
+* Vim emulation plugin: `IdeaVim`
 * Change max heap http://stackoverflow.com/questions/20545435/why-is-the-new-version-of-intellij-idea-so-slow
     * Find `/Applications/IntelliJ IDEA.app/Contents/bin/idea.vmoptions`
     * Set the max heap to 8 GB (was 512 MB) and the Max PermGen to at least 1GB (was 300MB).
 * Preferences > Editor > General > Appearance
 * Preferences > Editor > General > Auto Import
+* Editor > Appearance : Show right margin
+
+* Change Shortcut for Next and Previous Editor Tabs:
+    * Preferences > Keymap > Main Menu > Window > Editor Tabs > Select Next Tab
 
 
+## Openning Windows
 
-## Shortcuts
-### Editing
+```
+    Esc - Go back to Editor Window
+    C S F12 - Maximize Editor window. Hide all Tool windows
+    C S A - Find action by name
+    C 1 - Toggle project window
+    C 3 - Toggle Find window
+    C 7 - Toggle structure window
+```
+
+
+## Moving Around
+
+```
+    C O - Go to class
+    C Shift O - Go to file
+    Ctrl M - Go to matching brace
+    C B - Go to declaration or Usage
+    C Option B - Go to implementation
+    Option F7 - Search all occurences
+    Ctrl Tab - Previous Editor Tab
+    C Shift Left - Previous Editor Tab
+    C Shift Right - Next Editor Tab
+    C \ - Switch to REPL (Cursive)
+```
+
+## Editing
 ```
     C - - Collapse all nodes in a tree view.
     C + - Expand all nodes in a tree view.
-    C B - Go to declaration. Search Usages in project.
     C F12 - Open current file structure
     C / - Line Comment
-    C S / - Line Comment
     C Option L - Format code
+    C Shift L - Load file in REPL (Cursive)
 ```
 
-### Search and replace
+## Search and replace
 
 ```
     C O - Find classname
@@ -36,7 +65,7 @@ Guide to using IntelliJ for everyday work.
     Option F7 - Search all occurences
 ```
 
-### Compile and Run
+## Compile and Run
 ```
     C F9 - Make project
     C Alt R - Run
@@ -58,6 +87,7 @@ Guide to using IntelliJ for everyday work.
 
 
 
-## References
+References
+----------
 * http://gaerfield.github.io/ide-shortcuts/
 * https://www.jetbrains.com/idea/help/keyboard-shortcuts-you-cannot-miss.html
