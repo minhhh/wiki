@@ -63,13 +63,14 @@ Guide to using IntelliJ for everyday work.
     C Shift F - Search in project
     C Shift R - Replace in project
     Option F7 - Search all occurences
+    C Option F7 - Search all occurences
 ```
 
 ## Compile and Run
 ```
     C F9 - Make project
-    C Alt R - Run
-    C Alt D - Debug
+    Ctrl Alt R - Run
+    Ctrl Alt D - Debug
 ```
 
 ### Windows
@@ -77,7 +78,8 @@ Guide to using IntelliJ for everyday work.
 ```
     Esc - Go back to Editor Window
     C Shift F12 - Maximize Editor window. Hide all Tool windows
-    C Shift O - Find class
+    C O - Find class
+    C Shift O - Find files
     C Option O - Find symbol
     C Shift A - Find action by name
     C 1 - Toggle project window
