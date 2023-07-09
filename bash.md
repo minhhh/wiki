@@ -94,6 +94,14 @@ Executes the script in the current shell without forking a new shell
     DIR="$( cd -P "$( dirname "$0" )" && pwd )"
 ```
 
+ZSH
+---
+
+* Run commands that use `$`, `^` or `#`
+    ```
+    noglob <command>
+    ```
+    * This is because `extendedglob` is enabled by default and there's no consistent way to disable it, especially if you're using oh-my-zsh (https://github.com/ohmyzsh/ohmyzsh/issues/8588), so the best way is to add noglob to your commands
 
 
 
