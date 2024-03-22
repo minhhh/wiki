@@ -1,11 +1,17 @@
 # INTRODUCTION
+
 This is the list of some useful tools I used to setup my OSX.
 
 For more awesome osx command lines, see [Awesome OS X Command Line][awesome_osx_command_line].
 
 # SETUP
+
 * [Fix the home and end keys](http://lifehacker.com/225873/mac-switchers-tip--remap-the-home-and-end-keys)
 * [Make Your Keyboard Keys Repeat Properly](http://lifehacker.com/5826055/make-your-keyboard-keys-repeat-properly-when-held-down-in-mac-os-x-lion)
+```
+defaults write -g ApplePressAndHoldEnabled -bool false
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+```
 * [Use Fn key normally in Mac](https://support.apple.com/kb/HT3399)
 * [Disable automatic spelling](http://macs.about.com/od/OSXLion107/qt/Os-X-Lion-Automatic-Spelling-Correction.htm)
 * [Word Movement Shortcuts for iTerm](http://www.michael-noll.com/blog/2007/01/04/word-movement-shortcuts-for-iterm-on-mac-os-x/)
