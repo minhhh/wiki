@@ -11,7 +11,12 @@ For more awesome osx command lines, see [Awesome OS X Command Line][awesome_osx_
 * [Make Your Keyboard Keys Repeat Properly](http://lifehacker.com/5826055/make-your-keyboard-keys-repeat-properly-when-held-down-in-mac-os-x-lion)
 ```
 defaults write -g ApplePressAndHoldEnabled -bool false
-defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false              # For VS Code
+defaults write com.microsoft.VSCodeInsiders ApplePressAndHoldEnabled -bool false      # For VS Code Insider
+defaults write com.vscodium ApplePressAndHoldEnabled -bool false                      # For VS Codium
+defaults write com.microsoft.VSCodeExploration ApplePressAndHoldEnabled -bool false   # For VS Codium Exploration users
+defaults delete -g ApplePressAndHoldEnabled                       
 ```
 
 * [Use Fn key normally in Mac](https://support.apple.com/kb/HT3399)
