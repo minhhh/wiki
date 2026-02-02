@@ -19,6 +19,14 @@ defaults write com.microsoft.VSCodeExploration ApplePressAndHoldEnabled -bool fa
 defaults delete -g ApplePressAndHoldEnabled                       
 ```
 
+* Disable/Enable `mds_store` if needed
+```
+sudo mdutil -a -i off
+sudo mdutil -a -i on
+
+sudo mdutil -i on /
+```
+
 * [Use Fn key normally in Mac](https://support.apple.com/kb/HT3399)
     * System Settings > Keyboard > Keyboard Shortcut > Function Keys > Use F1, F2, etc keys as standard function keys
 
